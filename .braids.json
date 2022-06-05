@@ -2541,6 +2541,11 @@
       "branch": "master",
       "revision": "0ae617c4c3b739f44787c86dbf331da0696235d7"
     },
+    "python-ruamel.yaml.clib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ruamel.yaml.clib.git",
+      "branch": "master",
+      "revision": "9bdc5e22922dbeadacf0c8b9c0f8697c46801b2e"
+    },
     "python-sarif-om": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sarif-om.git",
       "branch": "master",
