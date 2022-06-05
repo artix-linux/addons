@@ -1186,6 +1186,11 @@
       "branch": "master",
       "revision": "dd977c684c838d3a4bae7d6abc2685bad51937e6"
     },
+    "python-jupyter_core": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_core.git",
+      "branch": "master",
+      "revision": "e9ca32a9814910364adc70be83e4e793f4112859"
+    },
     "python-k5test": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-k5test.git",
       "branch": "master",
