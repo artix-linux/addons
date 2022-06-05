@@ -1346,6 +1346,11 @@
       "branch": "master",
       "revision": "65e0cf28155e3a6e258ef1f9ea9f1c33c57c7038"
     },
+    "perl-xml-namespacesupport": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-namespacesupport.git",
+      "branch": "master",
+      "revision": "6077a6586866ea3638596692f0e7013814ffb931"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
