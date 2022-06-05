@@ -1,0 +1,34 @@
+# Maintainer: Kyle Keen <keenerd@gmail.com>
+
+pkgname=python-jupyter_client
+pkgver=7.3.1
+pkgrel=1
+pkgdesc="Jupyter protocol implementation and client libraries"
+arch=('any')
+url="https://pypi.python.org/pypi/jupyter_client"
+license=('BSD')
+depends=('python-ipykernel' 'python-traitlets' 'python-pyzmq'
+         'python-jupyter_core' 'python-dateutil' 'python-entrypoints' 'python-nest-asyncio')
+makedepends=('python-build' 'python-installer' 'python-wheel')
+checkdepends=('python-pytest' 'python-async_generator' 'python-pytest-asyncio' 'python-pytest-timeout')
+#source=("$pkgname-$pkgver.tgz::https://github.com/jupyter/jupyter_client/archive/$pkgver.tar.gz")
+source=("https://files.pythonhosted.org/packages/source/j/jupyter_client/jupyter_client-$pkgver.tar.gz")
+sha256sums=('05d4ff6a0ade25138c6bb0fbeac7ddc26b5fe835e7dd816b64b4a45b931bdc0b')
+
+# dep cycle with python-ipykernel
+
+build() {
+  cd jupyter_client-$pkgver
+  python -m build --wheel --no-isolation
+}
+
+check() {
+  cd jupyter_client-$pkgver
+  pytest -vv
+}
+
+package() {
+  cd jupyter_client-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -Dm644 COPYING.md "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
+}
