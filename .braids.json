@@ -1986,6 +1986,11 @@
       "branch": "master",
       "revision": "5e442a34e287b3d9fa37cb66efee7a22da53e448"
     },
+    "python-xkbcommon": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xkbcommon.git",
+      "branch": "master",
+      "revision": "bb91c3815caa88049b8aec3aa5086a01236589a5"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
