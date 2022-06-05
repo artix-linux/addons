@@ -566,6 +566,11 @@
       "branch": "master",
       "revision": "25f6964a9eacdc288570a21da574848240df84c0"
     },
+    "perl-io-stringy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-stringy.git",
+      "branch": "master",
+      "revision": "63fb970e4121dded33124c191215b21270a7cda1"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
