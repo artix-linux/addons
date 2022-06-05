@@ -1776,6 +1776,11 @@
       "branch": "master",
       "revision": "94119dcdec7e72aaed3a9d5f8d791f3dfdaa2189"
     },
+    "python-spsdk": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-spsdk.git",
+      "branch": "master",
+      "revision": "d9395aecec4ba45404905f4686297f09b76b2f44"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
