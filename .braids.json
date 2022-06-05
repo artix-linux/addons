@@ -201,6 +201,11 @@
       "branch": "master",
       "revision": "e746217595da61b6d0ab31f3be8f538827293923"
     },
+    "python-axolotl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-axolotl.git",
+      "branch": "master",
+      "revision": "214fa1142f05b6cce8b08fe7873dc2b010ba297e"
+    },
     "python-backcall": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-backcall.git",
       "branch": "master",
