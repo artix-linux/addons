@@ -431,6 +431,11 @@
       "branch": "master",
       "revision": "fb0b627bfd7857a92f19da05a7eabbffb0589f14"
     },
+    "python-cachecontrol": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachecontrol.git",
+      "branch": "master",
+      "revision": "4c3b542e38bd6b977e3f5f6a767c76a3e9ec776a"
+    },
     "python-cachetools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachetools.git",
       "branch": "master",
