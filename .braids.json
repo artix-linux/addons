@@ -1306,6 +1306,11 @@
       "branch": "master",
       "revision": "aa0b6f7e7d1aeabecc99d0a36b432447f7b83ac3"
     },
+    "perl-type-tiny": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-type-tiny.git",
+      "branch": "master",
+      "revision": "85a5bc158fa50ef444e0ff356c4ec50dd70ac40c"
+    },
     "perl-types-serialiser": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-types-serialiser.git",
       "branch": "master",
