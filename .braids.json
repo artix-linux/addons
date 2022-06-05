@@ -401,6 +401,11 @@
       "branch": "master",
       "revision": "e43c18dc1ea1d834dceded1808881439b10ffc24"
     },
+    "python-docstring-to-markdown": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-docstring-to-markdown.git",
+      "branch": "master",
+      "revision": "720506c193b3c17813c5754289744dfcbd93b05c"
+    },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
