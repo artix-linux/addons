@@ -95,6 +95,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
       "branch": "master",
       "revision": "f7f928932f10d59614903338c577dd8a3ae8e62b"
+    },
+    "python-fastimport": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
+      "branch": "master",
+      "revision": "d90eb3c0fd8d24142ce1a8b137e6a3b745884ce3"
     }
   }
 }
