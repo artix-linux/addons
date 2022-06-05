@@ -4965,6 +4965,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-chronic.git",
       "branch": "master",
       "revision": "44b7458912d4fc47deb49d75f0bdecb68962ebc0"
+    },
+    "ruby-concurrent": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-concurrent.git",
+      "branch": "master",
+      "revision": "2672b590555b728468f90b5ff52192298ea49464"
     }
   }
 }
