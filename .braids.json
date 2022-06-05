@@ -751,6 +751,11 @@
       "branch": "master",
       "revision": "26c07d1db9d4cbfb650011e8fbfd36a0fcfc40ea"
     },
+    "python-jsondiff": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsondiff.git",
+      "branch": "master",
+      "revision": "9edafff3566fcc860cc7a3e7a61d96e3cd45d632"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
