@@ -176,6 +176,11 @@
       "branch": "master",
       "revision": "8d44d0f4e3002c9257024221807c35d066bb3833"
     },
+    "perl-crypt-random-tesha2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-random-tesha2.git",
+      "branch": "master",
+      "revision": "aaefac21586c6bb85a59f68ce4cd8d42ba931767"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
