@@ -2736,6 +2736,11 @@
       "branch": "master",
       "revision": "69b96bfe215f47580dc7fe8b47b92d8f13cf7959"
     },
+    "python-sphinxcontrib-serializinghtml": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-serializinghtml.git",
+      "branch": "master",
+      "revision": "0a885c8bb6a43c44a3424199ce69c88e14c2ff00"
+    },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
