@@ -2146,6 +2146,11 @@
       "branch": "master",
       "revision": "d12838f3331721f88c3a7bdf5f935014cabfa812"
     },
+    "python-pytest-enabler": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-enabler.git",
+      "branch": "master",
+      "revision": "443358e106bc70fac3b52f9a55f598be7d24079a"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
