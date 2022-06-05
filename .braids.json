@@ -1131,6 +1131,11 @@
       "branch": "master",
       "revision": "1a51b5e44a20d2dace3b5af3d435c49704d2bd98"
     },
+    "python-pluggy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pluggy.git",
+      "branch": "master",
+      "revision": "50acbd8059185047f076b686f255ce118409443e"
+    },
     "python-ply": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ply.git",
       "branch": "master",
