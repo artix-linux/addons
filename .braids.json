@@ -131,6 +131,11 @@
       "branch": "master",
       "revision": "8579d0aafa3a58d4d014b359e05404431a1c9d30"
     },
+    "perl-cpan-changes": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cpan-changes.git",
+      "branch": "master",
+      "revision": "434d941418d7c1591b4f02c1163c7297ced4afc5"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
