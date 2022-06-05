@@ -75,6 +75,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-csv23.git",
       "branch": "master",
       "revision": "9c516014bda07aa0478db70b6ef6222fc239ae7c"
+    },
+    "python-dbusmock": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbusmock.git",
+      "branch": "master",
+      "revision": "98c087d8a2bad0aad2a09bde4ec03893479d660f"
     }
   }
 }
