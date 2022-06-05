@@ -646,6 +646,11 @@
       "branch": "master",
       "revision": "dc14870d7ac8a4d9a3798e39b951883f4cb77e7c"
     },
+    "python-configobj": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-configobj.git",
+      "branch": "master",
+      "revision": "6da4d6f4e00806432297094534bf97c878e8813f"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
