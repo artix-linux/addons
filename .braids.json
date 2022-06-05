@@ -3831,6 +3831,11 @@
       "branch": "master",
       "revision": "163469d00b9182bd4d5330b01af4b1867d5e801f"
     },
+    "python-semver": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-semver.git",
+      "branch": "master",
+      "revision": "7e23f518c3887b6378ebf151237f674b9eba56ef"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
