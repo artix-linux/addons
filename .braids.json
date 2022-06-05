@@ -571,6 +571,11 @@
       "branch": "master",
       "revision": "63fb970e4121dded33124c191215b21270a7cda1"
     },
+    "perl-io-tty": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-tty.git",
+      "branch": "master",
+      "revision": "5f079c6fa8271f49203bf68247fc76b4beb14389"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
