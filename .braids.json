@@ -391,6 +391,11 @@
       "branch": "master",
       "revision": "b3f6acb55a3752e616797c248f887f352b17158c"
     },
+    "python-distutils-extra": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-distutils-extra.git",
+      "branch": "master",
+      "revision": "80e70d88fe0581e60f51c44d0a77b9a60d44a8ae"
+    },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
