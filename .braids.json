@@ -100,6 +100,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
       "branch": "master",
       "revision": "d90eb3c0fd8d24142ce1a8b137e6a3b745884ce3"
+    },
+    "python-feedparser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedparser.git",
+      "branch": "master",
+      "revision": "5086f6a160929dae78673ddc3235909d08cc62d5"
     }
   }
 }
