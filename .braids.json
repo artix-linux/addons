@@ -5505,6 +5505,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tins.git",
       "branch": "master",
       "revision": "9b631c0bdfd054b291ca16ada5530802b24a94bf"
+    },
+    "ruby-tzinfo": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tzinfo.git",
+      "branch": "master",
+      "revision": "fcc73a7f55492f2c7a453034d44370c6d1d820bf"
     }
   }
 }

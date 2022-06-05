@@ -1,0 +1,50 @@
+# Maintainer: David Runge <dvzrv@archlinux.org>
+
+_name=tzinfo
+pkgname=ruby-tzinfo
+pkgver=2.0.4
+pkgrel=1
+pkgdesc='Daylight savings aware transformations between times in different time zones'
+arch=('any')
+url="https://github.com/tzinfo/tzinfo"
+license=('MIT')
+depends=('ruby' 'ruby-concurrent')
+makedepends=('ruby-rake' 'ruby-rdoc')
+# TODO: package ruby-simplecov
+# checkdepends=('ruby-minitest' 'ruby-simplecov')
+options=(!emptydirs)
+source=("${pkgname}-${pkgver}.tar.gz::https://github.com/${_name}/${_name}/archive/v${pkgver}.tar.gz")
+sha512sums=('5b2ec73f737009ba21dac7dbb9504235fdef14dc45a6450e1218ba9e53dd29735ab4fa6c2854271916cc5c0244e09ae7ab19467408b72b9b82ca238e14d3fa4f')
+b2sums=('0c7ef231767b6fc00cf95b3e1c2037894b14dfe832eaedb3f4b7c60a884ab6f7121243af5b62acf47d02da28395e7390f968421a3a3a2d731deb079e9fc51bfa')
+
+prepare() {
+  mv -v "${_name}-${pkgver}" "${pkgname}-${pkgver}"
+  cd "${pkgname}-${pkgver}"
+  # we don't do version pinning
+  sed -r 's|~>|>=|g' -i ${_name}.gemspec Gemfile
+}
+
+build() {
+  cd ${pkgname}-${pkgver}
+  gem build "${_name}.gemspec"
+}
+
+# check(){
+#   cd "${pkgname}-${pkgver}"
+#   rake test
+# }
+
+package() {
+  cd ${pkgname}-${pkgver}
+  local _gemdir="$(gem env gemdir)"
+  gem install --ignore-dependencies \
+              --no-user-install \
+              -i "${pkgdir}/${_gemdir}" \
+              -n "${pkgdir}/usr/bin" \
+              ${_name}-${pkgver}.gem
+  install -vDm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+  # removing all unneeded stuff
+  cd "${pkgdir}/${_gemdir}"
+  rm -rvf cache gems/${_name}-${pkgver}/{ext,lib/*/*.so,*.gemspec} \
+    extensions/*/*/${_name}-${pkgver}/{mkmf.log,gem_make.out}
+}
