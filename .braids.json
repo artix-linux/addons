@@ -2151,6 +2151,11 @@
       "branch": "master",
       "revision": "443358e106bc70fac3b52f9a55f598be7d24079a"
     },
+    "python-pytest-env": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-env.git",
+      "branch": "master",
+      "revision": "5cbc3dc76c5fdf1e9e68c78f646a17d9c88efedb"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
