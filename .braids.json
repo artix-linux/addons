@@ -151,6 +151,11 @@
       "branch": "master",
       "revision": "0c94d11bf768940fbb4d9d32215668feffe6b605"
     },
+    "perl-crypt-openssl-dsa": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-dsa.git",
+      "branch": "master",
+      "revision": "20880d9777845dcb4762668a0ea265ef397ad779"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
