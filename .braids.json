@@ -1501,6 +1501,11 @@
       "branch": "master",
       "revision": "25f9db10aa8c70f1d3185d7d91c3399b8b553dee"
     },
+    "python-hiredis": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hiredis.git",
+      "branch": "master",
+      "revision": "51c51dfad29b8700dce2ec8ac6ee9b2e9b959bae"
+    },
     "python-http-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-http-parser.git",
       "branch": "master",
