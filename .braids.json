@@ -436,6 +436,11 @@
       "branch": "master",
       "revision": "4c3b542e38bd6b977e3f5f6a767c76a3e9ec776a"
     },
+    "python-cached-property": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cached-property.git",
+      "branch": "master",
+      "revision": "c1e719d36b3ccdf27d11450712477b78426d9b1f"
+    },
     "python-cachetools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachetools.git",
       "branch": "master",
