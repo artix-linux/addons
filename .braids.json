@@ -1561,6 +1561,11 @@
       "branch": "master",
       "revision": "cd1c614505e22e60eeff9cafbb24ae7446508438"
     },
+    "python-pywal": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywal.git",
+      "branch": "master",
+      "revision": "0a3b8e3ec40fddd6b3121b85f06ceebcdfa2135f"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
