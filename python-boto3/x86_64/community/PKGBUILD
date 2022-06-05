@@ -1,0 +1,31 @@
+# Maintainer: Jonathan Steel <jsteel at archlinux.org>
+# Contributor: Felix Yan <felixonmars@archlinux.org>
+
+pkgbase=python-boto3
+pkgname=python-boto3
+pkgver=1.23.7
+pkgrel=1
+pkgdesc='The AWS SDK for Python'
+arch=('any')
+license=('Apache')
+url='https://github.com/boto/boto3'
+depends=('python-botocore' 'python-jmespath' 'python-s3transfer')
+makedepends=('python-setuptools')
+# checkdepends=('python-coverage' 'python-nose' 'python-mock')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/boto/boto3/archive/$pkgver.tar.gz")
+sha512sums=('2970bbbccda3a74c821ab8598dc24204f838a417ea06b7816d16dda828123725162287d0d6ff4c9c815678f365220d5cea16a25abf5b70a4512845d157ab4f75')
+
+build() {
+  cd boto3-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd boto3-$pkgver
+  # scripts/ci/run-tests
+}
+
+package() {
+  cd boto3-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+}
