@@ -5055,6 +5055,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-patron.git",
       "branch": "master",
       "revision": "d78bab0359dd24cf8a9ab858fb09202fae21262f"
+    },
+    "ruby-faraday-rack": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-rack.git",
+      "branch": "master",
+      "revision": "6fc0e4f0fd4d6858b2244ab2e0e4c8b8af08731a"
     }
   }
 }
