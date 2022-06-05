@@ -2471,6 +2471,11 @@
       "branch": "master",
       "revision": "506556782c81a3c0694f14df7223f54a33e42441"
     },
+    "python-outcome": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-outcome.git",
+      "branch": "master",
+      "revision": "306bddfe76dee7e040aa142ec94ae5c2461568bc"
+    },
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
