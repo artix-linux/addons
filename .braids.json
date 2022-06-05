@@ -446,6 +446,11 @@
       "branch": "master",
       "revision": "76469dd4a27eb20e460580fde779b8364fdf6f35"
     },
+    "perl-hook-lexwrap": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-hook-lexwrap.git",
+      "branch": "master",
+      "revision": "3879fe0191a5391de5f679b2590e67ce0ab06010"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
