@@ -5420,6 +5420,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rubydns.git",
       "branch": "master",
       "revision": "688b9e1f4124beeae6eaf411eb184129472ead4d"
+    },
+    "ruby-safe_yaml": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-safe_yaml.git",
+      "branch": "master",
+      "revision": "149db82fe0d32ebd11b1463d18bbbd25ca9da371"
     }
   }
 }
