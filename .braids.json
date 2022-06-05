@@ -4501,6 +4501,11 @@
       "branch": "master",
       "revision": "790856491d95283a82886dbeaede5bc502e0676d"
     },
+    "python-uncertainties": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-uncertainties.git",
+      "branch": "master",
+      "revision": "6aca866fd63145ed7ce7222e111d52d1183e7c9f"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
