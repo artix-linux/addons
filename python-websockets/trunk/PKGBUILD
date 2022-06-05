@@ -1,0 +1,42 @@
+# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Contributor: Sherlock Holo <sherlockya@gmail.com>
+# Contributor: user6553591 <Message on Reddit>
+
+pkgname=python-websockets
+pkgver=10.3
+pkgrel=1
+pkgdesc='Python implementation of the WebSocket Protocol (RFC 6455)'
+url='https://github.com/aaugustin/websockets'
+arch=('x86_64')
+license=('BSD')
+depends=('python')
+makedepends=('python-setuptools' 'python-sphinx' 'python-sphinx-copybutton'
+             'python-sphinx-furo' 'python-sphinx-inline-tabs'
+             'python-sphinxcontrib-spelling' 'python-sphinxcontrib-trio'
+             'python-sphinxext-opengraph')
+source=(https://github.com/aaugustin/websockets/archive/${pkgver}/${pkgname}-${pkgver}.tar.gz)
+sha512sums=('75a11dd7605808954c5f59decda5b115db73de96ed4023d8d7ee3c9966551a9ded2d771f76b086c76f49b0787f19349dadcd9010eb5fea8eeddf3d9bba1c6cbb')
+b2sums=('db6075304613ff74ad5928a0c57e90a7d418ac0b9532adba4c6a17b3c3f1982cc94db8ac4c0da5f65343a915f3b2e7ccedce4e6d5d4960cb72fc93c3db6e041c')
+
+build() {
+  cd websockets-${pkgver}
+  python setup.py build
+  sphinx-build -b dirhtml docs docs/_build/html
+  sphinx-build -b man docs docs/_build/man
+}
+
+check() {
+  cd websockets-${pkgver}
+  python setup.py test
+}
+
+package() {
+  cd websockets-${pkgver}
+  python setup.py install --root="${pkgdir}" --optimize=1 --skip-build
+  install -Dm 644 README.rst -t "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+  cp -rT docs/_build/html "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 docs/_build/man/websockets.1 "${pkgdir}/usr/share/man/man1/${pkgname}.1"
+}
+
+# vim: ts=2 sw=2 et:
