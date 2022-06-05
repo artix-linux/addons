@@ -3811,6 +3811,11 @@
       "branch": "master",
       "revision": "879117ea50533e85f6ac84730850cbe199338bc4"
     },
+    "python-scrypt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-scrypt.git",
+      "branch": "master",
+      "revision": "f20d7f9879b60df04278cafa1861828d512a2691"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
