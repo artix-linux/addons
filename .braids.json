@@ -1601,6 +1601,11 @@
       "branch": "master",
       "revision": "a53ceeac51d93b65d921f0b8c4bd5c456f5c844b"
     },
+    "python-ibm-db-sa": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ibm-db-sa.git",
+      "branch": "master",
+      "revision": "30d91264e8d4124ebb9bcd549065fb7dfea5d535"
+    },
     "python-identify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-identify.git",
       "branch": "master",
