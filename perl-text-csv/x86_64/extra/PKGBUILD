@@ -1,0 +1,35 @@
+# Maintainer: Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
+
+pkgname='perl-text-csv'
+_dist="Text-CSV"
+pkgver=2.01
+pkgrel=1
+pkgdesc="comma-separated values manipulator"
+arch=('any')
+license=('PerlArtistic' 'GPL')
+options=('!emptydirs')
+depends=('perl')
+url="https://metacpan.org/dist/$_dist"
+source=("https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/${_dist}-${pkgver}.tar.gz")
+md5sums=('c8fe8236ab3115fe8d82bdb6545e0770')
+sha512sums=('45c215686437e111fcd8d6c0adc9c6e0bac9df37fcd47e7bd9fcf4872859e59a296caae3573b77955cdaf42284b4c88fcc6774bd6ac11d701ae54f6a3741991a')
+
+unset PERL5LIB PERL_MM_OPT PERL_MB_OPT PERL_LOCAL_LIB_ROOT
+
+build() {
+    cd $_dist-$pkgver
+    export PERL_MM_USE_DEFAULT=1 PERL_AUTOINSTALL=--skipdeps
+    perl Makefile.PL
+    make
+}
+
+check() {
+    cd $_dist-$pkgver
+    export PERL_MM_USE_DEFAULT=1
+    make test
+}
+
+package() {
+    cd $_dist-$pkgver
+    make install INSTALLDIRS=vendor DESTDIR="$pkgdir"
+}

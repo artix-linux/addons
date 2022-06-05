@@ -1261,6 +1261,11 @@
       "branch": "master",
       "revision": "197ac08800b51e312745c4fddf5a85620a5360dd"
     },
+    "perl-text-csv": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-csv.git",
+      "branch": "master",
+      "revision": "bbf91f4ca7d1e8d38da675e65120336fd85409d6"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
