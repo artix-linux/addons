@@ -2066,6 +2066,11 @@
       "branch": "master",
       "revision": "340ab99b50cfc91f7be1dbba64a7909782f31fa9"
     },
+    "python-mamba": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mamba.git",
+      "branch": "master",
+      "revision": "08e032673af77eed871bf8128c64926a07531685"
+    },
     "python-markdown": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-markdown.git",
       "branch": "master",
