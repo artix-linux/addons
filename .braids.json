@@ -1351,6 +1351,11 @@
       "branch": "master",
       "revision": "5502cd0e430790c325abfcd8ee2c2dc86d464e35"
     },
+    "python-pylev": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylev.git",
+      "branch": "master",
+      "revision": "c314bba500e827dbc894d63ef29390a562ac121c"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
