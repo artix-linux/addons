@@ -1576,6 +1576,11 @@
       "branch": "master",
       "revision": "960fac2473b3a8f7b5904a4279b2814fd7066789"
     },
+    "python-pandas-datareader": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pandas-datareader.git",
+      "branch": "master",
+      "revision": "8ca109ae5abe5a5b5b120785c676bc80fea662a1"
+    },
     "python-parsedatetime": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parsedatetime.git",
       "branch": "master",
