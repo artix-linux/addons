@@ -2176,6 +2176,11 @@
       "branch": "master",
       "revision": "46695882154cddcd427e785dc0c6fc7dd6dd18ef"
     },
+    "python-pytest-html": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-html.git",
+      "branch": "master",
+      "revision": "ee496e125afa9589074ec5e24525f025b2bc8859"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
