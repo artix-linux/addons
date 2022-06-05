@@ -321,6 +321,11 @@
       "branch": "master",
       "revision": "22488d6fe2beba7494b409e26e21712713504c78"
     },
+    "perl-exception-class": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-exception-class.git",
+      "branch": "master",
+      "revision": "5846ef188d2aac46ce87872bcbe0b98a4d20c6a4"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
