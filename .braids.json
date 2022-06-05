@@ -1356,6 +1356,11 @@
       "branch": "master",
       "revision": "c314bba500e827dbc894d63ef29390a562ac121c"
     },
+    "python-pylibmc": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylibmc.git",
+      "branch": "master",
+      "revision": "52c5b5869cc58836e295f4e7155c848c6fd79084"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
