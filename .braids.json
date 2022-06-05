@@ -1996,6 +1996,11 @@
       "branch": "master",
       "revision": "51e90332be38e4e7319220c4760d5d36e32c77a7"
     },
+    "python-xlrd": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlrd.git",
+      "branch": "master",
+      "revision": "348e6ba2cca6f1e333680cf937ee22f31c2aa170"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
