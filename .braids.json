@@ -486,6 +486,11 @@
       "branch": "master",
       "revision": "5ca8ad74bee29a7feffb60ae6b601b5612e6207f"
     },
+    "python-celery": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-celery.git",
+      "branch": "master",
+      "revision": "c152ae4e75d4b79fa7b57398b218e3c55a94d666"
+    },
     "python-certifi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-certifi.git",
       "branch": "master",
