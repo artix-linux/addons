@@ -2050,6 +2050,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
       "revision": "a2c9e8f3f6ae7130c024a1e2c0dc5b59119e24f9"
+    },
+    "python-zopfli": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zopfli.git",
+      "branch": "master",
+      "revision": "2bc37378ae0678ed4bd44028e958083bd60e0f24"
     }
   }
 }
