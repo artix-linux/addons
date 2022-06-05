@@ -310,6 +310,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
       "revision": "f2509c53ae809e8c18760c667f34f5dfb4cb2e56"
+    },
+    "python-tomli-w": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli-w.git",
+      "branch": "master",
+      "revision": "511d269aaeeda691990d4ac382b51ed2cf33a634"
     }
   }
 }
