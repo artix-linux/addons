@@ -2141,6 +2141,11 @@
       "branch": "master",
       "revision": "dc728fdd095abb03749f75097e8dea166c2b2305"
     },
+    "python-mimeparse": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mimeparse.git",
+      "branch": "master",
+      "revision": "16513c77f3019874f507e793dd0e1d903c049594"
+    },
     "python-mistune1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mistune1.git",
       "branch": "master",
