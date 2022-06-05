@@ -3816,6 +3816,11 @@
       "branch": "master",
       "revision": "f20d7f9879b60df04278cafa1861828d512a2691"
     },
+    "python-seaborn": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-seaborn.git",
+      "branch": "master",
+      "revision": "e4128b8c545be8cf8113f19a5ad61888ff3864da"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
