@@ -1746,6 +1746,11 @@
       "branch": "master",
       "revision": "cb0c98268072e6fec54c8adfe51f6b7a9cd9eab3"
     },
+    "python-snappy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-snappy.git",
+      "branch": "master",
+      "revision": "b901cc1a3ce8afff700fcba117e424d032736a87"
+    },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
