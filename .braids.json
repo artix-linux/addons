@@ -606,6 +606,11 @@
       "branch": "master",
       "revision": "2ec49d4b4b521f582392f8bcc409c2961c3718ba"
     },
+    "perl-lingua-en-inflect": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-lingua-en-inflect.git",
+      "branch": "master",
+      "revision": "2f234b55037243b641758496c0ecb60b1cd6ebde"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
