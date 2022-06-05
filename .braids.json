@@ -5095,6 +5095,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hitimes.git",
       "branch": "master",
       "revision": "4414f9ab7245e1ffe803f7fb5644858297299ff2"
+    },
+    "ruby-hocon": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hocon.git",
+      "branch": "master",
+      "revision": "95f85e173bb29981182bb6c102e4c049a3caf2e7"
     }
   }
 }
