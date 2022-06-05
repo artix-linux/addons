@@ -456,6 +456,11 @@
       "branch": "master",
       "revision": "05a4aa4ee11716d23af9a22304e23e45801f9f63"
     },
+    "perl-html-tagset": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-html-tagset.git",
+      "branch": "master",
+      "revision": "cc99a0a1f3b9f2c6422e31a1133569a25d400fde"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
