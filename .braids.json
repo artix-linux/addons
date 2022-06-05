@@ -25,6 +25,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
       "revision": "99ad0970bec1acd3c443cd90f93cc800e57fdbf2"
+    },
+    "python-automat": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-automat.git",
+      "branch": "master",
+      "revision": "9f501c1d8f6df33d0a33d65ee8da013e6d55ac67"
     }
   }
 }
