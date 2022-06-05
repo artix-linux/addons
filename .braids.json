@@ -191,6 +191,11 @@
       "branch": "master",
       "revision": "b592b85861c518deefd4c539e7e96d0cf713b66e"
     },
+    "python-aws-sam-translator": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aws-sam-translator.git",
+      "branch": "master",
+      "revision": "d0efdb562e6e06a02fbe6a652499202bbf25e586"
+    },
     "python-backcall": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-backcall.git",
       "branch": "master",
