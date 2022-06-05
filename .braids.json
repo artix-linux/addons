@@ -35,6 +35,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beaker.git",
       "branch": "master",
       "revision": "8bf2ce8af42838e2690ef34ed7db1ac6a7d9e5c4"
+    },
+    "python-cairo": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
+      "branch": "master",
+      "revision": "f2c8e10b95dfabde0818b53ec209454030ce6822"
     }
   }
 }
