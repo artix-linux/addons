@@ -2171,6 +2171,11 @@
       "branch": "master",
       "revision": "ee266a304847305840ac0729c39cf61d9463d88c"
     },
+    "python-monotonic": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-monotonic.git",
+      "branch": "master",
+      "revision": "62753d101d8528d139796ad0412ec567da936396"
+    },
     "python-more-itertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-more-itertools.git",
       "branch": "master",
