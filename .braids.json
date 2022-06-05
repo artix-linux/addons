@@ -66,6 +66,11 @@
       "branch": "master",
       "revision": "f74732cc6f6cc722ec055c4e239111af16762af2"
     },
+    "python-aiosmtpd": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosmtpd.git",
+      "branch": "master",
+      "revision": "df40ea8ff9b043a9aa26f18365cc84638890830f"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
