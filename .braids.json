@@ -2711,6 +2711,11 @@
       "branch": "master",
       "revision": "740011e023fbab89190a8b1e3bb052e23b4d62d6"
     },
+    "python-sphinxcontrib-applehelp": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-applehelp.git",
+      "branch": "master",
+      "revision": "139d3b121c0f0a4312ddb97b26bc5aa4e82d49fc"
+    },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
