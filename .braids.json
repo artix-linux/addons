@@ -496,6 +496,11 @@
       "branch": "master",
       "revision": "49e389e7db4bf7770b7dbd0470b523e11a1924ad"
     },
+    "perl-import-into": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-import-into.git",
+      "branch": "master",
+      "revision": "a2155536f3dc390e6c8904fb4f75fdeb0651d16e"
+    },
     "perl-importer": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-importer.git",
       "branch": "master",
