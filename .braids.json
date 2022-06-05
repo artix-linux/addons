@@ -1331,6 +1331,11 @@
       "branch": "master",
       "revision": "8cb12a73545a31bc24293d97a52d8a93909a5bc6"
     },
+    "python-gast": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-gast.git",
+      "branch": "master",
+      "revision": "176bfb64abcb59c45ffb7484fd81131bea60ec74"
+    },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
