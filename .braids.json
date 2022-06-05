@@ -1381,6 +1381,11 @@
       "branch": "master",
       "revision": "28a335e690d2b77c3064ade94e1d7f7cf9cd66a1"
     },
+    "perl-xml-writer": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-writer.git",
+      "branch": "master",
+      "revision": "a40bc7c8eed141277947291a7a95db6c3af3744e"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
