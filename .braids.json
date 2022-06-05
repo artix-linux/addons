@@ -1446,6 +1446,11 @@
       "branch": "master",
       "revision": "9bc93039557a89a1f3ee5f687baf13b815d2fc1c"
     },
+    "python-nose-show-skipped": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose-show-skipped.git",
+      "branch": "master",
+      "revision": "46a833cb791316e3167fc3d79173a8809f6fa6f9"
+    },
     "python-nosexcover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nosexcover.git",
       "branch": "master",
