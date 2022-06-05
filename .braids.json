@@ -3146,6 +3146,11 @@
       "branch": "master",
       "revision": "59ef74e8ee2dd9d17c9315a2196db67c6c05a4a8"
     },
+    "python-zope-deferredimport": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-deferredimport.git",
+      "branch": "master",
+      "revision": "3af5d547cc3685cdda8d330d7cd4c35f80a2e956"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
