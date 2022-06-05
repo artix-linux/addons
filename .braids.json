@@ -291,6 +291,11 @@
       "branch": "master",
       "revision": "470e3b0bcd743d5855430fa2e7ae4fa534daea55"
     },
+    "perl-digest-sha1": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-digest-sha1.git",
+      "branch": "master",
+      "revision": "489f191bcbc11baae70c7e74b447ffa66d887081"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
