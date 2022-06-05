@@ -976,6 +976,11 @@
       "branch": "master",
       "revision": "9733fdf755fbc56760e293ab930bfff618251874"
     },
+    "python-natsort": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-natsort.git",
+      "branch": "master",
+      "revision": "ff99ef059ee56e0e80ddceb2f22770b10131894c"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
