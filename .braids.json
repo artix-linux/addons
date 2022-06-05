@@ -1246,6 +1246,11 @@
       "branch": "master",
       "revision": "953dfc54e7adc37fae6673fd5dbc67fd670d7fa0"
     },
+    "python-pycryptodome": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycryptodome.git",
+      "branch": "master",
+      "revision": "184ab0caa1daef1e26df6a4a8d46b2ab7c4a866f"
+    },
     "python-pycurl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycurl.git",
       "branch": "master",
