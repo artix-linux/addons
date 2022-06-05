@@ -76,6 +76,11 @@
       "branch": "master",
       "revision": "2be209763678bd90f8b89873f51e4bcec097bb6d"
     },
+    "python-alembic": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-alembic.git",
+      "branch": "master",
+      "revision": "4c8381a6f94696e06db78d966e2ab703632e6ea8"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
