@@ -561,6 +561,11 @@
       "branch": "master",
       "revision": "1d1db48f7e74e3424a690886fdde76baa505a065"
     },
+    "python-glob2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-glob2.git",
+      "branch": "master",
+      "revision": "9b8f1069a5965fb3b9af40974d77fd8ee7c232fc"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
