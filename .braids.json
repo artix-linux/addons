@@ -5185,6 +5185,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest.git",
       "branch": "master",
       "revision": "e746850a50ea7f42c5b1162a331ddc7df7e8c955"
+    },
+    "ruby-minitest-global_expectations": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-global_expectations.git",
+      "branch": "master",
+      "revision": "35b31810c899a8ec723c002b7051bb00e29459f2"
     }
   }
 }
