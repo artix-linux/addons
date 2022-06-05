@@ -916,6 +916,11 @@
       "branch": "master",
       "revision": "7e987d4b6f466e02edd0891796f772fd0d174917"
     },
+    "python-mdit_py_plugins": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mdit_py_plugins.git",
+      "branch": "master",
+      "revision": "2278d6932b9c451c0ca4f3da66c3f55c1f4547b0"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
