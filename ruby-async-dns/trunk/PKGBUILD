@@ -1,0 +1,43 @@
+# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+
+_gemname=async-dns
+pkgname=ruby-${_gemname}
+pkgver=1.2.5
+pkgrel=1
+pkgdesc='Asynchronous DNS resolver and server'
+url='https://github.com/socketry/async-dns'
+arch=('any')
+license=('MIT')
+depends=('ruby' 'ruby-async-io')
+options=('!emptydirs')
+source=(https://github.com/socketry/async-dns/archive/v${pkgver}/${pkgname}-${pkgver}.tar.gz)
+sha256sums=('0dc30e300a79faa32b73c4f0f025ed7dcc44d1bc98670c69d926e810ebea820e')
+sha512sums=('d1b6b9f933ba61e0c73433b3728c612210c771814cf3247d076f2681fade77576a472cf55a18008db6b5b4fc66f67f594865858e220355d64c9c00c018dc44f8')
+
+prepare() {
+  cd ${_gemname}-${pkgver}
+  sed 's|git ls-files|find|' -i ${_gemname}.gemspec
+  sed 's|~>|>=|g' -i ${_gemname}.gemspec # don't give a fuck about rubys bla bla
+}
+
+build() {
+  cd ${_gemname}-${pkgver}
+  gem build ${_gemname}.gemspec
+}
+
+package() {
+  cd ${_gemname}-${pkgver}
+  local _gemdir="$(gem env gemdir)"
+  gem install --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" \
+    -n "${pkgdir}/usr/bin" ${_gemname}-${pkgver}.gem
+
+  install -Dm 644 README.md -t "${pkgdir}/usr/share/doc/${pkgname}"
+  install -d "${pkgdir}/usr/share/licenses/${pkgname}"
+  ln -s /usr/share/doc/${pkgname}/README.md "${pkgdir}/usr/share/licenses/${pkgname}"
+
+  cd "${pkgdir}/${_gemdir}"
+  rm -rf cache gems/${_gemname}-${pkgver}/{ext,lib/*/*.so} \
+    extensions/*/*/${_gemname}-${pkgver}/{mkmf.log,gem_make.out}
+}
+
+# vim: ts=2 sw=2 et:
