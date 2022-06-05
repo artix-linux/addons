@@ -186,6 +186,11 @@
       "branch": "master",
       "revision": "5c48bdae63d7ef5472e838ce1150ea2ea6ad8fc3"
     },
+    "perl-cwd-guard": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cwd-guard.git",
+      "branch": "master",
+      "revision": "9f46d344d7b057ae3d59791a6d8bedc2ff1b56ef"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
