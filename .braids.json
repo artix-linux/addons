@@ -1806,6 +1806,11 @@
       "branch": "master",
       "revision": "36b991a4c8ba29b59584c3d0c09fa9a3072a4059"
     },
+    "python-stem": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-stem.git",
+      "branch": "master",
+      "revision": "03ed263c1ded09b3b231621bb4378a4a028bbe59"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
