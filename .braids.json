@@ -5535,6 +5535,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-websocket-driver.git",
       "branch": "master",
       "revision": "48bc33be9856c23546754665ff40885a42cee598"
+    },
+    "ruby-websocket-extensions": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-websocket-extensions.git",
+      "branch": "master",
+      "revision": "5e111287d19b48c56dc650bd3f9ad6cbb783b137"
     }
   }
 }
