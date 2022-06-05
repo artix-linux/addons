@@ -1,0 +1,30 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-freezegun
+pkgver=1.1.0
+pkgrel=1
+pkgdesc="Let your Python tests travel through time"
+arch=('any')
+license=('Apache')
+url="https://github.com/spulec/freezegun"
+depends=('python-dateutil')
+makedepends=('python-setuptools' 'python-dateutil')
+checkdepends=('python-pytest')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/spulec/freezegun/archive/$pkgver.tar.gz")
+sha512sums=('adab1125517fe5e3c2ab203990172d4ef8beaed635fb9e2cf69bc5a4aa97baa8b73a17cd4a03e24ff1da54bcbe68f6393f25e372f374b220917309b16e2d521d')
+
+build() {
+  cd "$srcdir"/freezegun-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd "$srcdir"/freezegun-$pkgver
+  # https://github.com/spulec/freezegun/issues/250
+  pytest || echo "Tests failed"
+}
+
+package() {
+  cd freezegun-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+}

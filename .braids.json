@@ -1291,6 +1291,11 @@
       "branch": "master",
       "revision": "5dd4a1359e19884e779745cf97a7c9a425b2a43d"
     },
+    "python-freezegun": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-freezegun.git",
+      "branch": "master",
+      "revision": "b2487e53d5c6133c12f70c8f0ec8af9d768f1007"
+    },
     "python-frozenlist": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozenlist.git",
       "branch": "master",
