@@ -1791,6 +1791,11 @@
       "branch": "master",
       "revision": "7d351e0e996dbcfbf3218978e852de54c579a5b6"
     },
+    "python-sqlparse": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlparse.git",
+      "branch": "master",
+      "revision": "0c8b1712119fab685b7b4c2107b904dbf9d1b743"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
