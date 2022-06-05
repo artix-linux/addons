@@ -2971,6 +2971,11 @@
       "branch": "master",
       "revision": "c1686f178ea71e94ea0d77c1aa43b68ff9874ccb"
     },
+    "python-typing_inspect": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-typing_inspect.git",
+      "branch": "master",
+      "revision": "d0b9afbdb0f0d4198a9545cf0ea10894524aebd1"
+    },
     "python-typogrify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typogrify.git",
       "branch": "master",
