@@ -1326,6 +1326,11 @@
       "branch": "master",
       "revision": "54e8c6efe9cbc6cb9d5e23f98f0e2de988bbca2c"
     },
+    "perl-user-identity": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-user-identity.git",
+      "branch": "master",
+      "revision": "81255e0ee043bd20959d30ad586f06342b4bfcd3"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
