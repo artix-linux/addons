@@ -1556,6 +1556,11 @@
       "branch": "master",
       "revision": "4f0cb7deb5720ae5a72e857f0eeb67df66505209"
     },
+    "python-pyvirtualdisplay": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyvirtualdisplay.git",
+      "branch": "master",
+      "revision": "cd1c614505e22e60eeff9cafbb24ae7446508438"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
