@@ -5295,6 +5295,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-public_suffix.git",
       "branch": "master",
       "revision": "548fc9227e0599b21dd6a94a0889aee8aace692a"
+    },
+    "ruby-puppet-resource_api": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-puppet-resource_api.git",
+      "branch": "master",
+      "revision": "a2707d39d6202eefeb2f8c04fe41fe622d13f0fb"
     }
   }
 }
