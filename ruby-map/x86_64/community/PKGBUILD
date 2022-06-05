@@ -1,0 +1,42 @@
+# Maintainer: Artoo <artoo@artixlinux.org>
+
+_gemname=map
+pkgname=ruby-${_gemname}
+pkgver=6.6.0
+pkgrel=1
+pkgdesc='the awesome ruby container you have always wanted: a string/symbol indifferent ordered hash that works in all rubies'
+url='https://github.com/ahoward/map'
+arch=('any')
+license=('MIT')
+depends=('ruby')
+makedepends=('git' 'ruby-rdoc')
+options=('!emptydirs')
+_commit=0a1dc834cf46b8ab8fd29af3e4fa8a54ea4c003a
+source=("git+https://github.com/ahoward/map.git#commit=$_commit")
+sha256sums=('SKIP')
+
+prepare() {
+  cd "${_gemname}"
+
+  sed -e '/"a.rb",/d' \
+      -e '/spec.rubyforge_project = "codeforpeople"/d' \
+      -e 's/spec.license = .*/spec.license = "Ruby"/' -i $_gemname.gemspec
+}
+
+
+build() {
+  cd "${_gemname}"
+  gem build $_gemname.gemspec
+}
+
+package() {
+  cd "${_gemname}"
+  local _gemdir="$(gem env gemdir)"
+  gem install --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" \
+    -n "${pkgdir}/usr/bin" pkg/${_gemname}-${pkgver}.gem
+
+  install -Dm 644 README -t "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+
+  rm -r "${pkgdir}/${_gemdir}/cache"
+}
