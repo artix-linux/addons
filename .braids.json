@@ -5370,6 +5370,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rexml.git",
       "branch": "master",
       "revision": "e3e362e74ec03a2e1b7f897773ac3ffed4a5235b"
+    },
+    "ruby-ronn-ng": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ronn-ng.git",
+      "branch": "master",
+      "revision": "09d26ccdb4a5273f19d97bb2676831eca79a9101"
     }
   }
 }
