@@ -1,0 +1,2 @@
+# python-send2trash
+

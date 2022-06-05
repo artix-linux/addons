@@ -1676,6 +1676,11 @@
       "branch": "master",
       "revision": "587e7c035d3e3babfd38b389c21b817f635df539"
     },
+    "python-send2trash": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
+      "branch": "master",
+      "revision": "08ac5bfd2507d6cb45c0f3cb5c33584d5acc430b"
+    },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
