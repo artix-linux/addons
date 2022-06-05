@@ -4581,6 +4581,11 @@
       "branch": "master",
       "revision": "f92f8a4abcd85054fa6fbb631af6d0f4cb382725"
     },
+    "python-vobject": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-vobject.git",
+      "branch": "master",
+      "revision": "08e5978d03f859a7143462672155f42fc2506c65"
+    },
     "python-volatile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-volatile.git",
       "branch": "master",
