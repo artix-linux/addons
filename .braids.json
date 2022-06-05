@@ -306,6 +306,11 @@
       "branch": "master",
       "revision": "a25a9dc8089d89aa18640af409790007483ad474"
     },
+    "perl-env-shellwords": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-env-shellwords.git",
+      "branch": "master",
+      "revision": "dfafc64099d9a37053896999fd4cc30944f4af76"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
