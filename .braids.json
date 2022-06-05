@@ -1451,6 +1451,11 @@
       "branch": "master",
       "revision": "3d4f5ce5897d5c7f54cb9053aa27ec9cae0e76d0"
     },
+    "python-pyro": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyro.git",
+      "branch": "master",
+      "revision": "815c572941bdd60063288d07b992728c4356f8aa"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
