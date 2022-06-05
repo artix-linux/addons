@@ -351,6 +351,11 @@
       "branch": "master",
       "revision": "98c087d8a2bad0aad2a09bde4ec03893479d660f"
     },
+    "python-debugpy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-debugpy.git",
+      "branch": "master",
+      "revision": "d6803415b5d83b03811ef40cc03fd67f89d62e93"
+    },
     "python-defusedxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-defusedxml.git",
       "branch": "master",
