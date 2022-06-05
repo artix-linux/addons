@@ -756,6 +756,11 @@
       "branch": "master",
       "revision": "c14ad867f87a099466e654c9e6cde0e46e97a615"
     },
+    "python-flake8-typing-imports": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-typing-imports.git",
+      "branch": "master",
+      "revision": "1609d1ff8742e43996dd8a5051886eb123d84406"
+    },
     "python-flit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit.git",
       "branch": "master",
