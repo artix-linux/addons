@@ -1751,6 +1751,11 @@
       "branch": "master",
       "revision": "b901cc1a3ce8afff700fcba117e424d032736a87"
     },
+    "python-socketio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-socketio.git",
+      "branch": "master",
+      "revision": "c558103219cb78710f48810ab60928bba4eeef5a"
+    },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
