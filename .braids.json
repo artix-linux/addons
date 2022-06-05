@@ -4905,6 +4905,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zstandard.git",
       "branch": "master",
       "revision": "0991ef5942ab35352a7e8e43fe9ed71ae339f562"
+    },
+    "ruby-activesupport": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-activesupport.git",
+      "branch": "master",
+      "revision": "5eb6dd21bdad0bc53d58146c4d44b1da55685907"
     }
   }
 }
