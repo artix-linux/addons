@@ -1276,6 +1276,11 @@
       "branch": "master",
       "revision": "19316806dd0acdfe063f3830ac9129cda1d88f9e"
     },
+    "perl-tidy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-tidy.git",
+      "branch": "master",
+      "revision": "74f358dc2343405f0f3a2baf1519ee5624aa016c"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
