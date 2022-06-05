@@ -1366,6 +1366,11 @@
       "branch": "master",
       "revision": "695a9b469ec64cffd3d9db9d44d3aff5bfbca562"
     },
+    "python-pylint": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylint.git",
+      "branch": "master",
+      "revision": "879df4476faabf9966f1746d87b390d299eba323"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
