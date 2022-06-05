@@ -3581,6 +3581,11 @@
       "branch": "master",
       "revision": "d57335c6de1235c118d0ec367a6b05fa2b11c3e7"
     },
+    "python-raven": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-raven.git",
+      "branch": "master",
+      "revision": "b715b90d3c906ea95e083ee76e61b11aa0a5ce59"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
