@@ -5045,6 +5045,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-net_http.git",
       "branch": "master",
       "revision": "d14d5fd6214fe233ed2383919e1103cacfe83374"
+    },
+    "ruby-faraday-net_http_persistent": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-net_http_persistent.git",
+      "branch": "master",
+      "revision": "73b9a7200ab2eb5df4978f5ce1300431cfb543be"
     }
   }
 }
