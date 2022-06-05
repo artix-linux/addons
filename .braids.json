@@ -366,6 +366,11 @@
       "branch": "master",
       "revision": "9a67ca652a09c125ad17703fba68f85871594c56"
     },
+    "python-blinker": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-blinker.git",
+      "branch": "master",
+      "revision": "d528484c1b008975b7638d5b23cc522ec438e662"
+    },
     "python-boto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-boto.git",
       "branch": "master",
