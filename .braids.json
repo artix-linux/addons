@@ -2286,6 +2286,11 @@
       "branch": "master",
       "revision": "19a054a20dd4e8e41039c920295821dabab977be"
     },
+    "python-pytest-subtests": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-subtests.git",
+      "branch": "master",
+      "revision": "fa76b9a17774f2839c46ace0f7debe44a8846cae"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
