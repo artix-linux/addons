@@ -4171,6 +4171,11 @@
       "branch": "master",
       "revision": "e27f7e140ce01f7adbad920ce1d5131648babe34"
     },
+    "python-statsmodels": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-statsmodels.git",
+      "branch": "master",
+      "revision": "51aa6a01aeba351c802a451fd22a840770f5f507"
+    },
     "python-stem": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stem.git",
       "branch": "master",
