@@ -1201,6 +1201,11 @@
       "branch": "master",
       "revision": "4404a741004f595b1bdf5e896082a875350b9ced"
     },
+    "perl-test-pod-coverage": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-pod-coverage.git",
+      "branch": "master",
+      "revision": "aa2e86a334f53481745691bc9eb774e33bbda3a0"
+    },
     "perl-test2-suite": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-suite.git",
       "branch": "master",
