@@ -4246,6 +4246,11 @@
       "branch": "master",
       "revision": "6a2f02fb2bae4948b29a6877756480c2a9f210a1"
     },
+    "python-tempita": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tempita.git",
+      "branch": "master",
+      "revision": "659306d1ef2204dbdcc9096cbb300db46e02179a"
+    },
     "python-terminado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-terminado.git",
       "branch": "master",
