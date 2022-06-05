@@ -251,6 +251,11 @@
       "branch": "master",
       "revision": "7464b11a746e5d9b2ff6c65aec3ef4559851c328"
     },
+    "perl-devel-checklib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-devel-checklib.git",
+      "branch": "master",
+      "revision": "a24ded95e31a55fb50db6c7a3c65e6757394f71b"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
