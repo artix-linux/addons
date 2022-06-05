@@ -1541,6 +1541,11 @@
       "branch": "master",
       "revision": "bcc434def740084091bfd583e1b18176bfed5531"
     },
+    "python-pyu2f": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyu2f.git",
+      "branch": "master",
+      "revision": "a7aca7fd98cb1f6bd0a2c2f27b173d7bf1dbbf68"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
