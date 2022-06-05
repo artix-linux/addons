@@ -896,6 +896,11 @@
       "branch": "master",
       "revision": "b0ac83192221df8c71f02e1b63386e5329af0d1d"
     },
+    "perl-pegex": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-pegex.git",
+      "branch": "master",
+      "revision": "c6e2e8dc56abae8986a541082949c2e132eb8c6d"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
