@@ -4181,6 +4181,11 @@
       "branch": "master",
       "revision": "03ed263c1ded09b3b231621bb4378a4a028bbe59"
     },
+    "python-stestr": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-stestr.git",
+      "branch": "master",
+      "revision": "810cae9afb784688eddf456cf8e7c28002907b6b"
+    },
     "python-svglib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
       "branch": "master",
