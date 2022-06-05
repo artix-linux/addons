@@ -906,6 +906,11 @@
       "branch": "master",
       "revision": "790b19eedfa0188f58298f91d8cf3e60625e0fdc"
     },
+    "perl-perl-minimumversion": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-perl-minimumversion.git",
+      "branch": "master",
+      "revision": "76edfa2d529075ebb8b48a90316909146c990438"
+    },
     "perl-perl4-corelibs": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-perl4-corelibs.git",
       "branch": "master",
