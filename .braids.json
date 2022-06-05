@@ -546,6 +546,11 @@
       "branch": "master",
       "revision": "80c486e08753d9b7aac23617b412b759cf1fd609"
     },
+    "python-gevent-websocket": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-gevent-websocket.git",
+      "branch": "master",
+      "revision": "bdc7720a7353cac83a389f496d5f6a024a8cf2a9"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
