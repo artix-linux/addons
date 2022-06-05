@@ -5280,6 +5280,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-pkg-config.git",
       "branch": "master",
       "revision": "7f12656995daca6c08ad903ca610507b4de660a7"
+    },
+    "ruby-power_assert": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-power_assert.git",
+      "branch": "master",
+      "revision": "720b452aa662040b6e8fb63991cbe3b1c43cba0a"
     }
   }
 }
