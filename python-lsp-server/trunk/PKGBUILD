@@ -1,0 +1,60 @@
+# Maintainer: Jelle van der Waa <jelle@archlinux.org>
+# Maintainer: Bruno Pagani <archange@archlinux.org>
+# Contributor: Platon Pronko <platon7pronko@gmail.com>
+
+pkgname=python-lsp-server
+pkgver=1.4.1
+pkgrel=1
+pkgdesc="Fork of the python-language-server project, maintained by the Spyder IDE team and the community"
+arch=(any)
+url="https://github.com/python-lsp/python-lsp-server"
+license=(MIT)
+depends=(python-jedi python-lsp-jsonrpc python-pluggy python-ujson python-setuptools)
+makedepends=(python-build python-installer python-setuptools-scm python-wheel)
+checkdepends=(
+    python-pytest
+    python-flaky
+    python-matplotlib
+    python-mccabe
+    python-numpy
+    python-pandas
+    python-pycodestyle
+    python-pydocstyle
+    python-pyflakes
+    python-pylint
+    python-pyqt5
+    python-rope
+    autopep8
+    flake8
+    yapf
+)
+source=(https://files.pythonhosted.org/packages/source/${pkgname::1}/${pkgname}/${pkgname}-${pkgver}.tar.gz)
+sha256sums=('be7f83298af9f0951a93972cafc9db04fd7cf5c05f20812515275f0ba70e342f')
+
+prepare() {
+  cd ${pkgname}-${pkgver}
+  sed 's|autopep8>=1.6.0,<1.7.0|autopep8>=1.6.0|g' -i setup.cfg
+  sed 's|flake8>=4.0.0,<4.1.0|flake8>=4.0.0|g' -i setup.cfg
+  sed 's|mccabe>=0.6.0,<0.7.0|mccabe>=0.6.0|g' -i setup.cfg
+  sed 's|pycodestyle>=2.8.0,<2.9.0|pycodestyle>=2.8.0|g' -i setup.cfg
+  sed 's|pyflakes>=2.4.0,<2.5.0|pyflakes>=2.4.0|g' -i setup.cfg
+}
+
+build() {
+  cd ${pkgname}-${pkgver}
+  python -m build -wn
+}
+
+check() {
+  cd ${pkgname}-${pkgver}
+  # Disable coverage
+  sed -i '/addopts =/d' setup.cfg
+  sed -i '/--cov/d' setup.cfg
+  pytest -vv --color=yes
+}
+
+package() {
+  cd ${pkgname}-${pkgver}
+  python -m installer -d="${pkgdir}" dist/*.whl
+  install -Dm644 LICENSE -t "${pkgdir}"/usr/share/licenses/${pkgname}/
+}

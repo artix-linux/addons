@@ -1286,6 +1286,11 @@
       "branch": "master",
       "revision": "934de4dffff38155083afd7a60a14bb8f26d91f4"
     },
+    "python-lsp-server": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-server.git",
+      "branch": "master",
+      "revision": "45feb8da947549ad302d2b3cd5b4319da7e1a281"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
