@@ -1406,6 +1406,11 @@
       "branch": "master",
       "revision": "96b6610cce81a3f353e2af47f835f8f63a52a39e"
     },
+    "perl-yaml-tiny": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-yaml-tiny.git",
+      "branch": "master",
+      "revision": "1f4cfff31db41910e9c97e1601d6979bf6d8b659"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
