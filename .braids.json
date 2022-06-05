@@ -256,6 +256,11 @@
       "branch": "master",
       "revision": "a24ded95e31a55fb50db6c7a3c65e6757394f71b"
     },
+    "perl-devel-cycle": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-devel-cycle.git",
+      "branch": "master",
+      "revision": "bd79394041eb6e61dc0f67851b36c205493b65df"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
