@@ -236,6 +236,11 @@
       "branch": "master",
       "revision": "9f9e8521fb808a103f90a982677a5f1fae01cd78"
     },
+    "python-cloudpickle": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cloudpickle.git",
+      "branch": "master",
+      "revision": "e7469e1d6eba9b4730c0457be478f01ee964dfc0"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
