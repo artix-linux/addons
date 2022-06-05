@@ -156,6 +156,11 @@
       "branch": "master",
       "revision": "20880d9777845dcb4762668a0ea265ef397ad779"
     },
+    "perl-crypt-openssl-guess": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-guess.git",
+      "branch": "master",
+      "revision": "cd4d253952695596a81292539e5ab2236f9b2c5f"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
