@@ -1566,6 +1566,11 @@
       "branch": "master",
       "revision": "c07335c70ceaf0487fe7f02144106f3a84c1f5e1"
     },
+    "python-humanize": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-humanize.git",
+      "branch": "master",
+      "revision": "d6509f0d929a37d6cd4694e05ee366a204eb3b99"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
