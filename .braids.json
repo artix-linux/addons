@@ -2016,6 +2016,11 @@
       "branch": "master",
       "revision": "6bee02615df1bc1ade112c09877f0115fca8c261"
     },
+    "python-xmlsec": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmlsec.git",
+      "branch": "master",
+      "revision": "9406914df058f8ec31b95f86abed6c355f319bbe"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
