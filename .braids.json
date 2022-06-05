@@ -2551,6 +2551,11 @@
       "branch": "master",
       "revision": "f41b50d70ef4c909b95e084baa6a2fea55dcccac"
     },
+    "python-paste": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-paste.git",
+      "branch": "master",
+      "revision": "89dcda2c1882624e0effed442ef04d9f1d9bfe1f"
+    },
     "python-pastel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pastel.git",
       "branch": "master",
