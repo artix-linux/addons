@@ -2691,6 +2691,11 @@
       "branch": "master",
       "revision": "b6fb65dc1388720ddff1784e8c970cb81b3a9293"
     },
+    "python-sphinx-argparse": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-argparse.git",
+      "branch": "master",
+      "revision": "ccac5e709de4e4e8bfd9ed326d7446a054ff142a"
+    },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
