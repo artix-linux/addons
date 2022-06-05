@@ -1306,6 +1306,11 @@
       "branch": "master",
       "revision": "aa0b6f7e7d1aeabecc99d0a36b432447f7b83ac3"
     },
+    "perl-types-serialiser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-types-serialiser.git",
+      "branch": "master",
+      "revision": "b00def841d134b9ee897d363e03cd8478af94cf9"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
