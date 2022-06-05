@@ -886,6 +886,11 @@
       "branch": "master",
       "revision": "3a3530bbfe5a3612c3380732a057233f6c44471f"
     },
+    "python-dictpath": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dictpath.git",
+      "branch": "master",
+      "revision": "88f131119919345ca59cfc6efb7f64a48942d221"
+    },
     "python-dill": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dill.git",
       "branch": "master",
