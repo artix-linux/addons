@@ -696,6 +696,11 @@
       "branch": "master",
       "revision": "ed2916c1897231ef3417888ea57d9ebd6dc0b23f"
     },
+    "perl-math-round": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-math-round.git",
+      "branch": "master",
+      "revision": "d8727ae81a3301b29167d9a6f6d950ed420c8e0a"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
