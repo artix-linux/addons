@@ -516,6 +516,11 @@
       "branch": "master",
       "revision": "821799fc33da8025125148ff8542ed59b1b9a774"
     },
+    "python-cftime": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cftime.git",
+      "branch": "master",
+      "revision": "32fb70a35c7cd0a7f9b4e9ea895020cea9c788a4"
+    },
     "python-chardet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-chardet.git",
       "branch": "master",
