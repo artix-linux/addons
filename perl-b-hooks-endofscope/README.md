@@ -1,0 +1,2 @@
+# perl-b-hooks-endofscope
+
