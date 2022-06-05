@@ -881,6 +881,11 @@
       "branch": "master",
       "revision": "423290a9a02a533e8a2b92ebdd7b88cc4893fd8f"
     },
+    "python-magic": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic.git",
+      "branch": "master",
+      "revision": "4eb38922c0a38272757b93d95c2a270dba493012"
+    },
     "python-mako": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mako.git",
       "branch": "master",
