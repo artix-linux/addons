@@ -841,6 +841,11 @@
       "branch": "master",
       "revision": "b9a3fe8a3b96ba9df9a97d001388e7f7d8e1d5b6"
     },
+    "python-libevdev": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-libevdev.git",
+      "branch": "master",
+      "revision": "a6748525f268f1544ef8cffda6543ff71eaef321"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
