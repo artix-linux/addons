@@ -811,6 +811,11 @@
       "branch": "master",
       "revision": "131ba61a027ac1e7b26df09c84d4aabf05d84d2d"
     },
+    "python-keystoneauth1": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-keystoneauth1.git",
+      "branch": "master",
+      "revision": "363fea5d20f2337caf6e061018635b7510d9f563"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
