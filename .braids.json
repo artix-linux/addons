@@ -1096,6 +1096,11 @@
       "branch": "master",
       "revision": "17b67bf7c26887953a0cd717a67280503df6453e"
     },
+    "python-jaraco.path": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.path.git",
+      "branch": "master",
+      "revision": "94d4f3049fb73f50d117b0c821471d879e66c9c8"
+    },
     "python-jdcal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jdcal.git",
       "branch": "master",
