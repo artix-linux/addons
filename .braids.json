@@ -215,6 +215,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycparser.git",
       "branch": "master",
       "revision": "953dfc54e7adc37fae6673fd5dbc67fd670d7fa0"
+    },
+    "python-pycurl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycurl.git",
+      "branch": "master",
+      "revision": "b96e3e9a4671efb651785835e359fc0b747c5db2"
     }
   }
 }
