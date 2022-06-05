@@ -66,6 +66,11 @@
       "branch": "master",
       "revision": "7cdb06be583c1da044d223b428c0ab04a4220089"
     },
+    "perl-cache-memcached": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cache-memcached.git",
+      "branch": "master",
+      "revision": "d5ebe9ee2332bb5c01d4ba837fdbfe536439a52a"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
