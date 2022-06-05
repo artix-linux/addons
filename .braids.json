@@ -3131,6 +3131,11 @@
       "branch": "master",
       "revision": "2500fd97f8e52cc10c872762e0a2e8d7b0c33e8c"
     },
+    "python-zope-component": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-component.git",
+      "branch": "master",
+      "revision": "f09a1068ff32eab3454ec21c99caec544a188671"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
