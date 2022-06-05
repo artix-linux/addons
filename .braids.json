@@ -626,6 +626,11 @@
       "branch": "master",
       "revision": "f29a5d06c2f4cce9a3e25aa3f7f8d6235e73dbce"
     },
+    "python-httpretty": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-httpretty.git",
+      "branch": "master",
+      "revision": "392acd1f8319940ddded6574a5beb00c978aa54d"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
