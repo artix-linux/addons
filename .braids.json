@@ -1566,6 +1566,11 @@
       "branch": "master",
       "revision": "0a3b8e3ec40fddd6b3121b85f06ceebcdfa2135f"
     },
+    "python-pywayland": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywayland.git",
+      "branch": "master",
+      "revision": "506352a9bdd88ec1e04284ef1d1fd32ac2299d96"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
