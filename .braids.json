@@ -2331,6 +2331,11 @@
       "branch": "master",
       "revision": "32abaadc405db78574325b3f98a52f3122db0c29"
     },
+    "python-pytest-xprocess": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-xprocess.git",
+      "branch": "master",
+      "revision": "e897909c8fa78fe3bbddf4def320a0e1277b4c05"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
