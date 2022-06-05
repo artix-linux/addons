@@ -896,6 +896,11 @@
       "branch": "master",
       "revision": "d317663e21bcc9d0606cd6e8d859e3361fb60d06"
     },
+    "python-graphql-core": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphql-core.git",
+      "branch": "master",
+      "revision": "fe6d6a7ff9363f600139b4f08cdb7c03f0439cd8"
+    },
     "python-graphviz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphviz.git",
       "branch": "master",
