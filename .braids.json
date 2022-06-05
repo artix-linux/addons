@@ -6,6 +6,11 @@
       "branch": "master",
       "revision": "da93f09e5234e1351673956f31ab04baae964ba8"
     },
+    "perl-alien-base-modulebuild": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-base-modulebuild.git",
+      "branch": "master",
+      "revision": "dabcc649f91f74da740cccad2f2c37fcf098ba93"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
