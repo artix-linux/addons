@@ -1201,6 +1201,11 @@
       "branch": "master",
       "revision": "53e81006fb81e0a6f28412386c9081ef25a9eed8"
     },
+    "python-pyaes": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyaes.git",
+      "branch": "master",
+      "revision": "91091b6039222d6de7854ee2e809d1349bef5922"
+    },
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
       "branch": "master",
