@@ -991,6 +991,11 @@
       "branch": "master",
       "revision": "8bf2dd8cb0cc2a8cb20d7bc685bc4e10e249861d"
     },
+    "perl-scope-guard": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-scope-guard.git",
+      "branch": "master",
+      "revision": "58fb5555d7bc2bf93065c39e69fdba2cf61d2a6b"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
