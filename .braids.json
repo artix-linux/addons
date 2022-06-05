@@ -961,6 +961,11 @@
       "branch": "master",
       "revision": "3d0a867609fc2aebf03c20700fb1ab347043e13d"
     },
+    "python-mutagen": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mutagen.git",
+      "branch": "master",
+      "revision": "c1ad9219b0e9d9e53ec0b9da853917e3fa3bba7b"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
