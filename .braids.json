@@ -726,6 +726,11 @@
       "branch": "master",
       "revision": "32a520cb27b735ea9db5d4b2d1f5862b2523160c"
     },
+    "python-curio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-curio.git",
+      "branch": "master",
+      "revision": "0d2d6ae9eb8e6e6cf9c0e14b1987988175e2fe06"
+    },
     "python-cython-test-exception-raiser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cython-test-exception-raiser.git",
       "branch": "master",
