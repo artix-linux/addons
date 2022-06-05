@@ -1581,6 +1581,11 @@
       "branch": "master",
       "revision": "123fb478b02d8672b24d4a5ee7b3fb8e1a343d09"
     },
+    "python-qdarkstyle": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-qdarkstyle.git",
+      "branch": "master",
+      "revision": "2a4910a888250b7d6439580da638c64df8cb8117"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
