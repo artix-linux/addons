@@ -5545,6 +5545,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-x25519.git",
       "branch": "master",
       "revision": "6d1c263ac018be64ef247dc6fdc66f129c91dc4f"
+    },
+    "ruby-yard": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-yard.git",
+      "branch": "master",
+      "revision": "9fdc21e7ada28ba225d8fb2372c7a03ae261302f"
     }
   }
 }
