@@ -4701,6 +4701,11 @@
       "branch": "master",
       "revision": "5d0c06428052934658455da5f25661995404bf69"
     },
+    "python-wxpython": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wxpython.git",
+      "branch": "master",
+      "revision": "4481c709cdba0c4cc29832b216363e92c6c7bd1f"
+    },
     "python-xattr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xattr.git",
       "branch": "master",
