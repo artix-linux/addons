@@ -396,6 +396,11 @@
       "branch": "master",
       "revision": "80e70d88fe0581e60f51c44d0a77b9a60d44a8ae"
     },
+    "python-django-fake-model": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-fake-model.git",
+      "branch": "master",
+      "revision": "e43c18dc1ea1d834dceded1808881439b10ffc24"
+    },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
