@@ -3631,6 +3631,11 @@
       "branch": "master",
       "revision": "0ca68c27f357bf3eced6d2b9715ca95357385b2f"
     },
+    "python-rencode": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rencode.git",
+      "branch": "master",
+      "revision": "4de233ec11be513b5c2140bef714b58dc37ba926"
+    },
     "python-requests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests.git",
       "branch": "master",
