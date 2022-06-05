@@ -481,6 +481,11 @@
       "branch": "master",
       "revision": "697677c0b0d599cb707a29201490495f557ae6bb"
     },
+    "python-fastnumbers": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastnumbers.git",
+      "branch": "master",
+      "revision": "3c1f7e82073b91d126285e2ce9b5526cbfed48c1"
+    },
     "python-feedparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedparser.git",
       "branch": "master",
