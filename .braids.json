@@ -3181,6 +3181,11 @@
       "branch": "master",
       "revision": "a2c9e8f3f6ae7130c024a1e2c0dc5b59119e24f9"
     },
+    "python-zope-location": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-location.git",
+      "branch": "master",
+      "revision": "3bb77496a5bce782009205b3b6cca8200173e265"
+    },
     "python-zopfli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zopfli.git",
       "branch": "master",
