@@ -421,6 +421,11 @@
       "branch": "master",
       "revision": "3b94de48ae758baeffa23fa87cac97c959bc076f"
     },
+    "perl-file-slurp-tiny": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-slurp-tiny.git",
+      "branch": "master",
+      "revision": "10af7b8109e1d9cc692522d38dfc0e0900e441da"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",

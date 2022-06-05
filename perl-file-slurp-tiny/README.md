@@ -1,0 +1,2 @@
+# perl-file-slurp-tiny
+
