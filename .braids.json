@@ -991,6 +991,11 @@
       "branch": "master",
       "revision": "a55b9260acd0a7e339491f5a7a9d594bf087ffdf"
     },
+    "python-nest-asyncio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-nest-asyncio.git",
+      "branch": "master",
+      "revision": "0794172f312a6abe7d83b2523392b52ac51e161e"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",

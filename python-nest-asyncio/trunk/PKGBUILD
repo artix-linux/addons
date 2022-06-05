@@ -1,0 +1,32 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-nest-asyncio
+pkgver=1.5.5
+pkgrel=1
+pkgdesc="Patch asyncio to allow nested event loops"
+url="https://github.com/erdewit/nest_asyncio"
+license=('BSD')
+arch=('any')
+depends=('python')
+makedepends=('python-setuptools')
+provides=('python-nest_asyncio')
+replaces=('python-nest_asyncio')
+source=("https://github.com/erdewit/nest_asyncio/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('dbf045a59dc5b61eaae0191cf13d5e1c19962c40b6f78fe8ae65dd30bf040584b9151f9fee364ff9a677250cc4d83b11398ed029b5f42985d4994837c3e09388')
+
+build() {
+  cd nest_asyncio-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd nest_asyncio-$pkgver
+  PYTHONPATH="$PWD/build/lib" python tests/nest_test.py
+}
+
+package() {
+  cd nest_asyncio-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
