@@ -551,6 +551,11 @@
       "branch": "master",
       "revision": "a26247fa0b12b6e858c6a236429a602102b615a9"
     },
+    "perl-io-socket-inet6": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-socket-inet6.git",
+      "branch": "master",
+      "revision": "b03e642685608d910f1f529a4881be1170227d17"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
