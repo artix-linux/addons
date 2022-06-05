@@ -2406,6 +2406,11 @@
       "branch": "master",
       "revision": "3f3f1094519bda29c36efdf54ef7732806ebad24"
     },
+    "python-orderedmultidict": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-orderedmultidict.git",
+      "branch": "master",
+      "revision": "523389aaf6d32c4fd1c4e746f1b294a54ddd9c12"
+    },
     "python-os-client-config": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-os-client-config.git",
       "branch": "master",
