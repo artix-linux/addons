@@ -5150,6 +5150,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-loofah.git",
       "branch": "master",
       "revision": "538621bf6cc1447dcb4e49eee180cabe0a78228e"
+    },
+    "ruby-main": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-main.git",
+      "branch": "master",
+      "revision": "0f2872db832b550308ee1a8f5b19da07f25ecd1c"
     }
   }
 }
