@@ -2876,6 +2876,11 @@
       "branch": "master",
       "revision": "772ac680eedbebc0bb6eef5826cdc9047bd96b64"
     },
+    "python-testtools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-testtools.git",
+      "branch": "master",
+      "revision": "203bb829c6d0b5a9c79e773a3673d351a9719e39"
+    },
     "python-tinycss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss.git",
       "branch": "master",
