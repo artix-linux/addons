@@ -85,6 +85,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-defusedxml.git",
       "branch": "master",
       "revision": "58bbc807b2cc25d960e1b638cf767a2acf242651"
+    },
+    "python-editdistance": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
+      "branch": "master",
+      "revision": "d8b47303b589cbc44a9ddacca42affd40afbe8b8"
     }
   }
 }
