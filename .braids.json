@@ -691,6 +691,11 @@
       "branch": "master",
       "revision": "35eaef076996e02ef739eb56f242a48c1f8788fa"
     },
+    "python-intelhex": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-intelhex.git",
+      "branch": "master",
+      "revision": "36a33c4e10d64099e996cef6430d76f756bbf02e"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
