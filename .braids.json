@@ -1701,6 +1701,11 @@
       "branch": "master",
       "revision": "f2ac27e9ebefabc55b07c4e5d193609934424586"
     },
+    "python-shtab": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-shtab.git",
+      "branch": "master",
+      "revision": "c922e95d9bac6bd35c72db649f8eb84a3f99b5c8"
+    },
     "python-six": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-six.git",
       "branch": "master",
