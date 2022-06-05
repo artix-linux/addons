@@ -731,6 +731,11 @@
       "branch": "master",
       "revision": "333df9b7519b699cba76eb5474a113d55c0308eb"
     },
+    "python-josepy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-josepy.git",
+      "branch": "master",
+      "revision": "a1805ac439ffd2614823a2960807394ffcc5033c"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
