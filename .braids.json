@@ -2766,6 +2766,11 @@
       "branch": "master",
       "revision": "e75a03975659f2b6a0aa1c3a7b0161600eecf572"
     },
+    "python-pretend": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pretend.git",
+      "branch": "master",
+      "revision": "466c1df31aeccf3898f4be90a98770c2e801346c"
+    },
     "python-prometheus_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
       "branch": "master",
