@@ -56,6 +56,11 @@
       "branch": "master",
       "revision": "425d08e31a2692f8df4a1a0c47adf1de4f88197f"
     },
+    "python-aiorpcx": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiorpcx.git",
+      "branch": "master",
+      "revision": "cb010230d9acc312be054964a95dc8202456878e"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",

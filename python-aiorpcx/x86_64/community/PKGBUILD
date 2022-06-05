@@ -1,0 +1,26 @@
+# Maintainer : Santiago Torres-Arias <santiago@archlinux.org>
+# Contributor: smmalis37
+
+pkgname='python-aiorpcx'
+pkgver=0.22.0
+pkgrel=1
+pkgdesc="A generic asyncio library implementation of RPC suitable for an application that is a client, server or both."
+url="https://github.com/kyuupichan/aiorpcX/"
+arch=('any')
+license=('MIT')
+depends=('python>=3.6' 'python-attrs')
+makedepends=('python-setuptools' 'python-websockets')
+source=("https://github.com/kyuupichan/aiorpcX/archive/${pkgver}.tar.gz")
+sha256sums=('fb68faee9bea05f283e3e41afb984c96902ff4e99d515527423460f379301c45')
+
+
+build() {
+  cd "${srcdir}/aiorpcX-${pkgver}"
+  python setup.py build
+}
+
+package() {
+  cd "${srcdir}/aiorpcX-${pkgver}"
+  python setup.py install --root="$pkgdir/" --optimize=1 --skip-build
+  install -D -m644 LICENCE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+}
