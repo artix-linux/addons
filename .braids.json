@@ -1726,6 +1726,11 @@
       "branch": "master",
       "revision": "6596a317df6d1f93371d2ff52a271e3c2bf5486b"
     },
+    "python-sly": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sly.git",
+      "branch": "master",
+      "revision": "0c77a0355ccc1ff221953ecc47601fb4462ed266"
+    },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
