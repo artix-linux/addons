@@ -246,6 +246,11 @@
       "branch": "master",
       "revision": "1296e1b962662d303b8dcaeae74aeccc08379e32"
     },
+    "python-boto": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-boto.git",
+      "branch": "master",
+      "revision": "ec56d1ec21f85029653c4e08bb7274c94e3fd52e"
+    },
     "python-breathe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-breathe.git",
       "branch": "master",
