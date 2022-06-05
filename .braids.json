@@ -2121,6 +2121,11 @@
       "branch": "master",
       "revision": "2278d6932b9c451c0ca4f3da66c3f55c1f4547b0"
     },
+    "python-mechanize": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mechanize.git",
+      "branch": "master",
+      "revision": "f2eb30913e734801d598772e6a7982e21a8af583"
+    },
     "python-mediafile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mediafile.git",
       "branch": "master",
