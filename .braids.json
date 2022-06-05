@@ -241,6 +241,11 @@
       "branch": "master",
       "revision": "62601be5d2ad7947c70ca285a26e8223bc6775e6"
     },
+    "perl-dbi": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-dbi.git",
+      "branch": "master",
+      "revision": "261e9d29cf0cf809eda3a2a1cd829d8b641d9770"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
