@@ -211,6 +211,11 @@
       "branch": "master",
       "revision": "7b5c11deb18d12e5628cfbc046ae4a9a60e25024"
     },
+    "python-async-timeout": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-async-timeout.git",
+      "branch": "master",
+      "revision": "22001844c538a923f99518b8724bfde84e42f028"
+    },
     "python-async_generator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-async_generator.git",
       "branch": "master",
