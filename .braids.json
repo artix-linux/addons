@@ -1656,6 +1656,11 @@
       "branch": "master",
       "revision": "91f4c879088cfd8863e8217cf3d277e91915faba"
     },
+    "python-rjsmin": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rjsmin.git",
+      "branch": "master",
+      "revision": "5f40c05695cb373d0b32f30c2bc8a2f894e784c1"
+    },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
