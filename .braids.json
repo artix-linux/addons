@@ -651,6 +651,11 @@
       "branch": "master",
       "revision": "566cc2998b6ba13804e10021c09c84f09cfa8ac1"
     },
+    "perl-lwp-mediatypes": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-lwp-mediatypes.git",
+      "branch": "master",
+      "revision": "dc6db3cd91dbddebc675a817fdf6d358d218fe8f"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
