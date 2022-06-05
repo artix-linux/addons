@@ -276,6 +276,11 @@
       "branch": "master",
       "revision": "cbfcc7c88d4306ed03843609636f9d63f8c937d6"
     },
+    "perl-digest-bubblebabble": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-digest-bubblebabble.git",
+      "branch": "master",
+      "revision": "63247db703965ee22c754bf6bd513a40dd1033c9"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
