@@ -986,6 +986,11 @@
       "branch": "master",
       "revision": "2f06be16a9df435d951ae7a12bf0db6d372f07fd"
     },
+    "perl-scalar-list-utils": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-scalar-list-utils.git",
+      "branch": "master",
+      "revision": "8bf2dd8cb0cc2a8cb20d7bc685bc4e10e249861d"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
