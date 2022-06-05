@@ -1611,6 +1611,11 @@
       "branch": "master",
       "revision": "691daca48d0994bd19d6687eabfd8328f0fbf2ef"
     },
+    "python-readme-renderer": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-readme-renderer.git",
+      "branch": "master",
+      "revision": "10ca9c419231719881820a3479b4cb45c7a3edb2"
+    },
     "python-requests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests.git",
       "branch": "master",
