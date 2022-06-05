@@ -1566,6 +1566,11 @@
       "branch": "master",
       "revision": "b311279f25a1a2ad13822d5f3aada04fb23a1ec4"
     },
+    "python-pallets-sphinx-themes": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pallets-sphinx-themes.git",
+      "branch": "master",
+      "revision": "5009317e2343ac3062cd1f128712f92a353fb5cd"
+    },
     "python-parsedatetime": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parsedatetime.git",
       "branch": "master",
