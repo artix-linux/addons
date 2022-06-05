@@ -51,6 +51,11 @@
       "branch": "master",
       "revision": "2cd8bf4d6c0c79c9a30875e67eda7de6b722b831"
     },
+    "python-aioresponses": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aioresponses.git",
+      "branch": "master",
+      "revision": "425d08e31a2692f8df4a1a0c47adf1de4f88197f"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
