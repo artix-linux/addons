@@ -1526,6 +1526,11 @@
       "branch": "master",
       "revision": "7eecbe55942c4a032d8ec5331934bdf2e0a4649b"
     },
+    "python-pytrie": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytrie.git",
+      "branch": "master",
+      "revision": "60caf231160e3342de3a74a1b789824cf310333e"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
