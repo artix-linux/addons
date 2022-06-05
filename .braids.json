@@ -616,6 +616,11 @@
       "branch": "master",
       "revision": "be5d9b01b5270b8d470c72b089eac06682948c19"
     },
+    "python-httplib2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-httplib2.git",
+      "branch": "master",
+      "revision": "f29a5d06c2f4cce9a3e25aa3f7f8d6235e73dbce"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
