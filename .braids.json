@@ -1861,6 +1861,11 @@
       "branch": "master",
       "revision": "85cd29ed11e37aeaa6eb6f08c1415274ade08436"
     },
+    "python-toposort": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-toposort.git",
+      "branch": "master",
+      "revision": "398c19ea2c5734eb70cb64f295f9faac1cf04444"
+    },
     "python-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
       "branch": "master",
