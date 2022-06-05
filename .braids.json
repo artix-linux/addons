@@ -1391,6 +1391,11 @@
       "branch": "master",
       "revision": "f95cd7366a3a44cd256f6b7ef88cdef8deb3ace5"
     },
+    "python-pynamodb": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynamodb.git",
+      "branch": "master",
+      "revision": "0a9d0e7173b3c5f79a1b124640498d2f5ad94bbb"
+    },
     "python-pyopenssl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
       "branch": "master",
