@@ -2026,6 +2026,11 @@
       "branch": "master",
       "revision": "45feb8da947549ad302d2b3cd5b4319da7e1a281"
     },
+    "python-lupa": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-lupa.git",
+      "branch": "master",
+      "revision": "dec722d11c44a226c33bc985ccb96df0b7a29205"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
