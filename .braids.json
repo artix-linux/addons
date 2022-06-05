@@ -2201,6 +2201,11 @@
       "branch": "master",
       "revision": "c53185a2954366aca7bf0ddf83e6066409530cb2"
     },
+    "python-mpi4py": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpi4py.git",
+      "branch": "master",
+      "revision": "0da836833f6fdc99fca6a0a2cf0a8bb607bb209c"
+    },
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
       "branch": "master",
