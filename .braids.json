@@ -3956,6 +3956,11 @@
       "branch": "master",
       "revision": "b901cc1a3ce8afff700fcba117e424d032736a87"
     },
+    "python-sniffio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sniffio.git",
+      "branch": "master",
+      "revision": "53304417e4526bc7544501d9c005cc735fd7d4d0"
+    },
     "python-socketio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-socketio.git",
       "branch": "master",
