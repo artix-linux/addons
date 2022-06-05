@@ -856,6 +856,11 @@
       "branch": "master",
       "revision": "d288bd765289191a49928cebecde3e4513308eaf"
     },
+    "perl-params-util": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-params-util.git",
+      "branch": "master",
+      "revision": "45dce8d11080fc9e78abd04627eff190ac5c91d3"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
