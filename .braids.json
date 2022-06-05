@@ -5470,6 +5470,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-stringio.git",
       "branch": "master",
       "revision": "99ceee73c33fcb6f0aab81de69abc32a1aa99156"
+    },
+    "ruby-term-ansicolor": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-term-ansicolor.git",
+      "branch": "master",
+      "revision": "2261b5f11baaaf4d58b7245bcee5ddb1e8fff6c2"
     }
   }
 }
