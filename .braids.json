@@ -1311,6 +1311,11 @@
       "branch": "master",
       "revision": "6efcb7df3f104df9a6a596bc5b501c3351455139"
     },
+    "python-pygments": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygments.git",
+      "branch": "master",
+      "revision": "98d00a2ff9cbbe5cf0176d679eed65e7828c8d3d"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
