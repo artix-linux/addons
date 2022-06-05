@@ -2161,6 +2161,11 @@
       "branch": "master",
       "revision": "f15800e35661fed7f4535b6fa685cde393a6f8b6"
     },
+    "python-pytest-flake8": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-flake8.git",
+      "branch": "master",
+      "revision": "24d0fd7131f68697e1b2776aae07c60090219fa4"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
