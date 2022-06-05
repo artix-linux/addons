@@ -2746,6 +2746,11 @@
       "branch": "master",
       "revision": "fdc2d7e97cfd9c395fbd08795e7d75368fb04098"
     },
+    "python-sphinxcontrib-towncrier": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-towncrier.git",
+      "branch": "master",
+      "revision": "623b0c7473a4626eaf69576ec5b18ac96b95a3b8"
+    },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
