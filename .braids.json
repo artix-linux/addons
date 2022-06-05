@@ -486,6 +486,11 @@
       "branch": "master",
       "revision": "3c1f7e82073b91d126285e2ce9b5526cbfed48c1"
     },
+    "python-feedgenerator": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedgenerator.git",
+      "branch": "master",
+      "revision": "ed40b4e3538ed05b92a17e7f584b3f6e3485bf8a"
+    },
     "python-feedparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedparser.git",
       "branch": "master",
