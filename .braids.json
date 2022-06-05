@@ -1906,6 +1906,11 @@
       "branch": "master",
       "revision": "453b77c25d0b7e8e62e2383b5448a42aa98bfb22"
     },
+    "python-kiwisolver": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-kiwisolver.git",
+      "branch": "master",
+      "revision": "acf2b483a61d90c78b9895c09a6d2e265b9db779"
+    },
     "python-krb5": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-krb5.git",
       "branch": "master",
