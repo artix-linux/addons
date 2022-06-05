@@ -1866,6 +1866,11 @@
       "branch": "master",
       "revision": "398c19ea2c5734eb70cb64f295f9faac1cf04444"
     },
+    "python-tqdm": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tqdm.git",
+      "branch": "master",
+      "revision": "40b73773e06c3ba9c5cfb002579fb93fb3319792"
+    },
     "python-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
       "branch": "master",
