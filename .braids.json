@@ -2301,6 +2301,11 @@
       "branch": "master",
       "revision": "e7a83eaaf0288c4a3e9118746cb0a2adf7353890"
     },
+    "python-pytest-tornado": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-tornado.git",
+      "branch": "master",
+      "revision": "b97878edbdb96fa272aecc6e5c6c7fa5a884eb46"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
