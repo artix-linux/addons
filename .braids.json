@@ -1766,6 +1766,11 @@
       "branch": "master",
       "revision": "333df9b7519b699cba76eb5474a113d55c0308eb"
     },
+    "python-jmespath": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jmespath.git",
+      "branch": "master",
+      "revision": "1745cf68bb63709efb9ccf881fc6dca8630e892b"
+    },
     "python-josepy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-josepy.git",
       "branch": "master",
