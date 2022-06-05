@@ -341,6 +341,11 @@
       "branch": "master",
       "revision": "60a320da927a8d4690df8f6c1588eeab93635ad0"
     },
+    "perl-extutils-helpers": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-extutils-helpers.git",
+      "branch": "master",
+      "revision": "ada682009379382cdc62d3bd05b4707c70fd36ff"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
