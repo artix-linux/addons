@@ -2851,6 +2851,11 @@
       "branch": "master",
       "revision": "45c57623fcaf05ce1ed7e24708ae0b4d0fb0a0ec"
     },
+    "python-testing.postgresql": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-testing.postgresql.git",
+      "branch": "master",
+      "revision": "4855e0e6123f41261388b246ec1ecc30f4d18c3b"
+    },
     "python-tinycss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss.git",
       "branch": "master",
