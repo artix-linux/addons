@@ -1586,6 +1586,11 @@
       "branch": "master",
       "revision": "a7dc512757ea84cf4a688a290d590d71e92392b3"
     },
+    "python-parse-type": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-parse-type.git",
+      "branch": "master",
+      "revision": "b542b49f09f0710bdf06dd5760da7a7b73f3adae"
+    },
     "python-parsedatetime": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parsedatetime.git",
       "branch": "master",
