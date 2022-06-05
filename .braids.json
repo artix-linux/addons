@@ -5460,6 +5460,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sinatra.git",
       "branch": "master",
       "revision": "f1e7166c722eae076ab6ce6f3dd46f3230ad2522"
+    },
+    "ruby-sqlite3": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sqlite3.git",
+      "branch": "master",
+      "revision": "5bcb571385738cd24d976eb1e636c48a029f0af0"
     }
   }
 }
