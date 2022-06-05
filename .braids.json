@@ -311,6 +311,11 @@
       "branch": "master",
       "revision": "dfafc64099d9a37053896999fd4cc30944f4af76"
     },
+    "perl-error": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-error.git",
+      "branch": "master",
+      "revision": "6ac893975300063bad653f0d9039b6ead5dc55d8"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
