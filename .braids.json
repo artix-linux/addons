@@ -766,6 +766,11 @@
       "branch": "master",
       "revision": "0b1e819b49c2813a608352ebbefbe978e0509c30"
     },
+    "perl-mro-compat": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mro-compat.git",
+      "branch": "master",
+      "revision": "a193a2c668cbec3a70ef71731dd3ceb0d34caa5a"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
