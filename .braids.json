@@ -4975,6 +4975,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-crack.git",
       "branch": "master",
       "revision": "98e21618cfe1097b64500c91b6bbd1b0400d4a9b"
+    },
+    "ruby-crass": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-crass.git",
+      "branch": "master",
+      "revision": "c7657c18e25d3e6b6cab8c601f60b19a4df01e4c"
     }
   }
 }
