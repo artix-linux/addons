@@ -236,6 +236,11 @@
       "branch": "master",
       "revision": "84067e21749d9d6bcec950363357edbf3181bffd"
     },
+    "perl-dbd-mysql": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-dbd-mysql.git",
+      "branch": "master",
+      "revision": "62601be5d2ad7947c70ca285a26e8223bc6775e6"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
