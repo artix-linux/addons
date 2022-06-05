@@ -30,6 +30,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-automat.git",
       "branch": "master",
       "revision": "9f501c1d8f6df33d0a33d65ee8da013e6d55ac67"
+    },
+    "python-beaker": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-beaker.git",
+      "branch": "master",
+      "revision": "8bf2ce8af42838e2690ef34ed7db1ac6a7d9e5c4"
     }
   }
 }
