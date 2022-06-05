@@ -296,6 +296,11 @@
       "branch": "master",
       "revision": "489f191bcbc11baae70c7e74b447ffa66d887081"
     },
+    "perl-dist-checkconflicts": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-dist-checkconflicts.git",
+      "branch": "master",
+      "revision": "c76479e280d2f6c84a5d81c9c1de086e41f0cf57"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",

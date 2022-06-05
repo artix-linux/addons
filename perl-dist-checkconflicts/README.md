@@ -1,0 +1,2 @@
+# perl-dist-checkconflicts
+
