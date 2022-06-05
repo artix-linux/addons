@@ -1126,6 +1126,11 @@
       "branch": "master",
       "revision": "4d7ac881c5a3a588055c94d9d2414d4b750e5b94"
     },
+    "perl-test-base": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-base.git",
+      "branch": "master",
+      "revision": "129bf913eccb8503d56adb4a041e8999aef6099c"
+    },
     "perl-test2-suite": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-suite.git",
       "branch": "master",
