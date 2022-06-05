@@ -1286,6 +1286,11 @@
       "branch": "master",
       "revision": "68d9f14f2429828b328b984a2502a61e1d8df12c"
     },
+    "python-fonttools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fonttools.git",
+      "branch": "master",
+      "revision": "5dd4a1359e19884e779745cf97a7c9a425b2a43d"
+    },
     "python-frozenlist": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozenlist.git",
       "branch": "master",
