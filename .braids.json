@@ -2191,6 +2191,11 @@
       "branch": "master",
       "revision": "65d90bc2f53d236082bf5173fdb8fa14da67ddd8"
     },
+    "python-mox3": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mox3.git",
+      "branch": "master",
+      "revision": "32389ad98064d7a5bfdd4ed5d1a9a8e6e42eaf04"
+    },
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
       "branch": "master",
