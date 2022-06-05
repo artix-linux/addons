@@ -1,0 +1,2 @@
+# python-doctest-ignore-unicode
+
