@@ -5340,6 +5340,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rake-compiler.git",
       "branch": "master",
       "revision": "cabe86124f839b65e1a9da5cba24a7cf38b8fa96"
+    },
+    "ruby-rb-fsevent": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rb-fsevent.git",
+      "branch": "master",
+      "revision": "ac80f4254641b1629a9d8d0a09eb1c5c92d046d3"
     }
   }
 }

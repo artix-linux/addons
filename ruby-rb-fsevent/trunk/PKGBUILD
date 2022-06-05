@@ -1,0 +1,58 @@
+# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Maintainer: George Rawlinson <grawlinson@archlinux.org>
+
+_gemname=rb-fsevent
+pkgname=ruby-${_gemname}
+pkgver=0.11.1
+pkgrel=1
+pkgdesc='FSEvents API with signals handled (without RubyCocoa)'
+url='https://github.com/thibaudgg/rb-fsevent'
+arch=('any')
+license=('MIT')
+depends=('ruby')
+makedepends=('ruby-rdoc' 'ruby-rake' 'ruby-rspec' 'ruby-bundler')
+options=('!emptydirs')
+source=(${url}/archive/v${pkgver}/${_gemname}-${pkgver}.tar.gz)
+sha512sums=('28183016c9c0ff514a3d5cefb15bdca099af8aea102c1c0a5e5d80243b210d11e37599ec36b8b22f193f090d19d8acacb66815f5538997eaf5e27125107884ff')
+b2sums=('68c1d9e90f15a01db2f47ddd244831e157c4f73dc3cafcad0c80f23d39de512636b26d3cd56dd4da40b54bc18282cb21f4653c2c2d86772c778cf2880dbaf15f')
+
+prepare() {
+  cd ${_gemname}-${pkgver}
+  sed -r 's|~>|>=|g' -i ${_gemname}.gemspec Rakefile
+  sed 's|git ls-files -z|find -type f -print0\|sed "s,\\\\./,,g"|' -i ${_gemname}.gemspec
+}
+
+build() {
+  cd ${_gemname}-${pkgver}
+  rake build
+}
+
+package() {
+  cd ${_gemname}-${pkgver}
+  local _gemdir="$(ruby -e'puts Gem.default_dir')"
+  gem install \
+    --verbose \
+    --ignore-dependencies \
+    --no-user-install \
+    --install-dir "$pkgdir/$_gemdir" \
+    --bindir "$pkgdir/usr/bin" \
+    "pkg/$_gemname-$pkgver.gem"
+
+  # delete cache
+  cd "$pkgdir/$_gemdir"
+  rm -vrf cache
+
+  # delete unnecessary files & folders
+  cd "gems/$_gemname-$pkgver"
+  rm -vrf ext .gitignore "$_gemname.gemspec"
+
+  # move documentation
+  install -vd "$pkgdir/usr/share/doc/$pkgname"
+  mv -vt "$pkgdir/usr/share/doc/$pkgname" README.md
+
+  # move license
+  install -vd "$pkgdir/usr/share/licenses/$pkgname"
+  mv -vt "$pkgdir/usr/share/licenses/$pkgname" LICENSE.txt
+}
+
+# vim: ts=2 sw=2 et:
