@@ -676,6 +676,11 @@
       "branch": "master",
       "revision": "e4d4cb62d314c772d8a2140b228aa8ce9cc3ce78"
     },
+    "perl-mail-message": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-message.git",
+      "branch": "master",
+      "revision": "d1b599e2e8bf0bf597f8629d409d4c5be54899ee"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
