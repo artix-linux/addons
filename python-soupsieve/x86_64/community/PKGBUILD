@@ -1,0 +1,34 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-soupsieve
+pkgver=2.3.1
+pkgrel=1
+pkgdesc="A CSS4 selector implementation for Beautiful Soup"
+url="https://github.com/facelessuser/soupsieve"
+license=('MIT')
+arch=('any')
+depends=('python')
+makedepends=('python-setuptools')
+checkdepends=('python-pytest' 'python-beautifulsoup4' 'python-html5lib' 'python-lxml')
+source=("https://github.com/facelessuser/soupsieve/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('3f1245b27d67e8b37bce4cb0b21b2b3f4d6b7ae112cc66672e5406c0701b28e605ed12db1e111bfeccea15625b17042e398b075b7f026d3f3e15069f0cafccac')
+
+build() {
+  cd soupsieve-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd soupsieve-$pkgver
+  # https://gitlab.gnome.org/GNOME/libxml2/-/issues/312
+  pytest \
+    --deselect tests/test_extra/test_soup_contains.py::TestSoupContains::test_contains_cdata_html \
+    --deselect tests/test_extra/test_soup_contains_own.py::TestSoupContainsOwn::test_contains_own_cdata_html
+}
+
+package() {
+  cd soupsieve-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+
+  install -Dm644 LICENSE.md "$pkgdir"/usr/share/licenses/$pkgname/LICENSE.md
+}

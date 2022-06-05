@@ -3991,6 +3991,11 @@
       "branch": "master",
       "revision": "431090e5aedce9091de0e39839357567eb7399cb"
     },
+    "python-soupsieve": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-soupsieve.git",
+      "branch": "master",
+      "revision": "29b33e20afd54d33c25b3120c31247487c834dd4"
+    },
     "python-spec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spec.git",
       "branch": "master",
