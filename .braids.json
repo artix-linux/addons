@@ -2126,6 +2126,11 @@
       "branch": "master",
       "revision": "c21646305f4ae590e4b631ad9c2ed1ce0edee9cb"
     },
+    "python-pytest-console-scripts": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-console-scripts.git",
+      "branch": "master",
+      "revision": "e0a5d40dc259f8bd3f99bab82d8cd0e0fb70bc2f"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
