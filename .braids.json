@@ -31,6 +31,11 @@
       "branch": "master",
       "revision": "4efdbfd25ce4b39963e02eca810a3d8a61df3dc3"
     },
+    "perl-archive-cpio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-archive-cpio.git",
+      "branch": "master",
+      "revision": "969ab0df0c2464d6aa58665964f7e106925cabf1"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
