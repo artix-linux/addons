@@ -160,6 +160,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numpy.git",
       "branch": "master",
       "revision": "a61269ad09c101a0ca8dd30adb9b8f9b850c8b7a"
+    },
+    "python-ordered-set": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ordered-set.git",
+      "branch": "master",
+      "revision": "3f3f1094519bda29c36efdf54ef7732806ebad24"
     }
   }
 }
