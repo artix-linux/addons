@@ -146,6 +146,11 @@
       "branch": "master",
       "revision": "29d28dd6e2e4239c8471d9b9842a656ca79a93f5"
     },
+    "python-argcomplete": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-argcomplete.git",
+      "branch": "master",
+      "revision": "daefaeea06a0836b29a38ddf85af530f10aac56e"
+    },
     "python-argon2-cffi-bindings": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argon2-cffi-bindings.git",
       "branch": "master",
