@@ -1416,6 +1416,11 @@
       "branch": "master",
       "revision": "2ae7fad3f0f01ca0a50e51c4005474643dcf885c"
     },
+    "python-pyperclip": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyperclip.git",
+      "branch": "master",
+      "revision": "31f2e14b4ae99a7f5420c85aa7978f341a2a1ace"
+    },
     "python-pyqt5-sip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyqt5-sip.git",
       "branch": "master",
