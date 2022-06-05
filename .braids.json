@@ -1281,6 +1281,11 @@
       "branch": "master",
       "revision": "74f358dc2343405f0f3a2baf1519ee5624aa016c"
     },
+    "perl-time-duration": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-time-duration.git",
+      "branch": "master",
+      "revision": "9f44d3b3a1814922899f3e4ba4a5a3f4ad4b4404"
+    },
     "perl-timedate": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-timedate.git",
       "branch": "master",
