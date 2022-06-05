@@ -1731,6 +1731,11 @@
       "branch": "master",
       "revision": "0c77a0355ccc1ff221953ecc47601fb4462ed266"
     },
+    "python-smartypants": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-smartypants.git",
+      "branch": "master",
+      "revision": "21fe6216d25c09ed0576afe0e78f198ccf400405"
+    },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
