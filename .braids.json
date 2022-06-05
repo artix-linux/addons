@@ -2116,6 +2116,11 @@
       "branch": "master",
       "revision": "06f2ed06d7e8ed73b766e56b28e8e26ecffd3a69"
     },
+    "python-pytest-celery": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-celery.git",
+      "branch": "master",
+      "revision": "562debba4c13eebae2727b23c74942272a837f2a"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
