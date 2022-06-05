@@ -171,6 +171,11 @@
       "branch": "master",
       "revision": "937565aa139a63ef375981bf4eda93e9f9c72ba4"
     },
+    "perl-crypt-random-seed": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-random-seed.git",
+      "branch": "master",
+      "revision": "8d44d0f4e3002c9257024221807c35d066bb3833"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
