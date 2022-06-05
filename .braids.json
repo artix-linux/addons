@@ -1576,6 +1576,11 @@
       "branch": "master",
       "revision": "79bb9a579320f8f55b96035125ff5a2eacbadee0"
     },
+    "python-pyzmq": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyzmq.git",
+      "branch": "master",
+      "revision": "123fb478b02d8672b24d4a5ee7b3fb8e1a343d09"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
