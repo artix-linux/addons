@@ -2171,6 +2171,11 @@
       "branch": "master",
       "revision": "812b31aae60d5f0436b7207015ff488b5ac1809f"
     },
+    "python-pytest-freezegun": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-freezegun.git",
+      "branch": "master",
+      "revision": "46695882154cddcd427e785dc0c6fc7dd6dd18ef"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
