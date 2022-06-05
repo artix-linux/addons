@@ -1006,6 +1006,11 @@
       "branch": "master",
       "revision": "f944d3c3dcd50a931fbfc870c60012ec6b979e40"
     },
+    "python-ecdsa": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ecdsa.git",
+      "branch": "master",
+      "revision": "e6ea1b06431136a92c597817b08f2a3d20764f08"
+    },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
