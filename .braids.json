@@ -5440,6 +5440,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sass-listen.git",
       "branch": "master",
       "revision": "6d5dd36691884b39b41040f39a7137012ad12a6d"
+    },
+    "ruby-scanf": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-scanf.git",
+      "branch": "master",
+      "revision": "6406cd2a62a954c5119127cdba3a3e44d7bb32f6"
     }
   }
 }
