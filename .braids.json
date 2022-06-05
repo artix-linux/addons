@@ -315,6 +315,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli-w.git",
       "branch": "master",
       "revision": "511d269aaeeda691990d4ac382b51ed2cf33a634"
+    },
+    "python-twisted": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
+      "branch": "master",
+      "revision": "4e367098d001b0e02c49819508ce674860c30528"
     }
   }
 }
