@@ -401,6 +401,11 @@
       "branch": "master",
       "revision": "6a4b1822b4cc01a50eb637df7f959424e3c6ebd8"
     },
+    "python-bowler": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-bowler.git",
+      "branch": "master",
+      "revision": "74e6a3d61cb7a04599c3ad92f1eb485bf2b3f6f9"
+    },
     "python-breathe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-breathe.git",
       "branch": "master",
