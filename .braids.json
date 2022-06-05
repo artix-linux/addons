@@ -656,6 +656,11 @@
       "branch": "master",
       "revision": "dc6db3cd91dbddebc675a817fdf6d358d218fe8f"
     },
+    "perl-lwp-protocol-https": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-lwp-protocol-https.git",
+      "branch": "master",
+      "revision": "b7674e9a7eb03b031d528f50411f94a06c065c14"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
