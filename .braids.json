@@ -2211,6 +2211,11 @@
       "branch": "master",
       "revision": "de09819c74d93091bd07211fd86c27f02b715094"
     },
+    "python-msgpack": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-msgpack.git",
+      "branch": "master",
+      "revision": "53964554cf3fcfa731b8174ffb8143230ba62984"
+    },
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
       "branch": "master",
