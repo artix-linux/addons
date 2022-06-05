@@ -2296,6 +2296,11 @@
       "branch": "master",
       "revision": "533500d3bd9e6edc037f55ac58fb2d3f511744f4"
     },
+    "python-pytest-timeout": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-timeout.git",
+      "branch": "master",
+      "revision": "e7a83eaaf0288c4a3e9118746cb0a2adf7353890"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
