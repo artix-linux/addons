@@ -196,6 +196,11 @@
       "branch": "master",
       "revision": "1580676153712dc57dea924b226e5277fbc5c071"
     },
+    "perl-data-munge": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-munge.git",
+      "branch": "master",
+      "revision": "689bf783642792096bd842f1f42209bcbdb06608"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
