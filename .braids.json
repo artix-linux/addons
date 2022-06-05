@@ -330,6 +330,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urwid.git",
       "branch": "master",
       "revision": "5a852fd70720ec951dc272e43052a38ff3aabdf6"
+    },
+    "python-virtualenv": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-virtualenv.git",
+      "branch": "master",
+      "revision": "817c568f288d6867715bb09dc4e85bdf073a0b34"
     }
   }
 }
