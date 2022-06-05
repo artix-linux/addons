@@ -4691,6 +4691,11 @@
       "branch": "master",
       "revision": "2093af4d48e398d9ea50f3bc4354c81aba34e750"
     },
+    "python-wsproto": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsproto.git",
+      "branch": "master",
+      "revision": "63e3b61a50648a3dd44907430808b8ba5450e53c"
+    },
     "python-wstools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wstools.git",
       "branch": "master",
