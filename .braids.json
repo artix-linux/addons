@@ -2091,6 +2091,11 @@
       "branch": "master",
       "revision": "799e90e1884807d1e09875e5a036ebe3da54a4af"
     },
+    "python-pytest-aiohttp": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-aiohttp.git",
+      "branch": "master",
+      "revision": "cf6e64712a3acb9842a38f93a91feb45025453b7"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
