@@ -816,6 +816,11 @@
       "branch": "master",
       "revision": "363fea5d20f2337caf6e061018635b7510d9f563"
     },
+    "python-keyutils": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyutils.git",
+      "branch": "master",
+      "revision": "453b77c25d0b7e8e62e2383b5448a42aa98bfb22"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
