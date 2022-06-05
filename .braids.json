@@ -1081,6 +1081,11 @@
       "branch": "master",
       "revision": "ea1c1a5af701b0f16efa9490308e8009446bfdcf"
     },
+    "python-pdfrw": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pdfrw.git",
+      "branch": "master",
+      "revision": "204713e9ca78885ff45582e5c6b6b7bcf5012af8"
+    },
     "python-pep517": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep517.git",
       "branch": "master",
