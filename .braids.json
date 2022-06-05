@@ -2256,6 +2256,11 @@
       "branch": "master",
       "revision": "d18350b0a1e6f6921d69122b1d64ba78eb21c4d8"
     },
+    "python-mysqlclient": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mysqlclient.git",
+      "branch": "master",
+      "revision": "ba036381a1eac3c4241e5f553d4f36089430b32f"
+    },
     "python-myst-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-myst-parser.git",
       "branch": "master",
