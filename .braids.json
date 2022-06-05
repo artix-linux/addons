@@ -150,6 +150,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
       "revision": "ba2601730715097999166d51ca3a593aff759b0b"
+    },
+    "python-notify2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-notify2.git",
+      "branch": "master",
+      "revision": "f30216b3419c8d5636db69c4d4cbf767e8d3ffad"
     }
   }
 }
