@@ -1,0 +1,50 @@
+# Maintainer: Andreas 'Segaja' Schleifer <segaja at archlinux dot org>
+
+_gemname='loofah'
+pkgname="ruby-${_gemname}"
+pkgver=2.18.0
+pkgrel=1
+pkgdesc='HTML/XML manipulation and sanitization based on Nokogiri'
+arch=('any')
+url='https://github.com/flavorjones/loofah'
+license=('MIT')
+options=(!emptydirs)
+depends=('ruby' 'ruby-crass' 'ruby-nokogiri')
+checkdepends=('ruby-minitest' 'ruby-rake' 'ruby-rr')
+source=("${url}/archive/v${pkgver}/${pkgname}-${pkgver}.tar.gz")
+sha512sums=('beb637ad8f43c036e428a42bc0f3d693bc0b5685e41c12ebb88072974b2c7408c2a5f8a3cffb68b019f1c7e5140b388b53fd7c86f35e57e2efdc037088828017')
+
+prepare() {
+  cd "${_gemname}-${pkgver}"
+
+  # update gemspec/Gemfile to allow newer version of the dependencies
+  sed --in-place --regexp-extended 's|~>|>=|g' "${_gemname}.gemspec"
+
+  # no need for markdown beautifying
+  sed --in-place --regexp-extended '/hoe/Id' Rakefile "${_gemname}.gemspec"
+}
+
+build() {
+  cd "${_gemname}-${pkgver}"
+
+  gem build "${_gemname}.gemspec"
+}
+
+check() {
+  cd "${_gemname}-${pkgver}"
+
+  rake test
+}
+
+package() {
+  cd "${_gemname}-${pkgver}"
+
+  local _gemdir="$(gem env gemdir)"
+
+  gem install --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" -n "${pkgdir}/usr/bin" "${_gemname}-${pkgver}.gem"
+
+  rm "${pkgdir}/${_gemdir}/cache/${_gemname}-${pkgver}.gem"
+
+  install -Dm 644 MIT-LICENSE.txt "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+  install -Dm 644 CHANGELOG.md README.md SECURITY.md --target-directory "${pkgdir}/usr/share/doc/${pkgname}"
+}

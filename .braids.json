@@ -5145,6 +5145,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-locale.git",
       "branch": "master",
       "revision": "334aca30151b758169ed404a7917d5631e00c348"
+    },
+    "ruby-loofah": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-loofah.git",
+      "branch": "master",
+      "revision": "538621bf6cc1447dcb4e49eee180cabe0a78228e"
     }
   }
 }
