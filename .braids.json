@@ -1281,6 +1281,11 @@
       "branch": "master",
       "revision": "ebf6cfaa26054ae4737d6c65cfb27d12c95f371e"
     },
+    "python-pyenchant": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyenchant.git",
+      "branch": "master",
+      "revision": "291bee2c6318e831bc743cb4a52a488041d23ab1"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
