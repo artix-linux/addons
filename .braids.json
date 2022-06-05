@@ -641,6 +641,11 @@
       "branch": "master",
       "revision": "dd8046c2cb560e684967f7adecff0892c609466c"
     },
+    "python-humanfriendly": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-humanfriendly.git",
+      "branch": "master",
+      "revision": "c07335c70ceaf0487fe7f02144106f3a84c1f5e1"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
