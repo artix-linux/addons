@@ -1586,6 +1586,11 @@
       "branch": "master",
       "revision": "2a4910a888250b7d6439580da638c64df8cb8117"
     },
+    "python-qrcode": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-qrcode.git",
+      "branch": "master",
+      "revision": "be6035650a6de7fb13f0f9b2ee0a400e88787443"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
