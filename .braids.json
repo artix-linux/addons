@@ -175,6 +175,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patiencediff.git",
       "branch": "master",
       "revision": "cb7f2b2bee252bbf4d691b29d4316b42b7ab250c"
+    },
+    "python-pep517": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep517.git",
+      "branch": "master",
+      "revision": "f7d9277b99e6820564feb5077b054fed3282075f"
     }
   }
 }
