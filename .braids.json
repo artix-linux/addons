@@ -1906,6 +1906,11 @@
       "branch": "master",
       "revision": "9ab8e6752249ca110d4a25966d88a5d42c59aadf"
     },
+    "python-uc-micro-py": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-uc-micro-py.git",
+      "branch": "master",
+      "revision": "c46f96e4df77e5fc26377b4f297072329b255657"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
