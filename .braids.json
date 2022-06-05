@@ -781,6 +781,11 @@
       "branch": "master",
       "revision": "521fa3ffb9b02b8ba180a2aba900c0fc83c81cbe"
     },
+    "python-jsonrpclib-pelix": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonrpclib-pelix.git",
+      "branch": "master",
+      "revision": "e3dc6a449e9a1415a11ee6ee8a1455360346fafe"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
