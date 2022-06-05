@@ -1261,6 +1261,11 @@
       "branch": "master",
       "revision": "b36eeeb9c59d7a658270f84a9a0da0d696a6ccf6"
     },
+    "python-flex": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flex.git",
+      "branch": "master",
+      "revision": "2af92bd058342baf9f75fe1900c051125725008b"
+    },
     "python-flit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit.git",
       "branch": "master",
