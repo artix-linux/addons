@@ -5430,6 +5430,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-samus.git",
       "branch": "master",
       "revision": "327fe94a4502d7b1c8635017ea80da17dfa8eb0d"
+    },
+    "ruby-sass": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sass.git",
+      "branch": "master",
+      "revision": "39d1700a1224d310a5905bdcaf3d8b9d0a1b44a8"
     }
   }
 }
