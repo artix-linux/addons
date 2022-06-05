@@ -45,6 +45,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cffi.git",
       "branch": "master",
       "revision": "ab0327ca4318eba8c4d80b12397940dbc842d437"
+    },
+    "python-chardet": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-chardet.git",
+      "branch": "master",
+      "revision": "56b2ffcd7863a549db59845a3e98034e9441cc6d"
     }
   }
 }
