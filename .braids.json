@@ -1166,6 +1166,11 @@
       "branch": "master",
       "revision": "5beda2264e9c6ae61cb730f50a29c4ab3464f464"
     },
+    "python-filelock": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-filelock.git",
+      "branch": "master",
+      "revision": "6437322eeb930627b714e6472dea7fe4783571e0"
+    },
     "python-first": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-first.git",
       "branch": "master",
