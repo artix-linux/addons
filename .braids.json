@@ -301,6 +301,11 @@
       "branch": "master",
       "revision": "c76479e280d2f6c84a5d81c9c1de086e41f0cf57"
     },
+    "perl-encode-locale": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-encode-locale.git",
+      "branch": "master",
+      "revision": "a25a9dc8089d89aa18640af409790007483ad474"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
