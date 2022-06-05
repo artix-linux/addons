@@ -1491,6 +1491,11 @@
       "branch": "master",
       "revision": "852d36e6a6e49a3bdeace3d4c9cba14e83be0fbf"
     },
+    "python-pyspnego": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyspnego.git",
+      "branch": "master",
+      "revision": "f8ef0d2035f278c334f521fba0a5e5721c050828"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
