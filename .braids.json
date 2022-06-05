@@ -1261,6 +1261,11 @@
       "branch": "master",
       "revision": "b96e3e9a4671efb651785835e359fc0b747c5db2"
     },
+    "python-pydantic": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydantic.git",
+      "branch": "master",
+      "revision": "4fd6e8fb2325ff3bbdf4d54054ae67ffbc13a53d"
+    },
     "python-pyelftools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyelftools.git",
       "branch": "master",
