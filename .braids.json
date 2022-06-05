@@ -4516,6 +4516,11 @@
       "branch": "master",
       "revision": "d7ef365ea012a01358d82845e0205205f526f265"
     },
+    "python-unittest-mixins": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-unittest-mixins.git",
+      "branch": "master",
+      "revision": "234c095f73ca0a3912568751ecc5e1af9bc661d2"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
