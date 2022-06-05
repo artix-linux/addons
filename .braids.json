@@ -3806,6 +3806,11 @@
       "branch": "master",
       "revision": "5d61c4026effeb9b60331a9bc2b0823f2665cb07"
     },
+    "python-scripttest": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-scripttest.git",
+      "branch": "master",
+      "revision": "879117ea50533e85f6ac84730850cbe199338bc4"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
