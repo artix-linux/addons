@@ -50,6 +50,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-chardet.git",
       "branch": "master",
       "revision": "56b2ffcd7863a549db59845a3e98034e9441cc6d"
+    },
+    "python-constantly": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
+      "branch": "master",
+      "revision": "ad92ba733cc957abf1e299461d0b466624335524"
     }
   }
 }
