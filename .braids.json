@@ -1671,6 +1671,11 @@
       "branch": "master",
       "revision": "8303f7963b1fb23ade7e40c85bf106e41ed29d7c"
     },
+    "python-schema": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-schema.git",
+      "branch": "master",
+      "revision": "587e7c035d3e3babfd38b389c21b817f635df539"
+    },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
