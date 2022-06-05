@@ -1396,6 +1396,11 @@
       "branch": "master",
       "revision": "0d45d08f0c416c006ba23ca69dc5a4eb07ed3100"
     },
+    "perl-yaml-libyaml": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-yaml-libyaml.git",
+      "branch": "master",
+      "revision": "fc40bc3617c46d6544abdea54519da141455b5a8"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
