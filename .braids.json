@@ -116,6 +116,11 @@
       "branch": "master",
       "revision": "7fbe27fa66dc18090c1fe6d4d6a19c7b6a381442"
     },
+    "perl-clone": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-clone.git",
+      "branch": "master",
+      "revision": "4f5d903103dddbce0bcf2851ee107740399def81"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
