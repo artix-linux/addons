@@ -1506,6 +1506,11 @@
       "branch": "master",
       "revision": "51c51dfad29b8700dce2ec8ac6ee9b2e9b959bae"
     },
+    "python-hkdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hkdf.git",
+      "branch": "master",
+      "revision": "a5695ad54fa147d44714b2ba2636f1bf3bf5c5ee"
+    },
     "python-http-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-http-parser.git",
       "branch": "master",
