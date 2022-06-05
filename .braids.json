@@ -391,6 +391,11 @@
       "branch": "master",
       "revision": "eef0860f6db5caae6702a39a6b484fe1db57ff99"
     },
+    "perl-file-find-rule-perl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-find-rule-perl.git",
+      "branch": "master",
+      "revision": "2a04d041134cf17dded8d60e9dc52aba2d91d428"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
