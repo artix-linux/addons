@@ -486,6 +486,11 @@
       "branch": "master",
       "revision": "41bb9de8e75e3a7dc6457951f21ce59ea8178ac2"
     },
+    "perl-image-exiftool": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-image-exiftool.git",
+      "branch": "master",
+      "revision": "6828c16f421b9f050c092b93c84c6e08ea7667a0"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
