@@ -281,6 +281,11 @@
       "branch": "master",
       "revision": "85d01511d36a31ee51c9f0022ab70b2b0a8eb4d3"
     },
+    "python-crashtest": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-crashtest.git",
+      "branch": "master",
+      "revision": "52adada6e35da1f8fb96679c1f1b5c87c3b669fc"
+    },
     "python-cryptography": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cryptography.git",
       "branch": "master",
