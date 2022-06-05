@@ -886,6 +886,11 @@
       "branch": "master",
       "revision": "3c15e3da4bebf1e48fb251c6c7db1f1389f1e30e"
     },
+    "perl-path-class": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-path-class.git",
+      "branch": "master",
+      "revision": "474149416a52dbe3b5b18fd743324e694b18d5ae"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
