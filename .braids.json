@@ -2276,6 +2276,11 @@
       "branch": "master",
       "revision": "4d1f55da4c545de519f27c7a1377bcc9b16234ff"
     },
+    "python-pytest-socket": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-socket.git",
+      "branch": "master",
+      "revision": "d7f38d20fc22a188629de7f608f0861d7c6d5349"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
