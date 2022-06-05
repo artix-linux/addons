@@ -1,0 +1,37 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-pytest-mypy
+pkgver=0.9.1
+pkgrel=1
+pkgdesc='Mypy static type checker plugin for Pytest'
+arch=('any')
+license=('MIT')
+url='https://github.com/dbader/pytest-mypy'
+depends=('mypy' 'python-filelock' 'python-pytest')
+makedepends=('python-setuptools-scm')
+checkdepends=('python-pytest-xdist' 'python-pexpect')
+source=("https://github.com/dbader/pytest-mypy/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('c18a258d64b3a8040725d900cde04c32c4b5ad4ec56a983ec2f8f96a9c15528527478881b96663bac79af4e88012188e3272dcb84bb5ec943d71dfd06b0ec52e')
+
+export SETUPTOOLS_SCM_PRETEND_VERSION=$pkgver
+
+build() {
+  cd pytest-mypy-$pkgver
+  python setup.py build
+}
+
+check() {
+  # Hack entry points by installing it
+
+  cd pytest-mypy-$pkgver
+  python setup.py install --root="$PWD/tmp_install" --optimize=1
+  PYTHONPATH="$PWD/tmp_install/usr/lib/python3.10/site-packages:$PYTHONPATH" pytest
+}
+
+package() {
+  cd pytest-mypy-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+  install -D -m644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
+
+# vim:set ts=2 sw=2 et:
