@@ -5335,6 +5335,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rake.git",
       "branch": "master",
       "revision": "9e5ae6b7519656c554fb9139ee44ec66d122a9fb"
+    },
+    "ruby-rake-compiler": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rake-compiler.git",
+      "branch": "master",
+      "revision": "cabe86124f839b65e1a9da5cba24a7cf38b8fa96"
     }
   }
 }
