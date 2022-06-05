@@ -2101,6 +2101,11 @@
       "branch": "master",
       "revision": "b9fd97d849e0d0494174a10684a96590aaa74a07"
     },
+    "python-pytest-bdd": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-bdd.git",
+      "branch": "master",
+      "revision": "d9b0bb248cb82014bc0b14497c4c6f58819cdacf"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
