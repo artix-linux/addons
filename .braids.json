@@ -5090,6 +5090,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hashdiff.git",
       "branch": "master",
       "revision": "6185b49fea1d96d0273076e4b7f31184167feb75"
+    },
+    "ruby-hitimes": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hitimes.git",
+      "branch": "master",
+      "revision": "4414f9ab7245e1ffe803f7fb5644858297299ff2"
     }
   }
 }
