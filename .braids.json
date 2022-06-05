@@ -396,6 +396,11 @@
       "branch": "master",
       "revision": "69fa21cba1141b4b0fa75519516ba078390090a8"
     },
+    "python-bottleneck": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-bottleneck.git",
+      "branch": "master",
+      "revision": "6a4b1822b4cc01a50eb637df7f959424e3c6ebd8"
+    },
     "python-breathe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-breathe.git",
       "branch": "master",
