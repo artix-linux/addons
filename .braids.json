@@ -1096,6 +1096,11 @@
       "branch": "master",
       "revision": "0f8b054b9fcfd30c03160ff814ca8ecbe6ffcedf"
     },
+    "perl-task-weaken": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-task-weaken.git",
+      "branch": "master",
+      "revision": "bf9db7071670348c89b8a0d8e41dd532e23e4e02"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
