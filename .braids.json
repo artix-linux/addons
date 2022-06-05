@@ -266,6 +266,11 @@
       "branch": "master",
       "revision": "c04639c94f5f997c352281987d8d79b79eaf7c20"
     },
+    "python-commonmark": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-commonmark.git",
+      "branch": "master",
+      "revision": "dc14870d7ac8a4d9a3798e39b951883f4cb77e7c"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
