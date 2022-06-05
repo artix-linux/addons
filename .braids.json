@@ -71,6 +71,11 @@
       "branch": "master",
       "revision": "df40ea8ff9b043a9aa26f18365cc84638890830f"
     },
+    "python-aiounittest": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiounittest.git",
+      "branch": "master",
+      "revision": "2be209763678bd90f8b89873f51e4bcec097bb6d"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
