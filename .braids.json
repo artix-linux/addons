@@ -366,6 +366,11 @@
       "branch": "master",
       "revision": "2af6824692b9333f5b28ca0eda5af7a771ffb846"
     },
+    "python-click-plugins": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-plugins.git",
+      "branch": "master",
+      "revision": "e1b358d2d89bed67875854663ede66c8f79c1c42"
+    },
     "python-clikit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clikit.git",
       "branch": "master",
