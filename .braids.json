@@ -1096,6 +1096,11 @@
       "branch": "master",
       "revision": "f7a8f147ea093eb61553d0f7cdb369321bbc9aef"
     },
+    "python-pexpect": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pexpect.git",
+      "branch": "master",
+      "revision": "32ff7c5e7873e6183020909a368a30fac01f035e"
+    },
     "python-pip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip.git",
       "branch": "master",
