@@ -716,6 +716,11 @@
       "branch": "master",
       "revision": "94945430cb92ab1707338cb04608a3ee675cc2f8"
     },
+    "python-isort": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-isort.git",
+      "branch": "master",
+      "revision": "1826ddb3fffbfdede272ef1a6e419fad3b036224"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
