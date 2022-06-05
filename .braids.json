@@ -746,6 +746,11 @@
       "branch": "master",
       "revision": "1b454dcde89d8b354d60ca4d1d8fde8972d29988"
     },
+    "python-json-logger": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-json-logger.git",
+      "branch": "master",
+      "revision": "b5997fe63bbde356d667a0eba49448e89039b9b5"
+    },
     "python-json5": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-json5.git",
       "branch": "master",
