@@ -921,6 +921,11 @@
       "branch": "master",
       "revision": "2278d6932b9c451c0ca4f3da66c3f55c1f4547b0"
     },
+    "python-mediafile": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mediafile.git",
+      "branch": "master",
+      "revision": "971b86f95bb312aef3fcc99436bb3515aa1cf7e8"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
