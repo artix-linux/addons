@@ -4526,6 +4526,11 @@
       "branch": "master",
       "revision": "a2981d373bfbc0e2a602e0cf47464dc3382de2be"
     },
+    "python-uritemplate": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-uritemplate.git",
+      "branch": "master",
+      "revision": "f597088242c2a2b5480431de6dff2da45fdc7076"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
