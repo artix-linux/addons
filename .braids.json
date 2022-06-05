@@ -4631,6 +4631,11 @@
       "branch": "master",
       "revision": "7748c21eb1a02af9640f1bbe71bc1be670dfe114"
     },
+    "python-webencodings": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-webencodings.git",
+      "branch": "master",
+      "revision": "dcb7da0174dbab6129ebc02b8e33e531300d19a0"
+    },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
