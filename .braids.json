@@ -1951,6 +1951,11 @@
       "branch": "master",
       "revision": "c0837c07332e9723a5b8e41b20254ff373f55fb2"
     },
+    "python-wcag-contrast-ratio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcag-contrast-ratio.git",
+      "branch": "master",
+      "revision": "5cce6526f802df251465423b9ad14b38aefc346f"
+    },
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
