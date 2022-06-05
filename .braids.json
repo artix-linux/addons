@@ -1511,6 +1511,11 @@
       "branch": "master",
       "revision": "a5695ad54fa147d44714b2ba2636f1bf3bf5c5ee"
     },
+    "python-hpack": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hpack.git",
+      "branch": "master",
+      "revision": "b8e713589b52790d1159b6847556824b9e3e07b9"
+    },
     "python-http-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-http-parser.git",
       "branch": "master",
