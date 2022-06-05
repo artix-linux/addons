@@ -2921,6 +2921,11 @@
       "branch": "master",
       "revision": "398c19ea2c5734eb70cb64f295f9faac1cf04444"
     },
+    "python-tox": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tox.git",
+      "branch": "master",
+      "revision": "c467301e521f702b53f3d3b7856e1c6bb64f0d1b"
+    },
     "python-tqdm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tqdm.git",
       "branch": "master",
