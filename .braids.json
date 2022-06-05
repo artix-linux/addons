@@ -466,6 +466,11 @@
       "branch": "master",
       "revision": "10cfc318e3c233443acec1ac298c656a92cf583d"
     },
+    "python-faker": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-faker.git",
+      "branch": "master",
+      "revision": "811ca530d2c8967853dc80b2705f7d2af5e69803"
+    },
     "python-fastimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
       "branch": "master",
