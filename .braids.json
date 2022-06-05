@@ -771,6 +771,11 @@
       "branch": "master",
       "revision": "a193a2c668cbec3a70ef71731dd3ceb0d34caa5a"
     },
+    "perl-namespace-autoclean": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-namespace-autoclean.git",
+      "branch": "master",
+      "revision": "9d5ea1a72f9651cc4a7ac3db90b4d7b9011d7403"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
