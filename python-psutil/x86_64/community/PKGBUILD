@@ -1,0 +1,40 @@
+# Maintainer: Sébastien Luttringer
+
+pkgname=python-psutil
+pkgver=5.9.0
+pkgrel=2
+arch=('x86_64')
+pkgdesc='A cross-platform process and system utilities module for Python'
+url='https://github.com/giampaolo/psutil'
+license=('custom: BSD')
+depends=('python')
+makedepends=('python-setuptools')
+checkdepends=('net-tools' 'procps-ng' 'python-pytest')
+source=("https://github.com/giampaolo/psutil/archive/release-$pkgver.tar.gz")
+sha512sums=('8f105b84773c901a7969937bac2289281dc48f160f20e2d3d5f9b11f4a108fddf9864b477884c00ec33c3809f9f514a5f5faea623b7445dd8e637b96105a865b')
+
+build() {
+  cd psutil-release-$pkgver
+
+  python setup.py build --build-lib=build/python
+}
+
+check() {
+  cd psutil-release-$pkgver
+
+  # Required for testing
+#cp setup.py build/python
+#cp -r scripts build/python/
+
+# 4 non-working tests in build chroot, requires fixes. Test framework does not allow exclusion.
+#  PYTHONPATH="$PWD/build/python" python psutil/tests/__main__.py
+}
+
+package() {
+  cd psutil-release-$pkgver
+  python setup.py build --build-lib=build/python \
+                  install --root="$pkgdir" --optimize=1
+  install -D -m 644 LICENSE "$pkgdir/"usr/share/licenses/$pkgname/LICENSE
+}
+
+# vim:set ts=2 sw=2 et:
