@@ -345,6 +345,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wstools.git",
       "branch": "master",
       "revision": "5d0c06428052934658455da5f25661995404bf69"
+    },
+    "python-zope-interface": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
+      "branch": "master",
+      "revision": "a2c9e8f3f6ae7130c024a1e2c0dc5b59119e24f9"
     }
   }
 }
