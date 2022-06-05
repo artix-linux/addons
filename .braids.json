@@ -2531,6 +2531,11 @@
       "branch": "master",
       "revision": "6b143758ba993ef2f840e2fbac936d2b70732f48"
     },
+    "python-parso": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-parso.git",
+      "branch": "master",
+      "revision": "815372755c4a94aa0ee16ebf0e8100c1ff5b575f"
+    },
     "python-partd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-partd.git",
       "branch": "master",
