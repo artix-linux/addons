@@ -1366,6 +1366,11 @@
       "branch": "master",
       "revision": "075dd8657aaaaf467f08ba8d5084fce11dae65cd"
     },
+    "perl-xml-sax-base": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-sax-base.git",
+      "branch": "master",
+      "revision": "97b925fbfbd37a1367a4fe4a8dab77efa8d7c1fb"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
