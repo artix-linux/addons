@@ -4541,6 +4541,11 @@
       "branch": "master",
       "revision": "5a852fd70720ec951dc272e43052a38ff3aabdf6"
     },
+    "python-uvloop": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-uvloop.git",
+      "branch": "master",
+      "revision": "011bcdcd116bcfe213404f37ce5c09608dff89fa"
+    },
     "python-vcrpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vcrpy.git",
       "branch": "master",
