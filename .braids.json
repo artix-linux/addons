@@ -1836,6 +1836,11 @@
       "branch": "master",
       "revision": "badfb4fcc4c4e6e0f2747f98833af76e80804b59"
     },
+    "python-tokenize-rt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tokenize-rt.git",
+      "branch": "master",
+      "revision": "85a55dc6b20beacf8435bbaf2d0082610044a79a"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
