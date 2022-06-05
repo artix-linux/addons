@@ -200,6 +200,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
       "branch": "master",
       "revision": "6eb00bca70457899990734d7040f6c8929c22672"
+    },
+    "python-pyasn1": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
+      "branch": "master",
+      "revision": "2d960b14883effc3e6aa2c602c77cfb5c248e054"
     }
   }
 }
