@@ -386,6 +386,11 @@
       "branch": "master",
       "revision": "1afd19a7509dd5408d8c9a5cc4ba6623b0cefd49"
     },
+    "python-distro": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-distro.git",
+      "branch": "master",
+      "revision": "b3f6acb55a3752e616797c248f887f352b17158c"
+    },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
