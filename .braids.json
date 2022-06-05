@@ -881,6 +881,11 @@
       "branch": "master",
       "revision": "29216ef6c748860666cf6095ed31ece7f22e3295"
     },
+    "perl-parse-yapp": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-parse-yapp.git",
+      "branch": "master",
+      "revision": "3c15e3da4bebf1e48fb251c6c7db1f1389f1e30e"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
