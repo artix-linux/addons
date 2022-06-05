@@ -5020,6 +5020,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-em_http.git",
       "branch": "master",
       "revision": "f584d584672896e35987a4f3c3799c72b03297c5"
+    },
+    "ruby-faraday-em_synchrony": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-em_synchrony.git",
+      "branch": "master",
+      "revision": "91d35cac833cf6ffeb85a9d617cdb8f64334eeb0"
     }
   }
 }
