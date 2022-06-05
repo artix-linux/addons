@@ -71,6 +71,11 @@
       "branch": "master",
       "revision": "5b8433d730d73d05f6834007292096be857cd907"
     },
+    "python-astroid": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-astroid.git",
+      "branch": "master",
+      "revision": "63488aa60c9d51429c6879e1551b1534e4867f78"
+    },
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
