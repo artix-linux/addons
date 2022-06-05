@@ -1136,6 +1136,11 @@
       "branch": "master",
       "revision": "3c1f7e82073b91d126285e2ce9b5526cbfed48c1"
     },
+    "python-fastpbkdf2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastpbkdf2.git",
+      "branch": "master",
+      "revision": "4bf122d4152663a88c601719b6f888dff1b4c27a"
+    },
     "python-feedgenerator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedgenerator.git",
       "branch": "master",
