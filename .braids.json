@@ -61,6 +61,11 @@
       "branch": "master",
       "revision": "cb010230d9acc312be054964a95dc8202456878e"
     },
+    "python-aiosignal": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosignal.git",
+      "branch": "master",
+      "revision": "f74732cc6f6cc722ec055c4e239111af16762af2"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
