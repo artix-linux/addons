@@ -31,6 +31,11 @@
       "branch": "master",
       "revision": "5c2d797e382964e98cdc9eb905b2ee6c60a84b1d"
     },
+    "python-aiohttp-cors": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-cors.git",
+      "branch": "master",
+      "revision": "29d87f537465913ce99c38e223cabbf837faaa42"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
