@@ -76,6 +76,11 @@
       "branch": "master",
       "revision": "63488aa60c9d51429c6879e1551b1534e4867f78"
     },
+    "python-asttokens": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-asttokens.git",
+      "branch": "master",
+      "revision": "660b6c750a6dc32135beb72da4fff537bb24b126"
+    },
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
