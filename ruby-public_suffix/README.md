@@ -1,0 +1,2 @@
+# ruby-public_suffix
+

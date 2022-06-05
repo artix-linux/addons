@@ -5290,6 +5290,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-psych.git",
       "branch": "master",
       "revision": "50d1ca5468f743f416bdb3330d3bf9be93c855ad"
+    },
+    "ruby-public_suffix": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-public_suffix.git",
+      "branch": "master",
+      "revision": "548fc9227e0599b21dd6a94a0889aee8aace692a"
     }
   }
 }
