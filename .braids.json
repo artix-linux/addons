@@ -1211,6 +1211,11 @@
       "branch": "master",
       "revision": "c8517c3cfe8fda62bfb97793dc8525272ee6b189"
     },
+    "perl-test-requiresinternet": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-requiresinternet.git",
+      "branch": "master",
+      "revision": "a49be43337d6e7d4e4b032eae9fb1fb3df0812b7"
+    },
     "perl-test2-suite": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-suite.git",
       "branch": "master",

@@ -1,0 +1,2 @@
+# perl-test-requiresinternet
+
