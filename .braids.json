@@ -1301,6 +1301,11 @@
       "branch": "master",
       "revision": "7a86ea46fbd9caf253fa42e9ce90c53432522379"
     },
+    "python-pygal": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygal.git",
+      "branch": "master",
+      "revision": "17c47b6af68f9d20fdd87c124c7ee7485f516d14"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
