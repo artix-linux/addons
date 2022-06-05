@@ -285,6 +285,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
       "revision": "1c3cb6c278df7c8fdd12efc26aec904cbc068e92"
+    },
+    "python-setuptools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools.git",
+      "branch": "master",
+      "revision": "22546c8b4e5e9874656d2adbba0baef049b94fab"
     }
   }
 }
