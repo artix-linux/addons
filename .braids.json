@@ -5040,6 +5040,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-multipart.git",
       "branch": "master",
       "revision": "9106bb2247dc502213cb02f2e35f42b2f12f2e5f"
+    },
+    "ruby-faraday-net_http": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-net_http.git",
+      "branch": "master",
+      "revision": "d14d5fd6214fe233ed2383919e1103cacfe83374"
     }
   }
 }
