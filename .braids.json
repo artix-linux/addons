@@ -4521,6 +4521,11 @@
       "branch": "master",
       "revision": "234c095f73ca0a3912568751ecc5e1af9bc661d2"
     },
+    "python-unpaddedbase64": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-unpaddedbase64.git",
+      "branch": "master",
+      "revision": "a2981d373bfbc0e2a602e0cf47464dc3382de2be"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
