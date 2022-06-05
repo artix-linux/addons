@@ -3191,6 +3191,11 @@
       "branch": "master",
       "revision": "136c72756fadd9c0bd840d1f3bd1c0fb8d8c33bf"
     },
+    "python-zope-schema": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-schema.git",
+      "branch": "master",
+      "revision": "97b270ea0384da317e0ec8d35865277f30077144"
+    },
     "python-zopfli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zopfli.git",
       "branch": "master",
