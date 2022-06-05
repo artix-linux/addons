@@ -4431,6 +4431,11 @@
       "branch": "master",
       "revision": "ae5bdd1fb66894ebbc519de15b614300b643c3a4"
     },
+    "python-typed-ast": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-typed-ast.git",
+      "branch": "master",
+      "revision": "e3edfa11f6003069319d6676d13e7248cd3b9217"
+    },
     "python-typeguard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typeguard.git",
       "branch": "master",
