@@ -26,6 +26,11 @@
       "branch": "master",
       "revision": "5c8ef73f08bb6633b07014043924b0421498276c"
     },
+    "perl-appconfig": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-appconfig.git",
+      "branch": "master",
+      "revision": "4efdbfd25ce4b39963e02eca810a3d8a61df3dc3"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
