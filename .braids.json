@@ -1596,6 +1596,11 @@
       "branch": "master",
       "revision": "e4ba62b1c4a6ce3945c934b466de760597fc8b5d"
     },
+    "python-quart": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-quart.git",
+      "branch": "master",
+      "revision": "3c7d8a667662cc2da4619583b0539c647cfc9600"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
