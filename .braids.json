@@ -1671,6 +1671,11 @@
       "branch": "master",
       "revision": "7afbf80344176e42d9c78952a3cf9fe75983cc1e"
     },
+    "python-pip-api": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip-api.git",
+      "branch": "master",
+      "revision": "590182df05edd04d5f320391f6d4399247218459"
+    },
     "python-pkgconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pkgconfig.git",
       "branch": "master",
