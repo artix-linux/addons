@@ -105,6 +105,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedparser.git",
       "branch": "master",
       "revision": "5086f6a160929dae78673ddc3235909d08cc62d5"
+    },
+    "python-geoip": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
+      "branch": "master",
+      "revision": "47dd0c4f1c5474f1f632c86862267267d7b6cc23"
     }
   }
 }
