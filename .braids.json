@@ -851,6 +851,11 @@
       "branch": "master",
       "revision": "60731f2fa6545aa9d890c564c20c724632c63bb8"
     },
+    "perl-padwalker": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-padwalker.git",
+      "branch": "master",
+      "revision": "d288bd765289191a49928cebecde3e4513308eaf"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
