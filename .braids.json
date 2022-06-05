@@ -2001,6 +2001,11 @@
       "branch": "master",
       "revision": "348e6ba2cca6f1e333680cf937ee22f31c2aa170"
     },
+    "python-xlsxwriter": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlsxwriter.git",
+      "branch": "master",
+      "revision": "dcc799d1342c540d34600512927d7a06b57e4b20"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
