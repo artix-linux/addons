@@ -4426,6 +4426,11 @@
       "branch": "master",
       "revision": "a3eeeaceddeb07b1936327248cf897bdd2396759"
     },
+    "python-txtorcon": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-txtorcon.git",
+      "branch": "master",
+      "revision": "ae5bdd1fb66894ebbc519de15b614300b643c3a4"
+    },
     "python-typeguard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typeguard.git",
       "branch": "master",
