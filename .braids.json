@@ -51,6 +51,11 @@
       "branch": "master",
       "revision": "310804cac78b2fd20df93db2e0a63c7a51d9677d"
     },
+    "perl-b-keywords": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-b-keywords.git",
+      "branch": "master",
+      "revision": "e8023bfb54ed63359b573bfcc7ba202700d45799"
+    },
     "perl-berkeleydb": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-berkeleydb.git",
       "branch": "master",
