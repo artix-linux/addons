@@ -5275,6 +5275,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-permessage_deflate.git",
       "branch": "master",
       "revision": "de56ad01af2a01c456094af5a17aae6fc47bc937"
+    },
+    "ruby-pkg-config": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-pkg-config.git",
+      "branch": "master",
+      "revision": "7f12656995daca6c08ad903ca610507b4de660a7"
     }
   }
 }
