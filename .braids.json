@@ -251,6 +251,11 @@
       "branch": "master",
       "revision": "996458acc4009096fb19384dcb32efc85e03cf7e"
     },
+    "python-colored-traceback": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-colored-traceback.git",
+      "branch": "master",
+      "revision": "647d364cca082a93d7b107f6821850cd25ab9d23"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
