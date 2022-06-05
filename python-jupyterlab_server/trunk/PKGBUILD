@@ -1,0 +1,36 @@
+# Maintainer: Antonio Rojas <arojas@archlinux.org>
+# Contributor: Guillaume Duboc <guilduboc@gmail.com>
+
+_pipname=jupyterlab_server
+pkgname=python-$_pipname
+pkgver=2.14.0
+pkgrel=1
+pkgdesc='Launch an application built using JupyterLab'
+arch=(any)
+url='https://jupyter.org/'
+license=(custom)
+depends=(jupyter-server python-requests python-json5 python-babel)
+makedepends=(python-build python-installer python-hatchling)
+checkdepends=(python-pytest-tornasync python-pytest-cov python-pytest-timeout
+              python-openapi-core python-strict-rfc3339 python-ruamel-yaml python-parse python-pip)
+conflicts=(jupyterlab_server)
+replaces=(jupyterlab_server)
+source=(https://pypi.io/packages/source/j/$_pipname/$_pipname-$pkgver.tar.gz)
+sha256sums=('b04eaf68fe1ef96f70dd38b256417abe0b6ba1a07dd8ca0c97da5b0ebade57ec')
+
+build() {
+  cd $_pipname-$pkgver
+  python -m build --wheel --no-isolation
+}
+
+check() {
+  cd $_pipname-$pkgver
+  pytest -v -k 'not test_translation_api.py' -W ignore::pytest.PytestAssertRewriteWarning -W ignore::DeprecationWarning
+}
+
+package() {
+  cd $_pipname-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname
+}
