@@ -3576,6 +3576,11 @@
       "branch": "master",
       "revision": "f6852e615cff231a5515c014d6561928dbf91827"
     },
+    "python-random2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-random2.git",
+      "branch": "master",
+      "revision": "d57335c6de1235c118d0ec367a6b05fa2b11c3e7"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
