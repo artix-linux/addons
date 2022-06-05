@@ -541,6 +541,11 @@
       "branch": "master",
       "revision": "59fcb6e7f180f4180cc7fa0199e0f764f2663b9d"
     },
+    "python-cherrypy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cherrypy.git",
+      "branch": "master",
+      "revision": "a7d962f0ee80de60ac6c937863381a26395249c3"
+    },
     "python-cleo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cleo.git",
       "branch": "master",
