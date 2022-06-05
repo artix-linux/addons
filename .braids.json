@@ -2316,6 +2316,11 @@
       "branch": "master",
       "revision": "02492d79600b5ecd4ba744da1c562682b071fdc1"
     },
+    "python-pytest-twisted": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-twisted.git",
+      "branch": "master",
+      "revision": "570ee6c525d331f71d254549cdd848f0e82f9f6a"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
