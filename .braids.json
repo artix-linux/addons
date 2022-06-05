@@ -5410,6 +5410,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-support.git",
       "branch": "master",
       "revision": "be892ba611437480ae8cc297cbca6b204cbf4849"
+    },
+    "ruby-ruby2_keywords": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ruby2_keywords.git",
+      "branch": "master",
+      "revision": "73f4974af65b2124676a8065c45f5b09aade7c37"
     }
   }
 }
