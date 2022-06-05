@@ -3106,6 +3106,11 @@
       "branch": "master",
       "revision": "c40fe3226338328b0fc7c50e8c50cfbc73132f65"
     },
+    "python-pynvim": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynvim.git",
+      "branch": "master",
+      "revision": "de43e637417666ce2017c1f05a3951167df8f865"
+    },
     "python-pyocd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyocd.git",
       "branch": "master",
