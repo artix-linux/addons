@@ -280,6 +280,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-retrying.git",
       "branch": "master",
       "revision": "10d0897e729eda752851b04ad29f79b13abfae49"
+    },
+    "python-service-identity": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
+      "branch": "master",
+      "revision": "1c3cb6c278df7c8fdd12efc26aec904cbc068e92"
     }
   }
 }
