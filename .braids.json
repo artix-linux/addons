@@ -1801,6 +1801,11 @@
       "branch": "master",
       "revision": "3d5b9efe8eb15f301c85d797a872a658e9882abb"
     },
+    "python-stack-data": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-stack-data.git",
+      "branch": "master",
+      "revision": "36b991a4c8ba29b59584c3d0c09fa9a3072a4059"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
