@@ -1611,6 +1611,11 @@
       "branch": "master",
       "revision": "9f3d3874f26c4b45c3bb5b50ad11c10bd55ad6e0"
     },
+    "python-pathspec": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pathspec.git",
+      "branch": "master",
+      "revision": "c00d162a8b8d2de318f2711850a38804a7dc8ed9"
+    },
     "python-patiencediff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patiencediff.git",
       "branch": "master",
