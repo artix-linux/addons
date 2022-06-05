@@ -361,6 +361,11 @@
       "branch": "master",
       "revision": "c01f562d74a85f03b12af7b5a4ad921922b22798"
     },
+    "python-bleach": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-bleach.git",
+      "branch": "master",
+      "revision": "9a67ca652a09c125ad17703fba68f85871594c56"
+    },
     "python-boto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-boto.git",
       "branch": "master",
