@@ -2291,6 +2291,11 @@
       "branch": "master",
       "revision": "fa76b9a17774f2839c46ace0f7debe44a8846cae"
     },
+    "python-pytest-sugar": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-sugar.git",
+      "branch": "master",
+      "revision": "533500d3bd9e6edc037f55ac58fb2d3f511744f4"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
