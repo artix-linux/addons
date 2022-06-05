@@ -1,0 +1,32 @@
+# Maintainer: Angel Velasquez <angvp@archlinux.org>
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Contributor: Douglas Soares de Andrade <douglas@archlinux.org>
+# Contributor: Mario Danic <mario.danic@gmail.com>
+
+pkgname=python-paramiko
+pkgver=2.11.0
+pkgrel=1
+pkgdesc="Python module that implements the SSH2 protocol"
+url="https://github.com/paramiko/paramiko/"
+license=('LGPL')
+arch=('any')
+depends=('python-bcrypt' 'python-cryptography' 'python-pynacl')
+makedepends=('python-setuptools' 'python-bcrypt' 'python-cryptography' 'python-pynacl')
+checkdepends=('python-pytest-runner' 'python-pytest-relaxed' 'python-pyasn1' 'python-invoke'
+             'python-mock')
+source=("https://github.com/paramiko/paramiko/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('59e439bd54d83938f91d6c9888f2278bafa4ca48582939580bdabc6207dbe6dc856f6006ad26b7ec91b9d39e92ca70dc6270c6b5d4f77a5e1fa0ec8bd084d4b5')
+
+check() {
+  cd paramiko-$pkgver
+  LANG=en_US.UTF-8 python setup.py pytest
+}
+
+package() {
+  cd paramiko-$pkgver
+
+  python setup.py install --root="$pkgdir" --optimize=1
+  install -dm755 "$pkgdir"/usr/share/doc/$pkgname/demos
+  install -m644 demos/* "$pkgdir"/usr/share/doc/$pkgname/demos
+  chmod 755 "$pkgdir"/usr/share/doc/$pkgname/demos/*.py
+}
