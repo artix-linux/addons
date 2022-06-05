@@ -1511,6 +1511,11 @@
       "branch": "master",
       "revision": "5e37d75ae4e702835905212341343e4ea76024f6"
     },
+    "python-oslo-concurrency": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-concurrency.git",
+      "branch": "master",
+      "revision": "a08d73f2876290f607c77111703cfc0556df93b5"
+    },
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
