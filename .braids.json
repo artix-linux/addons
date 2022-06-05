@@ -2586,6 +2586,11 @@
       "branch": "master",
       "revision": "4aabd93af8813d4ebaffe27966c7af459874cfff"
     },
+    "python-setuptools-rust": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools-rust.git",
+      "branch": "master",
+      "revision": "3f5dcac4437496033f4c1519d67a59c86b73ffdb"
+    },
     "python-sgmllib3k": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sgmllib3k.git",
       "branch": "master",
