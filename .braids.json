@@ -5170,6 +5170,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-maruku.git",
       "branch": "master",
       "revision": "84f0ce0379c8d0f57c508b8f561dc3aeb8e5aea0"
+    },
+    "ruby-mini_portile": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mini_portile.git",
+      "branch": "master",
+      "revision": "12ba5875e77454038df1b9539e44749cb8a188e7"
     }
   }
 }
