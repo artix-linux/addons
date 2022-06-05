@@ -4201,6 +4201,11 @@
       "branch": "master",
       "revision": "d4db64e15435f1effaf7bc7e73e279dd43b6a223"
     },
+    "python-sure": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sure.git",
+      "branch": "master",
+      "revision": "0211a6169dda9abab64a489bda7bc30ddb610aaf"
+    },
     "python-svglib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
       "branch": "master",
