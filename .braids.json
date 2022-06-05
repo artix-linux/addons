@@ -741,6 +741,11 @@
       "branch": "master",
       "revision": "b1eff2f47a9df1907445568292cffc6b75a818ba"
     },
+    "python-flake8-black": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-black.git",
+      "branch": "master",
+      "revision": "93a3fb63286748007beabae9a5b0fbb65654016d"
+    },
     "python-flit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit.git",
       "branch": "master",
