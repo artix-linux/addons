@@ -2586,6 +2586,11 @@
       "branch": "master",
       "revision": "cb7f2b2bee252bbf4d691b29d4316b42b7ab250c"
     },
+    "python-patsy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-patsy.git",
+      "branch": "master",
+      "revision": "9efd08a6c2b08597b11315b25fb9a95c0101f815"
+    },
     "python-pbkdf2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pbkdf2.git",
       "branch": "master",
