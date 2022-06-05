@@ -4596,6 +4596,11 @@
       "branch": "master",
       "revision": "9ed8e3bdaa0a1b72c84ab95892028a00f7b5a974"
     },
+    "python-waitress": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-waitress.git",
+      "branch": "master",
+      "revision": "f3aa1064da835167640ad5b06c22896731f96620"
+    },
     "python-wcag-contrast-ratio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcag-contrast-ratio.git",
       "branch": "master",
