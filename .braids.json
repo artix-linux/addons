@@ -2001,6 +2001,11 @@
       "branch": "master",
       "revision": "a86cd47c06d8f938cdb39b3c0b533c0b0b3c975b"
     },
+    "python-logbook": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-logbook.git",
+      "branch": "master",
+      "revision": "1186d7b3447b83351acd43817f5a971272d3258d"
+    },
     "python-lsp-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-black.git",
       "branch": "master",
