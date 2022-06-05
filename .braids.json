@@ -4391,6 +4391,11 @@
       "branch": "master",
       "revision": "31a4d57a03cfb2a016b1d3a2c86409e05669c740"
     },
+    "python-treq": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-treq.git",
+      "branch": "master",
+      "revision": "799e20de85157db72406ca5d9e5400b8013ee8ed"
+    },
     "python-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trio.git",
       "branch": "master",
