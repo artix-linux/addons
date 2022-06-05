@@ -1696,6 +1696,11 @@
       "branch": "master",
       "revision": "4a55060b9efb6d199b9dc21581f64397acf6ff1a"
     },
+    "python-should-dsl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-should-dsl.git",
+      "branch": "master",
+      "revision": "f2ac27e9ebefabc55b07c4e5d193609934424586"
+    },
     "python-six": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-six.git",
       "branch": "master",
