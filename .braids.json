@@ -3161,6 +3161,11 @@
       "branch": "master",
       "revision": "f4daccf3906c6d09e51ac5e0e6fbb34b45d48e7c"
     },
+    "python-zope-exceptions": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-exceptions.git",
+      "branch": "master",
+      "revision": "feb5f10ee7e705ffe90a4cfd58d02a3e5d9bd7f5"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
