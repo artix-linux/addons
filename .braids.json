@@ -4920,6 +4920,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-arrayfields.git",
       "branch": "master",
       "revision": "e4af609fc24ab3a09c1673bf0d520828d61cee69"
+    },
+    "ruby-async": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async.git",
+      "branch": "master",
+      "revision": "cae8391bb6614811530cad340f18920ed71de01e"
     }
   }
 }
