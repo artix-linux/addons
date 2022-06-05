@@ -1331,6 +1331,11 @@
       "branch": "master",
       "revision": "81255e0ee043bd20959d30ad586f06342b4bfcd3"
     },
+    "perl-variable-magic": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-variable-magic.git",
+      "branch": "master",
+      "revision": "d4d3b8992bdda0f1e5a63060fb98a99861735d46"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
