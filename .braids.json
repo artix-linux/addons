@@ -4186,6 +4186,11 @@
       "branch": "master",
       "revision": "810cae9afb784688eddf456cf8e7c28002907b6b"
     },
+    "python-stevedore": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-stevedore.git",
+      "branch": "master",
+      "revision": "9fc4dfd671fc98357852d9019234fd7b274d8068"
+    },
     "python-svglib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
       "branch": "master",
