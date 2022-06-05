@@ -3571,6 +3571,11 @@
       "branch": "master",
       "revision": "3c7d8a667662cc2da4619583b0539c647cfc9600"
     },
+    "python-railroad-diagrams": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-railroad-diagrams.git",
+      "branch": "master",
+      "revision": "f6852e615cff231a5515c014d6561928dbf91827"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
