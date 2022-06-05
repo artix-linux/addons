@@ -171,6 +171,11 @@
       "branch": "master",
       "revision": "48c4376068fb616e2f0f28a7e5dd508d5e4874fb"
     },
+    "python-arpeggio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-arpeggio.git",
+      "branch": "master",
+      "revision": "370b112a206422928a2ff66879fd795bad3298b1"
+    },
     "python-asgiref": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asgiref.git",
       "branch": "master",
