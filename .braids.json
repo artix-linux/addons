@@ -5035,6 +5035,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-httpclient.git",
       "branch": "master",
       "revision": "28d7df438061bffde7a74681d6d558329e20bc8b"
+    },
+    "ruby-faraday-multipart": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-multipart.git",
+      "branch": "master",
+      "revision": "9106bb2247dc502213cb02f2e35f42b2f12f2e5f"
     }
   }
 }
