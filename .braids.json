@@ -91,6 +91,11 @@
       "branch": "master",
       "revision": "4ad1802ed94ee5d1c53a4806ebd0831a5ca93845"
     },
+    "perl-class-inspector": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-inspector.git",
+      "branch": "master",
+      "revision": "3ea94151f254b89495f3a96cb904aee98319972e"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
