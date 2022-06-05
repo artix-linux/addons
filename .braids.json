@@ -1901,6 +1901,11 @@
       "branch": "master",
       "revision": "e7d768c80fb524ae2779146c8ded382214354824"
     },
+    "python-ubjson": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ubjson.git",
+      "branch": "master",
+      "revision": "9ab8e6752249ca110d4a25966d88a5d42c59aadf"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
