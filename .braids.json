@@ -3766,6 +3766,11 @@
       "branch": "master",
       "revision": "9bdc5e22922dbeadacf0c8b9c0f8697c46801b2e"
     },
+    "python-rx": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rx.git",
+      "branch": "master",
+      "revision": "a8218c74822963dfeee2e83f72326c215295b599"
+    },
     "python-sarif-om": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sarif-om.git",
       "branch": "master",
