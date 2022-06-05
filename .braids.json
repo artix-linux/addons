@@ -381,6 +381,11 @@
       "branch": "master",
       "revision": "1984a508182c469fa76fb33faaa3c0fbb03ee668"
     },
+    "perl-file-copy-recursive-reduced": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-copy-recursive-reduced.git",
+      "branch": "master",
+      "revision": "4de07d54bdb7037b579eb59d3a493857668e99d4"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
