@@ -1266,6 +1266,11 @@
       "branch": "master",
       "revision": "bbf91f4ca7d1e8d38da675e65120336fd85409d6"
     },
+    "perl-text-glob": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-glob.git",
+      "branch": "master",
+      "revision": "9d16bc39ce4ff305d786acef60ebb315b60bb47b"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
