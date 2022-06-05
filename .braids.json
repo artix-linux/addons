@@ -1956,6 +1956,11 @@
       "branch": "master",
       "revision": "5cce6526f802df251465423b9ad14b38aefc346f"
     },
+    "python-wheel": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
+      "branch": "master",
+      "revision": "1cb2bb685ff5045884ac947d8d37467e8bea63ce"
+    },
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
