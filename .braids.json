@@ -110,6 +110,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
       "revision": "47dd0c4f1c5474f1f632c86862267267d7b6cc23"
+    },
+    "python-hyperlink": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
+      "branch": "master",
+      "revision": "9d94ea883c1bd52af7ec1d650e304857d5a9ce58"
     }
   }
 }
