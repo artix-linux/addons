@@ -275,6 +275,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-resolvelib.git",
       "branch": "master",
       "revision": "e72c2eae3fa3771daa26f3a91d9ae0a0c72e611f"
+    },
+    "python-retrying": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-retrying.git",
+      "branch": "master",
+      "revision": "10d0897e729eda752851b04ad29f79b13abfae49"
     }
   }
 }
