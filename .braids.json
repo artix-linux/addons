@@ -131,6 +131,11 @@
       "branch": "master",
       "revision": "cc3f654741310077ee59e326bca690e088d9a499"
     },
+    "python-bincopy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-bincopy.git",
+      "branch": "master",
+      "revision": "f913320d31a02890c110cfd50f08d55bfa7a7e22"
+    },
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
