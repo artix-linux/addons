@@ -4306,6 +4306,11 @@
       "branch": "master",
       "revision": "203bb829c6d0b5a9c79e773a3673d351a9719e39"
     },
+    "python-text-unidecode": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-text-unidecode.git",
+      "branch": "master",
+      "revision": "f3be7c65e71c1b03912797a929f97bad77cbb2f2"
+    },
     "python-tinycss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss.git",
       "branch": "master",
