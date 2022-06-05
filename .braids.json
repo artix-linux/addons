@@ -674,7 +674,7 @@
     "perl-mail-dkim": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-dkim.git",
       "branch": "master",
-      "revision": "e4d4cb62d314c772d8a2140b228aa8ce9cc3ce78"
+      "revision": "c41fd4d6bf0a5a00fa746bdc2c74172d84092cf9"
     },
     "perl-mail-message": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-message.git",
