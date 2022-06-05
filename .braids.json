@@ -165,6 +165,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ordered-set.git",
       "branch": "master",
       "revision": "3f3f1094519bda29c36efdf54ef7732806ebad24"
+    },
+    "python-packaging": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
+      "branch": "master",
+      "revision": "b311279f25a1a2ad13822d5f3aada04fb23a1ec4"
     }
   }
 }
