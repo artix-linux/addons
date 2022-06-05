@@ -1,0 +1,37 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Caleb Maclennan <caleb@alerque.com>
+
+pkgname=python-pypandoc
+pkgver=1.7.4
+pkgrel=1
+pkgdesc="Thin wrapper for pandoc"
+arch=('any')
+license=('MIT')
+url="https://github.com/bebraw/pypandoc"
+depends=('pandoc')
+makedepends=('python-setuptools')
+checkdepends=('texlive-core' 'texlive-latexextra')
+source=("https://github.com/bebraw/pypandoc/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('9a31a0c1050ba8ae5b70a404893958da0d7d450a73d9d48fa344c08cc92a69d59b47d63d5d47e1ea060e1df840f68930a293e369b32b9255d67cc54bd26362c5')
+
+prepare() {
+  # We don't really need pip and wheel at runtime
+  sed -i "/install_requires = /d" pypandoc-$pkgver/setup.py
+}
+
+build() {
+  cd pypandoc-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd pypandoc-$pkgver
+  # https://github.com/NicklasTegner/pypandoc/issues/278
+  python setup.py test || echo "Tests failed"
+}
+
+package() {
+  cd pypandoc-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+  install -D -m644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
