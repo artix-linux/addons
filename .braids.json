@@ -2291,6 +2291,11 @@
       "branch": "master",
       "revision": "bd754b56ac50f4d372814d0f067d995e15ff8574"
     },
+    "python-netcdf4": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-netcdf4.git",
+      "branch": "master",
+      "revision": "a41d1a8ffa90e78846691f093db385540ea84460"
+    },
     "python-nodeenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nodeenv.git",
       "branch": "master",
