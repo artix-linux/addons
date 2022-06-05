@@ -210,6 +210,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1-modules.git",
       "branch": "master",
       "revision": "5a13cf7ef58fdfee82c6c52aba8dd4d7a73865d6"
+    },
+    "python-pycparser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycparser.git",
+      "branch": "master",
+      "revision": "953dfc54e7adc37fae6673fd5dbc67fd670d7fa0"
     }
   }
 }
