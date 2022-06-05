@@ -1896,6 +1896,11 @@
       "branch": "master",
       "revision": "9a446def31d1f3fea9de96e9d0eaf4cffc4db326"
     },
+    "python-tzdata": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tzdata.git",
+      "branch": "master",
+      "revision": "e7d768c80fb524ae2779146c8ded382214354824"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
