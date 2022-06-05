@@ -240,6 +240,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyparsing.git",
       "branch": "master",
       "revision": "2ae7fad3f0f01ca0a50e51c4005474643dcf885c"
+    },
+    "python-pyqt5-sip": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyqt5-sip.git",
+      "branch": "master",
+      "revision": "2896dbb945d8904ab50f4cf6acd58e3362fc7d0c"
     }
   }
 }
