@@ -2486,6 +2486,11 @@
       "branch": "master",
       "revision": "300fc7aa9cc20a5fb1ba098bdaca7b050b6f1d6e"
     },
+    "python-requests-toolbelt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-toolbelt.git",
+      "branch": "master",
+      "revision": "8533814bd6a3fd8a9eb4586bd10c659a1194c9b8"
+    },
     "python-requestsexceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requestsexceptions.git",
       "branch": "master",
