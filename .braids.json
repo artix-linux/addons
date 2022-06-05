@@ -1271,6 +1271,11 @@
       "branch": "master",
       "revision": "9d16bc39ce4ff305d786acef60ebb315b60bb47b"
     },
+    "perl-text-wrapi18n": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-wrapi18n.git",
+      "branch": "master",
+      "revision": "19316806dd0acdfe063f3830ac9129cda1d88f9e"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
