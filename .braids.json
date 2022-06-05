@@ -1031,6 +1031,11 @@
       "branch": "master",
       "revision": "cbe5d59dcbdf25392575e11690977016fdff4dc0"
     },
+    "perl-string-crc32": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-string-crc32.git",
+      "branch": "master",
+      "revision": "986d446703a92b798aa71132528cedd91a711158"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
