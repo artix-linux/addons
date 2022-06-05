@@ -871,6 +871,11 @@
       "branch": "master",
       "revision": "0a1485d0779e42d1bddc0ef4af19f89efd3ce280"
     },
+    "python-google-api-core": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-api-core.git",
+      "branch": "master",
+      "revision": "0d5c6efcace198bfbdff2b387fa74e2f82b5f401"
+    },
     "python-graphviz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphviz.git",
       "branch": "master",
