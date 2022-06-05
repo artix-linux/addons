@@ -1321,6 +1321,11 @@
       "branch": "master",
       "revision": "7be128601cb217671e6188fad964d4b9e8c2d44b"
     },
+    "python-pyicu": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyicu.git",
+      "branch": "master",
+      "revision": "5f5f7f6ae6928695a849af3fab94dcda8f403a7b"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
