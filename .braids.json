@@ -1546,6 +1546,11 @@
       "branch": "master",
       "revision": "0be0abd680bc3d20a08470bc8b3ff9b32b7367c7"
     },
+    "python-oslotest": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslotest.git",
+      "branch": "master",
+      "revision": "506556782c81a3c0694f14df7223f54a33e42441"
+    },
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
