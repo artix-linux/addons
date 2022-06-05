@@ -2306,6 +2306,11 @@
       "branch": "master",
       "revision": "b97878edbdb96fa272aecc6e5c6c7fa5a884eb46"
     },
+    "python-pytest-tornasync": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-tornasync.git",
+      "branch": "master",
+      "revision": "2b8852f0e8bba65a842fb615aa722f8564f0bcc0"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
