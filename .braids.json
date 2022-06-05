@@ -2801,6 +2801,11 @@
       "branch": "master",
       "revision": "6eb00bca70457899990734d7040f6c8929c22672"
     },
+    "python-promise": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-promise.git",
+      "branch": "master",
+      "revision": "f76c51b3ca243d96423709039063735439dc5617"
+    },
     "python-proxy.py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-proxy.py.git",
       "branch": "master",
