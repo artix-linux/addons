@@ -461,6 +461,11 @@
       "branch": "master",
       "revision": "68c2622a38cefce7bb5cc0febd52482855cb5de5"
     },
+    "python-expects": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-expects.git",
+      "branch": "master",
+      "revision": "10cfc318e3c233443acec1ac298c656a92cf583d"
+    },
     "python-fastimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
       "branch": "master",
