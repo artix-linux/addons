@@ -181,6 +181,11 @@
       "branch": "master",
       "revision": "cadf40076f7fe62fd3ac30d32e284ee898bce71b"
     },
+    "python-cattrs": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cattrs.git",
+      "branch": "master",
+      "revision": "9e35d0dfa5311a6df1106ec816673b1503934580"
+    },
     "python-cffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cffi.git",
       "branch": "master",
