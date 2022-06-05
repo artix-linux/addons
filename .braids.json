@@ -121,6 +121,11 @@
       "branch": "master",
       "revision": "8bf2ce8af42838e2690ef34ed7db1ac6a7d9e5c4"
     },
+    "python-behave": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-behave.git",
+      "branch": "master",
+      "revision": "6357a08537a1c6a66b55036952374c0a8eede620"
+    },
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
