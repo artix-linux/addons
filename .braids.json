@@ -2646,6 +2646,11 @@
       "branch": "master",
       "revision": "5662bdc3da00fe5cc8c00e1727e32b8015c41683"
     },
+    "python-phonenumbers": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
+      "branch": "master",
+      "revision": "1fb2cb99144c89296d59e9b55bd33bb79d46d4bf"
+    },
     "python-pickleshare": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pickleshare.git",
       "branch": "master",
