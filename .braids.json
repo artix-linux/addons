@@ -1951,6 +1951,11 @@
       "branch": "master",
       "revision": "879df4476faabf9966f1746d87b390d299eba323"
     },
+    "python-pylons-sphinx-themes": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylons-sphinx-themes.git",
+      "branch": "master",
+      "revision": "d5b403cb6e6e53140319d59f3c0040e2e311580b"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
