@@ -70,6 +70,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cssselect.git",
       "branch": "master",
       "revision": "acbb88bc0fe274a89dc1e95fe756d9581a53aefe"
+    },
+    "python-csv23": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-csv23.git",
+      "branch": "master",
+      "revision": "9c516014bda07aa0478db70b6ef6222fc239ae7c"
     }
   }
 }
