@@ -4311,6 +4311,11 @@
       "branch": "master",
       "revision": "f3be7c65e71c1b03912797a929f97bad77cbb2f2"
     },
+    "python-threadpoolctl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-threadpoolctl.git",
+      "branch": "master",
+      "revision": "da1a1ba9b2369ac858a157be15b45c01fcdfb649"
+    },
     "python-tinycss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss.git",
       "branch": "master",
