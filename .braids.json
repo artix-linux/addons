@@ -411,6 +411,11 @@
       "branch": "master",
       "revision": "81aa7707ffbfd4b686fd92f06bc79dc6b0993edc"
     },
+    "python-dulwich": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dulwich.git",
+      "branch": "master",
+      "revision": "09e7fda7a28a9eb852e775d7bd6a754b21358141"
+    },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
