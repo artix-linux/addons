@@ -1,0 +1,34 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
+
+pkgname=python-glanceclient
+pkgver=4.0.0
+pkgrel=1
+pkgdesc="OpenStack Image API Client Library"
+arch=('any')
+url="https://docs.openstack.org/developer/python-glanceclient"
+license=('Apache')
+depends=('python-pbr' 'python-prettytable' 'python-keystoneauth1' 'python-requests' 'python-warlock'
+         'python-oslo-utils' 'python-oslo-i18n' 'python-wrapt' 'python-pyopenssl')
+makedepends=('python-setuptools')
+checkdepends=('python-stestr' 'python-ddt' 'python-mock' 'python-requests-mock' 'python-testscenarios')
+options=('!emptydirs')
+source=("https://github.com/openstack/python-glanceclient/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('4ec6473a5a100219e9425e2f90105283a1267f4da8545fe58c6422336f7ce6cd159a65425d894c3c4e3dddc2e44f9ffebef0c7209a2721971430e38654f7743f')
+
+export PBR_VERSION=$pkgver
+
+build() {
+  cd python-glanceclient-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd python-glanceclient-$pkgver
+  stestr run
+}
+
+package() {
+  cd python-glanceclient-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+}
