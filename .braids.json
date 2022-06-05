@@ -3961,6 +3961,11 @@
       "branch": "master",
       "revision": "53304417e4526bc7544501d9c005cc735fd7d4d0"
     },
+    "python-snowballstemmer": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-snowballstemmer.git",
+      "branch": "master",
+      "revision": "cf0a4b81fbd0290c5534ee3d1bc53acc58ff2f53"
+    },
     "python-socketio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-socketio.git",
       "branch": "master",
