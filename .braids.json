@@ -2941,6 +2941,11 @@
       "branch": "master",
       "revision": "43d67dbbcc412be05425d15103961f31ce3b4915"
     },
+    "python-trio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-trio.git",
+      "branch": "master",
+      "revision": "936aa2786a140a21aa6ba485e7f0c9bf4cd971d3"
+    },
     "python-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
       "branch": "master",
