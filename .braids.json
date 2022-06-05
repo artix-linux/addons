@@ -5550,6 +5550,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-yard.git",
       "branch": "master",
       "revision": "9fdc21e7ada28ba225d8fb2372c7a03ae261302f"
+    },
+    "ruby-zeitwerk": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-zeitwerk.git",
+      "branch": "master",
+      "revision": "d4e5e39566a09b38548dec70519024186cc9189b"
     }
   }
 }
