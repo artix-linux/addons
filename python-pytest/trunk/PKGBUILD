@@ -1,0 +1,50 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Daniel M. Capella <polyzen@archlinux.org>
+# Contributor: Felix Kaiser <felix.kaiser@fxkr.net>
+
+pkgname=python-pytest
+pkgver=7.1.2
+pkgrel=1
+pkgdesc="Simple powerful testing with Python"
+arch=('any')
+license=('MIT')
+url="https://pytest.org/"
+depends=('python-attrs' 'python-iniconfig' 'python-packaging' 'python-pluggy'
+         'python-py' 'python-tomli')
+makedepends=('python-setuptools')
+checkdepends=('python-argcomplete' 'python-hypothesis' 'python-mock'
+              'python-nose' 'python-requests' 'python-xmlschema'
+              # Unlisted, but actually used. Check again after a while:
+              'lsof' 'python-asynctest' 'python-decorator' 'python-docutils'
+              'python-jinja' 'python-numpy' 'python-pexpect' 'python-pygments'
+              'python-pytest-xdist' 'python-twisted')
+source=("https://files.pythonhosted.org/packages/source/p/pytest/pytest-$pkgver.tar.gz")
+sha256sums=('a06a0425453864a270bc45e71f783330a7428defb4230fb5e6a731fde06ecd45')
+b2sums=('c59e477ba52f2ff6f9885b91bbdc9b70dd4ffced3902417cd2e8cf28ba778e92ab5738f1be4d1c8c5c41c7140ac56622b6d44261d618426ae39fd00026bf139c')
+
+# Remove dep on setuptools_scm
+prepare() {
+  cd pytest-$pkgver
+  sed -i "/^\[metadata\]/a version = $pkgver
+  /setuptools-scm/d" setup.cfg
+  sed -i '/setuptools-scm\|wheel/d
+  /\[tool.setuptools_scm\]/,/^$/d' pyproject.toml
+}
+
+build() {
+  cd pytest-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd pytest-$pkgver
+  python -m venv --system-site-packages test-env
+  test-env/bin/python setup.py install --optimize=1 --skip-build
+  test-env/bin/python -m pytest
+}
+
+package() {
+  cd pytest-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+  install -D -m644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
