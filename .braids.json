@@ -936,6 +936,11 @@
       "branch": "master",
       "revision": "0f9d1e3db7ca420885979defad87d96ba4e1f129"
     },
+    "python-docker": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-docker.git",
+      "branch": "master",
+      "revision": "07cc7d7338e0f789275b4986334186ed5b3f12da"
+    },
     "python-docstring-to-markdown": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docstring-to-markdown.git",
       "branch": "master",
