@@ -5205,6 +5205,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-multi_json.git",
       "branch": "master",
       "revision": "95856068b7059ed3db6d74189be87845f4297165"
+    },
+    "ruby-multipart-parser": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-multipart-parser.git",
+      "branch": "master",
+      "revision": "787783192670656d497847cb2e63b7d81f60c2ed"
     }
   }
 }
