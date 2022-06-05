@@ -1286,6 +1286,11 @@
       "branch": "master",
       "revision": "291bee2c6318e831bc743cb4a52a488041d23ab1"
     },
+    "python-pyfakefs": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyfakefs.git",
+      "branch": "master",
+      "revision": "d435d706dbcb6d4246e9b2dfee1407a15a7f0786"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
