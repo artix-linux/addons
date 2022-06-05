@@ -1301,6 +1301,11 @@
       "branch": "master",
       "revision": "0ab137e12e3237fe92c1f63b86bf650dfc2bc184"
     },
+    "perl-try-tiny": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-try-tiny.git",
+      "branch": "master",
+      "revision": "aa0b6f7e7d1aeabecc99d0a36b432447f7b83ac3"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
