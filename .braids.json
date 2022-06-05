@@ -1476,6 +1476,11 @@
       "branch": "master",
       "revision": "c3d04f5421c57e08aefedafba0118a7ff89cf75b"
     },
+    "python-pyserial": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyserial.git",
+      "branch": "master",
+      "revision": "5d248cc6ec55bdd1f82ae9792b267d36d4eece78"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
