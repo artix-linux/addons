@@ -3736,6 +3736,11 @@
       "branch": "master",
       "revision": "5f40c05695cb373d0b32f30c2bc8a2f894e784c1"
     },
+    "python-rope": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rope.git",
+      "branch": "master",
+      "revision": "1f7635af0eccc0a83cac80704e46523de1cd3f08"
+    },
     "python-rpyc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rpyc.git",
       "branch": "master",
