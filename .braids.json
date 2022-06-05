@@ -4626,6 +4626,11 @@
       "branch": "master",
       "revision": "db25809ba84fa58fdf471c6629c0a1cfdd5a032c"
     },
+    "python-webcolors": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-webcolors.git",
+      "branch": "master",
+      "revision": "7748c21eb1a02af9640f1bbe71bc1be670dfe114"
+    },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
