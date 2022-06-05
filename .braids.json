@@ -996,6 +996,11 @@
       "branch": "master",
       "revision": "58fb5555d7bc2bf93065c39e69fdba2cf61d2a6b"
     },
+    "perl-sgmls": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sgmls.git",
+      "branch": "master",
+      "revision": "035a501756de1e0d0b44bd22864f0d9773bdccf0"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
