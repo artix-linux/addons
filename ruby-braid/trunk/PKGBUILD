@@ -1,0 +1,44 @@
+# Maintainer: Artoo <artoo@artixlinux.org>
+
+_gemname=braid
+pkgname=ruby-${_gemname}
+pkgver=1.1.6
+pkgrel=1
+pkgdesc='Simple tool to help track vendor branches in a Git repository'
+url='https://github.com/cristibalan/braid'
+arch=('any')
+license=('MIT')
+depends=('ruby-json' 'ruby-main')
+makedepends=('ruby-rdoc' 'git' 'ruby-rake' 'ruby-bundler' 'ruby-mocha' 'ruby-rspec')
+options=('!emptydirs')
+_commit=af403fce696c0338e37b5f0ec37e51bfaeacecf8
+source=("git+https://github.com/cristibalan/braid.git#commit=$_commit"
+      no-editor.patch::https://github.com/artix-linux/braid/commit/a0c2515eb02eb32a6cb1cd8a57c6c1882ad2b74b.patch
+      clean-commit-msg.patch::https://github.com/artix-linux/braid/commit/19767073029c75334844d9098def2d205cdd9945.patch)
+sha256sums=('SKIP'
+            '1119a70a9149e1f339fb1d7cf22384922c7e22959d4b337f35c137152af749ac'
+            'bbe78facf0196fa68272bcacce899d880297de4c1053441b8dffc553177008f3')
+
+prepare() {
+  cd "${_gemname}"
+
+  patch -Np 1 -i ../no-editor.patch
+  patch -Np 1 -i ../clean-commit-msg.patch
+}
+
+build() {
+  cd "${_gemname}"
+  rake build
+}
+
+package() {
+  cd "${_gemname}"
+  local _gemdir="$(gem env gemdir)"
+  gem install --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" \
+    -n "${pkgdir}/usr/bin" pkg/${_gemname}-${pkgver}.gem
+
+  install -Dm 644 README.md -t "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+
+  rm -r "${pkgdir}/${_gemdir}/cache"
+}

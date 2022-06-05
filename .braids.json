@@ -4945,6 +4945,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-augeas.git",
       "branch": "master",
       "revision": "2f52957895a71732542a8171b1e34dfc1e39c2a0"
+    },
+    "ruby-braid": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-braid.git",
+      "branch": "master",
+      "revision": "d886837a581159f88b1c404d70f152cc22cdc994"
     }
   }
 }
