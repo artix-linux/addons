@@ -1516,6 +1516,11 @@
       "branch": "master",
       "revision": "b8e713589b52790d1159b6847556824b9e3e07b9"
     },
+    "python-hstspreload": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hstspreload.git",
+      "branch": "master",
+      "revision": "317b500953909bd84d15af6be0bf84e6485faf49"
+    },
     "python-http-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-http-parser.git",
       "branch": "master",
