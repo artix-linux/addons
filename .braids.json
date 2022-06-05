@@ -4791,6 +4791,11 @@
       "branch": "master",
       "revision": "bf54d9409ea33c1e04912d59bbeac42749cba6c4"
     },
+    "python-zc.lockfile": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zc.lockfile.git",
+      "branch": "master",
+      "revision": "701f1ead14727c18cca6d38e171de203432b5b35"
+    },
     "python-zeroconf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zeroconf.git",
       "branch": "master",
