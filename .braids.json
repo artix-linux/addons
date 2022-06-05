@@ -601,6 +601,11 @@
       "branch": "master",
       "revision": "2e98860178873d7d67f4d39676686b908e2e36dc"
     },
+    "python-hexdump": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hexdump.git",
+      "branch": "master",
+      "revision": "7473654d2a7fa03f43ab72b9ef1fc40e98034f49"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
