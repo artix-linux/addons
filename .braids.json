@@ -1721,6 +1721,11 @@
       "branch": "master",
       "revision": "60fdddc37275e893f1fd98cb4ea7aa883a0ef1a2"
     },
+    "python-slip": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-slip.git",
+      "branch": "master",
+      "revision": "6596a317df6d1f93371d2ff52a271e3c2bf5486b"
+    },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
