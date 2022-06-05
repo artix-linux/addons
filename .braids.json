@@ -81,6 +81,11 @@
       "branch": "master",
       "revision": "660b6c750a6dc32135beb72da4fff537bb24b126"
     },
+    "python-astunparse": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-astunparse.git",
+      "branch": "master",
+      "revision": "7b5c11deb18d12e5628cfbc046ae4a9a60e25024"
+    },
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
