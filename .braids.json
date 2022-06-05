@@ -5515,6 +5515,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-unf.git",
       "branch": "master",
       "revision": "34788f75004b8db9cf64bc7b2820a4d91b8d257a"
+    },
+    "ruby-vimrunner": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-vimrunner.git",
+      "branch": "master",
+      "revision": "9bd4a2891d8330070f882e40adf3b29af16930fd"
     }
   }
 }
