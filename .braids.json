@@ -3716,6 +3716,11 @@
       "branch": "master",
       "revision": "94d643a9f6252ef521f2401edc280cd1cac30688"
     },
+    "python-rfc3986": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3986.git",
+      "branch": "master",
+      "revision": "a9189c37607442184f0d14a8cf36e225280d08d5"
+    },
     "python-rich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rich.git",
       "branch": "master",
