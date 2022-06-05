@@ -5455,6 +5455,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-shadow.git",
       "branch": "master",
       "revision": "085e0f2da707016a9a9153b742343303ad4cb45f"
+    },
+    "ruby-sinatra": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sinatra.git",
+      "branch": "master",
+      "revision": "f1e7166c722eae076ab6ce6f3dd46f3230ad2522"
     }
   }
 }
