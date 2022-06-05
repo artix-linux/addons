@@ -286,6 +286,11 @@
       "branch": "master",
       "revision": "448ce9071316f564a47fd9441e12e2c52f3fc3ec"
     },
+    "perl-digest-nilsimsa": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-digest-nilsimsa.git",
+      "branch": "master",
+      "revision": "470e3b0bcd743d5855430fa2e7ae4fa534daea55"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
