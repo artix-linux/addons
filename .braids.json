@@ -326,6 +326,11 @@
       "branch": "master",
       "revision": "5846ef188d2aac46ce87872bcbe0b98a4d20c6a4"
     },
+    "perl-exporter-tiny": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-exporter-tiny.git",
+      "branch": "master",
+      "revision": "3d39500e09c41e43382787c9bacf7b5ec5e0efcc"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
