@@ -2321,6 +2321,11 @@
       "branch": "master",
       "revision": "570ee6c525d331f71d254549cdd848f0e82f9f6a"
     },
+    "python-pytest-vcr": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-vcr.git",
+      "branch": "master",
+      "revision": "fc9bb9b15d0f747b689249305ee0cff51415cf9b"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
