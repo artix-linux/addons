@@ -421,6 +421,11 @@
       "branch": "master",
       "revision": "72b00383488c3a249d4fff1cde4ed59e9036acc2"
     },
+    "python-btrees": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-btrees.git",
+      "branch": "master",
+      "revision": "3fa87f54679ab1801acd74158de6986b7b16517f"
+    },
     "python-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-build.git",
       "branch": "master",
