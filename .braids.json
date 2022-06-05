@@ -761,6 +761,11 @@
       "branch": "master",
       "revision": "29785fda29eea31cf13b44edda91e457fdf32a28"
     },
+    "perl-mouse": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mouse.git",
+      "branch": "master",
+      "revision": "0b1e819b49c2813a608352ebbefbe978e0509c30"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
