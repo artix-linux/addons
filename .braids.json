@@ -276,6 +276,11 @@
       "branch": "master",
       "revision": "ad92ba733cc957abf1e299461d0b466624335524"
     },
+    "python-coverage": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-coverage.git",
+      "branch": "master",
+      "revision": "85d01511d36a31ee51c9f0022ab70b2b0a8eb4d3"
+    },
     "python-cryptography": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cryptography.git",
       "branch": "master",
