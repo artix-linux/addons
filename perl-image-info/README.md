@@ -1,0 +1,2 @@
+# perl-image-info
+
