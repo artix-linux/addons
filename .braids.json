@@ -476,6 +476,11 @@
       "branch": "master",
       "revision": "d90eb3c0fd8d24142ce1a8b137e6a3b745884ce3"
     },
+    "python-fastjsonschema": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastjsonschema.git",
+      "branch": "master",
+      "revision": "697677c0b0d599cb707a29201490495f557ae6bb"
+    },
     "python-feedparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedparser.git",
       "branch": "master",
