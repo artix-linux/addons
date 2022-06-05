@@ -441,6 +441,11 @@
       "branch": "master",
       "revision": "4266d3f7680aca476869a31c294e304e248016fd"
     },
+    "perl-gd": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-gd.git",
+      "branch": "master",
+      "revision": "76469dd4a27eb20e460580fde779b8364fdf6f35"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
