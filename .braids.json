@@ -16,6 +16,11 @@
       "branch": "master",
       "revision": "9a34b6517916b67116da63ffe30e21c364376178"
     },
+    "python-ansi2html": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
+      "branch": "master",
+      "revision": "38a8fc497f34076157ee9ddadc4004ab4009d652"
+    },
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
       "branch": "master",
