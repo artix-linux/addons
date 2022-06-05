@@ -1481,6 +1481,11 @@
       "branch": "master",
       "revision": "5d248cc6ec55bdd1f82ae9792b267d36d4eece78"
     },
+    "python-pysocks": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysocks.git",
+      "branch": "master",
+      "revision": "ddb395beb838d481088479acd10aacb1b9b5f130"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
