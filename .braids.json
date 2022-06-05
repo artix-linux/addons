@@ -546,6 +546,11 @@
       "branch": "master",
       "revision": "c2d81b24b733895196ab75d9443ffd5a74049b88"
     },
+    "python-dephell-markers": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-markers.git",
+      "branch": "master",
+      "revision": "5f53e2dfb13e43b31cd78c63f1bf090c3e7f265f"
+    },
     "python-dill": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dill.git",
       "branch": "master",
