@@ -170,6 +170,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
       "revision": "b311279f25a1a2ad13822d5f3aada04fb23a1ec4"
+    },
+    "python-patiencediff": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-patiencediff.git",
+      "branch": "master",
+      "revision": "cb7f2b2bee252bbf4d691b29d4316b42b7ab250c"
     }
   }
 }
