@@ -1,0 +1,59 @@
+# Maintainer:: Tim Meusel <tim@bastelfreak.de>
+# Contributor: Christian Rebischke <chris.rebischke@archlinux.org>
+# Contributor: Andreas 'Segaja' Schleifer <archlinux at segaja dot de>
+
+_gemname=mocha
+pkgname="ruby-${_gemname}"
+pkgver=1.13.0
+pkgrel=1
+pkgdesc='Mocha is a mocking and stubbing library for Ruby'
+arch=('any')
+url='https://github.com/freerange/mocha'
+license=('Custom')
+depends=('ruby')
+checkdepends=('ruby-rake' 'ruby-bundler')
+makedepends=('ruby-minitest')
+options=('!emptydirs')
+source=("${pkgname}-${pkgver}.tar.gz::https://github.com/freerange/mocha/archive/v${pkgver}.tar.gz"
+        'remove-unneeded-dependencies.patch')
+sha512sums=('84cbe344b0bae434e9931a83b587dcefc14e8699893022a56e30a59bff574b52e3879a123b8f2f70e77301701b167d5992489e2173191ffd3450f09db3e7383b'
+            'fa136458ce008f468605d4e37419d1638569bd666305b1e001d978ac21dcce3c653ea0bd5728832bbcd39f570cbacfc52e6bb283f411a3d08399effb62a3eef5')
+
+prepare() {
+  cd "${_gemname}-${pkgver}"
+
+  # remove unneeded dependencies
+  # bundler might require them if they are still in the gemspec file
+  patch --forward --verbose --strip=1 --input='../remove-unneeded-dependencies.patch'
+
+  # replace upper version boundaries for ruby gems
+  sed -r 's|~>|>=|g' -i ${_gemname}.gemspec
+
+  # `git` doesn't work within src dir, because we downloaded an archive
+  sed --in-place 's|`git ls-files -z`.split("\\x0")|`find`.split("\\n")|' "${_gemname}.gemspec"
+}
+
+check() {
+  cd "${_gemname}-${pkgver}"
+  rake test:units
+}
+
+build() {
+  cd "${_gemname}-${pkgver}"
+  gem build ${_gemname}.gemspec
+}
+
+package() {
+  cd "${_gemname}-${pkgver}"
+  local _gemdir="$(gem env gemdir)"
+  gem install --ignore-dependencies --no-user-install --install-dir "${pkgdir}${_gemdir}" --bindir "${pkgdir}/usr/bin" "${_gemname}-${pkgver}.gem"
+  install -Dm 644 README.md RELEASE.md --target-directory "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 COPYING.md MIT-LICENSE.md --target-directory "${pkgdir}/usr/share/licenses/${pkgname}"
+  mv "${pkgdir}/${_gemdir}/gems/${_gemname}-${pkgver}/docs" "${pkgdir}/usr/share/doc/${pkgname}/"
+
+  # delete unneeded files
+  rm "${pkgdir}/${_gemdir}/cache/${_gemname}-${pkgver}.gem"
+  rm -rf "${pkgdir}/${_gemdir}/gems/${_gemname}-${pkgver}/"{test,yard-templates,gemfiles,bin,.github,.gemtest,mocha.gemspec.orig}
+}
+
+# vim: ts=2 sw=2 et:
