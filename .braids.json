@@ -4421,6 +4421,11 @@
       "branch": "master",
       "revision": "c1720ada8f4cac250a14c1ca91e72d1ce8c4eedd"
     },
+    "python-txredisapi": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-txredisapi.git",
+      "branch": "master",
+      "revision": "a3eeeaceddeb07b1936327248cf897bdd2396759"
+    },
     "python-typeguard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typeguard.git",
       "branch": "master",
