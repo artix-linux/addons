@@ -1276,6 +1276,11 @@
       "branch": "master",
       "revision": "d980e72e5fe1e43ad3e29b04cc506f59897f0643"
     },
+    "python-lsp-black": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-black.git",
+      "branch": "master",
+      "revision": "c4536a5aa765e47670b704c0f1eece6991ebbe10"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
