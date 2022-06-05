@@ -626,6 +626,11 @@
       "branch": "master",
       "revision": "81aa7707ffbfd4b686fd92f06bc79dc6b0993edc"
     },
+    "python-docutils": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-docutils.git",
+      "branch": "master",
+      "revision": "ebb82b006b6e9d76a7b6a90bc49b7223a6304c77"
+    },
     "python-dulwich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dulwich.git",
       "branch": "master",
