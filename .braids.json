@@ -181,6 +181,11 @@
       "branch": "master",
       "revision": "aaefac21586c6bb85a59f68ce4cd8d42ba931767"
     },
+    "perl-crypt-ssleay": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-ssleay.git",
+      "branch": "master",
+      "revision": "5c48bdae63d7ef5472e838ce1150ea2ea6ad8fc3"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
