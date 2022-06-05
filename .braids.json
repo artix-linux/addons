@@ -4611,6 +4611,11 @@
       "branch": "master",
       "revision": "486da4d7ac1fe7081a0e10e9d577b4418a5a47dd"
     },
+    "python-watchgod": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-watchgod.git",
+      "branch": "master",
+      "revision": "b8f7a4ae595c256adea3ab0d3536a75ce5348fc6"
+    },
     "python-wcag-contrast-ratio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcag-contrast-ratio.git",
       "branch": "master",
