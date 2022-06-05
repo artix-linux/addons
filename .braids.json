@@ -661,6 +661,11 @@
       "branch": "master",
       "revision": "c0554ceac961d9f8fb1d2cc3bde317a0d325ccbe"
     },
+    "python-ifaddr": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ifaddr.git",
+      "branch": "master",
+      "revision": "30cdd492d6428a83b19aff95a40ed68db43be095"
+    },
     "python-incremental": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-incremental.git",
       "branch": "master",
