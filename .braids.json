@@ -5355,6 +5355,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rdiscount.git",
       "branch": "master",
       "revision": "73dca058cdad69aa9ddec2055e83507fb4da11ba"
+    },
+    "ruby-rdoc": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rdoc.git",
+      "branch": "master",
+      "revision": "7ad3f2ca9bdf1079f36e95272b97695805ca4852"
     }
   }
 }
