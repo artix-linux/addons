@@ -741,6 +741,11 @@
       "branch": "master",
       "revision": "e8eaef39e7d75c859e6d343c2c2f9f93aabf8a25"
     },
+    "python-jschema-to-python": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jschema-to-python.git",
+      "branch": "master",
+      "revision": "1b454dcde89d8b354d60ca4d1d8fde8972d29988"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
