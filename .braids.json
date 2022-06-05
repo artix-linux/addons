@@ -661,6 +661,11 @@
       "branch": "master",
       "revision": "306230cfa7f485dd50fa60c1eca36628e942daf1"
     },
+    "python-cookies": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cookies.git",
+      "branch": "master",
+      "revision": "498556b0a2c7ef406182fb8c42058c4e814cc8fc"
+    },
     "python-coverage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-coverage.git",
       "branch": "master",
