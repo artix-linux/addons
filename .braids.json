@@ -876,6 +876,11 @@
       "branch": "master",
       "revision": "0d5c6efcace198bfbdff2b387fa74e2f82b5f401"
     },
+    "python-google-api-python-client": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-api-python-client.git",
+      "branch": "master",
+      "revision": "f542762079e717c8391bdbc702f3b0c5f29deba1"
+    },
     "python-graphviz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphviz.git",
       "branch": "master",
