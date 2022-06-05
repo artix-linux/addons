@@ -581,6 +581,11 @@
       "branch": "master",
       "revision": "33aba8014da1250732d8f2fd03f30f042a727d38"
     },
+    "python-cliff": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cliff.git",
+      "branch": "master",
+      "revision": "001290373a1f7b3e494e78f4a73d9f3a534b103e"
+    },
     "python-clikit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clikit.git",
       "branch": "master",

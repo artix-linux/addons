@@ -1,0 +1,36 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
+
+pkgname=python-cliff
+pkgver=3.10.1
+pkgrel=1
+pkgdesc="Command Line Interface Formulation Framework"
+arch=('any')
+url="https://docs.openstack.org/cliff/latest/"
+license=('Apache')
+depends=('python-six' 'python-pbr' 'python-cmd2' 'python-prettytable' 'python-pyparsing'
+         'python-stevedore' 'python-yaml' 'python-autopage')
+makedepends=('git')
+checkdepends=('python-stestr' 'python-mock' 'python-sphinx' 'python-testscenarios')
+options=('!emptydirs')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/openstack/cliff/archive/$pkgver.tar.gz")
+sha512sums=('402ca61162e668bc51334a43254274ec6d4392c00c803b9420b9b7d38278b397132fc3b55ac435f3c20eaad31021c0bd329cc0679338ebe522c51aaaf62002ce')
+
+export PBR_VERSION=$pkgver
+
+build() {
+  cd cliff-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd cliff-$pkgver
+  stestr run
+}
+
+package() {
+  cd cliff-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+}
+
+# vim:set ts=2 sw=2 et:
