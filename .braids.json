@@ -155,6 +155,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-notify2.git",
       "branch": "master",
       "revision": "f30216b3419c8d5636db69c4d4cbf767e8d3ffad"
+    },
+    "python-numpy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-numpy.git",
+      "branch": "master",
+      "revision": "a61269ad09c101a0ca8dd30adb9b8f9b850c8b7a"
     }
   }
 }
