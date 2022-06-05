@@ -941,6 +941,11 @@
       "branch": "master",
       "revision": "a82ea20e0e869548c3a20161f44f51c3e06894e8"
     },
+    "python-more-itertools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-more-itertools.git",
+      "branch": "master",
+      "revision": "97c113b4faee3a44d60e96c19caa1445aa1b52ba"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
