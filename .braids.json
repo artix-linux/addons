@@ -3821,6 +3821,11 @@
       "branch": "master",
       "revision": "e4128b8c545be8cf8113f19a5ad61888ff3864da"
     },
+    "python-secretstorage": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-secretstorage.git",
+      "branch": "master",
+      "revision": "f94022d49520db154f934f7dbab61dc4878311ef"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
