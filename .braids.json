@@ -761,6 +761,11 @@
       "branch": "master",
       "revision": "9edafff3566fcc860cc7a3e7a61d96e3cd45d632"
     },
+    "python-jsonmerge": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonmerge.git",
+      "branch": "master",
+      "revision": "d7c7b0d4533939cd39a0ef9736ab5d76daf0179d"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
