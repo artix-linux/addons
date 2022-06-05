@@ -216,6 +216,11 @@
       "branch": "master",
       "revision": "78c372082d6d24eda9e584c05f070494a39b3283"
     },
+    "perl-datetime-format-mail": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-format-mail.git",
+      "branch": "master",
+      "revision": "d7a71f150f47f5d8ad3f2e80e4ab39abd5cdf460"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
