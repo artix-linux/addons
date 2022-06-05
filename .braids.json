@@ -1076,6 +1076,11 @@
       "branch": "master",
       "revision": "f21f1d0c9deaba451220e7780365e82510ee78a1"
     },
+    "perl-sub-override": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-override.git",
+      "branch": "master",
+      "revision": "c27cdb2ade9e05c610625f261c8b76bfc576a789"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
