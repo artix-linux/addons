@@ -741,6 +741,11 @@
       "branch": "master",
       "revision": "b419b2d3d7248cd0e09bb15d4d4d713d0d6332a3"
     },
+    "python-cytoolz": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cytoolz.git",
+      "branch": "master",
+      "revision": "4c15079479dc35f5a8fdbb9841177f494c10b783"
+    },
     "python-dask": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dask.git",
       "branch": "master",
