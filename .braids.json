@@ -3996,6 +3996,11 @@
       "branch": "master",
       "revision": "29b33e20afd54d33c25b3120c31247487c834dd4"
     },
+    "python-spake2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-spake2.git",
+      "branch": "master",
+      "revision": "1c2a5b16ae3a81f05bf49a5e8a10a15e23118510"
+    },
     "python-spec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spec.git",
       "branch": "master",
