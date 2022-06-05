@@ -1946,6 +1946,11 @@
       "branch": "master",
       "revision": "817c568f288d6867715bb09dc4e85bdf073a0b34"
     },
+    "python-volatile": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-volatile.git",
+      "branch": "master",
+      "revision": "c0837c07332e9723a5b8e41b20254ff373f55fb2"
+    },
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
