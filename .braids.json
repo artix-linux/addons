@@ -271,6 +271,11 @@
       "branch": "master",
       "revision": "e9af7b3413d94c43d9963b735468b0ca880ecf61"
     },
+    "perl-devel-symdump": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-devel-symdump.git",
+      "branch": "master",
+      "revision": "cbfcc7c88d4306ed03843609636f9d63f8c937d6"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
