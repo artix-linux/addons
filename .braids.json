@@ -931,6 +931,11 @@
       "branch": "master",
       "revision": "e43c18dc1ea1d834dceded1808881439b10ffc24"
     },
+    "python-dnspython": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dnspython.git",
+      "branch": "master",
+      "revision": "0f9d1e3db7ca420885979defad87d96ba4e1f129"
+    },
     "python-docstring-to-markdown": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docstring-to-markdown.git",
       "branch": "master",

@@ -1,0 +1,48 @@
+# Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
+# Contributor: Mathijs Kadijk <maccain13@gmail.com>
+
+_name=dnspython
+pkgname=python-dnspython
+pkgver=2.2.1
+pkgrel=1
+epoch=1
+pkgdesc="A DNS toolkit for Python"
+arch=('any')
+url="http://www.dnspython.org"
+license=('custom:ISC')
+depends=('python')
+makedepends=('python-setuptools' 'python-setuptools-scm' 'python-pip')
+checkdepends=('python-idna' 'python-cryptography' 'python-trio' 'python-pytest')
+optdepends=('python-cryptography: DNSSEC support'
+            'python-requests-toolbelt: DoH support'
+            'python-idna: support for updated IDNA 2008'
+            'python-curio: async support'
+            'python-trio: async support'
+            'python-sniffio: async support')
+source=("https://files.pythonhosted.org/packages/source/${_name::1}/$_name/$_name-$pkgver.tar.gz")
+sha256sums=('0f7569a4a6ff151958b64304071d370daa3243d15941a7beedf0c9fe5105603e')
+validpgpkeys=('A580DEE052FEC78D8ACF383DF24B3AFC8CA2F5C7') # Bob Halley <halley@dnspython.org>
+
+prepare() {
+    cd dnspython-${pkgver}
+}
+
+build() {
+    cd dnspython-${pkgver}
+
+    python setup.py build
+}
+
+check() {
+    cd dnspython-${pkgver}
+
+    # https://github.com/rthalley/dnspython/issues/622
+    pytest -k 'not test_unpickle'
+}
+
+package() {
+    cd dnspython-${pkgver}
+
+    python setup.py install --root="${pkgdir}" --optimize=1 --skip-build
+    install -Dm644 LICENSE "${pkgdir}"/usr/share/licenses/${pkgname}/LICENSE
+}
