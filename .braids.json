@@ -20,6 +20,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asn1crypto.git",
       "branch": "master",
       "revision": "9805e925b70def33633fea9993da1f6bd5bd4741"
+    },
+    "python-attrs": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
+      "branch": "master",
+      "revision": "99ad0970bec1acd3c443cd90f93cc800e57fdbf2"
     }
   }
 }
