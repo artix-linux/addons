@@ -1326,6 +1326,11 @@
       "branch": "master",
       "revision": "5f5f7f6ae6928695a849af3fab94dcda8f403a7b"
     },
+    "python-pyinotify": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyinotify.git",
+      "branch": "master",
+      "revision": "d0e6ec47357714e51b4b3b325e7e31b350d32e26"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
