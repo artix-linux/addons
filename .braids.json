@@ -11,6 +11,11 @@
       "branch": "master",
       "revision": "97d9d79b555f18ff1d55bea6167183a04d77f0f1"
     },
+    "python-adblock": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-adblock.git",
+      "branch": "master",
+      "revision": "9a34b6517916b67116da63ffe30e21c364376178"
+    },
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
       "branch": "master",
