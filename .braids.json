@@ -146,6 +146,11 @@
       "branch": "master",
       "revision": "1296e1b962662d303b8dcaeae74aeccc08379e32"
     },
+    "python-breathe": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-breathe.git",
+      "branch": "master",
+      "revision": "04653f7a569d9f144e23e510690f568cbd36d46c"
+    },
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
