@@ -1856,6 +1856,11 @@
       "branch": "master",
       "revision": "511d269aaeeda691990d4ac382b51ed2cf33a634"
     },
+    "python-tomlkit": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomlkit.git",
+      "branch": "master",
+      "revision": "85cd29ed11e37aeaa6eb6f08c1415274ade08436"
+    },
     "python-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
       "branch": "master",
