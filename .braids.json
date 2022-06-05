@@ -1291,6 +1291,11 @@
       "branch": "master",
       "revision": "d435d706dbcb6d4246e9b2dfee1407a15a7f0786"
     },
+    "python-pyflakes": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyflakes.git",
+      "branch": "master",
+      "revision": "3a2fdada7bbac5e1ccecc6384f1752ba91d0fe53"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
