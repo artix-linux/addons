@@ -3971,6 +3971,11 @@
       "branch": "master",
       "revision": "c558103219cb78710f48810ab60928bba4eeef5a"
     },
+    "python-socketpool": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-socketpool.git",
+      "branch": "master",
+      "revision": "7ee185324c56bc92c6aa66917a5fa3361648f3a9"
+    },
     "python-socksio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-socksio.git",
       "branch": "master",
