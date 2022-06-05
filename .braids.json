@@ -61,6 +61,11 @@
       "branch": "master",
       "revision": "d22938202602f95beee04f3fb1d9458137143812"
     },
+    "perl-bytes-random-secure": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-bytes-random-secure.git",
+      "branch": "master",
+      "revision": "7cdb06be583c1da044d223b428c0ab04a4220089"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
