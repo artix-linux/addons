@@ -1781,6 +1781,11 @@
       "branch": "master",
       "revision": "d9395aecec4ba45404905f4686297f09b76b2f44"
     },
+    "python-sqlalchemy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlalchemy.git",
+      "branch": "master",
+      "revision": "bac43b3f3a6345b86d77959733ec9a02627375a4"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
