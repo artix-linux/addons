@@ -281,6 +281,11 @@
       "branch": "master",
       "revision": "63247db703965ee22c754bf6bd513a40dd1033c9"
     },
+    "perl-digest-hmac": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-digest-hmac.git",
+      "branch": "master",
+      "revision": "448ce9071316f564a47fd9441e12e2c52f3fc3ec"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
