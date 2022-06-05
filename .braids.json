@@ -996,6 +996,11 @@
       "branch": "master",
       "revision": "592cf15b362f463c49b0addf24392ba016d82885"
     },
+    "python-hypothesmith": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesmith.git",
+      "branch": "master",
+      "revision": "a53ceeac51d93b65d921f0b8c4bd5c456f5c844b"
+    },
     "python-identify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-identify.git",
       "branch": "master",
