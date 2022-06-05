@@ -491,6 +491,11 @@
       "branch": "master",
       "revision": "c152ae4e75d4b79fa7b57398b218e3c55a94d666"
     },
+    "python-cerberus": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cerberus.git",
+      "branch": "master",
+      "revision": "d6962001b0063ee2a72b9390f7f61917cc91557b"
+    },
     "python-certifi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-certifi.git",
       "branch": "master",
