@@ -1181,6 +1181,11 @@
       "branch": "master",
       "revision": "c3fb19b2672d842c0d567bb93e1b21bb2c756560"
     },
+    "python-pure-eval": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pure-eval.git",
+      "branch": "master",
+      "revision": "47ca0f3302608705e1ac9ad661fcd54c1c3cd7b7"
+    },
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
       "branch": "master",
