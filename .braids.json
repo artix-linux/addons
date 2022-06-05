@@ -1671,6 +1671,11 @@
       "branch": "master",
       "revision": "ad71d561eae5bdc50174a544f3c3646d91890269"
     },
+    "python-invoke": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-invoke.git",
+      "branch": "master",
+      "revision": "dcc06af904fd1eb35346d0a4790b7bc64cf4e83e"
+    },
     "python-ipykernel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipykernel.git",
       "branch": "master",
