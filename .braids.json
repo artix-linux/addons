@@ -2021,6 +2021,11 @@
       "branch": "master",
       "revision": "9406914df058f8ec31b95f86abed6c355f319bbe"
     },
+    "python-xmltodict": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmltodict.git",
+      "branch": "master",
+      "revision": "12aecd143d02c140902ab9c0821f5cd6e4eb2b29"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
