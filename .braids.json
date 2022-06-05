@@ -2196,6 +2196,11 @@
       "branch": "master",
       "revision": "b05adb1d3fe0584c6b43e74b71312d1486905802"
     },
+    "python-pytest-localserver": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-localserver.git",
+      "branch": "master",
+      "revision": "c6038b0c86856cdfbe214b2c078003c572d128c1"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
