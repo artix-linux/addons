@@ -406,6 +406,11 @@
       "branch": "master",
       "revision": "f2e70a269bf6a56860d06d92d19da0d59e71d49a"
     },
+    "perl-file-remove": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-remove.git",
+      "branch": "master",
+      "revision": "861a363720cade96ba44797014fa881104654e20"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
