@@ -3891,6 +3891,11 @@
       "branch": "master",
       "revision": "4a55060b9efb6d199b9dc21581f64397acf6ff1a"
     },
+    "python-sh": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sh.git",
+      "branch": "master",
+      "revision": "94b5ac9a3dd64312fb1b9a225ba87d6953be4a5a"
+    },
     "python-should-dsl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-should-dsl.git",
       "branch": "master",
