@@ -5105,6 +5105,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hoe.git",
       "branch": "master",
       "revision": "1ca9301ba9e46e3765250efe6fa150d21c5b59c7"
+    },
+    "ruby-hpricot": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hpricot.git",
+      "branch": "master",
+      "revision": "3d5589776c8f47c56e4a0ee66255eefbe70cc8b0"
     }
   }
 }
