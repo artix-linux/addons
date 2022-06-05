@@ -451,6 +451,11 @@
       "branch": "master",
       "revision": "3879fe0191a5391de5f679b2590e67ce0ab06010"
     },
+    "perl-html-parser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-html-parser.git",
+      "branch": "master",
+      "revision": "05a4aa4ee11716d23af9a22304e23e45801f9f63"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
