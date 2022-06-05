@@ -261,6 +261,11 @@
       "branch": "master",
       "revision": "bd79394041eb6e61dc0f67851b36c205493b65df"
     },
+    "perl-devel-globaldestruction": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-devel-globaldestruction.git",
+      "branch": "master",
+      "revision": "8541b3ad6a0129d0b7d667eeca62ad4e7aa8e9d2"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
