@@ -106,6 +106,11 @@
       "branch": "master",
       "revision": "9f501c1d8f6df33d0a33d65ee8da013e6d55ac67"
     },
+    "python-autopage": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-autopage.git",
+      "branch": "master",
+      "revision": "b592b85861c518deefd4c539e7e96d0cf713b66e"
+    },
     "python-beaker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beaker.git",
       "branch": "master",
