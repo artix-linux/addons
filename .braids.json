@@ -1446,6 +1446,11 @@
       "branch": "master",
       "revision": "af50f6fb388b36970998469b87b5fa04fbb17a0c"
     },
+    "python-pyrfc3339": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyrfc3339.git",
+      "branch": "master",
+      "revision": "3d4f5ce5897d5c7f54cb9053aa27ec9cae0e76d0"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
