@@ -5135,6 +5135,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-json.git",
       "branch": "master",
       "revision": "58a54724dad5f06bf6e93aa1af897914c3c56714"
+    },
+    "ruby-kramdown": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-kramdown.git",
+      "branch": "master",
+      "revision": "b52c11810da9df90988989226a5ba5ff452c392a"
     }
   }
 }
