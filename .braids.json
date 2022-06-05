@@ -571,6 +571,11 @@
       "branch": "master",
       "revision": "619a4e4bc5a545252df9701b8db907404449e731"
     },
+    "python-gnupginterface": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-gnupginterface.git",
+      "branch": "master",
+      "revision": "0a1485d0779e42d1bddc0ef4af19f89efd3ce280"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
