@@ -596,6 +596,11 @@
       "branch": "master",
       "revision": "1828f5e0bb76704b7cf418fd382be912920dc709"
     },
+    "perl-libintl-perl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-libintl-perl.git",
+      "branch": "master",
+      "revision": "b6e47119e9e258a800eed93c6a418e2218ca366e"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
