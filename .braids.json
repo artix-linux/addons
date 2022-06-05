@@ -1151,6 +1151,11 @@
       "branch": "master",
       "revision": "5086f6a160929dae78673ddc3235909d08cc62d5"
     },
+    "python-fido2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fido2.git",
+      "branch": "master",
+      "revision": "e8c8d8190618fce836c9846895c4dea3cb916bc8"
+    },
     "python-filebytes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-filebytes.git",
       "branch": "master",
