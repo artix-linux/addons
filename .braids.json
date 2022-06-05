@@ -250,6 +250,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyqt6-sip.git",
       "branch": "master",
       "revision": "1e6e6d92d273773b1b0ac028c76e607f1f24fba8"
+    },
+    "python-pytest-pacman": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
+      "branch": "master",
+      "revision": "92e0423f9c8fad52488c82a371f804ea247cff9c"
     }
   }
 }
