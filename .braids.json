@@ -4251,6 +4251,11 @@
       "branch": "master",
       "revision": "659306d1ef2204dbdcc9096cbb300db46e02179a"
     },
+    "python-tempora": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tempora.git",
+      "branch": "master",
+      "revision": "5a1d536705c5878cd556e026882434c936078f42"
+    },
     "python-terminado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-terminado.git",
       "branch": "master",
