@@ -1756,6 +1756,11 @@
       "branch": "master",
       "revision": "c558103219cb78710f48810ab60928bba4eeef5a"
     },
+    "python-socksio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-socksio.git",
+      "branch": "master",
+      "revision": "462656a4905a58f90330e9db19a55cb881dc9560"
+    },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
