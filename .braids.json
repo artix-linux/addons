@@ -1436,6 +1436,11 @@
       "branch": "master",
       "revision": "ba2601730715097999166d51ca3a593aff759b0b"
     },
+    "python-nose-random": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose-random.git",
+      "branch": "master",
+      "revision": "1863171119a357d39b1d9303f192727f4cd13088"
+    },
     "python-nosexcover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nosexcover.git",
       "branch": "master",
