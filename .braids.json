@@ -2481,6 +2481,11 @@
       "branch": "master",
       "revision": "6e9a24501f792a75dfdecbbdde51a9b8e3d7b80d"
     },
+    "python-requests-oauthlib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-oauthlib.git",
+      "branch": "master",
+      "revision": "300fc7aa9cc20a5fb1ba098bdaca7b050b6f1d6e"
+    },
     "python-requestsexceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requestsexceptions.git",
       "branch": "master",
