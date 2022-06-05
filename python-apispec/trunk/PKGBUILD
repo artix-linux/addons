@@ -1,0 +1,35 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-apispec
+pkgver=5.2.0
+pkgrel=1
+pkgdesc="A pluggable API specification generator. Currently supports the OpenAPI Specification."
+url="https://github.com/marshmallow-code/apispec"
+license=('MIT')
+arch=('any')
+depends=('python')
+optdepends=('python-yaml: for yaml support'
+            'python-prance: for validation'
+            'python-openapi-spec-validator: for validation')
+makedepends=('python-setuptools')
+checkdepends=('python-pytest-runner' 'python-tornado' 'python-bottle' 'python-marshmallow'
+              'python-flask' 'python-prance' 'python-yaml' 'python-mock'
+              'python-openapi-spec-validator')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/marshmallow-code/apispec/archive/$pkgver.tar.gz")
+sha512sums=('6f36dcce8b503847a981c87ed1139b89bbb9be9e22db67402cd7e74be8a5ce58714329b33c8489b63f5aa56fe92d65fb5aea332c9bd2e8f140dfc92165432005')
+
+build() {
+  cd apispec-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd apispec-$pkgver
+  python setup.py pytest
+}
+
+package() {
+  cd apispec-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+  install -Dm644 LICENSE "$pkgdir"/usr/share/licenses/$pkgname/LICENSE
+}
