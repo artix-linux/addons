@@ -340,6 +340,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
       "revision": "55e3a8ceb966677029b1dd3ad8f1f858165dbb07"
+    },
+    "python-wstools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wstools.git",
+      "branch": "master",
+      "revision": "5d0c06428052934658455da5f25661995404bf69"
     }
   }
 }
