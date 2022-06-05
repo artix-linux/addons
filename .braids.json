@@ -4601,6 +4601,11 @@
       "branch": "master",
       "revision": "f3aa1064da835167640ad5b06c22896731f96620"
     },
+    "python-warlock": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-warlock.git",
+      "branch": "master",
+      "revision": "2a97fed0e1d31009de3ca812ebc67f34330037c3"
+    },
     "python-wcag-contrast-ratio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcag-contrast-ratio.git",
       "branch": "master",
