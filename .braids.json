@@ -1961,6 +1961,11 @@
       "branch": "master",
       "revision": "1cb2bb685ff5045884ac947d8d37467e8bea63ce"
     },
+    "python-wheezy-template": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheezy-template.git",
+      "branch": "master",
+      "revision": "3ba6df555bddb20b3e50ae5728bd8c9be0df4a6f"
+    },
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
