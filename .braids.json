@@ -235,6 +235,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
       "branch": "master",
       "revision": "6eccccc57586adc833c6395bbdcda5ec99934f5d"
+    },
+    "python-pyparsing": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyparsing.git",
+      "branch": "master",
+      "revision": "2ae7fad3f0f01ca0a50e51c4005474643dcf885c"
     }
   }
 }
