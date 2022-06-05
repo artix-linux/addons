@@ -71,6 +71,11 @@
       "branch": "master",
       "revision": "d5ebe9ee2332bb5c01d4ba837fdbfe536439a52a"
     },
+    "perl-canary-stability": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-canary-stability.git",
+      "branch": "master",
+      "revision": "6b46931a75ee0268aab3b130dfb742853d1a49c8"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
