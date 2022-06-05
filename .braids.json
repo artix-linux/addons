@@ -5520,6 +5520,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-vimrunner.git",
       "branch": "master",
       "revision": "9bd4a2891d8330070f882e40adf3b29af16930fd"
+    },
+    "ruby-webmock": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-webmock.git",
+      "branch": "master",
+      "revision": "f559ae1112f035124c94bbb3c8c373b1288b3438"
     }
   }
 }
