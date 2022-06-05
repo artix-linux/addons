@@ -5100,6 +5100,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hocon.git",
       "branch": "master",
       "revision": "95f85e173bb29981182bb6c102e4c049a3caf2e7"
+    },
+    "ruby-hoe": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hoe.git",
+      "branch": "master",
+      "revision": "1ca9301ba9e46e3765250efe6fa150d21c5b59c7"
     }
   }
 }
