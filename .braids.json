@@ -1026,6 +1026,11 @@
       "branch": "master",
       "revision": "afa935a2871e55c7f913c8bc7cc3c1d9c405fe02"
     },
+    "perl-spiffy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-spiffy.git",
+      "branch": "master",
+      "revision": "cbe5d59dcbdf25392575e11690977016fdff4dc0"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
