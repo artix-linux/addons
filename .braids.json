@@ -1706,6 +1706,11 @@
       "branch": "master",
       "revision": "c922e95d9bac6bd35c72db649f8eb84a3f99b5c8"
     },
+    "python-signedjson": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-signedjson.git",
+      "branch": "master",
+      "revision": "a77c07151dc04935b277c0104c19dc60fce2be2c"
+    },
     "python-six": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-six.git",
       "branch": "master",
