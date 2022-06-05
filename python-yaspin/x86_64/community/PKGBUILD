@@ -1,0 +1,31 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-yaspin
+pkgver=2.1.0
+pkgrel=4
+pkgdesc="Yet Another Terminal Spinner"
+url="https://github.com/pavdmyt/yaspin"
+license=('MIT')
+arch=('any')
+depends=('python-termcolor')
+makedepends=('python-pyproject2setuppy')
+checkdepends=('python-pytest')
+source=("https://github.com/pavdmyt/yaspin/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('ea2379fe052ac7523a6383b51babc867adccbf98938f2ca6755a33fc932fee54c5bc84e91ab09ad1d88b436f55d7bc4f69ae63a13453b7aac3877bcd1efe232a')
+
+build() {
+  cd yaspin-$pkgver
+  python -m pyproject2setuppy build
+}
+
+check() {
+  cd yaspin-$pkgver
+  python -m pytest
+}
+
+package() {
+  cd yaspin-$pkgver
+  python -m pyproject2setuppy install --root="$pkgdir" --optimize=1
+
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
