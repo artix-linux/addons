@@ -1846,6 +1846,11 @@
       "branch": "master",
       "revision": "1a2df531402ed4b39a6a65bedf1483f7c3162cdd"
     },
+    "python-junit-xml": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-junit-xml.git",
+      "branch": "master",
+      "revision": "8ae9adf6d549c989e1902a1e736213e5946e3f1c"
+    },
     "python-jupyter_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_client.git",
       "branch": "master",
