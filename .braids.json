@@ -791,6 +791,11 @@
       "branch": "master",
       "revision": "d6803415b5d83b03811ef40cc03fd67f89d62e93"
     },
+    "python-decorator": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-decorator.git",
+      "branch": "master",
+      "revision": "424ee6035820db55cf1377173504df0d16e74967"
+    },
     "python-deepmerge": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deepmerge.git",
       "branch": "master",
