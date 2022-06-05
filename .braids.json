@@ -5445,6 +5445,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-scanf.git",
       "branch": "master",
       "revision": "6406cd2a62a954c5119127cdba3a3e44d7bb32f6"
+    },
+    "ruby-semantic_puppet": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-semantic_puppet.git",
+      "branch": "master",
+      "revision": "56eef874c4592a0802bce508a641d3d534375690"
     }
   }
 }

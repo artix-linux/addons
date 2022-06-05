@@ -1,0 +1,2 @@
+# ruby-semantic_puppet
+
