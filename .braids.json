@@ -511,6 +511,11 @@
       "branch": "master",
       "revision": "d8f1b5ee9e7af7c897d80d6a8426366a77f37db9"
     },
+    "python-fluidity": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fluidity.git",
+      "branch": "master",
+      "revision": "ea3eb25e747afaa97881441d06c4df2717a88cd7"
+    },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
