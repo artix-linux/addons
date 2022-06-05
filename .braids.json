@@ -1156,6 +1156,11 @@
       "branch": "master",
       "revision": "3e03ba9f314e29d559f58cea3b56377b24a04e92"
     },
+    "python-precis_i18n": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-precis_i18n.git",
+      "branch": "master",
+      "revision": "e75a03975659f2b6a0aa1c3a7b0161600eecf572"
+    },
     "python-prometheus_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
       "branch": "master",
