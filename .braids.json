@@ -356,6 +356,11 @@
       "branch": "master",
       "revision": "8f6d85e322cdde516d52dcc222dbaab32692becb"
     },
+    "perl-fcgi": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-fcgi.git",
+      "branch": "master",
+      "revision": "6a6be862815a7a54a9100edd02e97e3bc233ef68"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
