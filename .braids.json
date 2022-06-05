@@ -5530,6 +5530,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-webrick.git",
       "branch": "master",
       "revision": "61ef8221dade7c617638556517ef4b8c3e0536cb"
+    },
+    "ruby-websocket-driver": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-websocket-driver.git",
+      "branch": "master",
+      "revision": "48bc33be9856c23546754665ff40885a42cee598"
     }
   }
 }
