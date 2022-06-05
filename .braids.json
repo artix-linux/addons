@@ -1881,6 +1881,11 @@
       "branch": "master",
       "revision": "4e367098d001b0e02c49819508ce674860c30528"
     },
+    "python-txaio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-txaio.git",
+      "branch": "master",
+      "revision": "c1720ada8f4cac250a14c1ca91e72d1ce8c4eedd"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
