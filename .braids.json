@@ -1146,6 +1146,11 @@
       "branch": "master",
       "revision": "4888551e30214d30c660265ef36362bf668582e6"
     },
+    "perl-test-fatal": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-fatal.git",
+      "branch": "master",
+      "revision": "9ca41c578bc81a1fbd7b910c45ad70f34d20e466"
+    },
     "perl-test2-suite": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-suite.git",
       "branch": "master",
