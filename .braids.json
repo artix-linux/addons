@@ -1971,6 +1971,11 @@
       "branch": "master",
       "revision": "55e3a8ceb966677029b1dd3ad8f1f858165dbb07"
     },
+    "python-wsaccel": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsaccel.git",
+      "branch": "master",
+      "revision": "a709cae678467fa5fad76474a18d19bd1e5fd2a2"
+    },
     "python-wstools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wstools.git",
       "branch": "master",
