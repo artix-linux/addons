@@ -2026,6 +2026,11 @@
       "branch": "master",
       "revision": "12aecd143d02c140902ab9c0821f5cd6e4eb2b29"
     },
+    "python-yaml": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-yaml.git",
+      "branch": "master",
+      "revision": "2f133c83cabbdad69bd6fc26509485412365584b"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
