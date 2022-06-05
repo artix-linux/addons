@@ -5245,6 +5245,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-nokogiri.git",
       "branch": "master",
       "revision": "3ee918007558cfd031f6f1162a3ca7e4dd5e92fa"
+    },
+    "ruby-optimist": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-optimist.git",
+      "branch": "master",
+      "revision": "01d0c51135dc5e30cba9ceb85bb31dbb76bb02dc"
     }
   }
 }
