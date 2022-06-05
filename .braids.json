@@ -26,6 +26,11 @@
       "branch": "master",
       "revision": "7122d7c0059575bd06dd25048518d62b57798e32"
     },
+    "python-ansiwrap": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansiwrap.git",
+      "branch": "master",
+      "revision": "9124519ba2382f2200183f3243888c5ffafc1d8b"
+    },
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
       "branch": "master",
