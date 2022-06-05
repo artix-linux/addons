@@ -4651,6 +4651,11 @@
       "branch": "master",
       "revision": "464ee12841c8f65d476cbb8da9a7b254329c9675"
     },
+    "python-webtest": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-webtest.git",
+      "branch": "master",
+      "revision": "2ae106ee898c717971fe07e502b1e00e833a3f13"
+    },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
