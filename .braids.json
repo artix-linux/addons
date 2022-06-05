@@ -2836,6 +2836,11 @@
       "branch": "master",
       "revision": "01f7f9b2a3b7e710359c7f04492161b7ae645da3"
     },
+    "python-publicsuffix2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-publicsuffix2.git",
+      "branch": "master",
+      "revision": "c9f610d1325cae83cbf949c36af2b62c39240cf6"
+    },
     "python-pure-eval": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pure-eval.git",
       "branch": "master",

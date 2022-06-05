@@ -1,0 +1,2 @@
+# python-publicsuffix2
+
