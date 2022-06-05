@@ -2846,6 +2846,11 @@
       "branch": "master",
       "revision": "47ca0f3302608705e1ac9ad661fcd54c1c3cd7b7"
     },
+    "python-purl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-purl.git",
+      "branch": "master",
+      "revision": "762f6248746bd40d7487fae7d3ca58b3bd5e2edd"
+    },
     "python-pwntools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pwntools.git",
       "branch": "master",
