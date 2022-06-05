@@ -516,6 +516,11 @@
       "branch": "master",
       "revision": "ea3eb25e747afaa97881441d06c4df2717a88cd7"
     },
+    "python-frozenlist": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozenlist.git",
+      "branch": "master",
+      "revision": "318cdb71709d404acee5b2566ed895ea1953877d"
+    },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
