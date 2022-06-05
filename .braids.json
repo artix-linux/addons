@@ -4466,6 +4466,11 @@
       "branch": "master",
       "revision": "596021862b1cb3cecda4ca944d41d83de4eafd62"
     },
+    "python-u-msgpack": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-u-msgpack.git",
+      "branch": "master",
+      "revision": "3a709bb557fe9d9e824333e493a661821f591f9f"
+    },
     "python-ubjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ubjson.git",
       "branch": "master",
