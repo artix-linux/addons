@@ -5005,6 +5005,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erubi.git",
       "branch": "master",
       "revision": "c13a08dda4565e482266aa6ebb3778e930c9970e"
+    },
+    "ruby-eventmachine": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-eventmachine.git",
+      "branch": "master",
+      "revision": "d8197984ca35586e6ab0978f57b0cdfa496a2d14"
     }
   }
 }
