@@ -2506,6 +2506,11 @@
       "branch": "master",
       "revision": "4d49ae4f6fbe1595fc077823920808de6e43ea15"
     },
+    "python-parameterized": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-parameterized.git",
+      "branch": "master",
+      "revision": "9a1bf69c501214492572151de841dca31100adeb"
+    },
     "python-parse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parse.git",
       "branch": "master",
