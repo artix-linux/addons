@@ -5210,6 +5210,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-multipart-parser.git",
       "branch": "master",
       "revision": "787783192670656d497847cb2e63b7d81f60c2ed"
+    },
+    "ruby-multipart-post": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-multipart-post.git",
+      "branch": "master",
+      "revision": "5ff0c7b142045685ecce26bb1217b6dbbbef8742"
     }
   }
 }
