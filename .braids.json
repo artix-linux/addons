@@ -2591,6 +2591,11 @@
       "branch": "master",
       "revision": "9efd08a6c2b08597b11315b25fb9a95c0101f815"
     },
+    "python-paver": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-paver.git",
+      "branch": "master",
+      "revision": "508d1b422ce0a80beed98afbf62079a282535621"
+    },
     "python-pbkdf2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pbkdf2.git",
       "branch": "master",
