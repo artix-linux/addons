@@ -2771,6 +2771,11 @@
       "branch": "master",
       "revision": "466c1df31aeccf3898f4be90a98770c2e801346c"
     },
+    "python-prettytable": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-prettytable.git",
+      "branch": "master",
+      "revision": "c60392cc57b77b70f2ccafae9c9213c301d50347"
+    },
     "python-prometheus_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
       "branch": "master",
