@@ -436,6 +436,11 @@
       "branch": "master",
       "revision": "28f6f48c5e07b39dc4383204292c549f8df0e7af"
     },
+    "python-entrypoint2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-entrypoint2.git",
+      "branch": "master",
+      "revision": "bce0173f9f638d535e6f8cb6688ee510623b3879"
+    },
     "python-evdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
       "branch": "master",
