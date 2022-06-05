@@ -901,6 +901,11 @@
       "branch": "master",
       "revision": "c6e2e8dc56abae8986a541082949c2e132eb8c6d"
     },
+    "perl-perl-critic": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-perl-critic.git",
+      "branch": "master",
+      "revision": "790b19eedfa0188f58298f91d8cf3e60625e0fdc"
+    },
     "perl-perl4-corelibs": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-perl4-corelibs.git",
       "branch": "master",
