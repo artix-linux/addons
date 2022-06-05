@@ -901,6 +901,11 @@
       "branch": "master",
       "revision": "c6e2e8dc56abae8986a541082949c2e132eb8c6d"
     },
+    "perl-perl4-corelibs": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-perl4-corelibs.git",
+      "branch": "master",
+      "revision": "4a310ecc5ab3135660d5d4112f129a188253e17e"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
