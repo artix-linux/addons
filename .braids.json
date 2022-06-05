@@ -906,6 +906,11 @@
       "branch": "master",
       "revision": "512f4062a8a93f8d0f82a5daaad40246e2122417"
     },
+    "python-matrix-common": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-matrix-common.git",
+      "branch": "master",
+      "revision": "9e5fda4ceb83e27a4f978fc612003f6f77a6eb3f"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
