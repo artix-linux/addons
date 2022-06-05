@@ -1016,6 +1016,11 @@
       "branch": "master",
       "revision": "05afbb575470c65b7d1e1004996862f0bd77271e"
     },
+    "perl-sort-versions": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sort-versions.git",
+      "branch": "master",
+      "revision": "b9a6439bd57b0b4fa6eaa45434cfeb9e81df56a8"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
