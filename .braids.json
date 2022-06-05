@@ -616,6 +616,11 @@
       "branch": "master",
       "revision": "edac288bd61ba59cec57cd97477cdaa988c50b6b"
     },
+    "perl-list-moreutils": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-list-moreutils.git",
+      "branch": "master",
+      "revision": "d3fdd9fb9a4c5a8d9d7714e6c674a19e71ef3f4b"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
