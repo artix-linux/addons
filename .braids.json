@@ -691,6 +691,11 @@
       "branch": "master",
       "revision": "688d0e6c742857e2b6574f305400b30f5418adce"
     },
+    "perl-math-random-isaac": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-math-random-isaac.git",
+      "branch": "master",
+      "revision": "ed2916c1897231ef3417888ea57d9ebd6dc0b23f"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
