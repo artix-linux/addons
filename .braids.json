@@ -3151,6 +3151,11 @@
       "branch": "master",
       "revision": "3af5d547cc3685cdda8d330d7cd4c35f80a2e956"
     },
+    "python-zope-deprecation": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-deprecation.git",
+      "branch": "master",
+      "revision": "e41d4e9d2169deb89b037b2b2b5d18c78ac3d086"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
