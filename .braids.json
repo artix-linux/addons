@@ -5060,6 +5060,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-rack.git",
       "branch": "master",
       "revision": "6fc0e4f0fd4d6858b2244ab2e0e4c8b8af08731a"
+    },
+    "ruby-faraday-retry": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-retry.git",
+      "branch": "master",
+      "revision": "0796406435c148ffcfdb1adf766fd8687055e77e"
     }
   }
 }
