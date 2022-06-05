@@ -456,6 +456,11 @@
       "branch": "master",
       "revision": "f7f928932f10d59614903338c577dd8a3ae8e62b"
     },
+    "python-executing": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-executing.git",
+      "branch": "master",
+      "revision": "68c2622a38cefce7bb5cc0febd52482855cb5de5"
+    },
     "python-fastimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
       "branch": "master",
