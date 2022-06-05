@@ -316,6 +316,11 @@
       "branch": "master",
       "revision": "acbb88bc0fe274a89dc1e95fe756d9581a53aefe"
     },
+    "python-cssselect2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cssselect2.git",
+      "branch": "master",
+      "revision": "2cff829eb731923145a27e53965774afb631d828"
+    },
     "python-csv23": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-csv23.git",
       "branch": "master",

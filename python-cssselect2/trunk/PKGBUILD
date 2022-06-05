@@ -1,0 +1,37 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Contributor: Simon Sapin <simon dot sapin at exyr dot org>
+# Contributor: Kyle Keen <keenerd@gmail.com>
+
+pkgname=python-cssselect2
+pkgver=0.5.0
+pkgrel=1
+pkgdesc="CSS selectors for Python ElementTree"
+url="https://pypi.org/project/cssselect2/"
+license=('BSD')
+arch=('any')
+depends=('python-tinycss2')
+makedepends=('python-build' 'python-flit-core' 'python-installer')
+checkdepends=('python-pytest-cov' 'python-pytest-isort' 'python-pytest-runner')
+source=("https://pypi.io/packages/source/c/cssselect2/cssselect2-$pkgver.tar.gz")
+sha512sums=('869dbce3915db87727b09016c094b908b0055693db238a24c89b0482fed64d7e1811ad2db407faee32638566fd4e47402f05155dc2d8887e98f2107f9b8633c2')
+
+prepare() {
+  cd cssselect2-$pkgver
+  sed -i 's/--flake8//' pyproject.toml
+}
+
+build() {
+  cd cssselect2-$pkgver
+  python -m build -nw
+}
+
+check() {
+  cd cssselect2-$pkgver
+  pytest
+}
+
+package() {
+  cd cssselect2-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
