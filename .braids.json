@@ -1461,6 +1461,11 @@
       "branch": "master",
       "revision": "8f2289c3da90a4a6a4db385b05574f72370d486a"
     },
+    "python-h2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-h2.git",
+      "branch": "master",
+      "revision": "2ccff9c1c144e83effe9a88922db46c5fdd55b39"
+    },
     "python-h5py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-h5py.git",
       "branch": "master",
