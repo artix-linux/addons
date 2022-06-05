@@ -4461,6 +4461,11 @@
       "branch": "master",
       "revision": "e7d768c80fb524ae2779146c8ded382214354824"
     },
+    "python-tzlocal": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tzlocal.git",
+      "branch": "master",
+      "revision": "596021862b1cb3cecda4ca944d41d83de4eafd62"
+    },
     "python-ubjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ubjson.git",
       "branch": "master",

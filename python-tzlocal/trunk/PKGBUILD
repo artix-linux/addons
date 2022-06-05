@@ -1,0 +1,57 @@
+# Maintainer: David Runge <dvzrv@archlinux.org>
+# Contributor: eolianoe <eolianoe At GoogleMAIL DoT com>
+# Contributor: Étienne Deparis <etienne [at] depar.is>
+# Contributor: Patrice Peterson <runiq at archlinux dot us>
+# Contributor: Patrick Burroughs <celticmadman at gmail dot com>
+
+_name=tzlocal
+pkgname=python-tzlocal
+pkgver=2.1
+pkgrel=1
+epoch=1
+pkgdesc="Tzinfo object for the local timezone"
+arch=('any')
+url="https://github.com/regebro/tzlocal"
+license=('MIT')
+depends=('python-pytz')
+makedepends=('python-setuptools')
+checkdepends=('python-pytest' 'python-mock')
+source=("https://files.pythonhosted.org/packages/source/${_name::1}/${_name}/${_name}-${pkgver}.tar.gz")
+sha256sums=('643c97c5294aedc737780a49d9df30889321cbe1204eac2c2ec6134035a92e44')
+b2sums=('5437dd5ffa1259dc6e159078302eccd5c6573366d6adbfd276f4e036fde5bf2d67c9ec2ebbcd9d263efcb52eb8a57d19453d7db4307d044acc55d9de79fca6a7')
+
+prepare() {
+  mv -v "${_name}-${pkgver}" "${pkgname}-${pkgver}"
+  cd "${pkgname}-${pkgver}"
+  # fix symlink, required for test: https://github.com/regebro/tzlocal/issues/53
+  cd tests/test_data/symlink_localtime/etc
+  ln -sfv ../usr/share/zoneinfo/Africa/Harare localtime
+}
+
+build() {
+  cd "${pkgname}-${pkgver}"
+  python setup.py build
+}
+
+check() {
+  cd "${pkgname}-${pkgver}"
+  export PYTHONPATH="build:${PYTHONPATH}"
+  # disable failing timezone test:
+  # https://github.com/regebro/tzlocal/issues/89
+  pytest -v tests/tests.py -k 'not test_fail'
+}
+
+package() {
+  cd "${pkgname}-${pkgver}"
+  python setup.py install --skip-build \
+                          --optimize=1 \
+                          --prefix=/usr \
+                          --root="${pkgdir}"
+  # license
+  install -vDm 644 LICENSE.txt \
+    -t "${pkgdir}/usr/share/licenses/${pkgname}"
+  # docs
+  install -vDm 644 {CHANGES.txt,README.rst} \
+    -t "${pkgdir}/usr/share/doc/${pkgname}"
+}
+# vim:set ts=2 sw=2 et:
