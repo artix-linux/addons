@@ -786,6 +786,11 @@
       "branch": "master",
       "revision": "4b15250ac0676fc366b1f60abc9eba3f6a13a23b"
     },
+    "python-flask-restful": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-restful.git",
+      "branch": "master",
+      "revision": "17aeacd99aafe2c43c437aef2ff41f4db9a89973"
+    },
     "python-flit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit.git",
       "branch": "master",
