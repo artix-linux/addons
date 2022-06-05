@@ -5475,6 +5475,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-term-ansicolor.git",
       "branch": "master",
       "revision": "2261b5f11baaaf4d58b7245bcee5ddb1e8fff6c2"
+    },
+    "ruby-test_declarative": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-test_declarative.git",
+      "branch": "master",
+      "revision": "7d88408d9de8c7c146cf694b106d3086650e13a4"
     }
   }
 }
