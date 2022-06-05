@@ -581,6 +581,11 @@
       "branch": "master",
       "revision": "30af7c1601ec88ba18ce18e744407d585c434066"
     },
+    "perl-ipc-run3": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ipc-run3.git",
+      "branch": "master",
+      "revision": "473649a71757f4fd83dd4b2feb425fabdeef84b6"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
