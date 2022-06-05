@@ -981,6 +981,11 @@
       "branch": "master",
       "revision": "ff99ef059ee56e0e80ddceb2f22770b10131894c"
     },
+    "python-nbxmpp": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-nbxmpp.git",
+      "branch": "master",
+      "revision": "c5f615f87f494f39f3b04d8595b31b86a80d9805"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
