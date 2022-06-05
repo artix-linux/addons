@@ -2156,6 +2156,11 @@
       "branch": "master",
       "revision": "5cbc3dc76c5fdf1e9e68c78f646a17d9c88efedb"
     },
+    "python-pytest-expect": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-expect.git",
+      "branch": "master",
+      "revision": "f15800e35661fed7f4535b6fa685cde393a6f8b6"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
