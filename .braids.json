@@ -831,6 +831,11 @@
       "branch": "master",
       "revision": "3c035b9a7181fcaf3fd4350876a9a7c3e13917f6"
     },
+    "python-levenshtein": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-levenshtein.git",
+      "branch": "master",
+      "revision": "5ff537d99a18749252d507ab83175dff373ea784"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
