@@ -121,6 +121,11 @@
       "branch": "master",
       "revision": "4f5d903103dddbce0bcf2851ee107740399def81"
     },
+    "perl-common-sense": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-common-sense.git",
+      "branch": "master",
+      "revision": "41e3061d6f8377a7d830ad78a93df4fc6c00628c"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
