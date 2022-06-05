@@ -5360,6 +5360,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rdoc.git",
       "branch": "master",
       "revision": "7ad3f2ca9bdf1079f36e95272b97695805ca4852"
+    },
+    "ruby-reline": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-reline.git",
+      "branch": "master",
+      "revision": "7a31c2d2c02bbcfb21ac5af29a0ac9b146870987"
     }
   }
 }
