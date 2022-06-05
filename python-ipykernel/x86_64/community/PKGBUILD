@@ -1,0 +1,34 @@
+# Maintainer: Kyle Keen <keenerd@gmail.com>
+
+pkgname=python-ipykernel
+pkgver=6.13.0
+pkgrel=1
+pkgdesc="The ipython kernel for Jupyter"
+arch=('any')
+url="https://pypi.org/project/ipykernel/"
+license=('BSD')
+depends=('python-traitlets' 'python-tornado' 'ipython' 'python-jupyter_client' 'python-debugpy' 'python-psutil')
+makedepends=('python-build' 'python-installer' 'python-wheel')
+checkdepends=('python-pytest-timeout' 'python-mock' 'python-flaky' 'python-ipyparallel')
+source=("ipykernel-$pkgver.tgz::https://github.com/ipython/ipykernel/archive/v$pkgver.tar.gz")
+sha256sums=('5aea9337287119ec625381477f05dc0613bb9ea95fb42de5774dc5a44ad64bac')
+
+# dep cycle with python-jupyter_client
+
+build() {
+  cd ipykernel-$pkgver
+  python -m build --wheel --no-isolation
+}
+
+check() {
+  cd ipykernel-$pkgver
+  pytest -v
+}
+
+package() {
+  cd ipykernel-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -Dm644 COPYING.md "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
+
+  find "$pkgdir" -name METADATA | xargs sed -e '/setuptools/d' -i # Remove versioned setuptools dependency
+}

@@ -701,6 +701,11 @@
       "branch": "master",
       "revision": "ad71d561eae5bdc50174a544f3c3646d91890269"
     },
+    "python-ipykernel": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipykernel.git",
+      "branch": "master",
+      "revision": "77867a640227a2e59a6644f18cce365ad2a995ca"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
