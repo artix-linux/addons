@@ -1811,6 +1811,11 @@
       "branch": "master",
       "revision": "03ed263c1ded09b3b231621bb4378a4a028bbe59"
     },
+    "python-svglib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
+      "branch": "master",
+      "revision": "46a4b6fa0054fc3dc78b8bb01a31ed9551f3a6e4"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
