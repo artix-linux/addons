@@ -1316,6 +1316,11 @@
       "branch": "master",
       "revision": "7d758fe07ea86a2deca46674488b337f1e573454"
     },
+    "python-func-timeout": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-func-timeout.git",
+      "branch": "master",
+      "revision": "beca6d7baa8b15f8e0b2f803d5270531a67b2e60"
+    },
     "python-fuzzywuzzy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fuzzywuzzy.git",
       "branch": "master",
