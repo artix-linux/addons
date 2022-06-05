@@ -2266,6 +2266,11 @@
       "branch": "master",
       "revision": "184df7d7ddd84079491108b5eeb89c46ada2aab7"
     },
+    "python-pytest-runner": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-runner.git",
+      "branch": "master",
+      "revision": "ff5bc74896115eab67954d1b3d0a42f63b95a7db"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
