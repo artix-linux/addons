@@ -1,0 +1,40 @@
+# Maintainer: Artoo <artoo@artixlinux.org>
+
+_gemname=arrayfields
+pkgname=ruby-${_gemname}
+pkgver=4.9.2
+pkgrel=1
+pkgdesc='string/symbol keyword access to arrays'
+url='https://github.com/ahoward/arrayfields'
+arch=('any')
+license=('MIT')
+depends=('ruby')
+makedepends=('git' 'ruby-rdoc')
+options=('!emptydirs')
+_commit=f71f16ff983294860c263f022a7585da8f78635d
+source=("git+https://github.com/ahoward/arrayfields.git#commit=$_commit")
+sha256sums=('SKIP')
+
+prepare() {
+  cd "${_gemname}"
+
+  sed -e '/spec.rubyforge_project = "codeforpeople"/d' \
+      -e 's/spec.license = .*/spec.license = "Ruby"/' -i $_gemname.gemspec
+}
+
+build() {
+  cd "${_gemname}"
+  gem build $_gemname.gemspec
+}
+
+package() {
+  cd "${_gemname}"
+  local _gemdir="$(gem env gemdir)"
+  gem install --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" \
+    -n "${pkgdir}/usr/bin" pkg/${_gemname}-${pkgver}.gem
+
+  install -Dm 644 README -t "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+
+  rm -r "${pkgdir}/${_gemdir}/cache"
+}
