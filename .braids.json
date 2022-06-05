@@ -5490,6 +5490,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-test_declarative.git",
       "branch": "master",
       "revision": "7d88408d9de8c7c146cf694b106d3086650e13a4"
+    },
+    "ruby-tilt": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tilt.git",
+      "branch": "master",
+      "revision": "b8f7f86428ab3a09acf7ee326242e43f4339b23f"
     }
   }
 }
