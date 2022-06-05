@@ -781,6 +781,11 @@
       "branch": "master",
       "revision": "17200b17fa89e3071da599c738754efb38bb9344"
     },
+    "perl-net-dns": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-dns.git",
+      "branch": "master",
+      "revision": "7207822a630966374aea0dbb6511b4c10a52636e"
+    },
     "perl-netaddr-ip": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-netaddr-ip.git",
       "branch": "master",
