@@ -1,0 +1,33 @@
+# Maintainer: Jelle van der Waa <jelle@archlinux.org>
+# Contributor: Maxim Andersson <thesilentboatman@gmail.com>
+
+pkgname=python-zeroconf
+pkgver=0.38.4
+pkgrel=1
+pkgdesc="A pure python implementation of multicast DNS service discovery"
+arch=('any')
+url="https://github.com/jstasiak/python-zeroconf"
+license=('LGPL')
+depends=('python' 'python-netifaces' 'python-six' 'python-ifaddr')
+makedepends=('python-setuptools')
+checkdepends=('python-pytest')
+source=($pkgname-$pkgver.tar.gz::https://github.com/jstasiak/${pkgname}/archive/${pkgver}.tar.gz)
+sha256sums=('74ead61490a7573d1cab1e9e9ea6fe846be0843c4ddd55633788d4670837c0eb')
+
+build() {
+  cd "${pkgbase}-${pkgver}"
+  python3 setup.py build
+}
+
+package() {
+  cd "${pkgbase}-${pkgver}"
+
+  python setup.py install --prefix=/usr --root="${pkgdir}" --optimize=1
+}
+
+check() {
+  cd "${pkgbase}-${pkgver}"
+  pytest -k 'not test_integration_with_listener_ipv6' tests
+}
+
+# vim:set ts=2 sw=2 et:
