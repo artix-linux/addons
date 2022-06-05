@@ -4191,6 +4191,11 @@
       "branch": "master",
       "revision": "9fc4dfd671fc98357852d9019234fd7b274d8068"
     },
+    "python-strict-rfc3339": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-strict-rfc3339.git",
+      "branch": "master",
+      "revision": "520dbd3e6d2e0603b5bad9406d9d53f7dd26e696"
+    },
     "python-svglib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
       "branch": "master",
