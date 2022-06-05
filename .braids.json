@@ -1656,6 +1656,11 @@
       "branch": "master",
       "revision": "35eaef076996e02ef739eb56f242a48c1f8788fa"
     },
+    "python-installer": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-installer.git",
+      "branch": "master",
+      "revision": "2cf6b2f100fea36cb524c50543f49c9e8f1c2f95"
+    },
     "python-intelhex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-intelhex.git",
       "branch": "master",
