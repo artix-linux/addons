@@ -21,6 +21,11 @@
       "branch": "master",
       "revision": "38a8fc497f34076157ee9ddadc4004ab4009d652"
     },
+    "python-ansicolors": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansicolors.git",
+      "branch": "master",
+      "revision": "7122d7c0059575bd06dd25048518d62b57798e32"
+    },
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
       "branch": "master",
