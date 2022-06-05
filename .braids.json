@@ -5415,6 +5415,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ruby2_keywords.git",
       "branch": "master",
       "revision": "73f4974af65b2124676a8065c45f5b09aade7c37"
+    },
+    "ruby-rubydns": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rubydns.git",
+      "branch": "master",
+      "revision": "688b9e1f4124beeae6eaf411eb184129472ead4d"
     }
   }
 }
