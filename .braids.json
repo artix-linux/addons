@@ -5030,6 +5030,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-excon.git",
       "branch": "master",
       "revision": "60f4cf54cc4053f1abb3ba1bb9d65c428b380a64"
+    },
+    "ruby-faraday-httpclient": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-httpclient.git",
+      "branch": "master",
+      "revision": "28d7df438061bffde7a74681d6d558329e20bc8b"
     }
   }
 }
