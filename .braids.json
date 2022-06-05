@@ -981,6 +981,11 @@
       "branch": "master",
       "revision": "fdd0b5b81e8f1573ec35499eead9a3fca4aaccc8"
     },
+    "perl-role-tiny": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-role-tiny.git",
+      "branch": "master",
+      "revision": "2f06be16a9df435d951ae7a12bf0db6d372f07fd"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
