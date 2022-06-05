@@ -756,6 +756,11 @@
       "branch": "master",
       "revision": "935b34e59a717b1f54509ab8fe955f33d1abd9d2"
     },
+    "perl-moo": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-moo.git",
+      "branch": "master",
+      "revision": "29785fda29eea31cf13b44edda91e457fdf32a28"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
