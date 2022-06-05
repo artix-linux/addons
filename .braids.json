@@ -1331,6 +1331,11 @@
       "branch": "master",
       "revision": "d0e6ec47357714e51b4b3b325e7e31b350d32e26"
     },
+    "python-pyjsparser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyjsparser.git",
+      "branch": "master",
+      "revision": "2691dd6b0a1ecae163b16c2ac315a6f6bdcb3a1b"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
