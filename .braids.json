@@ -230,6 +230,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
       "revision": "448c68784e39343aa885d5116118dba632faf80c"
+    },
+    "python-pyopenssl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
+      "branch": "master",
+      "revision": "6eccccc57586adc833c6395bbdcda5ec99934f5d"
     }
   }
 }
