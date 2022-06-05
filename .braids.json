@@ -841,6 +841,11 @@
       "branch": "master",
       "revision": "62cc07594f83a470b61aebe7c3f7b8691da7fdd7"
     },
+    "perl-package-stash": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-package-stash.git",
+      "branch": "master",
+      "revision": "981d818b02d9a8616680d0088072177c72c6ba53"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
