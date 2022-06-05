@@ -1916,6 +1916,11 @@
       "branch": "master",
       "revision": "e6c75eb9642a4815c56a6917e4c629b5a21da559"
     },
+    "python-ujson": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ujson.git",
+      "branch": "master",
+      "revision": "b6d784ecb9630d49978a1949c0ffbb8a0cf2eac1"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
