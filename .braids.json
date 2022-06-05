@@ -591,6 +591,11 @@
       "branch": "master",
       "revision": "0d447a1d34bf2cf641a8cc5be92fcfc9b637e196"
     },
+    "python-heapdict": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-heapdict.git",
+      "branch": "master",
+      "revision": "dd006b399e30502adba38c7506babee55118f90d"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
