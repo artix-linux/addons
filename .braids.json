@@ -1361,6 +1361,11 @@
       "branch": "master",
       "revision": "52c5b5869cc58836e295f4e7155c848c6fd79084"
     },
+    "python-pylink-square": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylink-square.git",
+      "branch": "master",
+      "revision": "695a9b469ec64cffd3d9db9d44d3aff5bfbca562"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
