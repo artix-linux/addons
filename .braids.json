@@ -3796,6 +3796,11 @@
       "branch": "master",
       "revision": "e68b45d37bf6ad813feda7546f2dce756847738b"
     },
+    "python-scipy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-scipy.git",
+      "branch": "master",
+      "revision": "bf84319c72f6d812eca984d8e1948cf74274e57d"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
