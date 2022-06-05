@@ -4656,6 +4656,11 @@
       "branch": "master",
       "revision": "2ae106ee898c717971fe07e502b1e00e833a3f13"
     },
+    "python-werkzeug": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-werkzeug.git",
+      "branch": "master",
+      "revision": "fa283e9ad88ba09b388f6763dcc6a46e09c6b8ef"
+    },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
