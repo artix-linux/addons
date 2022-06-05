@@ -2141,6 +2141,11 @@
       "branch": "master",
       "revision": "5f8697a0c5eea968f5ab4455f885cc6b8a1229c3"
     },
+    "python-pytest-django": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-django.git",
+      "branch": "master",
+      "revision": "d12838f3331721f88c3a7bdf5f935014cabfa812"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
