@@ -1996,6 +1996,11 @@
       "branch": "master",
       "revision": "d980e72e5fe1e43ad3e29b04cc506f59897f0643"
     },
+    "python-lockfile": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-lockfile.git",
+      "branch": "master",
+      "revision": "a86cd47c06d8f938cdb39b3c0b533c0b0b3c975b"
+    },
     "python-lsp-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-black.git",
       "branch": "master",
