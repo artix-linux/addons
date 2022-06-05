@@ -946,6 +946,11 @@
       "branch": "master",
       "revision": "97c113b4faee3a44d60e96c19caa1445aa1b52ba"
     },
+    "python-moreorless": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-moreorless.git",
+      "branch": "master",
+      "revision": "3b94ca33b4f7c76a513086fa894de00a1c58b979"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
