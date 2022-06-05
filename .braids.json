@@ -206,6 +206,11 @@
       "branch": "master",
       "revision": "ab0327ca4318eba8c4d80b12397940dbc842d437"
     },
+    "python-cfgv": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cfgv.git",
+      "branch": "master",
+      "revision": "403526d1f3d827ba974d66d173936ca6b59972f8"
+    },
     "python-chardet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-chardet.git",
       "branch": "master",
