@@ -66,6 +66,11 @@
       "branch": "master",
       "revision": "9805e925b70def33633fea9993da1f6bd5bd4741"
     },
+    "python-asteval": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-asteval.git",
+      "branch": "master",
+      "revision": "5b8433d730d73d05f6834007292096be857cd907"
+    },
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
