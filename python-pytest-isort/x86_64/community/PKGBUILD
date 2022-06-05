@@ -1,0 +1,35 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-pytest-isort
+pkgver=3.0.0
+pkgrel=1
+pkgdesc='pytest plugin to perform isort checks (import ordering)'
+arch=('any')
+license=('BSD')
+url='https://github.com/moccu/pytest-isort'
+depends=('python-pytest' 'python-isort')
+makedepends=('python-build' 'python-installer' 'python-poetry')
+source=("https://github.com/moccu/pytest-isort/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('d1efae99da70c324bff078d2a9182dcfac715da2f9297c572b4d220d8b1701a7254d8042aa63b247ca38f1c4eba298b48e884f56989848d2afe419e7fdb0186a')
+
+build() {
+  cd pytest-isort-$pkgver
+  python -m build -nw
+}
+
+check() {
+  # Hack entry points by installing it
+
+  cd pytest-isort-$pkgver
+  python -m installer --destdir="$PWD/tmp_install" dist/*.whl
+  PYTHONPATH="$PWD/tmp_install/usr/lib/python3.10/site-packages:$PYTHONPATH" pytest
+}
+
+package() {
+  cd pytest-isort-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -Dm644 LICENSE.rst -t "$pkgdir"/usr/share/licenses/$pkgname/
+  rm "$pkgdir"/usr/lib/python3.10/site-packages/LICENSE.rst
+}
+
+# vim:set ts=2 sw=2 et:
