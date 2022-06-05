@@ -1501,6 +1501,11 @@
       "branch": "master",
       "revision": "3f3f1094519bda29c36efdf54ef7732806ebad24"
     },
+    "python-os-client-config": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-os-client-config.git",
+      "branch": "master",
+      "revision": "95c6fde69a14eed10046a8c28faa8378bc9e593b"
+    },
     "python-oscrypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oscrypto.git",
       "branch": "master",
