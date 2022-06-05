@@ -1,0 +1,37 @@
+# Maintainer: Kyle Keen <keenerd@gmail.com>
+# Contributor: David Runge <dvzrv@archlinux.org>
+# Contributor: shmilee
+
+_pkgname=mistune
+pkgname=python-mistune
+pkgver=2.0.2
+pkgrel=1
+pkgdesc="A fast yet powerful Python Markdown parser with renderers and plugins"
+arch=(any)
+url="https://github.com/lepture/mistune"
+license=(BSD)
+depends=(python)
+makedepends=(python-build python-install python-setuptools python-wheel)
+checkdepends=(python-pytest)
+source=("$pkgname-$pkgver.tar.gz::https://github.com/lepture/mistune/archive/refs/tags/v${pkgver}.tar.gz")
+sha512sums=('b11bda3f265a74959ea66b19bc0122f6951beb68af7eced1ff4c2106e179c65bba0566f7f7146e087307ca3f78ad0a1fdc78dc3955e6cb1ea2a0ce5c2e1aeecb')
+b2sums=('420db59d5a4813ca743dadf09f8618f3bea673629ff049b2b13e11af9130256f56d0a93883edb319ab595db0de6f820310adfb4a2b21fbaab87defb70d6daa56')
+
+build() {
+  cd "${_pkgname}-$pkgver"
+  python -m build --wheel --skip-dependency-check --no-isolation
+}
+
+check() {
+  cd "${_pkgname}-$pkgver"
+  pytest -vv
+}
+
+package() {
+  cd "${_pkgname}-$pkgver"
+  python -m install --optimize=1 --destdir="$pkgdir" dist/*.whl
+  install -vDm 644 README.md -t "$pkgdir/usr/share/doc/${pkgname}/"
+  install -vDm 644 LICENSE -t "$pkgdir/usr/share/licenses/${pkgname}/"
+}
+
+# vim:set ts=2 sw=2 et:
