@@ -1326,6 +1326,11 @@
       "branch": "master",
       "revision": "512f4062a8a93f8d0f82a5daaad40246e2122417"
     },
+    "python-matplotlib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-matplotlib.git",
+      "branch": "master",
+      "revision": "6dd7cb6c22bfe1721b1b63249f61244482a4e40a"
+    },
     "python-matrix-common": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-matrix-common.git",
       "branch": "master",
