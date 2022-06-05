@@ -1,0 +1,34 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-teamcity-messages
+pkgver=1.31
+pkgrel=1
+pkgdesc="Send test results to TeamCity continuous integration server from unittest, nose, py.test, twisted trial, behave"
+url="https://github.com/JetBrains/teamcity-messages"
+license=('Apache')
+arch=('any')
+depends=('python')
+makedepends=('python-setuptools')
+checkdepends=('python-pytest' 'python-virtualenv')
+source=("https://github.com/JetBrains/teamcity-messages/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('d59efff993aec223d4415898c60a3a611df8ba24afa42f8decfca98cef1c218ac50785eab065a3b84e61b3ac886b993d17bc63a95de1aa8b6ddf80fe1106bf7d')
+
+prepare() {
+  cd teamcity-messages-$pkgver
+  sed -i "s/virtualenv_version = 'virtualenv==20.7.2'/virtualenv_version = 'virtualenv'/" setup.py
+}
+
+build() {
+  cd teamcity-messages-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd teamcity-messages-$pkgver
+  python setup.py test || echo "Tests failed"
+}
+
+package() {
+  cd teamcity-messages-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+}
