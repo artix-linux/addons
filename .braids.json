@@ -1346,6 +1346,11 @@
       "branch": "master",
       "revision": "3c0017fc27f840bc7a35f1a0a86f142a0f41e652"
     },
+    "python-genty": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-genty.git",
+      "branch": "master",
+      "revision": "a0f5fd0490bb6999fc045537a5f22bb1e670893a"
+    },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
