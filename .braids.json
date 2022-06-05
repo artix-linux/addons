@@ -4491,6 +4491,11 @@
       "branch": "master",
       "revision": "ddea05deef7ba886a08910daebc6d96fdc6988d3"
     },
+    "python-ukpostcodeparser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ukpostcodeparser.git",
+      "branch": "master",
+      "revision": "790856491d95283a82886dbeaede5bc502e0676d"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
