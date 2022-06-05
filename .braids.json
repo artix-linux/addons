@@ -4621,6 +4621,11 @@
       "branch": "master",
       "revision": "5cce6526f802df251465423b9ad14b38aefc346f"
     },
+    "python-wcwidth": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcwidth.git",
+      "branch": "master",
+      "revision": "db25809ba84fa58fdf471c6629c0a1cfdd5a032c"
+    },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
