@@ -1071,6 +1071,11 @@
       "branch": "master",
       "revision": "f7f928932f10d59614903338c577dd8a3ae8e62b"
     },
+    "python-eventlet": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-eventlet.git",
+      "branch": "master",
+      "revision": "cc45a8968e2c2e5e49bdf67e5df4a9a6264fcd35"
+    },
     "python-executing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-executing.git",
       "branch": "master",
