@@ -1711,6 +1711,11 @@
       "branch": "master",
       "revision": "1826ddb3fffbfdede272ef1a6e419fad3b036224"
     },
+    "python-itsdangerous": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-itsdangerous.git",
+      "branch": "master",
+      "revision": "c09a0071bc230bb4d794c1ca4a481e3848fbc26d"
+    },
     "python-jaraco": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.git",
       "branch": "master",
