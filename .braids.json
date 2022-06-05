@@ -971,6 +971,11 @@
       "branch": "master",
       "revision": "de2a85c528763a295bd6b004d892f01b48e67f15"
     },
+    "perl-readonly": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-readonly.git",
+      "branch": "master",
+      "revision": "94b7b71d8575be1fb7e173f6e2ee5c2f23dcbf8d"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
