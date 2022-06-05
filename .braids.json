@@ -1216,6 +1216,11 @@
       "branch": "master",
       "revision": "170474dfa116fb2820b8c18f08e8d5b88c0cdca6"
     },
+    "python-flasgger": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flasgger.git",
+      "branch": "master",
+      "revision": "381e77efbf2ce112f8d623c869243aaef79731ef"
+    },
     "python-flask": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask.git",
       "branch": "master",
