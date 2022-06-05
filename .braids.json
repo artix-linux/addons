@@ -1886,6 +1886,11 @@
       "branch": "master",
       "revision": "c1720ada8f4cac250a14c1ca91e72d1ce8c4eedd"
     },
+    "python-typeguard": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-typeguard.git",
+      "branch": "master",
+      "revision": "63bb1d520eb5338e4c8fd249bf8723422797f0b7"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
