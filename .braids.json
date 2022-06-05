@@ -5320,6 +5320,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rails-dom-testing.git",
       "branch": "master",
       "revision": "cd108d47eff37d7b1f16c9d6d73ecef4880108d4"
+    },
+    "ruby-rails-html-sanitizer": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rails-html-sanitizer.git",
+      "branch": "master",
+      "revision": "d16d52223bd89d18d253f56fb150913141a68b5e"
     }
   }
 }
