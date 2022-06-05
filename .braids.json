@@ -1191,6 +1191,11 @@
       "branch": "master",
       "revision": "bae11ae7faa7b3cb08b17580e1fca814e1788c3b"
     },
+    "python-py": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-py.git",
+      "branch": "master",
+      "revision": "63b999278fd331f13dd27203226b08dc220a63cb"
+    },
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
       "branch": "master",
