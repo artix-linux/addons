@@ -80,6 +80,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbusmock.git",
       "branch": "master",
       "revision": "98c087d8a2bad0aad2a09bde4ec03893479d660f"
+    },
+    "python-defusedxml": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-defusedxml.git",
+      "branch": "master",
+      "revision": "58bbc807b2cc25d960e1b638cf767a2acf242651"
     }
   }
 }
