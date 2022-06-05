@@ -211,6 +211,11 @@
       "branch": "master",
       "revision": "7b5c11deb18d12e5628cfbc046ae4a9a60e25024"
     },
+    "python-async_generator": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-async_generator.git",
+      "branch": "master",
+      "revision": "489a26cf24fe657d173202d1a4b010dba4912344"
+    },
     "python-atpublic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-atpublic.git",
       "branch": "master",
