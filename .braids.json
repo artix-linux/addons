@@ -866,6 +866,11 @@
       "branch": "master",
       "revision": "8c26b256858aee0393091567ffce03fe872ad75a"
     },
+    "python-locket": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-locket.git",
+      "branch": "master",
+      "revision": "d980e72e5fe1e43ad3e29b04cc506f59897f0643"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
