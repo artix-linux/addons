@@ -1341,6 +1341,11 @@
       "branch": "master",
       "revision": "703d8c92111c475ca8cec7a9b955571687ad2b32"
     },
+    "python-pykerberos": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pykerberos.git",
+      "branch": "master",
+      "revision": "66def92c0be24847cf2b8b38eb6fa2941c0ac092"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
