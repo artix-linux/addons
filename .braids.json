@@ -1661,6 +1661,11 @@
       "branch": "master",
       "revision": "5f40c05695cb373d0b32f30c2bc8a2f894e784c1"
     },
+    "python-rpyc": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rpyc.git",
+      "branch": "master",
+      "revision": "687c4f1aaab97fb5b5dec1b438fdd111a609f3bb"
+    },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
