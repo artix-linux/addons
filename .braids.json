@@ -1531,6 +1531,11 @@
       "branch": "master",
       "revision": "5db0437e18d46d89daad2c57319f5e0090cbf183"
     },
+    "python-oslo-i18n": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-i18n.git",
+      "branch": "master",
+      "revision": "cd3eb1fa283978b689f46b03df35c01e63294efd"
+    },
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
