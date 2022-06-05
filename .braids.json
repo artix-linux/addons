@@ -180,6 +180,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep517.git",
       "branch": "master",
       "revision": "f7d9277b99e6820564feb5077b054fed3282075f"
+    },
+    "python-pip": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip.git",
+      "branch": "master",
+      "revision": "7afbf80344176e42d9c78952a3cf9fe75983cc1e"
     }
   }
 }
