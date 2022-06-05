@@ -1,0 +1,55 @@
+# Maintainer: Filipe Laíns (FFY00) <lains@archlinux.org>
+# Maintainer: Daniel M. Capella <polyzen@archlinux.org>
+
+_pkgname=furo
+pkgname=python-sphinx-$_pkgname
+pkgver=2022.04.07
+pkgrel=2
+pkgdesc='A clean customizable documentation theme for Sphinx'
+arch=('any')
+url='https://github.com/pradyunsg/furo'
+license=('MIT')
+depends=('python-sphinx' 'python-pygments' 'python-beautifulsoup4')
+makedepends=('python-build' 'python-installer' 'python-sphinx-theme-builder' 'python-flit-core'
+             'nodejs-lts-gallium' 'npm')
+source=("$pkgname-$pkgver.tar.gz::$url/archive/$pkgver.tar.gz"
+        'furo-sphinx5-compat.patch::https://github.com/pradyunsg/furo/commit/d955850a89310a932ecab4e84cba0c20371a6a33.patch')
+sha512sums=('9a9194a0ed89bbee5f20ff4b18275e668ebfae80df88d88d5a4f305983820542a33a492a528352f48c0370bf079d39e8fc6fe2b4ade0397d88e22ec65e644b57'
+            '152c0fb054e9d30cd483a73345e9d6ba99e5ef63a159696f8afa7c60fda9cd168ff2c3a67e6d540ba2a58972cbe007976f9df0e0fb575723cc0567148f0f984d')
+
+prepare() {
+  cd $_pkgname-$pkgver
+  patch --forward --strip=1 --input=../furo-sphinx5-compat.patch --reject-file=- || true
+}
+
+build() {
+  cd $_pkgname-$pkgver
+
+  python -m build -nw
+
+  # docs disabled for now to unblock Python 3.10 update
+
+  # sphinx needs this theme installed because it is uses it.
+  # simply injecting the package to sys.path (via PYTHONPATH or similar)
+  # is not enough because sphinx looks for themes in the registered
+  # entrypoints, this means we actually have to install the package.
+  # for this we will create a venv with access to system packages and
+  # install the theme there, then we will build the documentation.
+
+  #python -m venv --system-site-packages doc-env
+  #doc-env/bin/python setup.py install --skip-build
+
+  #doc-env/bin/python /usr/bin/sphinx-build -b dirhtml -v docs build/docs/html
+}
+
+package() {
+  cd $_pkgname-$pkgver
+
+  python -m installer --destdir="$pkgdir" dist/*.whl
+
+  #install -dm 755 "$pkgdir"/usr/share/doc/$pkgname
+  #cp -r -a --no-preserve=ownership build/docs/html "$pkgdir"/usr/share/doc/$pkgname
+  #rm -rf "$pkgdir"/usr/share/doc/$pkgname/html/.doctrees
+
+  install -Dm 644 LICENSE "$pkgdir"/usr/share/licenses/$pkgname/LICENSE
+}

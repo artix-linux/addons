@@ -2716,6 +2716,11 @@
       "branch": "master",
       "revision": "e33d4093008ad577ac93e528c3a5e8a146dc3ea0"
     },
+    "python-sphinx-furo": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-furo.git",
+      "branch": "master",
+      "revision": "bd8272598c77e2edbb2094de122e71711d6a689a"
+    },
     "python-sphinxcontrib-applehelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-applehelp.git",
       "branch": "master",
