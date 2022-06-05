@@ -190,6 +190,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-platformdirs.git",
       "branch": "master",
       "revision": "1a51b5e44a20d2dace3b5af3d435c49704d2bd98"
+    },
+    "python-ply": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ply.git",
+      "branch": "master",
+      "revision": "fb157c59cd4d14590a74a05b0ffcdfda88a76b28"
     }
   }
 }
