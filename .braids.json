@@ -2491,6 +2491,11 @@
       "branch": "master",
       "revision": "8533814bd6a3fd8a9eb4586bd10c659a1194c9b8"
     },
+    "python-requests-unixsocket": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-unixsocket.git",
+      "branch": "master",
+      "revision": "3f329ae6eb6110d53683b6f253cb0bafc067fdf2"
+    },
     "python-requestsexceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requestsexceptions.git",
       "branch": "master",
