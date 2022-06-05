@@ -531,6 +531,11 @@
       "branch": "master",
       "revision": "af2164a1a5e0354901f6427dba036608c66e4be7"
     },
+    "perl-io-captureoutput": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-captureoutput.git",
+      "branch": "master",
+      "revision": "c78cce7eb8a2c54ec629cd02c46a16cf86aadddf"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
