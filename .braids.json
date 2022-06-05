@@ -195,6 +195,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ply.git",
       "branch": "master",
       "revision": "fb157c59cd4d14590a74a05b0ffcdfda88a76b28"
+    },
+    "python-prometheus_client": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
+      "branch": "master",
+      "revision": "6eb00bca70457899990734d7040f6c8929c22672"
     }
   }
 }
