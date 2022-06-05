@@ -3826,6 +3826,11 @@
       "branch": "master",
       "revision": "f94022d49520db154f934f7dbab61dc4878311ef"
     },
+    "python-semantic-version": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-semantic-version.git",
+      "branch": "master",
+      "revision": "163469d00b9182bd4d5330b01af4b1867d5e801f"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
