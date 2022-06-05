@@ -1571,6 +1571,11 @@
       "branch": "master",
       "revision": "d6509f0d929a37d6cd4694e05ee366a204eb3b99"
     },
+    "python-hyperframe": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperframe.git",
+      "branch": "master",
+      "revision": "da0508165282ab904e9890ed393a06fc734bd88c"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
