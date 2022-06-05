@@ -4970,6 +4970,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-concurrent.git",
       "branch": "master",
       "revision": "2672b590555b728468f90b5ff52192298ea49464"
+    },
+    "ruby-crack": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-crack.git",
+      "branch": "master",
+      "revision": "98e21618cfe1097b64500c91b6bbd1b0400d4a9b"
     }
   }
 }
