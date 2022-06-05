@@ -1951,6 +1951,11 @@
       "branch": "master",
       "revision": "6c57882ceefbc462c9336ac3b73aa6988badc736"
     },
+    "python-libcst": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-libcst.git",
+      "branch": "master",
+      "revision": "4b0642bef036e92893b8c4a6c941ef8edfc897f0"
+    },
     "python-libevdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libevdev.git",
       "branch": "master",
