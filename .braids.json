@@ -746,6 +746,11 @@
       "branch": "master",
       "revision": "424769f94b61aa856caa6548dd9ddf31bf179e69"
     },
+    "perl-module-runtime": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-runtime.git",
+      "branch": "master",
+      "revision": "b8c749817d773b2e48b7f88c5ce8f9a9e907f411"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
