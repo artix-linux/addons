@@ -461,6 +461,11 @@
       "branch": "master",
       "revision": "cadf40076f7fe62fd3ac30d32e284ee898bce71b"
     },
+    "python-case": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-case.git",
+      "branch": "master",
+      "revision": "3e36ae984cd8b594efca4b224c80fd9b879b94cf"
+    },
     "python-cattrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cattrs.git",
       "branch": "master",
