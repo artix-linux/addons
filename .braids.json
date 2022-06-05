@@ -5000,6 +5000,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-domain_name.git",
       "branch": "master",
       "revision": "30e70096d2204bf2c829a3feda619afb773270d9"
+    },
+    "ruby-erubi": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erubi.git",
+      "branch": "master",
+      "revision": "c13a08dda4565e482266aa6ebb3778e930c9970e"
     }
   }
 }
