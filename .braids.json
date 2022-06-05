@@ -36,6 +36,11 @@
       "branch": "master",
       "revision": "969ab0df0c2464d6aa58665964f7e106925cabf1"
     },
+    "perl-archive-extract": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-archive-extract.git",
+      "branch": "master",
+      "revision": "b4780e08c4da71d58dba4da8a0eda1574dfed2e0"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
