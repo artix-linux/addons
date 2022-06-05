@@ -5310,6 +5310,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rack-protection.git",
       "branch": "master",
       "revision": "fbea857dcd36cd42f6609d1d6e42b888d6e92d30"
+    },
+    "ruby-rack-test": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rack-test.git",
+      "branch": "master",
+      "revision": "019c1694ee093a1fe22466f0c89d4703ff3017ae"
     }
   }
 }
