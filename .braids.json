@@ -2261,6 +2261,11 @@
       "branch": "master",
       "revision": "ab6d8e1eb5920f73d027157c06de4ce88ea6fc0a"
     },
+    "python-pytest-rerunfailures": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-rerunfailures.git",
+      "branch": "master",
+      "revision": "184df7d7ddd84079491108b5eeb89c46ada2aab7"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
