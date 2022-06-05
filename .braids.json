@@ -90,6 +90,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
       "revision": "d8b47303b589cbc44a9ddacca42affd40afbe8b8"
+    },
+    "python-evdev": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
+      "branch": "master",
+      "revision": "f7f928932f10d59614903338c577dd8a3ae8e62b"
     }
   }
 }
