@@ -221,6 +221,11 @@
       "branch": "master",
       "revision": "56b2ffcd7863a549db59845a3e98034e9441cc6d"
     },
+    "python-charset-normalizer": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-charset-normalizer.git",
+      "branch": "master",
+      "revision": "b40471c3b0df028feef9f3901af07c383415fd4e"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
