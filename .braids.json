@@ -5125,6 +5125,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-i18n.git",
       "branch": "master",
       "revision": "1d1a76368b22f3b74fba4e53b123832e32980ef0"
+    },
+    "ruby-irb": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-irb.git",
+      "branch": "master",
+      "revision": "b5945639c818c13eb110060919828287dd4a2cef"
     }
   }
 }
