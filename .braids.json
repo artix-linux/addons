@@ -1316,6 +1316,11 @@
       "branch": "master",
       "revision": "b00def841d134b9ee897d363e03cd8478af94cf9"
     },
+    "perl-unicode-linebreak": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-unicode-linebreak.git",
+      "branch": "master",
+      "revision": "478a5a788cc31517d29e731c244d49d2d3c5d8e7"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
