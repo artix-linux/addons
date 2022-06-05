@@ -1,0 +1,39 @@
+# Maintainer: Artoo <artoo@artixlinux.org>
+
+_gemname=fattr
+pkgname=ruby-${_gemname}
+pkgver=2.4.0
+pkgrel=1
+pkgdesc='a "fatter attr" for ruby'
+url='https://github.com/ahoward/fattr'
+arch=('any')
+license=('MIT')
+depends=('ruby')
+makedepends=('git' 'ruby-rdoc')
+options=('!emptydirs')
+_commit=93c482e27f5ff76d5d299cba64848b1301a6fa39
+source=("git+https://github.com/ahoward/fattr.git#commit=$_commit")
+sha256sums=('SKIP')
+
+prepare() {
+  cd "${_gemname}"
+
+  sed -e '/spec.rubyforge_project = "codeforpeople"/d' -i $_gemname.gemspec
+}
+
+build() {
+  cd "${_gemname}"
+  gem build $_gemname.gemspec
+}
+
+package() {
+  cd "${_gemname}"
+  local _gemdir="$(gem env gemdir)"
+  gem install --verbose --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" \
+    -n "${pkgdir}/usr/bin" pkg/${_gemname}-${pkgver}.gem
+
+  install -Dm 644 README -t "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+
+  rm -r "${pkgdir}/${_gemdir}/cache"
+}

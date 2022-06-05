@@ -5070,6 +5070,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fast_gettext.git",
       "branch": "master",
       "revision": "baa295ad543252dcbacf0850ce30642d5bc1cca1"
+    },
+    "ruby-fattr": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fattr.git",
+      "branch": "master",
+      "revision": "5b37797053700be9bc4ef2188a6d038c10e49183"
     }
   }
 }
