@@ -4266,6 +4266,11 @@
       "branch": "master",
       "revision": "8027ea870f699f1a1ad2b82649d0b2bfaf43e644"
     },
+    "python-termstyle": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-termstyle.git",
+      "branch": "master",
+      "revision": "1653afda101dd0a6432f8ea7756eaed0d504247b"
+    },
     "python-testing.common.database": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testing.common.database.git",
       "branch": "master",
