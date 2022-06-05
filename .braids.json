@@ -881,6 +881,11 @@
       "branch": "master",
       "revision": "f542762079e717c8391bdbc702f3b0c5f29deba1"
     },
+    "python-googleapis-common-protos": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-googleapis-common-protos.git",
+      "branch": "master",
+      "revision": "d317663e21bcc9d0606cd6e8d859e3361fb60d06"
+    },
     "python-graphviz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphviz.git",
       "branch": "master",
