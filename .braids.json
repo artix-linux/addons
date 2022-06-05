@@ -1771,6 +1771,11 @@
       "branch": "master",
       "revision": "4979499be418ed55465453524a92b5ff31aa0f58"
     },
+    "python-sphobjinv": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
+      "branch": "master",
+      "revision": "94119dcdec7e72aaed3a9d5f8d791f3dfdaa2189"
+    },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
       "branch": "master",
