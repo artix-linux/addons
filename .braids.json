@@ -1116,6 +1116,11 @@
       "branch": "master",
       "revision": "7afbf80344176e42d9c78952a3cf9fe75983cc1e"
     },
+    "python-pkgconfig": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pkgconfig.git",
+      "branch": "master",
+      "revision": "dbc6c6c4172279d061303e140262810c12285d20"
+    },
     "python-platformdirs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-platformdirs.git",
       "branch": "master",
