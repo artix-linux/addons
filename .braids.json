@@ -1761,6 +1761,11 @@
       "branch": "master",
       "revision": "462656a4905a58f90330e9db19a55cb881dc9560"
     },
+    "python-spec": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-spec.git",
+      "branch": "master",
+      "revision": "ebb90588960438ff474ac23daaa6410a5851498f"
+    },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
