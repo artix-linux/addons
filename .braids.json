@@ -1421,6 +1421,11 @@
       "branch": "master",
       "revision": "31f2e14b4ae99a7f5420c85aa7978f341a2a1ace"
     },
+    "python-pyppeteer": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyppeteer.git",
+      "branch": "master",
+      "revision": "3fc296a10a815e676171080738799ce3edfae5cf"
+    },
     "python-pyqt5-sip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyqt5-sip.git",
       "branch": "master",
