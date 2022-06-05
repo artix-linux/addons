@@ -246,6 +246,11 @@
       "branch": "master",
       "revision": "b18a32df88b4b6a819f4c2c9f7d2f8a0cd004d5f"
     },
+    "python-cmsis-pack-manager": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cmsis-pack-manager.git",
+      "branch": "master",
+      "revision": "996458acc4009096fb19384dcb32efc85e03cf7e"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
