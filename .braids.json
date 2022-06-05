@@ -1376,6 +1376,11 @@
       "branch": "master",
       "revision": "448c68784e39343aa885d5116118dba632faf80c"
     },
+    "python-pymongo": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymongo.git",
+      "branch": "master",
+      "revision": "58a1e57f04d773e00a4803f4b9f0a5b3d2b1709e"
+    },
     "python-pyopenssl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
       "branch": "master",
