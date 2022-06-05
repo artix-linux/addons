@@ -636,6 +636,11 @@
       "branch": "master",
       "revision": "26c6d32216827e89c28ad2585e59cb46d35225b4"
     },
+    "perl-locale-gettext": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-locale-gettext.git",
+      "branch": "master",
+      "revision": "11223b4e41bb54b358cfe2c6dd9dede0a435bf7c"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
