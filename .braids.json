@@ -4196,6 +4196,11 @@
       "branch": "master",
       "revision": "520dbd3e6d2e0603b5bad9406d9d53f7dd26e696"
     },
+    "python-subunit": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-subunit.git",
+      "branch": "master",
+      "revision": "d4db64e15435f1effaf7bc7e73e279dd43b6a223"
+    },
     "python-svglib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
       "branch": "master",
