@@ -1161,6 +1161,11 @@
       "branch": "master",
       "revision": "3e7d6d68b462b036e37f4729dfa1ef4e81b5582b"
     },
+    "perl-test-memory-cycle": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-memory-cycle.git",
+      "branch": "master",
+      "revision": "453c3c734199031b15a483bf72ec942bd9f3754b"
+    },
     "perl-test2-suite": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-suite.git",
       "branch": "master",
