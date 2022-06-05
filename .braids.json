@@ -836,6 +836,11 @@
       "branch": "master",
       "revision": "11e24a0408ddf887df412fbf7195d0e7baf9e028"
     },
+    "perl-object-realize-later": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-object-realize-later.git",
+      "branch": "master",
+      "revision": "62cc07594f83a470b61aebe7c3f7b8691da7fdd7"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
