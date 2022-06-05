@@ -776,6 +776,11 @@
       "branch": "master",
       "revision": "98c087d8a2bad0aad2a09bde4ec03893479d660f"
     },
+    "python-ddt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ddt.git",
+      "branch": "master",
+      "revision": "cca6e6b4fe615b14f42adfec810bb107bdc3f193"
+    },
     "python-debugpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-debugpy.git",
       "branch": "master",
