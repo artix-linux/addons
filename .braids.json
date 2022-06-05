@@ -4641,6 +4641,11 @@
       "branch": "master",
       "revision": "f339bb118438a835542e0a83d8f978e7196a92f4"
     },
+    "python-websocket-client": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-websocket-client.git",
+      "branch": "master",
+      "revision": "3c85d348e732bf1e573cbbb5b7c996aa5b8785bd"
+    },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
