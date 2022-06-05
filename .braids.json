@@ -681,6 +681,11 @@
       "branch": "master",
       "revision": "d1b599e2e8bf0bf597f8629d409d4c5be54899ee"
     },
+    "perl-mail-spf": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-spf.git",
+      "branch": "master",
+      "revision": "0b622d505d5433824bedca14116ff54b4322ba07"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
