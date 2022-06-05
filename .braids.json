@@ -936,6 +936,11 @@
       "branch": "master",
       "revision": "39e06aaacec626c59ae291951e18cf0747a27868"
     },
+    "perl-pod-spell": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-pod-spell.git",
+      "branch": "master",
+      "revision": "f6bd42e48638b0b62677471c63d7b369567da56d"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
