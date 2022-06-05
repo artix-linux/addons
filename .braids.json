@@ -2196,6 +2196,11 @@
       "branch": "master",
       "revision": "32389ad98064d7a5bfdd4ed5d1a9a8e6e42eaf04"
     },
+    "python-mpd2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpd2.git",
+      "branch": "master",
+      "revision": "c53185a2954366aca7bf0ddf83e6066409530cb2"
+    },
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
       "branch": "master",
