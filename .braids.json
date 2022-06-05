@@ -1441,6 +1441,11 @@
       "branch": "master",
       "revision": "1e6e6d92d273773b1b0ac028c76e607f1f24fba8"
     },
+    "python-pyquery": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyquery.git",
+      "branch": "master",
+      "revision": "af50f6fb388b36970998469b87b5fa04fbb17a0c"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
