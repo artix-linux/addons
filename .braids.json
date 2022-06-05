@@ -5345,6 +5345,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rb-fsevent.git",
       "branch": "master",
       "revision": "ac80f4254641b1629a9d8d0a09eb1c5c92d046d3"
+    },
+    "ruby-rb-inotify": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rb-inotify.git",
+      "branch": "master",
+      "revision": "4e711e2436f75905151d9933bf02c9576b77ff52"
     }
   }
 }
