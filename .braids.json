@@ -2221,6 +2221,11 @@
       "branch": "master",
       "revision": "c2da15b7026b2bea378c0d68a6c0aa79edacc7fa"
     },
+    "python-multidict": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-multidict.git",
+      "branch": "master",
+      "revision": "e19ffcbe91dc2490d3df5936f28c6150e08af696"
+    },
     "python-munkres": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-munkres.git",
       "branch": "master",
