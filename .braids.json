@@ -135,6 +135,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
       "revision": "f912c309132ffecae95707e1acb899022c36882e"
+    },
+    "python-mako": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mako.git",
+      "branch": "master",
+      "revision": "340ab99b50cfc91f7be1dbba64a7909782f31fa9"
     }
   }
 }
