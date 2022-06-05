@@ -831,6 +831,11 @@
       "branch": "master",
       "revision": "53594f60299e2c4397d2dddf83ee7b05ea691165"
     },
+    "perl-number-compare": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-number-compare.git",
+      "branch": "master",
+      "revision": "11e24a0408ddf887df412fbf7195d0e7baf9e028"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
