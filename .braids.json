@@ -326,6 +326,11 @@
       "branch": "master",
       "revision": "9c516014bda07aa0478db70b6ef6222fc239ae7c"
     },
+    "python-cucumber-tag-expressions": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cucumber-tag-expressions.git",
+      "branch": "master",
+      "revision": "32a520cb27b735ea9db5d4b2d1f5862b2523160c"
+    },
     "python-dbusmock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbusmock.git",
       "branch": "master",
