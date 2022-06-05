@@ -1316,6 +1316,11 @@
       "branch": "master",
       "revision": "98d00a2ff9cbbe5cf0176d679eed65e7828c8d3d"
     },
+    "python-pyhamcrest": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyhamcrest.git",
+      "branch": "master",
+      "revision": "7be128601cb217671e6188fad964d4b9e8c2d44b"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
