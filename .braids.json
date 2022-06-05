@@ -3626,6 +3626,11 @@
       "branch": "master",
       "revision": "381f507eeaf466265125657ed6ac03e52fc38edf"
     },
+    "python-regex": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-regex.git",
+      "branch": "master",
+      "revision": "0ca68c27f357bf3eced6d2b9715ca95357385b2f"
+    },
     "python-requests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests.git",
       "branch": "master",
