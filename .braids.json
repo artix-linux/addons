@@ -2911,6 +2911,11 @@
       "branch": "master",
       "revision": "8e96284aa34d2fdcbae22419196c03fc8bbbc348"
     },
+    "python-pycountry": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycountry.git",
+      "branch": "master",
+      "revision": "0b75c9457e638100c2059e0ffe0a130017c0dddf"
+    },
     "python-pycparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycparser.git",
       "branch": "master",
