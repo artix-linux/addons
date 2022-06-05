@@ -1346,6 +1346,11 @@
       "branch": "master",
       "revision": "66def92c0be24847cf2b8b38eb6fa2941c0ac092"
     },
+    "python-pykka": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pykka.git",
+      "branch": "master",
+      "revision": "5502cd0e430790c325abfcd8ee2c2dc86d464e35"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
