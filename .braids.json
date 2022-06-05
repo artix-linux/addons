@@ -536,6 +536,11 @@
       "branch": "master",
       "revision": "b40471c3b0df028feef9f3901af07c383415fd4e"
     },
+    "python-cheroot": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cheroot.git",
+      "branch": "master",
+      "revision": "59fcb6e7f180f4180cc7fa0199e0f764f2663b9d"
+    },
     "python-cleo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cleo.git",
       "branch": "master",
