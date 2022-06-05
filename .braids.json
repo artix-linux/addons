@@ -2231,6 +2231,11 @@
       "branch": "master",
       "revision": "e5989bbb591bfbf703dfbeef472de9e8748eaa4b"
     },
+    "python-pytest-plugins": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-plugins.git",
+      "branch": "master",
+      "revision": "4a53d0074eaedc1fc9de881580fbbd5f59367249"
+    },
     "python-pytest-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-qt.git",
       "branch": "master",
