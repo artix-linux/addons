@@ -371,6 +371,11 @@
       "branch": "master",
       "revision": "3e0027861464dbac6c9a5c3e14c269fa129dff0f"
     },
+    "perl-file-chdir": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-chdir.git",
+      "branch": "master",
+      "revision": "44b5d4f9b567f4cb5f117aa8208abd34ba15fce0"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
