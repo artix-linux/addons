@@ -26,6 +26,11 @@
       "branch": "master",
       "revision": "edf0ebd319ed36e5a1cbbfd83cfb166150a73f82"
     },
+    "python-aiohttp": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp.git",
+      "branch": "master",
+      "revision": "5c2d797e382964e98cdc9eb905b2ee6c60a84b1d"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
