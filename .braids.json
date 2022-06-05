@@ -606,6 +606,11 @@
       "branch": "master",
       "revision": "7473654d2a7fa03f43ab72b9ef1fc40e98034f49"
     },
+    "python-hidapi": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hidapi.git",
+      "branch": "master",
+      "revision": "25f9db10aa8c70f1d3185d7d91c3399b8b553dee"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
