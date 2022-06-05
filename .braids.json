@@ -1091,6 +1091,11 @@
       "branch": "master",
       "revision": "fb5b76a5268a5faa4aab23ffd8d26c731ea8b570"
     },
+    "perl-super": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-super.git",
+      "branch": "master",
+      "revision": "0f8b054b9fcfd30c03160ff814ca8ecbe6ffcedf"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
