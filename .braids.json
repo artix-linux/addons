@@ -1056,6 +1056,11 @@
       "branch": "master",
       "revision": "ca019551312bf5b0a7540765712117f9b0b5ab1d"
     },
+    "python-ephemeral-port-reserve": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ephemeral-port-reserve.git",
+      "branch": "master",
+      "revision": "b67c7ab4b0aa1b47923bdf0da2d45dc81cf11122"
+    },
     "python-et-xmlfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-et-xmlfile.git",
       "branch": "master",
