@@ -1,0 +1,2 @@
+# python-pysol_cards
+
