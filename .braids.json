@@ -2296,6 +2296,11 @@
       "branch": "master",
       "revision": "a41d1a8ffa90e78846691f093db385540ea84460"
     },
+    "python-netifaces": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-netifaces.git",
+      "branch": "master",
+      "revision": "b6cdeba42468d6c5dc374796f0f75d6de7887792"
+    },
     "python-nodeenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nodeenv.git",
       "branch": "master",
