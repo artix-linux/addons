@@ -1226,6 +1226,11 @@
       "branch": "master",
       "revision": "5a13cf7ef58fdfee82c6c52aba8dd4d7a73865d6"
     },
+    "python-pycodestyle": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycodestyle.git",
+      "branch": "master",
+      "revision": "8dfe02a4b80fb19d774e781456df491645727d29"
+    },
     "python-pycparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycparser.git",
       "branch": "master",
