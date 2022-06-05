@@ -2251,6 +2251,11 @@
       "branch": "master",
       "revision": "60b7bfc1aa99ac2883c8f7caabc9c21804275ec2"
     },
+    "python-pytest-regressions": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-regressions.git",
+      "branch": "master",
+      "revision": "3baacc2d0f40314031842e20947dd58992691863"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
