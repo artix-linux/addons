@@ -411,6 +411,11 @@
       "branch": "master",
       "revision": "04653f7a569d9f144e23e510690f568cbd36d46c"
     },
+    "python-brotlicffi": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-brotlicffi.git",
+      "branch": "master",
+      "revision": "0c8805fe4fcd828809d62eaaf61f1686b0da6c1c"
+    },
     "python-btchip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-btchip.git",
       "branch": "master",
