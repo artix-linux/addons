@@ -225,6 +225,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyelftools.git",
       "branch": "master",
       "revision": "ebf6cfaa26054ae4737d6c65cfb27d12c95f371e"
+    },
+    "python-pymacaroons": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
+      "branch": "master",
+      "revision": "448c68784e39343aa885d5116118dba632faf80c"
     }
   }
 }
