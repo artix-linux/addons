@@ -4221,6 +4221,11 @@
       "branch": "master",
       "revision": "13d7d7b977d2b1787a20d8660504e395b5dd374f"
     },
+    "python-tabulate": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tabulate.git",
+      "branch": "master",
+      "revision": "f943071fef2c59aee4da0779c8e53de7c40e9e57"
+    },
     "python-telegram-bot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-telegram-bot.git",
       "branch": "master",
