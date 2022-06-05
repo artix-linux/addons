@@ -1,0 +1,2 @@
+# ruby-fast_gettext
+

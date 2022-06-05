@@ -5065,6 +5065,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-retry.git",
       "branch": "master",
       "revision": "0796406435c148ffcfdb1adf766fd8687055e77e"
+    },
+    "ruby-fast_gettext": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fast_gettext.git",
+      "branch": "master",
+      "revision": "baa295ad543252dcbacf0850ce30642d5bc1cca1"
     }
   }
 }
