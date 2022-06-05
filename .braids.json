@@ -231,6 +231,11 @@
       "branch": "master",
       "revision": "df4d0bfe3f82c6f71ff373f0c732a1b2f7976998"
     },
+    "python-clikit": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-clikit.git",
+      "branch": "master",
+      "revision": "9f9e8521fb808a103f90a982677a5f1fae01cd78"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
