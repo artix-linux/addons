@@ -161,6 +161,11 @@
       "branch": "master",
       "revision": "fb0b627bfd7857a92f19da05a7eabbffb0589f14"
     },
+    "python-cachetools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachetools.git",
+      "branch": "master",
+      "revision": "09fdac075ca4e85dfa3279fefc73c1ef89230c07"
+    },
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
