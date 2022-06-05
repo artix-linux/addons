@@ -1071,6 +1071,11 @@
       "branch": "master",
       "revision": "cb7f2b2bee252bbf4d691b29d4316b42b7ab250c"
     },
+    "python-pbkdf2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pbkdf2.git",
+      "branch": "master",
+      "revision": "f1839afd6c7e6c4541d0d43b2bbe8ee2d83a1b55"
+    },
     "python-pep517": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep517.git",
       "branch": "master",
