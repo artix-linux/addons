@@ -5155,6 +5155,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-main.git",
       "branch": "master",
       "revision": "0f2872db832b550308ee1a8f5b19da07f25ecd1c"
+    },
+    "ruby-manpages": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-manpages.git",
+      "branch": "master",
+      "revision": "871e780d29396f6f23e54a65450887ed655640d8"
     }
   }
 }
