@@ -2686,6 +2686,11 @@
       "branch": "master",
       "revision": "a3cff415f5395d06473c8c036b05896c99e48680"
     },
+    "python-sphinx-alabaster-theme": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-alabaster-theme.git",
+      "branch": "master",
+      "revision": "b6fb65dc1388720ddff1784e8c970cb81b3a9293"
+    },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
