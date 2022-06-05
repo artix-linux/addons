@@ -5265,6 +5265,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-path_expander.git",
       "branch": "master",
       "revision": "eed3afd9dc7f0abd308f9f3fe17d7e73f8f7687b"
+    },
+    "ruby-pcaprub": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-pcaprub.git",
+      "branch": "master",
+      "revision": "71497dc59ad4b2ea0648db64ce35a454c5fdb8b6"
     }
   }
 }
