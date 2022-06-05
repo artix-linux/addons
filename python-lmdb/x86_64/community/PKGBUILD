@@ -1,0 +1,34 @@
+# Maintainer: Daniel Bermond <dbermond@archlinux.org>
+# Maintainer: Bruno Pagani <archange@archlinux.org>
+
+_pkg=py-lmdb
+pkgname=python-lmdb
+pkgver=1.3.0
+pkgrel=1
+pkgdesc="Universal Python binding for the LMDB Lightning Database"
+arch=(x86_64)
+url="https://github.com/jnwatson/py-lmdb/"
+license=('custom: OpenLDAP')
+depends=(python python-cffi lmdb)
+makedepends=(python-setuptools)
+checkdepends=(python-pytest)
+source=(${url}/archive/${_pkg}_${pkgver}.tar.gz)
+sha256sums=('d7eb6c3045f86ed426bfc5237530ea4acefbcbfaa833a19f1731662ab1f49cdc')
+
+build() {
+  cd ${_pkg}-${_pkg}_${pkgver}
+  LMDB_FORCE_SYSTEM=1 python setup.py build
+}
+
+check() {
+  cd ${_pkg}-${_pkg}_${pkgver}
+  local _pyver
+  _pyver="$(python -c 'import sys; print("%s.%s" %sys.version_info[0:2])')"
+  LMDB_FORCE_SYSTEM=1 PYTHONPATH="${PWD}"/build/lib.linux-${CARCH}-${_pyver} pytest -vv --color=yes
+}
+
+package() {
+  cd ${_pkg}-${_pkg}_${pkgver}
+  LMDB_FORCE_SYSTEM=1 python setup.py install --root="$pkgdir" --skip-build --optimize=1
+  install -Dm644 LICENSE -t "${pkgdir}"/usr/share/licenses/${pkgname}
+}

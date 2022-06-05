@@ -861,6 +861,11 @@
       "branch": "master",
       "revision": "42b2e4f4e7d2a05f51cfcd2b2a888968a4881ee3"
     },
+    "python-lmdb": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-lmdb.git",
+      "branch": "master",
+      "revision": "8c26b256858aee0393091567ffce03fe872ad75a"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
