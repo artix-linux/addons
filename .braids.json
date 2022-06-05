@@ -516,6 +516,11 @@
       "branch": "master",
       "revision": "e67ed4f815062f154768f6d109ee58682b39abd5"
     },
+    "perl-inline-c": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-inline-c.git",
+      "branch": "master",
+      "revision": "b09e4a0f369703bc3fb1b8f1d5eb39572173aaf6"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
