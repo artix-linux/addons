@@ -4910,6 +4910,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-activesupport.git",
       "branch": "master",
       "revision": "5eb6dd21bdad0bc53d58146c4d44b1da55685907"
+    },
+    "ruby-addressable": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-addressable.git",
+      "branch": "master",
+      "revision": "b2b4b8200c12c7d04d10e108b5d88664a51f400c"
     }
   }
 }
