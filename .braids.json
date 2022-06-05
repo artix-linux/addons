@@ -741,6 +741,11 @@
       "branch": "master",
       "revision": "eea683148bb317d1880f142ef9fd0e3a0e877773"
     },
+    "perl-module-pluggable": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-pluggable.git",
+      "branch": "master",
+      "revision": "424769f94b61aa856caa6548dd9ddf31bf179e69"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
