@@ -2741,6 +2741,11 @@
       "branch": "master",
       "revision": "3e03ba9f314e29d559f58cea3b56377b24a04e92"
     },
+    "python-portend": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-portend.git",
+      "branch": "master",
+      "revision": "b96ed777063dcaf0fe4386fab05a88129e9f1093"
+    },
     "python-pre-commit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pre-commit.git",
       "branch": "master",
