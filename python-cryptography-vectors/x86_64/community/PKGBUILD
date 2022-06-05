@@ -1,0 +1,18 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-cryptography-vectors
+pkgver=37.0.2
+pkgrel=1
+pkgdesc="Test vectors for the cryptography package"
+arch=('any')
+license=('Apache')
+url="https://pypi.python.org/pypi/cryptography-vectors"
+depends=('python')
+makedepends=('python-setuptools')
+source=("https://pypi.io/packages/source/c/cryptography-vectors/cryptography_vectors-$pkgver.tar.gz")
+sha512sums=('320a4c13f076d6d7bef0437b8b57a76496c51d0266c9958aaeadf73e9d07510e1219f3fa08aee1b30cb6122daf4c0b85538c5be95f1dbd450bacb8cbe464892b')
+
+package() {
+   cd cryptography_vectors-$pkgver
+   python3 setup.py install --root="$pkgdir" --optimize=1
+}
