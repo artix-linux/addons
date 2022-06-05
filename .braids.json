@@ -1466,6 +1466,11 @@
       "branch": "master",
       "revision": "f06e2d5604a46fd325818959ef313f58aeddb7f2"
     },
+    "python-pyscreenshot": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyscreenshot.git",
+      "branch": "master",
+      "revision": "b6fda81b7748c4743bf7603b8feee6c943166045"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
