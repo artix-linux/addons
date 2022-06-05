@@ -4606,6 +4606,11 @@
       "branch": "master",
       "revision": "2a97fed0e1d31009de3ca812ebc67f34330037c3"
     },
+    "python-watchdog": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-watchdog.git",
+      "branch": "master",
+      "revision": "486da4d7ac1fe7081a0e10e9d577b4418a5a47dd"
+    },
     "python-wcag-contrast-ratio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcag-contrast-ratio.git",
       "branch": "master",
