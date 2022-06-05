@@ -481,6 +481,11 @@
       "branch": "master",
       "revision": "41bfb302696f02a60ba189f26ad0e4f3cc70c05c"
     },
+    "perl-http-negotiate": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-negotiate.git",
+      "branch": "master",
+      "revision": "41bb9de8e75e3a7dc6457951f21ce59ea8178ac2"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
