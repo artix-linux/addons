@@ -4761,6 +4761,11 @@
       "branch": "master",
       "revision": "12aecd143d02c140902ab9c0821f5cd6e4eb2b29"
     },
+    "python-xxhash": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xxhash.git",
+      "branch": "master",
+      "revision": "a5d695ffe66b990ad317ec24997248440165e0bb"
+    },
     "python-yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yaml.git",
       "branch": "master",
