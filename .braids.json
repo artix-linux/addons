@@ -4940,6 +4940,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-atk.git",
       "branch": "master",
       "revision": "f504f09b0610cd136ef4e40957af3120b9895031"
+    },
+    "ruby-augeas": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-augeas.git",
+      "branch": "master",
+      "revision": "2f52957895a71732542a8171b1e34dfc1e39c2a0"
     }
   }
 }
