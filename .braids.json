@@ -1006,6 +1006,11 @@
       "branch": "master",
       "revision": "ba2601730715097999166d51ca3a593aff759b0b"
     },
+    "python-nosexcover": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-nosexcover.git",
+      "branch": "master",
+      "revision": "19769979d429d2c259b20fb40ffac757f0b42cd1"
+    },
     "python-notify2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-notify2.git",
       "branch": "master",
