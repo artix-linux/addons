@@ -1041,6 +1041,11 @@
       "branch": "master",
       "revision": "3f3f1094519bda29c36efdf54ef7732806ebad24"
     },
+    "python-oscrypto": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-oscrypto.git",
+      "branch": "master",
+      "revision": "5e37d75ae4e702835905212341343e4ea76024f6"
+    },
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
