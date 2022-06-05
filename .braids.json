@@ -1036,6 +1036,11 @@
       "branch": "master",
       "revision": "986d446703a92b798aa71132528cedd91a711158"
     },
+    "perl-string-format": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-string-format.git",
+      "branch": "master",
+      "revision": "8fe689419408650f99aab14f8a4918a97f69b1e8"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
