@@ -686,6 +686,11 @@
       "branch": "master",
       "revision": "3cce8b921a53662fce8326c55cf392bf6ee5b04d"
     },
+    "python-install": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-install.git",
+      "branch": "master",
+      "revision": "35eaef076996e02ef739eb56f242a48c1f8788fa"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
