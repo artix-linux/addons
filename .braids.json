@@ -2031,6 +2031,11 @@
       "branch": "master",
       "revision": "2f133c83cabbdad69bd6fc26509485412365584b"
     },
+    "python-yg.lockfile": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-yg.lockfile.git",
+      "branch": "master",
+      "revision": "bf54d9409ea33c1e04912d59bbeac42749cba6c4"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
