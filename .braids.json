@@ -836,6 +836,11 @@
       "branch": "master",
       "revision": "5ff537d99a18749252d507ab83175dff373ea784"
     },
+    "python-lexicon": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-lexicon.git",
+      "branch": "master",
+      "revision": "b9a3fe8a3b96ba9df9a97d001388e7f7d8e1d5b6"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
