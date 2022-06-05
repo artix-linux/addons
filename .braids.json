@@ -290,6 +290,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools.git",
       "branch": "master",
       "revision": "22546c8b4e5e9874656d2adbba0baef049b94fab"
+    },
+    "python-sgmllib3k": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sgmllib3k.git",
+      "branch": "master",
+      "revision": "4a55060b9efb6d199b9dc21581f64397acf6ff1a"
     }
   }
 }
