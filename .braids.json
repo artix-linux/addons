@@ -1476,6 +1476,11 @@
       "branch": "master",
       "revision": "4fcf099d40c5bdf33f3981be37fa51de096e682a"
     },
+    "python-openapi-schema-validator": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-schema-validator.git",
+      "branch": "master",
+      "revision": "a136c43f44de0e601e71f080a9b651dc7a5c5463"
+    },
     "python-openpyxl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openpyxl.git",
       "branch": "master",
