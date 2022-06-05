@@ -2056,6 +2056,11 @@
       "branch": "master",
       "revision": "3e539ebe25024a4121b6ed5f2b043385d8a2c410"
     },
+    "python-magic-wormhole-transit-relay": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic-wormhole-transit-relay.git",
+      "branch": "master",
+      "revision": "4f8506d654d2faa5b6c68942dd04c8ed746b8672"
+    },
     "python-mako": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mako.git",
       "branch": "master",
