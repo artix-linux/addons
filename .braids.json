@@ -1381,6 +1381,11 @@
       "branch": "master",
       "revision": "58a1e57f04d773e00a4803f4b9f0a5b3d2b1709e"
     },
+    "python-pymupdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymupdf.git",
+      "branch": "master",
+      "revision": "2905cdce67ccfe141f9703a8cb341d2d3aba3712"
+    },
     "python-pyopenssl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
       "branch": "master",
