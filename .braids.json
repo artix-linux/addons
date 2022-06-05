@@ -4546,6 +4546,11 @@
       "branch": "master",
       "revision": "011bcdcd116bcfe213404f37ce5c09608dff89fa"
     },
+    "python-validate-email": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-validate-email.git",
+      "branch": "master",
+      "revision": "1fe8b4f612522e081c185dfa3871cfdd58e7cdc3"
+    },
     "python-vcrpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vcrpy.git",
       "branch": "master",
