@@ -1646,6 +1646,11 @@
       "branch": "master",
       "revision": "10d0897e729eda752851b04ad29f79b13abfae49"
     },
+    "python-rfc3339-validator": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3339-validator.git",
+      "branch": "master",
+      "revision": "94d643a9f6252ef521f2401edc280cd1cac30688"
+    },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
