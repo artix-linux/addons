@@ -1,0 +1,33 @@
+# Maintainer: Johannes Löthberg <johannes@kyriasis.com>
+# Maintainer: Alexander Epaneshnikov <alex19ep@archlinux.org>
+# Contributor: Ivan Shapovalov <intelfx@intelfx.name>
+
+pkgname=python-canonicaljson
+pkgver=1.6.1
+pkgrel=1
+pkgdesc='Canonical JSON'
+url='https://pypi.python.org/pypi/canonicaljson/'
+arch=('any')
+license=('Apache')
+depends=('python' 'python-simplejson' 'python-frozendict')
+makedepends=('python-setuptools')
+source=("python-canonicaljson-$pkgver.tar.gz::https://github.com/matrix-org/python-canonicaljson/archive/v${pkgver}.tar.gz")
+sha512sums=('ef0c6a06d287a00b3742804d800cc1c9edbb25278da0946b0f7920113f3329270d15e6904f7cb0d3dc8290102a4f8212828491c9b2b3c68abc85b197790ed8a1')
+b2sums=('d3789bf44dfd7e511d88693305cdb71f0b8ff3a2ee032c06e9992843c228856150c39611412624080613d5582f1b822dda84368047e158526bac4d28d626aa7a')
+
+build() {
+	cd python-canonicaljson-$pkgver
+	python setup.py build
+}
+
+check() {
+	cd python-canonicaljson-$pkgver
+	python setup.py test
+}
+
+package() {
+	cd python-canonicaljson-$pkgver
+	python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+}
+
+# vim: set ts=4 sw=4 tw=0 ft=PKGBUILD :
