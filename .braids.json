@@ -6,6 +6,11 @@
       "branch": "master",
       "revision": "983ea5a10814cdc43466d8fb944ada3efb75a6e3"
     },
+    "python-acme": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-acme.git",
+      "branch": "master",
+      "revision": "97d9d79b555f18ff1d55bea6167183a04d77f0f1"
+    },
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
       "branch": "master",
