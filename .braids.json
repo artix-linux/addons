@@ -141,6 +141,11 @@
       "branch": "master",
       "revision": "150cf1cbe83e1abbff67b9153f219616b258bd87"
     },
+    "python-bitstring": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-bitstring.git",
+      "branch": "master",
+      "revision": "1296e1b962662d303b8dcaeae74aeccc08379e32"
+    },
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
