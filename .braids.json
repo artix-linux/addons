@@ -120,6 +120,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-idna.git",
       "branch": "master",
       "revision": "c0554ceac961d9f8fb1d2cc3bde317a0d325ccbe"
+    },
+    "python-incremental": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-incremental.git",
+      "branch": "master",
+      "revision": "2dba72cd3fb9dde6bc8bd1d0d89b97aa8c49130f"
     }
   }
 }
