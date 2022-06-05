@@ -1,0 +1,33 @@
+# Maintainer: kpcyrd <kpcyrd[at]archlinux[dot]org>
+
+pkgname=python-plumbum
+_name=plumbum
+pkgver=1.7.2
+pkgrel=1
+pkgdesc='A small yet feature-rich Python library for shell script-like programs, and more'
+url='https://github.com/tomerfiliba/plumbum'
+arch=('any')
+license=('MIT')
+depends=('python')
+makedepends=('python-setuptools' 'python-setuptools-scm')
+source=(https://files.pythonhosted.org/packages/source/${_name::1}/$_name/$_name-$pkgver.tar.gz)
+sha512sums=('77e75988255ca78fa5c253c6d076d63f8f9250a2b153ef23e40f35315e255ea09403d854a19bb265fd658bb9e5f0f705dc7530ecacc40b4b48e33acdf50dddf9')
+b2sums=('a16d9210606ac67abd425fcff109d40836dc969729cc5bf78a5d224c0beabf09d56d35f17809994d758153c6e18e4af91403f7ae0111912447367be68f6592c1')
+
+build() {
+  cd "${_name}-${pkgver}"
+  python setup.py build
+}
+
+check() {
+  cd "${_name}-${pkgver}"
+  PYTHONPATH=. python -c 'import plumbum'
+}
+
+package() {
+  cd "${_name}-${pkgver}"
+  python setup.py install -O1 --root="${pkgdir}" --skip-build
+  install -D LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+}
+
+# vim:set ts=2 sw=2 et:
