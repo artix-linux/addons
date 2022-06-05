@@ -1181,6 +1181,11 @@
       "branch": "master",
       "revision": "b1eff2f47a9df1907445568292cffc6b75a818ba"
     },
+    "python-fissix": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fissix.git",
+      "branch": "master",
+      "revision": "f6c84b8839def7c4410339be47e11d28cb724c83"
+    },
     "python-flake8-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-black.git",
       "branch": "master",
