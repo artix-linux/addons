@@ -696,6 +696,11 @@
       "branch": "master",
       "revision": "36a33c4e10d64099e996cef6430d76f756bbf02e"
     },
+    "python-intervaltree": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-intervaltree.git",
+      "branch": "master",
+      "revision": "ad71d561eae5bdc50174a544f3c3646d91890269"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
