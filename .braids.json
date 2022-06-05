@@ -46,6 +46,11 @@
       "branch": "master",
       "revision": "84138bb6138b6160a7a9798e52fe6a3a04634c3e"
     },
+    "perl-berkeleydb": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-berkeleydb.git",
+      "branch": "master",
+      "revision": "d22938202602f95beee04f3fb1d9458137143812"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
