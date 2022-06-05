@@ -1776,6 +1776,11 @@
       "branch": "master",
       "revision": "5e210c71a288c79dca6429bb4f7bb44c4696697d"
     },
+    "python-jose": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jose.git",
+      "branch": "master",
+      "revision": "1936d32fa537a036a479e48f1cf820b241bb1ee2"
+    },
     "python-josepy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-josepy.git",
       "branch": "master",
