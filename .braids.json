@@ -1111,6 +1111,11 @@
       "branch": "master",
       "revision": "811ca530d2c8967853dc80b2705f7d2af5e69803"
     },
+    "python-fakeredis": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fakeredis.git",
+      "branch": "master",
+      "revision": "9c2d6bf8702f65749c5bf6c41b3101f88700e663"
+    },
     "python-fastimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
       "branch": "master",
