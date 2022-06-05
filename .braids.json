@@ -316,6 +316,11 @@
       "branch": "master",
       "revision": "6357a08537a1c6a66b55036952374c0a8eede620"
     },
+    "python-beniget": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-beniget.git",
+      "branch": "master",
+      "revision": "e7d933014e176fbca06caea5fe0ab133a53307e9"
+    },
     "python-bidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bidict.git",
       "branch": "master",
