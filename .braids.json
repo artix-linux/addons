@@ -1911,6 +1911,11 @@
       "branch": "master",
       "revision": "acf2b483a61d90c78b9895c09a6d2e265b9db779"
     },
+    "python-kombu": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-kombu.git",
+      "branch": "master",
+      "revision": "15b9fa364b11c8d7d2b5766f3240e3fc4383e434"
+    },
     "python-krb5": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-krb5.git",
       "branch": "master",
