@@ -881,6 +881,11 @@
       "branch": "master",
       "revision": "f542762079e717c8391bdbc702f3b0c5f29deba1"
     },
+    "python-google-auth": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-auth.git",
+      "branch": "master",
+      "revision": "bbf8ef5877ad2e02b945af26cfa7a8e292e95743"
+    },
     "python-googleapis-common-protos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-googleapis-common-protos.git",
       "branch": "master",
