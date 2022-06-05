@@ -2286,6 +2286,11 @@
       "branch": "master",
       "revision": "0794172f312a6abe7d83b2523392b52ac51e161e"
     },
+    "python-netaddr": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-netaddr.git",
+      "branch": "master",
+      "revision": "bd754b56ac50f4d372814d0f067d995e15ff8574"
+    },
     "python-nodeenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nodeenv.git",
       "branch": "master",
