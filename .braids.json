@@ -2006,6 +2006,11 @@
       "branch": "master",
       "revision": "dcc799d1342c540d34600512927d7a06b57e4b20"
     },
+    "python-xlwt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlwt.git",
+      "branch": "master",
+      "revision": "5d3fc054f7de066caa38633f59452ab1f9084ca8"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
