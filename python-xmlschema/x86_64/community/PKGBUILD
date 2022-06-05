@@ -1,0 +1,35 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-xmlschema
+pkgver=1.9.2
+pkgrel=1
+pkgdesc="An XML Schema validator and decoder"
+url="https://github.com/sissaschool/xmlschema"
+license=('MIT')
+arch=('any')
+depends=('python-elementpath')
+makedepends=('python-pip')
+checkdepends=('python-lxml')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/sissaschool/xmlschema/archive/v$pkgver.tar.gz")
+sha512sums=('bca2b583eb40cd777fb76d72b892d629507941044f806e1de04f91381af145c192f38ede36d64c4496dfb4a3a8714cae951522743c9b36c4778bb4df2e7ecb70')
+
+prepare() {
+  sed -i 's/~=/>=/' xmlschema-$pkgver/setup.py
+}
+
+build() {
+  cd xmlschema-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd xmlschema-$pkgver
+  PYTHONPATH="$PWD/build/lib" python -m unittest
+}
+
+package() {
+  cd xmlschema-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
