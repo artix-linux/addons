@@ -5400,6 +5400,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-its.git",
       "branch": "master",
       "revision": "71a7f6b8ec6ccea0b7130e16158ae10b664c971b"
+    },
+    "ruby-rspec-mocks": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-mocks.git",
+      "branch": "master",
+      "revision": "17f213285bf1cf1512c63a39b1520e40b723ef34"
     }
   }
 }
