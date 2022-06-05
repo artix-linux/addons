@@ -5025,6 +5025,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-em_synchrony.git",
       "branch": "master",
       "revision": "91d35cac833cf6ffeb85a9d617cdb8f64334eeb0"
+    },
+    "ruby-faraday-excon": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-excon.git",
+      "branch": "master",
+      "revision": "60f4cf54cc4053f1abb3ba1bb9d65c428b380a64"
     }
   }
 }
