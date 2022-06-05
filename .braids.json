@@ -1186,6 +1186,11 @@
       "branch": "master",
       "revision": "47ca0f3302608705e1ac9ad661fcd54c1c3cd7b7"
     },
+    "python-pwntools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pwntools.git",
+      "branch": "master",
+      "revision": "bae11ae7faa7b3cb08b17580e1fca814e1788c3b"
+    },
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
       "branch": "master",
