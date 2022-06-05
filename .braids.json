@@ -3636,6 +3636,11 @@
       "branch": "master",
       "revision": "4de233ec11be513b5c2140bef714b58dc37ba926"
     },
+    "python-reportlab": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-reportlab.git",
+      "branch": "master",
+      "revision": "938ea312152944840e8d650646b3c98dc7e41629"
+    },
     "python-requests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests.git",
       "branch": "master",
