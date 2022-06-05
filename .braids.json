@@ -1051,6 +1051,11 @@
       "branch": "master",
       "revision": "22a8ffe1692a451584f6dd2a8210a6074e647fb6"
     },
+    "perl-sub-exporter-progressive": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-exporter-progressive.git",
+      "branch": "master",
+      "revision": "8493ec66cc9ba1902ce12519b389fec06744b769"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
