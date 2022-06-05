@@ -5315,6 +5315,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rack-test.git",
       "branch": "master",
       "revision": "019c1694ee093a1fe22466f0c89d4703ff3017ae"
+    },
+    "ruby-rails-dom-testing": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rails-dom-testing.git",
+      "branch": "master",
+      "revision": "cd108d47eff37d7b1f16c9d6d73ecef4880108d4"
     }
   }
 }
