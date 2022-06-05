@@ -641,6 +641,11 @@
       "branch": "master",
       "revision": "32e006a728ad7d08bf86359f0a12b3a978e0943c"
     },
+    "python-doublex-expects": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-doublex-expects.git",
+      "branch": "master",
+      "revision": "28930a9bd518ec0296314e2b00433297494e8453"
+    },
     "python-dulwich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dulwich.git",
       "branch": "master",
