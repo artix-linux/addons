@@ -616,6 +616,11 @@
       "branch": "master",
       "revision": "996458acc4009096fb19384dcb32efc85e03cf7e"
     },
+    "python-cogapp": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cogapp.git",
+      "branch": "master",
+      "revision": "c810a2dda9003d7d30426d231caec00aa5567cff"
+    },
     "python-colored-traceback": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-colored-traceback.git",
       "branch": "master",
