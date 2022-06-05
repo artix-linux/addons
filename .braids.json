@@ -146,6 +146,11 @@
       "branch": "master",
       "revision": "4ac62d06a049e1b91b762ea064c4100d75f186ae"
     },
+    "perl-crypt-openssl-bignum": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-bignum.git",
+      "branch": "master",
+      "revision": "0c94d11bf768940fbb4d9d32215668feffe6b605"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
