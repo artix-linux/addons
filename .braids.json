@@ -916,6 +916,11 @@
       "branch": "master",
       "revision": "4a310ecc5ab3135660d5d4112f129a188253e17e"
     },
+    "perl-pkgconfig": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-pkgconfig.git",
+      "branch": "master",
+      "revision": "bbcb966cb10ae4c5504f9b32a9bfcbda5c9cad95"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
