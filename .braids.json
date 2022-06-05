@@ -21,6 +21,11 @@
       "branch": "master",
       "revision": "528d83c04dc2b096bad17e675fddab3c2be32b0a"
     },
+    "perl-alien-libxml2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-libxml2.git",
+      "branch": "master",
+      "revision": "5c8ef73f08bb6633b07014043924b0421498276c"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
