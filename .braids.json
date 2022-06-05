@@ -4686,6 +4686,11 @@
       "branch": "master",
       "revision": "a709cae678467fa5fad76474a18d19bd1e5fd2a2"
     },
+    "python-wsgiproxy2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsgiproxy2.git",
+      "branch": "master",
+      "revision": "2093af4d48e398d9ea50f3bc4354c81aba34e750"
+    },
     "python-wstools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wstools.git",
       "branch": "master",
