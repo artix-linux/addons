@@ -546,6 +546,11 @@
       "branch": "master",
       "revision": "d5c4a20bfd813741c2f88daec02c4f339c9dab40"
     },
+    "perl-io-multiplex": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-multiplex.git",
+      "branch": "master",
+      "revision": "a26247fa0b12b6e858c6a236429a602102b615a9"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
