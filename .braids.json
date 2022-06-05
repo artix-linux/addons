@@ -571,6 +571,11 @@
       "branch": "master",
       "revision": "32b3ced04be3cb2478a1ac20d33df401127e82ed"
     },
+    "python-dephell-venvs": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-venvs.git",
+      "branch": "master",
+      "revision": "261d98f1a87a6a469a847aca3fe486e6279f98d8"
+    },
     "python-dill": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dill.git",
       "branch": "master",
