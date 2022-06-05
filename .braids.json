@@ -196,6 +196,11 @@
       "branch": "master",
       "revision": "d0efdb562e6e06a02fbe6a652499202bbf25e586"
     },
+    "python-aws-xray-sdk": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aws-xray-sdk.git",
+      "branch": "master",
+      "revision": "e746217595da61b6d0ab31f3be8f538827293923"
+    },
     "python-backcall": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-backcall.git",
       "branch": "master",
