@@ -846,6 +846,11 @@
       "branch": "master",
       "revision": "a6748525f268f1544ef8cffda6543ff71eaef321"
     },
+    "python-linkify-it-py": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-linkify-it-py.git",
+      "branch": "master",
+      "revision": "ec267d8c5124edf27474c02a521f03e4e16b10f9"
+    },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
