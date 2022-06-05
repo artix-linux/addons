@@ -5255,6 +5255,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-packetfu.git",
       "branch": "master",
       "revision": "4630f825a593b05c0a159f089a309ef298e164d2"
+    },
+    "ruby-paint": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-paint.git",
+      "branch": "master",
+      "revision": "44bd2f26e4dd9c216f8010b815987d6a38406891"
     }
   }
 }
