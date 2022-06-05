@@ -166,6 +166,11 @@
       "branch": "master",
       "revision": "09fdac075ca4e85dfa3279fefc73c1ef89230c07"
     },
+    "python-cachy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachy.git",
+      "branch": "master",
+      "revision": "013b37b1d9887d036cc80a4ff445c6dc6af5120a"
+    },
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
