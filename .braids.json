@@ -1101,6 +1101,11 @@
       "branch": "master",
       "revision": "bf9db7071670348c89b8a0d8e41dd532e23e4e02"
     },
+    "perl-template-toolkit": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-template-toolkit.git",
+      "branch": "master",
+      "revision": "01b627506a0f231096f46d1adbaf1ce50c93a0a1"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
