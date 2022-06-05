@@ -1271,6 +1271,11 @@
       "branch": "master",
       "revision": "4afb965a354dba8b2fd72ea3059ba1948aa4384e"
     },
+    "python-pydot": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydot.git",
+      "branch": "master",
+      "revision": "006676897191a3f2a70bc7ba291480894ce40e3a"
+    },
     "python-pyelftools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyelftools.git",
       "branch": "master",
