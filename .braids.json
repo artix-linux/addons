@@ -1321,6 +1321,11 @@
       "branch": "master",
       "revision": "beca6d7baa8b15f8e0b2f803d5270531a67b2e60"
     },
+    "python-future": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-future.git",
+      "branch": "master",
+      "revision": "a7e54dd75906b262940b5d6a107c34da6ddac104"
+    },
     "python-fuzzywuzzy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fuzzywuzzy.git",
       "branch": "master",
