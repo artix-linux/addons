@@ -5250,6 +5250,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-optimist.git",
       "branch": "master",
       "revision": "01d0c51135dc5e30cba9ceb85bb31dbb76bb02dc"
+    },
+    "ruby-packetfu": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-packetfu.git",
+      "branch": "master",
+      "revision": "4630f825a593b05c0a159f089a309ef298e164d2"
     }
   }
 }
