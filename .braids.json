@@ -36,6 +36,11 @@
       "branch": "master",
       "revision": "29d87f537465913ce99c38e223cabbf837faaa42"
     },
+    "python-aiohttp-socks": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-socks.git",
+      "branch": "master",
+      "revision": "d41e242da89acacbeae2fe9275a88cf9d1d74f05"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
