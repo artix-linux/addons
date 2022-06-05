@@ -531,6 +531,11 @@
       "branch": "master",
       "revision": "7d758fe07ea86a2deca46674488b337f1e573454"
     },
+    "python-fuzzywuzzy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fuzzywuzzy.git",
+      "branch": "master",
+      "revision": "8cb12a73545a31bc24293d97a52d8a93909a5bc6"
+    },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
