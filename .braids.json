@@ -1891,6 +1891,11 @@
       "branch": "master",
       "revision": "63bb1d520eb5338e4c8fd249bf8723422797f0b7"
     },
+    "python-typogrify": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-typogrify.git",
+      "branch": "master",
+      "revision": "9a446def31d1f3fea9de96e9d0eaf4cffc4db326"
+    },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
