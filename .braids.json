@@ -396,6 +396,11 @@
       "branch": "master",
       "revision": "2a04d041134cf17dded8d60e9dc52aba2d91d428"
     },
+    "perl-file-homedir": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-homedir.git",
+      "branch": "master",
+      "revision": "839b34a4ef2810559b8826e867bfa234b5602702"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
