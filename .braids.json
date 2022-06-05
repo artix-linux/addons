@@ -1116,6 +1116,11 @@
       "branch": "master",
       "revision": "ed0df898cada59df2a76ec60f0b489258f209f0e"
     },
+    "perl-term-table": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-term-table.git",
+      "branch": "master",
+      "revision": "f7ee0d5cbb5c9def1ed471d2f2161e1257975470"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
