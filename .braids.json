@@ -1966,6 +1966,11 @@
       "branch": "master",
       "revision": "7766e9c6e18f56d7d84537a3d87fc13da6f0cc57"
     },
+    "python-libusb1": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-libusb1.git",
+      "branch": "master",
+      "revision": "83dc4c61be182e1dd0794819885c98e3f0c0ac7e"
+    },
     "python-linkify-it-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-linkify-it-py.git",
       "branch": "master",

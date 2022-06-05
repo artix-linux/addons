@@ -1,0 +1,28 @@
+# Maintainer: Filipe Laíns (FFY00) <lains@archlinux.org>
+
+_pkgname=libusb1
+pkgname=python-$_pkgname
+pkgver=2.0.1
+pkgrel=3
+pkgdesc='Python ctype-based wrapper around libusb1'
+arch=('any')
+url='https://github.com/vpelletier/python-libusb1'
+license=('LGPL2.1')
+depends=('python' 'libusb')
+makedepends=('python-setuptools' 'python-wheel')
+source=("$pkgname-$pkgver.tar.gz::$url/archive/$pkgver.tar.gz")
+sha512sums=('d19350aa62ddd7325f2417d69ec6716068f2cc1778f9d25cd51420ffd92d2ef9c998c831a2e3cde2c32855ba339a963e2f9b078d4ff7e315c1444a6f6f8f26e7')
+
+build() {
+  cd $pkgname-$pkgver
+
+  python setup.py build
+}
+
+package() {
+  cd $pkgname-$pkgver
+
+  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+}
+
+# vim:set ts=2 sw=2 et:
