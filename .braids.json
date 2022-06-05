@@ -711,6 +711,11 @@
       "branch": "master",
       "revision": "d213ceb6b189a8bf5cda009d37e60640172965c9"
     },
+    "perl-mime-types": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mime-types.git",
+      "branch": "master",
+      "revision": "075ee9c4adcb8847ffcae751a7431acc40b492c1"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
