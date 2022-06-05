@@ -1,6 +1,11 @@
 {
   "config_version": 1,
   "mirrors": {
+    "python-aafigure": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
+      "branch": "master",
+      "revision": "983ea5a10814cdc43466d8fb944ada3efb75a6e3"
+    },
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
       "branch": "master",
