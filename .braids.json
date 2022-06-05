@@ -2206,6 +2206,11 @@
       "branch": "master",
       "revision": "0da836833f6fdc99fca6a0a2cf0a8bb607bb209c"
     },
+    "python-mpmath": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpmath.git",
+      "branch": "master",
+      "revision": "de09819c74d93091bd07211fd86c27f02b715094"
+    },
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
       "branch": "master",
