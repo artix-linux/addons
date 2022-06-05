@@ -3751,6 +3751,11 @@
       "branch": "master",
       "revision": "687c4f1aaab97fb5b5dec1b438fdd111a609f3bb"
     },
+    "python-rsa": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rsa.git",
+      "branch": "master",
+      "revision": "f9d500097cceefd5990c819d32cd586d726b4788"
+    },
     "python-ruamel-yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ruamel-yaml.git",
       "branch": "master",
