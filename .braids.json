@@ -4591,6 +4591,11 @@
       "branch": "master",
       "revision": "c0837c07332e9723a5b8e41b20254ff373f55fb2"
     },
+    "python-voluptuous": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-voluptuous.git",
+      "branch": "master",
+      "revision": "9ed8e3bdaa0a1b72c84ab95892028a00f7b5a974"
+    },
     "python-wcag-contrast-ratio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcag-contrast-ratio.git",
       "branch": "master",
