@@ -86,6 +86,11 @@
       "branch": "master",
       "revision": "e25e4a7b44fe60900e27f69505b4a45baf6fce8a"
     },
+    "perl-class-data-inheritable": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-data-inheritable.git",
+      "branch": "master",
+      "revision": "4ad1802ed94ee5d1c53a4806ebd0831a5ca93845"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
