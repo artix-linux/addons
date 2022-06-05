@@ -946,6 +946,11 @@
       "branch": "master",
       "revision": "3469eab8d67ee6963b05705f1bc640c6d49ac329"
     },
+    "perl-ppix-quotelike": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ppix-quotelike.git",
+      "branch": "master",
+      "revision": "7a441bb0e62a4146aec7345b276b7b098dc00219"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
