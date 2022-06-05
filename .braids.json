@@ -201,6 +201,11 @@
       "branch": "master",
       "revision": "689bf783642792096bd842f1f42209bcbdb06608"
     },
+    "perl-data-optlist": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-optlist.git",
+      "branch": "master",
+      "revision": "d56643c5685d4b5cae61fa402b176c22cf5e640a"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
