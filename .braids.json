@@ -1296,6 +1296,11 @@
       "branch": "master",
       "revision": "29b5072b1c550074b0843238e9d262d11572d5b7"
     },
+    "perl-tree-dag-node": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-tree-dag-node.git",
+      "branch": "master",
+      "revision": "0ab137e12e3237fe92c1f63b86bf650dfc2bc184"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
