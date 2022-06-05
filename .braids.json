@@ -4211,6 +4211,11 @@
       "branch": "master",
       "revision": "46a4b6fa0054fc3dc78b8bb01a31ed9551f3a6e4"
     },
+    "python-sybil": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sybil.git",
+      "branch": "master",
+      "revision": "2e1fa6e276aa31df7c0812cb4842bf9c5c9ab117"
+    },
     "python-telegram-bot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-telegram-bot.git",
       "branch": "master",
