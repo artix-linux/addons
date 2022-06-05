@@ -1651,6 +1651,11 @@
       "branch": "master",
       "revision": "94d643a9f6252ef521f2401edc280cd1cac30688"
     },
+    "python-rich": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-rich.git",
+      "branch": "master",
+      "revision": "91f4c879088cfd8863e8217cf3d277e91915faba"
+    },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
