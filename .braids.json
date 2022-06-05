@@ -366,6 +366,11 @@
       "branch": "master",
       "revision": "0a67be225ccacdaeabd3a3a51cc61383a5efb485"
     },
+    "perl-ffi-checklib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ffi-checklib.git",
+      "branch": "master",
+      "revision": "3e0027861464dbac6c9a5c3e14c269fa129dff0f"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
