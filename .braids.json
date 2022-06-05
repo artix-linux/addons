@@ -3741,6 +3741,11 @@
       "branch": "master",
       "revision": "1f7635af0eccc0a83cac80704e46523de1cd3f08"
     },
+    "python-routes": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-routes.git",
+      "branch": "master",
+      "revision": "432ebb846706a748d135a633936c0f4e66e2b20d"
+    },
     "python-rpyc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rpyc.git",
       "branch": "master",
