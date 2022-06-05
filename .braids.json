@@ -746,6 +746,11 @@
       "branch": "master",
       "revision": "1b454dcde89d8b354d60ca4d1d8fde8972d29988"
     },
+    "python-json5": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-json5.git",
+      "branch": "master",
+      "revision": "26c07d1db9d4cbfb650011e8fbfd36a0fcfc40ea"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
