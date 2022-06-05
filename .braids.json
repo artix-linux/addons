@@ -1016,6 +1016,11 @@
       "branch": "master",
       "revision": "f30216b3419c8d5636db69c4d4cbf767e8d3ffad"
     },
+    "python-numexpr": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-numexpr.git",
+      "branch": "master",
+      "revision": "74f635ff58fd2731a95df86302daa494d2b879ad"
+    },
     "python-numpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numpy.git",
       "branch": "master",
