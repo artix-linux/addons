@@ -1061,6 +1061,11 @@
       "branch": "master",
       "revision": "049fee3a8bd4e49af5d32d1ad1c0a6184e3d3444"
     },
+    "perl-sub-info": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-info.git",
+      "branch": "master",
+      "revision": "7c80942b074360948eebf00c7d4bb0bc33859ddf"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
