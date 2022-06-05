@@ -461,6 +461,11 @@
       "branch": "master",
       "revision": "cc99a0a1f3b9f2c6422e31a1133569a25d400fde"
     },
+    "perl-http-cookies": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-cookies.git",
+      "branch": "master",
+      "revision": "af23cd00230229476064da343b8ee7680758193b"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
