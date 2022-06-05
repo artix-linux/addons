@@ -446,6 +446,11 @@
       "branch": "master",
       "revision": "ca019551312bf5b0a7540765712117f9b0b5ab1d"
     },
+    "python-et-xmlfile": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-et-xmlfile.git",
+      "branch": "master",
+      "revision": "67f2331181dda63231c5548bf113080d6ee80c78"
+    },
     "python-evdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
       "branch": "master",
