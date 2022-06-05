@@ -2501,6 +2501,11 @@
       "branch": "master",
       "revision": "8ca109ae5abe5a5b5b120785c676bc80fea662a1"
     },
+    "python-pandocfilters": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pandocfilters.git",
+      "branch": "master",
+      "revision": "4d49ae4f6fbe1595fc077823920808de6e43ea15"
+    },
     "python-parse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parse.git",
       "branch": "master",
