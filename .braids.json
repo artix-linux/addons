@@ -1006,6 +1006,11 @@
       "branch": "master",
       "revision": "e538ddc29b0b9bb7c46ef0d05451d4d3b952617f"
     },
+    "perl-shell-guess": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-shell-guess.git",
+      "branch": "master",
+      "revision": "7a773429beff4eaf561da1cd1cbd65f7a8623d81"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
