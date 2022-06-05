@@ -1061,6 +1061,11 @@
       "branch": "master",
       "revision": "d8576a2aa3c9dd9ca74761380389e86e010eca2b"
     },
+    "python-pastel": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pastel.git",
+      "branch": "master",
+      "revision": "c6f0c473062ce04fab2e5a488e768f362479fdde"
+    },
     "python-patiencediff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patiencediff.git",
       "branch": "master",
