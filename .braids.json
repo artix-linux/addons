@@ -2256,6 +2256,11 @@
       "branch": "master",
       "revision": "3baacc2d0f40314031842e20947dd58992691863"
     },
+    "python-pytest-relaxed": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-relaxed.git",
+      "branch": "master",
+      "revision": "ab6d8e1eb5920f73d027157c06de4ce88ea6fc0a"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
