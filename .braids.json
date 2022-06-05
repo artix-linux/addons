@@ -335,6 +335,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-virtualenv.git",
       "branch": "master",
       "revision": "817c568f288d6867715bb09dc4e85bdf073a0b34"
+    },
+    "python-wrapt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
+      "branch": "master",
+      "revision": "55e3a8ceb966677029b1dd3ad8f1f858165dbb07"
     }
   }
 }
