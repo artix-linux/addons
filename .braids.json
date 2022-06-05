@@ -191,6 +191,11 @@
       "branch": "master",
       "revision": "9f46d344d7b057ae3d59791a6d8bedc2ff1b56ef"
     },
+    "perl-data-dump": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-dump.git",
+      "branch": "master",
+      "revision": "1580676153712dc57dea924b226e5277fbc5c071"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
