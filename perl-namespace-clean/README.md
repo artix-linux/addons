@@ -1,0 +1,2 @@
+# perl-namespace-clean
+
