@@ -2561,6 +2561,11 @@
       "branch": "master",
       "revision": "affdd28412633e57bd16156c49aa169a5540471d"
     },
+    "python-scikit-learn": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-scikit-learn.git",
+      "branch": "master",
+      "revision": "e68b45d37bf6ad813feda7546f2dce756847738b"
+    },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
