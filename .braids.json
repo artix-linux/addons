@@ -986,6 +986,11 @@
       "branch": "master",
       "revision": "844309faa8c112ccdf90004d5492821f47fd6ebd"
     },
+    "python-hypothesis-auto": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesis-auto.git",
+      "branch": "master",
+      "revision": "a053125b604b436807ffe503ed382b69cc4f9775"
+    },
     "python-identify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-identify.git",
       "branch": "master",
