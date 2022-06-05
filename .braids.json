@@ -2726,6 +2726,11 @@
       "branch": "master",
       "revision": "38c8b8d1eba9af2461f9c31b9587323aee2edfcd"
     },
+    "python-sphinxcontrib-jsmath": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-jsmath.git",
+      "branch": "master",
+      "revision": "804c19337eaba5d35cc6f6eadda9295ac6924483"
+    },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
