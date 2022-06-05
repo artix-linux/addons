@@ -125,6 +125,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-incremental.git",
       "branch": "master",
       "revision": "2dba72cd3fb9dde6bc8bd1d0d89b97aa8c49130f"
+    },
+    "python-lazy-object-proxy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
+      "branch": "master",
+      "revision": "3c035b9a7181fcaf3fd4350876a9a7c3e13917f6"
     }
   }
 }

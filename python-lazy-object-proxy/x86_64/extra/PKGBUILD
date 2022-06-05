@@ -1,0 +1,32 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-lazy-object-proxy
+pkgver=1.7.1
+pkgrel=1
+pkgdesc='A fast and thorough lazy object proxy'
+arch=('x86_64')
+url="https://github.com/ionelmc/python-lazy-object-proxy"
+license=('BSD')
+depends=("python")
+makedepends=('python-setuptools-scm')
+checkdepends=('python-pytest-benchmark' 'python-pytest-runner')
+source=("https://github.com/ionelmc/python-lazy-object-proxy/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('aa00e987e99f0917c5bd381186071b32fc3c950fc0b56c71ff4ef6766b1b9af621c6c43f5b94f1df27268363cde225983fd568c0c4433faba7a99ab74b368f48')
+
+export SETUPTOOLS_SCM_PRETEND_VERSION=$pkgver
+
+build() {
+  cd python-lazy-object-proxy-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd python-lazy-object-proxy-$pkgver
+  python setup.py pytest --addopts --ignore=src
+}
+
+package() {
+  cd python-lazy-object-proxy-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+  install -Dm644 LICENSE "$pkgdir"/usr/share/licenses/$pkgname/LICENSE
+}
