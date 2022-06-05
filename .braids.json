@@ -1021,6 +1021,11 @@
       "branch": "master",
       "revision": "b9a6439bd57b0b4fa6eaa45434cfeb9e81df56a8"
     },
+    "perl-specio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-specio.git",
+      "branch": "master",
+      "revision": "afa935a2871e55c7f913c8bc7cc3c1d9c405fe02"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
