@@ -5240,6 +5240,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-nio4r.git",
       "branch": "master",
       "revision": "3750032191f079b1dce04f4b21b3c9abd80f6075"
+    },
+    "ruby-nokogiri": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-nokogiri.git",
+      "branch": "master",
+      "revision": "3ee918007558cfd031f6f1162a3ca7e4dd5e92fa"
     }
   }
 }
