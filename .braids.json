@@ -2131,6 +2131,11 @@
       "branch": "master",
       "revision": "971b86f95bb312aef3fcc99436bb3515aa1cf7e8"
     },
+    "python-memcached": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-memcached.git",
+      "branch": "master",
+      "revision": "d32c7dc7b408d0554b16eeb4d15333cafda53de4"
+    },
     "python-milksnake": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-milksnake.git",
       "branch": "master",
