@@ -1471,6 +1471,11 @@
       "branch": "master",
       "revision": "a61269ad09c101a0ca8dd30adb9b8f9b850c8b7a"
     },
+    "python-openapi-core": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-core.git",
+      "branch": "master",
+      "revision": "4fcf099d40c5bdf33f3981be37fa51de096e682a"
+    },
     "python-openpyxl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openpyxl.git",
       "branch": "master",
