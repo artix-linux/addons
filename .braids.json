@@ -5220,6 +5220,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mustache.git",
       "branch": "master",
       "revision": "ba19be5b6ef4469bd612d849135bcdf244032bd3"
+    },
+    "ruby-mustermann": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mustermann.git",
+      "branch": "master",
+      "revision": "27ac22f444d43c22f35e80f7095f310ecdd38327"
     }
   }
 }
