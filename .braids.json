@@ -1171,6 +1171,11 @@
       "branch": "master",
       "revision": "6eb00bca70457899990734d7040f6c8929c22672"
     },
+    "python-proxy.py": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-proxy.py.git",
+      "branch": "master",
+      "revision": "2e6ab763539a4fba66c9eba3ca0e17770e08fa25"
+    },
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
       "branch": "master",
