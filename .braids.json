@@ -101,6 +101,11 @@
       "branch": "master",
       "revision": "81fca0c7a958d560ccd2b80ea3df3a7ea311aadc"
     },
+    "perl-class-method-modifiers": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-method-modifiers.git",
+      "branch": "master",
+      "revision": "9764cab538f2123fdfd3ba89de29c9607eabeb92"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
