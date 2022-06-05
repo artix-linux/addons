@@ -671,6 +671,11 @@
       "branch": "master",
       "revision": "ec916fed3ae66023b9144f92baa4421a059db42f"
     },
+    "perl-mail-dkim": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-dkim.git",
+      "branch": "master",
+      "revision": "e4d4cb62d314c772d8a2140b228aa8ce9cc3ce78"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
