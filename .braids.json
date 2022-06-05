@@ -1871,6 +1871,11 @@
       "branch": "master",
       "revision": "40b73773e06c3ba9c5cfb002579fb93fb3319792"
     },
+    "python-traitlets": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-traitlets.git",
+      "branch": "master",
+      "revision": "43d67dbbcc412be05425d15103961f31ce3b4915"
+    },
     "python-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
       "branch": "master",
