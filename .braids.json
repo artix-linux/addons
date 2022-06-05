@@ -1281,6 +1281,11 @@
       "branch": "master",
       "revision": "ea3eb25e747afaa97881441d06c4df2717a88cd7"
     },
+    "python-flup": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flup.git",
+      "branch": "master",
+      "revision": "68d9f14f2429828b328b984a2502a61e1d8df12c"
+    },
     "python-frozenlist": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozenlist.git",
       "branch": "master",
