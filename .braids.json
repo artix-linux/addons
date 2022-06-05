@@ -5080,6 +5080,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ffi.git",
       "branch": "master",
       "revision": "5ec985bf15a3d6850f957ba181bda4281080f9d5"
+    },
+    "ruby-glib2": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-glib2.git",
+      "branch": "master",
+      "revision": "997137f8bddbbff5509b1563ee480ef507d848a8"
     }
   }
 }
