@@ -1336,6 +1336,11 @@
       "branch": "master",
       "revision": "d4d3b8992bdda0f1e5a63060fb98a99861735d46"
     },
+    "perl-www-robotrules": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-www-robotrules.git",
+      "branch": "master",
+      "revision": "d877866c0c1edf448988e62235590361a209894f"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
