@@ -1,0 +1,36 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Contributor: Simon Sapin <simon dot sapin at exyr dot org>
+# Contributor: Kyle Keen <keenerd@gmail.com>
+
+pkgname=python-mongoengine
+pkgver=0.24.1
+pkgrel=1
+pkgdesc="A Python Object-Document-Mapper for working with MongoDB"
+url="https://github.com/MongoEngine/mongoengine"
+license=('MIT')
+arch=('any')
+depends=('python-pymongo')
+optdepends=('python-dateutil: for DateTimeField'
+            'python-pillow: for ImageField / ImageGridFsProxy')
+makedepends=('python-build' 'python-installer' 'python-setuptools' 'python-wheel')
+checkdepends=('python-pytest-cov' 'python-coverage' 'python-blinker' 'python-pillow' 'python-zipp'
+              'python-mongomock')
+source=("https://github.com/MongoEngine/mongoengine/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('5e01ca8168e3ebabf8944ff4280a527ae158b1fdda64b692d64cf58039e5448d48d8ac46b0ecf619b77502f950fd8afeec6e90810592406ea255c4fb808f8c55')
+
+build() {
+  cd mongoengine-$pkgver
+  python -m build -nw
+}
+
+check() {
+  cd mongoengine-$pkgver
+  # No sane way to run it without mongodb
+  # python -m pytest
+}
+
+package() {
+  cd mongoengine-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
