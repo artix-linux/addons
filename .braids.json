@@ -5180,6 +5180,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mini_portile2.git",
       "branch": "master",
       "revision": "e319378df70c94b88b7e21128aed24c148eb8694"
+    },
+    "ruby-minitest": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest.git",
+      "branch": "master",
+      "revision": "e746850a50ea7f42c5b1162a331ddc7df7e8c955"
     }
   }
 }
