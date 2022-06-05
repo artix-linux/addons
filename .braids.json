@@ -931,6 +931,11 @@
       "branch": "master",
       "revision": "dc728fdd095abb03749f75097e8dea166c2b2305"
     },
+    "python-mistune1": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mistune1.git",
+      "branch": "master",
+      "revision": "a742f05af3349d6d0a0d302a13a0077f87abaad0"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
