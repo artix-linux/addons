@@ -496,6 +496,11 @@
       "branch": "master",
       "revision": "49e389e7db4bf7770b7dbd0470b523e11a1924ad"
     },
+    "perl-importer": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-importer.git",
+      "branch": "master",
+      "revision": "6bb828b17a45ff94b5144758097f89c7c693064c"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
