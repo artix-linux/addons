@@ -1336,6 +1336,11 @@
       "branch": "master",
       "revision": "2691dd6b0a1ecae163b16c2ac315a6f6bdcb3a1b"
     },
+    "python-pyjwt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyjwt.git",
+      "branch": "master",
+      "revision": "703d8c92111c475ca8cec7a9b955571687ad2b32"
+    },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
