@@ -1,0 +1,34 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Contributor: Jonne Haß <me@jhass.eu>
+# Contributor: Hyacinthe Cartiaux <hyacinthe.cartiaux@free.fr>
+# Contributor: Anatol Pomozov <anatol.pomozov@gmail.com>
+# Contributor: Alexsandr Pavlov <kidoz at mail dot ru>
+
+pkgname=ruby-bundler
+_gemname=${pkgname#ruby-}
+pkgver=2.3.10
+pkgrel=1
+pkgdesc="Manages an application's dependencies through its entire life, across many machines, systematically and repeatably."
+arch=('any')
+url='http://bundler.io'
+license=('MIT')
+depends=('ruby')
+makedepends=('ruby-rdoc')
+options=('!emptydirs')
+source=("https://rubygems.org/downloads/$_gemname-$pkgver.gem")
+noextract=("$_gemname-$pkgver.gem")
+sha512sums=('92e80562edede11fd86990d706ac393d29c1c2a3312b8022c575cc8e7e0266a108891b5f7838071c004e86be467265bd5d75aea2eb0c86ad7f1fc85c2537c17c')
+
+package() {
+  cd "$srcdir"
+
+  local _gemdir="$(ruby -e'puts Gem.default_dir')"
+  HOME="/tmp" GEM_HOME="$_gemdir" GEM_PATH="$_gemdir" gem install --no-user-install --ignore-dependencies \
+     -i "$pkgdir/$_gemdir" -n "$pkgdir/usr/bin" "$_gemname-$pkgver.gem"
+  rm "$pkgdir/$_gemdir/cache/$_gemname-$pkgver.gem"
+  install -D -m644 "$pkgdir/$_gemdir/gems/$_gemname-$pkgver/LICENSE.md" "$pkgdir/usr/share/licenses/$pkgname/LICENSE.md"
+
+  install -d "$pkgdir/usr/share/man/"{man1,man5}
+  mv "$pkgdir/$_gemdir/gems/$_gemname-$pkgver/lib/bundler/man"/*.1 "$pkgdir/usr/share/man/man1/"
+  mv "$pkgdir/$_gemdir/gems/$_gemname-$pkgver/lib/bundler/man"/*.5 "$pkgdir/usr/share/man/man5/"
+}

@@ -4955,6 +4955,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-builder.git",
       "branch": "master",
       "revision": "87e671aaf133c036abfeea04707a5d63378fc7f4"
+    },
+    "ruby-bundler": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bundler.git",
+      "branch": "master",
+      "revision": "305c37149d99245d8aad1e5278d1643ffb3b0a89"
     }
   }
 }
