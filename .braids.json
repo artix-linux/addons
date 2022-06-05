@@ -2776,6 +2776,11 @@
       "branch": "master",
       "revision": "c60392cc57b77b70f2ccafae9c9213c301d50347"
     },
+    "python-priority": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-priority.git",
+      "branch": "master",
+      "revision": "d9d982ac00b873a7b77f2868559aebe6f35131fb"
+    },
     "python-prometheus_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
       "branch": "master",
