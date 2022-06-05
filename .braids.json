@@ -821,6 +821,11 @@
       "branch": "master",
       "revision": "453b77c25d0b7e8e62e2383b5448a42aa98bfb22"
     },
+    "python-krb5": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-krb5.git",
+      "branch": "master",
+      "revision": "23d43618e5c6179c2f7194793f1d880d6d10a814"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
