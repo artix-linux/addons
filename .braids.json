@@ -3596,6 +3596,11 @@
       "branch": "master",
       "revision": "691daca48d0994bd19d6687eabfd8328f0fbf2ef"
     },
+    "python-re-assert": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-re-assert.git",
+      "branch": "master",
+      "revision": "2edec7af74c443a8ada60ef66360d9bf89ebf1a3"
+    },
     "python-readme-renderer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-readme-renderer.git",
       "branch": "master",
