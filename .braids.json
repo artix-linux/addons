@@ -226,6 +226,11 @@
       "branch": "master",
       "revision": "5ce7c245001800006fa878ee1a2a9b6863b5421b"
     },
+    "perl-datetime-locale": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-locale.git",
+      "branch": "master",
+      "revision": "2b2933c85a4b1cf88f6df4476839efd26b86c6ff"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
