@@ -3101,6 +3101,11 @@
       "branch": "master",
       "revision": "0a9d0e7173b3c5f79a1b124640498d2f5ad94bbb"
     },
+    "python-pynitrokey": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynitrokey.git",
+      "branch": "master",
+      "revision": "c40fe3226338328b0fc7c50e8c50cfbc73132f65"
+    },
     "python-pyocd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyocd.git",
       "branch": "master",

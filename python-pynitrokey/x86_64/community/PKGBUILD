@@ -1,0 +1,44 @@
+# Maintainer: David Runge <dvzrv@archlinux.org>
+
+_name=pynitrokey
+pkgname=python-pynitrokey
+pkgver=0.4.22
+pkgrel=1
+pkgdesc="A command line interface for the Nitrokey FIDO2 and Nitrokey Start"
+arch=(any)
+url="https://github.com/Nitrokey/pynitrokey"
+license=(Apache)
+# NOTE: libnitrokey is required for udev rules
+depends=(
+  libnitrokey
+  python-cbor
+  python-cffi
+  python-click
+  python-cryptography
+  python-dateutil
+  python-ecdsa
+  python-fido2
+  python-intelhex
+  python-nkdfu
+  python-pyusb
+  python-requests
+  python-spsdk
+  python-tqdm
+  python-urllib3
+)
+makedepends=(git python-build python-flit python-installer)
+source=(git+https://github.com/nitrokey/pynitrokey#tag=v$pkgver.nitrokey?signed)
+sha512sums=('SKIP')
+b2sums=('SKIP')
+validpgpkeys=(868184069239FF65DE0BCD7DD9BAE35991DE5B22)  # Szczepan Zalega (Nitrokey) <szczepan@nitrokey.com>
+
+build() {
+  cd $_name
+  python -m build --wheel --skip-dependency-check --no-isolation
+}
+
+package() {
+  cd $_name
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -vDm 644 README.md -t "$pkgdir/usr/share/doc/$pkgname/"
+}
