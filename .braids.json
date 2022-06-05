@@ -331,6 +331,11 @@
       "branch": "master",
       "revision": "32a520cb27b735ea9db5d4b2d1f5862b2523160c"
     },
+    "python-cython-test-exception-raiser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cython-test-exception-raiser.git",
+      "branch": "master",
+      "revision": "b419b2d3d7248cd0e09bb15d4d4d713d0d6332a3"
+    },
     "python-dbusmock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbusmock.git",
       "branch": "master",
