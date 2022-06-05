@@ -1041,6 +1041,11 @@
       "branch": "master",
       "revision": "8fe689419408650f99aab14f8a4918a97f69b1e8"
     },
+    "perl-string-shellquote": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-string-shellquote.git",
+      "branch": "master",
+      "revision": "65521d08fc965fd41a8a0f211609286a652630e2"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
