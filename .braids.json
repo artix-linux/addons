@@ -431,6 +431,11 @@
       "branch": "master",
       "revision": "6298dd1186bd6e1847fc9d42176f02e30ec7983d"
     },
+    "python-engineio": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-engineio.git",
+      "branch": "master",
+      "revision": "28f6f48c5e07b39dc4383204292c549f8df0e7af"
+    },
     "python-evdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
       "branch": "master",
