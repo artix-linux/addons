@@ -801,6 +801,11 @@
       "branch": "master",
       "revision": "87b315c1c066bff419b98dbac0fad840a2d2ec46"
     },
+    "python-keyring": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyring.git",
+      "branch": "master",
+      "revision": "1779b411bb6f305e0e757be69f5172a663002b7f"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
