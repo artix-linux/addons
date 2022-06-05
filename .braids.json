@@ -2546,6 +2546,11 @@
       "branch": "master",
       "revision": "7c0a73611780306fca0dba922c2b7464e47fe5a2"
     },
+    "python-passlib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-passlib.git",
+      "branch": "master",
+      "revision": "f41b50d70ef4c909b95e084baa6a2fea55dcccac"
+    },
     "python-pastel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pastel.git",
       "branch": "master",
