@@ -1146,6 +1146,11 @@
       "branch": "master",
       "revision": "fb157c59cd4d14590a74a05b0ffcdfda88a76b28"
     },
+    "python-poetry": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry.git",
+      "branch": "master",
+      "revision": "2d8c0aa1b97a198324b96643006517f4d6b01456"
+    },
     "python-prometheus_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
       "branch": "master",
