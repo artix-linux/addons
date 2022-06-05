@@ -2336,6 +2336,11 @@
       "branch": "master",
       "revision": "e897909c8fa78fe3bbddf4def320a0e1277b4c05"
     },
+    "python-pytest-xvfb": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-xvfb.git",
+      "branch": "master",
+      "revision": "543ab516b17433f42f39fbd49ea5ba0156726c37"
+    },
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
