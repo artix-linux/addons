@@ -2741,6 +2741,11 @@
       "branch": "master",
       "revision": "0a885c8bb6a43c44a3424199ce69c88e14c2ff00"
     },
+    "python-sphinxcontrib-spelling": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-spelling.git",
+      "branch": "master",
+      "revision": "fdc2d7e97cfd9c395fbd08795e7d75368fb04098"
+    },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
