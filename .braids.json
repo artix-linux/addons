@@ -736,6 +736,11 @@
       "branch": "master",
       "revision": "a29c5728a94a179ca19741ac9b6c46494e36e6bc"
     },
+    "perl-module-install": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-install.git",
+      "branch": "master",
+      "revision": "eea683148bb317d1880f142ef9fd0e3a0e877773"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
