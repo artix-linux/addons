@@ -371,6 +371,11 @@
       "branch": "master",
       "revision": "5e23b55b07d68558b1465e94473d8d8c298000c6"
     },
+    "python-discid": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-discid.git",
+      "branch": "master",
+      "revision": "73aa12aecc157bb623b7743f96f33a760bf98cdc"
+    },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
