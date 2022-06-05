@@ -411,6 +411,11 @@
       "branch": "master",
       "revision": "861a363720cade96ba44797014fa881104654e20"
     },
+    "perl-file-sharedir": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-sharedir.git",
+      "branch": "master",
+      "revision": "bb817ccafcf79f8134abdc2ec2af46e0a39d148c"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
