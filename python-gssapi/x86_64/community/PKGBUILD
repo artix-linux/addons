@@ -1,0 +1,35 @@
+# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Contributor: Samuel Laurén <samuel.lauren@iki.fi>
+
+pkgname=python-gssapi
+pkgver=1.7.3
+pkgrel=1
+pkgdesc='Provides both low-level and high level wrappers around the GSSAPI C libraries'
+url='https://github.com/pythongssapi/python-gssapi'
+arch=('x86_64')
+license=('ISC')
+depends=('python' 'python-decorator' 'krb5')
+makedepends=('python-setuptools' 'cython')
+checkdepends=('python-parameterized' 'python-k5test')
+source=("https://github.com/pythongssapi/python-gssapi/archive/v${pkgver}/${pkgname}-${pkgver}.tar.gz")
+sha512sums=('b9f1b70fdf2592f8a29d3ae6195c6d29027b698eddc342a6d4ee8bb9dc4ca6b038f8664fb4172fd9cf249e582f6a673af2aab3fd312c313a712a949501196644')
+b2sums=('1a7eae946870686b342a8053a7a7cb15166be676eacd789f9e7b0a1c4936aa64ba141f15e04e298e34356967c6d5b9b22a19c8410e194d2857970da64bddd4eb')
+
+build() {
+  cd "${pkgname}-${pkgver}"
+  python setup.py build
+}
+
+check() {
+  cd "${pkgname}-${pkgver}"
+  python setup.py test
+}
+
+package() {
+  cd "${pkgname}-${pkgver}"
+  python setup.py install -O1 --root="${pkgdir}" --skip-build
+  install -Dm 644 README.txt -t "${pkgdir}/usr/share/doc/${pkgname}"
+  install -Dm 644 LICENSE.txt -t "${pkgdir}/usr/share/licenses/${pkgname}"
+}
+
+# vim: ts=2 sw=2 et:

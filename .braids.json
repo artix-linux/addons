@@ -581,6 +581,11 @@
       "branch": "master",
       "revision": "a6016a66e54bbc5082c62a741bfd5afd9e98b9c1"
     },
+    "python-gssapi": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-gssapi.git",
+      "branch": "master",
+      "revision": "75e958870949ddaacf5a80591e5b41790b9bc47e"
+    },
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
