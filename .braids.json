@@ -951,6 +951,11 @@
       "branch": "master",
       "revision": "3b94ca33b4f7c76a513086fa894de00a1c58b979"
     },
+    "python-mss": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
+      "branch": "master",
+      "revision": "c2da15b7026b2bea378c0d68a6c0aa79edacc7fa"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
