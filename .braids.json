@@ -261,6 +261,11 @@
       "branch": "master",
       "revision": "0001d6ee315f908fdba5ed1844c817dc471ab2d0"
     },
+    "python-commentjson": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-commentjson.git",
+      "branch": "master",
+      "revision": "c04639c94f5f997c352281987d8d79b79eaf7c20"
+    },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
