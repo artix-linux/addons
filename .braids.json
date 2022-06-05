@@ -16,6 +16,11 @@
       "branch": "master",
       "revision": "9a34b6517916b67116da63ffe30e21c364376178"
     },
+    "python-aiobotocore": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiobotocore.git",
+      "branch": "master",
+      "revision": "da8743399bafba66df0debbf3ef88bdf828b3a9a"
+    },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
