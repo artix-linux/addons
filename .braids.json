@@ -2746,6 +2746,11 @@
       "branch": "master",
       "revision": "b96ed777063dcaf0fe4386fab05a88129e9f1093"
     },
+    "python-pproxy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pproxy.git",
+      "branch": "master",
+      "revision": "9cc18e93746b124a3b069b13c0f8a5ee1b0971fc"
+    },
     "python-pre-commit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pre-commit.git",
       "branch": "master",
