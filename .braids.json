@@ -1881,6 +1881,11 @@
       "branch": "master",
       "revision": "5343172c5bc1a4e941a3210a6875960593a5b88c"
     },
+    "python-pygame-sdl2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygame-sdl2.git",
+      "branch": "master",
+      "revision": "47a443e9c863a33723ce0fdbfd72fe13afa53ce8"
+    },
     "python-pygls": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygls.git",
       "branch": "master",
