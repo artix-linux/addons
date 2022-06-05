@@ -1471,6 +1471,11 @@
       "branch": "master",
       "revision": "0d447a1d34bf2cf641a8cc5be92fcfc9b637e196"
     },
+    "python-hacking": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hacking.git",
+      "branch": "master",
+      "revision": "2361f5d81a7a975fda6c87363f3d9e13d86c1822"
+    },
     "python-heapdict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-heapdict.git",
       "branch": "master",
