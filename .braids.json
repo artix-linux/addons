@@ -5235,6 +5235,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-network_interface.git",
       "branch": "master",
       "revision": "3930ea810d6e78641df0742127f89b723a54a7fe"
+    },
+    "ruby-nio4r": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-nio4r.git",
+      "branch": "master",
+      "revision": "3750032191f079b1dce04f4b21b3c9abd80f6075"
     }
   }
 }
