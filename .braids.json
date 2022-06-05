@@ -1711,6 +1711,11 @@
       "branch": "master",
       "revision": "a77c07151dc04935b277c0104c19dc60fce2be2c"
     },
+    "python-simplejson": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-simplejson.git",
+      "branch": "master",
+      "revision": "6d9d2b10b2b21a81e11b0e1cf6c462995e6baf58"
+    },
     "python-six": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-six.git",
       "branch": "master",
