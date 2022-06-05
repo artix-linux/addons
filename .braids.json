@@ -1536,6 +1536,11 @@
       "branch": "master",
       "revision": "d1dc451e166fde5b11115ccfd8851f04212065b9"
     },
+    "python-pytz-deprecation-shim": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytz-deprecation-shim.git",
+      "branch": "master",
+      "revision": "bcc434def740084091bfd583e1b18176bfed5531"
+    },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
