@@ -4386,6 +4386,11 @@
       "branch": "master",
       "revision": "43d67dbbcc412be05425d15103961f31ce3b4915"
     },
+    "python-transaction": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-transaction.git",
+      "branch": "master",
+      "revision": "31a4d57a03cfb2a016b1d3a2c86409e05669c740"
+    },
     "python-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trio.git",
       "branch": "master",
