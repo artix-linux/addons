@@ -1991,6 +1991,11 @@
       "branch": "master",
       "revision": "bb91c3815caa88049b8aec3aa5086a01236589a5"
     },
+    "python-xlib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlib.git",
+      "branch": "master",
+      "revision": "51e90332be38e4e7319220c4760d5d36e32c77a7"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
