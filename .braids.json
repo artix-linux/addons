@@ -521,6 +521,11 @@
       "branch": "master",
       "revision": "318cdb71709d404acee5b2566ed895ea1953877d"
     },
+    "python-fs": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-fs.git",
+      "branch": "master",
+      "revision": "6e5c15b295c278f38ab224fc1b959451297067ac"
+    },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
