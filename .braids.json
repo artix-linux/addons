@@ -436,6 +436,11 @@
       "branch": "master",
       "revision": "0a180a995391d4f4154598b62c63854d608c1179"
     },
+    "perl-font-ttf": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-font-ttf.git",
+      "branch": "master",
+      "revision": "4266d3f7680aca476869a31c294e304e248016fd"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
