@@ -2041,6 +2041,11 @@
       "branch": "master",
       "revision": "58f9aad8bddd8148f41c608425f74ce7cde55f1a"
     },
+    "python-zict": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-zict.git",
+      "branch": "master",
+      "revision": "2500fd97f8e52cc10c872762e0a2e8d7b0c33e8c"
+    },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
