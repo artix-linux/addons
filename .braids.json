@@ -1541,6 +1541,11 @@
       "branch": "master",
       "revision": "022a865d401a9cedd6133a49c795d728485c3471"
     },
+    "python-oslo-serialization": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-serialization.git",
+      "branch": "master",
+      "revision": "0be0abd680bc3d20a08470bc8b3ff9b32b7367c7"
+    },
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
