@@ -336,6 +336,11 @@
       "branch": "master",
       "revision": "15c328d38befe6d620e3c7580fef1677e8c6931f"
     },
+    "perl-extutils-cppguess": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-extutils-cppguess.git",
+      "branch": "master",
+      "revision": "60a320da927a8d4690df8f6c1588eeab93635ad0"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
