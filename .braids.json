@@ -2831,6 +2831,11 @@
       "branch": "master",
       "revision": "c3fb19b2672d842c0d567bb93e1b21bb2c756560"
     },
+    "python-ptyprocess": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ptyprocess.git",
+      "branch": "master",
+      "revision": "01f7f9b2a3b7e710359c7f04492161b7ae645da3"
+    },
     "python-pure-eval": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pure-eval.git",
       "branch": "master",
