@@ -4636,6 +4636,11 @@
       "branch": "master",
       "revision": "dcb7da0174dbab6129ebc02b8e33e531300d19a0"
     },
+    "python-webob": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-webob.git",
+      "branch": "master",
+      "revision": "f339bb118438a835542e0a83d8f978e7196a92f4"
+    },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
