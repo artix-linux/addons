@@ -4776,6 +4776,11 @@
       "branch": "master",
       "revision": "87eb07ee62b19c7c7926757f0f0f8c6fcde2c944"
     },
+    "python-yarl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-yarl.git",
+      "branch": "master",
+      "revision": "2e030f0243479e573b073c01a5a0d963f81a9dca"
+    },
     "python-yg.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yg.lockfile.git",
       "branch": "master",
