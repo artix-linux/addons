@@ -55,6 +55,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
       "revision": "ad92ba733cc957abf1e299461d0b466624335524"
+    },
+    "python-cryptography": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cryptography.git",
+      "branch": "master",
+      "revision": "2c53356bf65057b00a428afe9c9e522862185de1"
     }
   }
 }
