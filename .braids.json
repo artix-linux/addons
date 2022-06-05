@@ -1,0 +1,10 @@
+{
+  "config_version": 1,
+  "mirrors": {
+    "python-anytree": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
+      "branch": "master",
+      "revision": "a65f2c9c13164676c2eeb1266af6eb914fb06f6a"
+    }
+  }
+}
