@@ -2361,6 +2361,11 @@
       "branch": "master",
       "revision": "a61269ad09c101a0ca8dd30adb9b8f9b850c8b7a"
     },
+    "python-oauth2client": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-oauth2client.git",
+      "branch": "master",
+      "revision": "26223eb403d63f4465483ffcd6a0334ffe1cdb82"
+    },
     "python-openapi-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-core.git",
       "branch": "master",
