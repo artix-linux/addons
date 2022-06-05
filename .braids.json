@@ -781,6 +781,11 @@
       "branch": "master",
       "revision": "67e99e00ce7a1f1d7cd7cb0870a26c94cb90b0e5"
     },
+    "python-flask-login": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-login.git",
+      "branch": "master",
+      "revision": "4b15250ac0676fc366b1f60abc9eba3f6a13a23b"
+    },
     "python-flit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit.git",
       "branch": "master",
