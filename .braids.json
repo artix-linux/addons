@@ -2186,6 +2186,11 @@
       "branch": "master",
       "revision": "3b94ca33b4f7c76a513086fa894de00a1c58b979"
     },
+    "python-moto": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-moto.git",
+      "branch": "master",
+      "revision": "65d90bc2f53d236082bf5173fdb8fa14da67ddd8"
+    },
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
       "branch": "master",
