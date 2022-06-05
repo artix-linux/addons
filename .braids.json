@@ -305,6 +305,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
       "revision": "4979499be418ed55465453524a92b5ff31aa0f58"
+    },
+    "python-tomli": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
+      "branch": "master",
+      "revision": "f2509c53ae809e8c18760c667f34f5dfb4cb2e56"
     }
   }
 }
