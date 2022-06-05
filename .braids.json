@@ -1026,6 +1026,11 @@
       "branch": "master",
       "revision": "23f1f1e229956c2e41eb48922fec074dcef436f0"
     },
+    "python-importlib-metadata": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-importlib-metadata.git",
+      "branch": "master",
+      "revision": "cb3c496130dfba35d6635c4bd4ae78a21a366af5"
+    },
     "python-incremental": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-incremental.git",
       "branch": "master",
