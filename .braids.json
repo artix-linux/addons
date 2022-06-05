@@ -206,6 +206,11 @@
       "branch": "master",
       "revision": "d56643c5685d4b5cae61fa402b176c22cf5e640a"
     },
+    "perl-data-validate-ip": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-validate-ip.git",
+      "branch": "master",
+      "revision": "8366ee59c8a5817fd7bd03fa1607a85717f05bf9"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
