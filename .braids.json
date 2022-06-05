@@ -726,6 +726,11 @@
       "branch": "master",
       "revision": "a7898d3dd3da2d623343c119c4784adf13772ba8"
     },
+    "python-jinja": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jinja.git",
+      "branch": "master",
+      "revision": "333df9b7519b699cba76eb5474a113d55c0308eb"
+    },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
