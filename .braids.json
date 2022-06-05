@@ -966,6 +966,11 @@
       "branch": "master",
       "revision": "c1ad9219b0e9d9e53ec0b9da853917e3fa3bba7b"
     },
+    "python-mysql-connector": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mysql-connector.git",
+      "branch": "master",
+      "revision": "d18350b0a1e6f6921d69122b1d64ba78eb21c4d8"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
