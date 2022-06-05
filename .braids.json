@@ -781,6 +781,11 @@
       "branch": "master",
       "revision": "17200b17fa89e3071da599c738754efb38bb9344"
     },
+    "perl-netaddr-ip": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-netaddr-ip.git",
+      "branch": "master",
+      "revision": "53594f60299e2c4397d2dddf83ee7b05ea691165"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
