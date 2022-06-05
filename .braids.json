@@ -1231,6 +1231,11 @@
       "branch": "master",
       "revision": "8dfe02a4b80fb19d774e781456df491645727d29"
     },
+    "python-pycontracts": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycontracts.git",
+      "branch": "master",
+      "revision": "8e96284aa34d2fdcbae22419196c03fc8bbbc348"
+    },
     "python-pycparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycparser.git",
       "branch": "master",
