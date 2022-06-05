@@ -876,6 +876,11 @@
       "branch": "master",
       "revision": "1040cfc44b5d783d8cf098613eddee148a2f575d"
     },
+    "perl-parse-recdescent": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-parse-recdescent.git",
+      "branch": "master",
+      "revision": "29216ef6c748860666cf6095ed31ece7f22e3295"
+    },
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
