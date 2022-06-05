@@ -936,6 +936,11 @@
       "branch": "master",
       "revision": "a742f05af3349d6d0a0d302a13a0077f87abaad0"
     },
+    "python-mock": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mock.git",
+      "branch": "master",
+      "revision": "a82ea20e0e869548c3a20161f44f51c3e06894e8"
+    },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
