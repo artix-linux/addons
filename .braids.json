@@ -666,6 +666,11 @@
       "branch": "master",
       "revision": "30cdd492d6428a83b19aff95a40ed68db43be095"
     },
+    "python-ijson": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ijson.git",
+      "branch": "master",
+      "revision": "00a0218ce221af2916c10115883de37480b8bbf5"
+    },
     "python-incremental": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-incremental.git",
       "branch": "master",
