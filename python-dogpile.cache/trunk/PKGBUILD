@@ -1,0 +1,35 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+
+pkgname=python-dogpile.cache
+pkgver=1.1.5
+pkgrel=1
+pkgdesc="A caching front-end based on the Dogpile lock"
+arch=('any')
+url="https://pypi.python.org/pypi/dogpile.cache"
+license=('BSD')
+depends=('python-decorator' 'python-stevedore')
+makedepends=('python-setuptools')
+checkdepends=('memcached' 'pifpaf' 'redis' 'python-mako' 'python-redis' 'python-pytest' 'python-mock'
+              'python-pytest-cov' 'python-pylibmc')
+source=("https://pypi.io/packages/source/d/dogpile.cache/dogpile.cache-$pkgver.tar.gz")
+sha512sums=('b6d453121ef8e58da60478e2e1e2db57804dfa3b17cceeace930ba75d159629dfba4b5d63c50fbbc2eafeadbfcd6e1e4cbe22c8da1f54c90473f8ee677d764f8')
+
+build() {
+  cd dogpile.cache-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd dogpile.cache-$pkgver
+  python -m pytest -k 'not test_memcached_backend and not test_redis_backend'
+  pifpaf --env-prefix DOGPILE run memcached --port 11234 -- python -m pytest tests/cache/test_memcached_backend.py
+  pifpaf --env-prefix DOGPILE run redis --port 11234 -- python -m pytest tests/cache/test_redis_backend.py
+}
+
+package() {
+  cd dogpile.cache-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
+
+# vim:set ts=2 sw=2 et:

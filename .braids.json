@@ -976,6 +976,11 @@
       "branch": "master",
       "revision": "fad2cd973c41b0e7fff80a37f3739f6c6c6a9a34"
     },
+    "python-dogpile.cache": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dogpile.cache.git",
+      "branch": "master",
+      "revision": "a78e65510a2d2bd081a2b263f326d994fa7a15e9"
+    },
     "python-doublex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doublex.git",
       "branch": "master",
