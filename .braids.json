@@ -2626,6 +2626,11 @@
       "branch": "master",
       "revision": "f7a8f147ea093eb61553d0f7cdb369321bbc9aef"
     },
+    "python-perf": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-perf.git",
+      "branch": "master",
+      "revision": "561a689154e6dd0ba6d57a70624138757643b81a"
+    },
     "python-pexpect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pexpect.git",
       "branch": "master",
