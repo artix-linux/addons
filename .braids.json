@@ -196,6 +196,11 @@
       "branch": "master",
       "revision": "5ca8ad74bee29a7feffb60ae6b601b5612e6207f"
     },
+    "python-certifi": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-certifi.git",
+      "branch": "master",
+      "revision": "6c23b592ea737cd2e790e270613acb58e8cc8ed9"
+    },
     "python-cffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cffi.git",
       "branch": "master",
