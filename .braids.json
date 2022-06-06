@@ -6699,7 +6699,7 @@
     "ruby-pkg-config": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-pkg-config.git",
       "branch": "master",
-      "revision": "7f12656995daca6c08ad903ca610507b4de660a7"
+      "revision": "eb78a03f215c04e016c43f2fba55f53b274f890e"
     },
     "ruby-power_assert": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-power_assert.git",
