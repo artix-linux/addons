@@ -5461,6 +5461,11 @@
       "branch": "master",
       "revision": "740011e023fbab89190a8b1e3bb052e23b4d62d6"
     },
+    "python-sphinx-basic-ng": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-basic-ng.git",
+      "branch": "master",
+      "revision": "78b28c5fcdb1ce7bf0fec1a6c352ffa065d66ee7"
+    },
     "python-sphinx-copybutton": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-copybutton.git",
       "branch": "master",
