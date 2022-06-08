@@ -4484,7 +4484,7 @@
     "python-pylink-square": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylink-square.git",
       "branch": "master",
-      "revision": "695a9b469ec64cffd3d9db9d44d3aff5bfbca562"
+      "revision": "48cff5cc13c86b6264305a6d45e6a1724920b588"
     },
     "python-pylint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylint.git",
