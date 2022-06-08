@@ -4534,7 +4534,7 @@
     "python-pyocd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyocd.git",
       "branch": "master",
-      "revision": "06629fb94ea9f1bf0a8c542c1d4c9fdd5a25f964"
+      "revision": "0312f39d2033b03cc77cc93ac49c12301a4b73a2"
     },
     "python-pyopenssl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
