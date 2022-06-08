@@ -6674,7 +6674,7 @@
     "ruby-native-package-installer": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-native-package-installer.git",
       "branch": "master",
-      "revision": "3e0f850dd05491647983fb6959146c3363c84172"
+      "revision": "422870fe30b658f6983325e5ba9a589faf8a07ed"
     },
     "ruby-network_interface": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-network_interface.git",
