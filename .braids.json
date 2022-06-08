@@ -3064,7 +3064,7 @@
     "python-inflect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-inflect.git",
       "branch": "master",
-      "revision": "69cd5781b09e805113b920996e7a1ecb9316a747"
+      "revision": "416ba403f7eed6d887dcded2698842431a5f6de6"
     },
     "python-iniconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iniconfig.git",
