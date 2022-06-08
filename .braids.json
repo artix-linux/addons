@@ -3819,7 +3819,7 @@
     "python-openstacksdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openstacksdk.git",
       "branch": "master",
-      "revision": "a480ae949d4fd4aa9051882c7b56569ac1b3135d"
+      "revision": "5dd13fcde7503a28b2abad2020b5d6d99ced61da"
     },
     "python-ordered-set": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ordered-set.git",
