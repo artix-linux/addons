@@ -3169,7 +3169,7 @@
     "python-jaraco.itertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.itertools.git",
       "branch": "master",
-      "revision": "f1107420ea62b0e49e000b12a4a54ef43b20c9a1"
+      "revision": "d0fbf12b79279ac45594ffe351d183777721e1f6"
     },
     "python-jaraco.path": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.path.git",
