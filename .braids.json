@@ -3149,7 +3149,7 @@
     "python-jaraco.collections": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.collections.git",
       "branch": "master",
-      "revision": "d6a5b6289f64dae6095a0f349a9241e9610a4b59"
+      "revision": "6236a2caf07a80371b29fb29199438c2500aedb4"
     },
     "python-jaraco.context": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.context.git",
