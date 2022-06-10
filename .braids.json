@@ -6239,7 +6239,7 @@
     "python-yg.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yg.lockfile.git",
       "branch": "master",
-      "revision": "bf54d9409ea33c1e04912d59bbeac42749cba6c4"
+      "revision": "f62ecd5b8e89d4d553c6a35dbefcb9a87f9db1bc"
     },
     "python-zc.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zc.lockfile.git",
