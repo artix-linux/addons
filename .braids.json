@@ -3174,7 +3174,7 @@
     "python-jaraco.test": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.test.git",
       "branch": "master",
-      "revision": "8a361a455ac6e1a79d04569116c262b8af4970af"
+      "revision": "dc196b6545bd3339cb2368cb34bc118f1a49add2"
     },
     "python-jaraco.text": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.text.git",
