@@ -3144,7 +3144,7 @@
     "python-jaraco.classes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.classes.git",
       "branch": "master",
-      "revision": "cb1a3182315cec3aaef487edcc4f2007461c7ef8"
+      "revision": "5b6b291924177be449d2d2c24af03fc4d42a3af8"
     },
     "python-jaraco.collections": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.collections.git",
