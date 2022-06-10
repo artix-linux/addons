@@ -3179,7 +3179,7 @@
     "python-jaraco.text": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.text.git",
       "branch": "master",
-      "revision": "3480814c1b44a52f3d0179232d8ed9f76c71290d"
+      "revision": "adf2bfa69409f458be6474d3009e6d61a6fe47af"
     },
     "python-jdcal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jdcal.git",
