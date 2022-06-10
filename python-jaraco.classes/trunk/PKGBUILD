@@ -3,7 +3,7 @@
 
 pkgname=python-jaraco.classes
 pkgver=3.2.1
-pkgrel=2.10
+pkgrel=3
 pkgdesc='Module for classes manipulation'
 arch=('any')
 url='https://github.com/jaraco/jaraco.classes'
@@ -23,10 +23,10 @@ build() {
   python -m build --wheel --no-isolation
 }
 
-# check() {
-#   cd "$srcdir/jaraco.classes-$pkgver"
-#   python -m pytest
-# }
+check() {
+  cd "$srcdir/jaraco.classes-$pkgver"
+  python -m pytest
+}
 
 package() {
   cd "$srcdir/jaraco.classes-$pkgver"
