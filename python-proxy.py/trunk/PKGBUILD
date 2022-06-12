@@ -21,7 +21,7 @@ sha256sums=('6134e8f1282db1fd7fa1a4b7049e49307566851023b2ac312d9dd36e92f0c9b1'
 prepare() {
 	cd "$_name-$pkgver"
 	# Fix pytest-asyncio 0.17.0 DeprecationWarning (https://github.com/abhinavsingh/proxy.py/pull/998)
-	patch --forward --strip=1 --input="$srcdir/python-proxy.py-2.4.0_fix-asyncio-deprecationwarning.patch"
+	patch --forward --strip=1 --input="$srcdir/python-proxy.py-2.4.3_fix-asyncio-deprecationwarning.patch"
 }
 
 build() {
