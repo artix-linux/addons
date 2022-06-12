@@ -4279,7 +4279,7 @@
     "python-proxy.py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-proxy.py.git",
       "branch": "master",
-      "revision": "6e5089052aeadd00d3afec8d04d8e03167263cb6"
+      "revision": "d056949a52d6b98f1caf62d288ec1e79e36cd7fe"
     },
     "python-psutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-psutil.git",
