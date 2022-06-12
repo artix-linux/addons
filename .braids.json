@@ -6026,6 +6026,11 @@
       "branch": "master",
       "revision": "1fe8b4f612522e081c185dfa3871cfdd58e7cdc3"
     },
+    "python-validate-pyproject": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-validate-pyproject.git",
+      "branch": "master",
+      "revision": "dafe25366b92bb0060727e7a39425eea270adceb"
+    },
     "python-validators": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-validators.git",
       "branch": "master",
