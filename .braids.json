@@ -2064,7 +2064,7 @@
     "python-configupdater": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-configupdater.git",
       "branch": "master",
-      "revision": "b9764ca22ef6adb34541b98c6d3ca2634f585e6c"
+      "revision": "733156aa0c5475a99a9675c0e7482f0de41eea4c"
     },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
