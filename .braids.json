@@ -1869,7 +1869,7 @@
     "python-calver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calver.git",
       "branch": "master",
-      "revision": "33af0f66d0e1e33fb4257a99fffac8c328b73428"
+      "revision": "777e5f22faa0858e6765d166e09661c122f3d8c9"
     },
     "python-canonicaljson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-canonicaljson.git",
