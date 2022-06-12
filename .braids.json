@@ -3799,7 +3799,7 @@
     "python-nspektr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nspektr.git",
       "branch": "master",
-      "revision": "7ca737c8b21d1b5aee07bf561911333e2913d926"
+      "revision": "fac6c6e7b8f0f36d2a3718da999f44967250567f"
     },
     "python-numexpr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numexpr.git",
