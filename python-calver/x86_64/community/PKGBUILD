@@ -2,14 +2,13 @@
 
 pkgname=python-calver
 pkgver=2021.7.30
-pkgrel=1
+pkgrel=1.1
 pkgdesc="Setuptools extension for CalVer package versions"
 url="https://github.com/di/calver"
 license=('Apache')
 arch=('any')
 depends=('python')
-makedepends=('python-setuptools')
-# makedepends=('python-calver' 'python-setuptools')
+makedepends=('python-calver' 'python-setuptools')
 checkdepends=('python-pytest' 'python-pretend')
 source=("https://github.com/di/calver/archive/$pkgver/$pkgname-$pkgver.tar.gz")
 sha512sums=('17c10b0f60ec4c8c582de660bd715d054c3478d8fdec88a6830396bad1d6147ce375a34c5ff57d244c8c2e337a6b382b6ee10673182a40bc14ad16a97405f181')
