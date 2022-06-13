@@ -4114,7 +4114,7 @@
     "python-phonenumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
       "branch": "master",
-      "revision": "1fb2cb99144c89296d59e9b55bd33bb79d46d4bf"
+      "revision": "e4eb84cf1b2d52bb7fc29e3ba17a66dd845a6cf7"
     },
     "python-pickleshare": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pickleshare.git",
