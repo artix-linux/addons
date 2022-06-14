@@ -5861,6 +5861,11 @@
       "branch": "master",
       "revision": "23e0baceba365270226cf40d0531fb37e8b1baf2"
     },
+    "python-tpm2-pytss": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-tpm2-pytss.git",
+      "branch": "master",
+      "revision": "afae1e7be395550785ec186727e0ec54467dcc25"
+    },
     "python-tqdm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tqdm.git",
       "branch": "master",
