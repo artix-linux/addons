@@ -6824,7 +6824,7 @@
     "ruby-rails-html-sanitizer": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rails-html-sanitizer.git",
       "branch": "master",
-      "revision": "d16d52223bd89d18d253f56fb150913141a68b5e"
+      "revision": "fd5e0d612517934ba9265ae71db297a07fab133a"
     },
     "ruby-rainbow": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rainbow.git",
