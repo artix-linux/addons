@@ -7039,7 +7039,7 @@
     "ruby-zeitwerk": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-zeitwerk.git",
       "branch": "master",
-      "revision": "d4e5e39566a09b38548dec70519024186cc9189b"
+      "revision": "4f80eb1a4520db5bca9b8eea1a2146f47a6e389b"
     }
   }
 }
