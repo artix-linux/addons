@@ -2539,7 +2539,7 @@
     "python-fastbencode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastbencode.git",
       "branch": "master",
-      "revision": "cf680363eda0cd99693f687fc71e645cc43679fe"
+      "revision": "ec21af8056c6c45c2455ac595e7f87e3f8f1ba95"
     },
     "python-fasteners": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fasteners.git",
