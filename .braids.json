@@ -4954,7 +4954,7 @@
     "python-python-pkcs11": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-pkcs11.git",
       "branch": "master",
-      "revision": "da24377a95bc23c9fc0fb73a462ddd5e5becdbb5"
+      "revision": "e41128a7d669d303e176c1437591b3210b646188"
     },
     "python-python-socks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-socks.git",
