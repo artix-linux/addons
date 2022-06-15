@@ -46,6 +46,11 @@
       "branch": "master",
       "revision": "84138bb6138b6160a7a9798e52fe6a3a04634c3e"
     },
+    "perl-authen-sasl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-authen-sasl.git",
+      "branch": "master",
+      "revision": "121048f5f56cc3bef9e6081354d9bceb335b8aa3"
+    },
     "perl-b-hooks-endofscope": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-b-hooks-endofscope.git",
       "branch": "master",
