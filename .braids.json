@@ -3134,7 +3134,7 @@
     "python-ipyparallel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipyparallel.git",
       "branch": "master",
-      "revision": "af22526752ad9804311da1889ac81ac43951b75f"
+      "revision": "e265390cab82ef18ff280d92b0bf4b9b332d58cd"
     },
     "python-ipython-genutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipython-genutils.git",
