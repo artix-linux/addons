@@ -2084,7 +2084,7 @@
     "python-contextlib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-contextlib2.git",
       "branch": "master",
-      "revision": "2c1fd831e7bfab65221bafad923fdc4cb817f8bb"
+      "revision": "9e8fa3a23e24af4e2b2ee11eae2b0fca151a20a0"
     },
     "python-cookies": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cookies.git",
