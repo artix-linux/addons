@@ -789,7 +789,7 @@
     "perl-net-dns": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-dns.git",
       "branch": "master",
-      "revision": "7207822a630966374aea0dbb6511b4c10a52636e"
+      "revision": "ccf58968b57c0d0e25bcbd564093a66d755bd576"
     },
     "perl-net-dns-resolver-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-dns-resolver-mock.git",
