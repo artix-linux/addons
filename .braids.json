@@ -854,7 +854,7 @@
     "perl-package-stash-xs": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-package-stash-xs.git",
       "branch": "master",
-      "revision": "60731f2fa6545aa9d890c564c20c724632c63bb8"
+      "revision": "184d7c3c3b0f5982a2f43240992ff98cc4eff646"
     },
     "perl-padwalker": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-padwalker.git",
