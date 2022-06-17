@@ -1029,7 +1029,7 @@
     "perl-specio": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-specio.git",
       "branch": "master",
-      "revision": "afa935a2871e55c7f913c8bc7cc3c1d9c405fe02"
+      "revision": "d86cdc9df4e0b169d29aadda283ffbfe50a04983"
     },
     "perl-spiffy": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-spiffy.git",
