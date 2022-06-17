@@ -5119,7 +5119,7 @@
     "python-reportlab": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-reportlab.git",
       "branch": "master",
-      "revision": "938ea312152944840e8d650646b3c98dc7e41629"
+      "revision": "4001bf007796d4e6b7aa2a5c1bc9ccd730792e4f"
     },
     "python-repoze.lru": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-repoze.lru.git",
