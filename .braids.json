@@ -3464,7 +3464,7 @@
     "python-locket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-locket.git",
       "branch": "master",
-      "revision": "d980e72e5fe1e43ad3e29b04cc506f59897f0643"
+      "revision": "2e321e08c8392568e5e1fc4282b40cf1040b1905"
     },
     "python-lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lockfile.git",
