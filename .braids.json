@@ -414,7 +414,7 @@
     "perl-file-remove": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-remove.git",
       "branch": "master",
-      "revision": "861a363720cade96ba44797014fa881104654e20"
+      "revision": "6e99a1b4960878c0a570eac89446e2b11fdd4f30"
     },
     "perl-file-sharedir": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-sharedir.git",
