@@ -1314,7 +1314,7 @@
     "perl-type-tiny": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-type-tiny.git",
       "branch": "master",
-      "revision": "efacb4ba1d33abd36084adc7b499e0c7235690b0"
+      "revision": "6cb4b44794680de22420cb6614333ed3591140f6"
     },
     "perl-types-serialiser": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-types-serialiser.git",
