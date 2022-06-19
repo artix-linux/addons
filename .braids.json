@@ -5681,6 +5681,11 @@
       "branch": "master",
       "revision": "9fc4dfd671fc98357852d9019234fd7b274d8068"
     },
+    "python-stone": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-stone.git",
+      "branch": "master",
+      "revision": "ee341b98ee90dc39ae3f1cc42f638be3ba8feddd"
+    },
     "python-strict-rfc3339": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-strict-rfc3339.git",
       "branch": "master",
