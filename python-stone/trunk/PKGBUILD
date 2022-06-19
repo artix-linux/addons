@@ -1,0 +1,36 @@
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
+
+pkgname=python-stone
+_name=${pkgname#python-}
+pkgver=3.3.1
+pkgrel=1
+pkgdesc='The Official API Spec Language for Dropbox API V2'
+arch=(any)
+url='https://github.com/dropbox/stone'
+license=(MIT)
+depends=(python python-ply python-six)
+makedepends=(python-setuptools python-pytest-runner)
+checkdepends=(python-mock python-coverage)
+source=(https://github.com/dropbox/stone/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
+sha256sums=('dc5aff3fad1333188d4ddb4eee0a19d31e6262bb3cdf10c0bbdaeb309ff91a52')
+
+prepare() {
+  sed -e 's|== 5\.2\.0|>= 5.2.0|' -i $_name-$pkgver/setup.py # Unpin pytest-runner version
+}
+
+build() {
+  cd $_name-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd $_name-$pkgver
+  pytest
+}
+
+package() {
+  cd $_name-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+
+  install -Dm644 LICENSE -t "$pkgdir/usr/share/licenses/$pkgname"
+}
