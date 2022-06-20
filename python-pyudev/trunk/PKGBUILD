@@ -7,12 +7,12 @@
 _pkgname=pyudev
 pkgname=python-$_pkgname
 pkgver=0.22
-pkgrel=7
+pkgrel=7.1
 arch=('any')
 url='https://github.com/pyudev/pyudev'
 license=('LGPL')
 pkgdesc='Python bindings to libudev'
-depends=('python-six' 'systemd')
+depends=('python-six' 'udev')
 makedepends=('python-setuptools' 'python-sphinx' 'python-mock')
 checkdepends=('python-pytest-runner' 'python-docutils' 'python-mock' 'python-hypothesis')
 optdepends=('python-pyqt5: PyQt integration'
