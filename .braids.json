@@ -5549,7 +5549,7 @@
     "python-sphinx-furo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-furo.git",
       "branch": "master",
-      "revision": "ece1a3511e609d6787f7cd98c0aeffd930865d52"
+      "revision": "fc36caef1f1c3cdb8e88a39b1ac294f08e3cdd9d"
     },
     "python-sphinx-inline-tabs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-inline-tabs.git",
