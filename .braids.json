@@ -2184,7 +2184,7 @@
     "python-dask": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dask.git",
       "branch": "master",
-      "revision": "240cac7c7ada9083de4e3bc50ad0c542d60e6e7a"
+      "revision": "d1ce29163db7579387f10c9c2b05a77cc8164a52"
     },
     "python-dateutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dateutil.git",
