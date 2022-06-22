@@ -2779,7 +2779,7 @@
     "python-genshi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-genshi.git",
       "branch": "master",
-      "revision": "3c0017fc27f840bc7a35f1a0a86f142a0f41e652"
+      "revision": "2f11d13aa01b0f9d6caa6e50a4523c9799dc1513"
     },
     "python-genty": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-genty.git",
