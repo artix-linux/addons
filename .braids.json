@@ -4574,7 +4574,7 @@
     "python-pymupdf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymupdf.git",
       "branch": "master",
-      "revision": "484d6d66e50c0cad4963bc7f5bc7ae44e23a3b57"
+      "revision": "9b8f4a7fb150439abccaaa219056e799c6fc77fe"
     },
     "python-pynacl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynacl.git",
