@@ -2589,7 +2589,7 @@
     "python-fido2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fido2.git",
       "branch": "master",
-      "revision": "ec8cce2774aecac8c440ff0f558b00300d4ff27a"
+      "revision": "b3e0bc440f95d337aa26573af2b1055828093de7"
     },
     "python-fields": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fields.git",
