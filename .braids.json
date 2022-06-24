@@ -3774,7 +3774,7 @@
     "python-netifaces": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-netifaces.git",
       "branch": "master",
-      "revision": "b6cdeba42468d6c5dc374796f0f75d6de7887792"
+      "revision": "9253b9334fa92365da8d6b3439c361b7ad27dccd"
     },
     "python-networkx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-networkx.git",
