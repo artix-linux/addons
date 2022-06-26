@@ -6019,7 +6019,7 @@
     "python-uncertainties": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uncertainties.git",
       "branch": "master",
-      "revision": "6aca866fd63145ed7ce7222e111d52d1183e7c9f"
+      "revision": "fe65a6a4c1707c029c68a0dbe22ce4f88b86ac33"
     },
     "python-unicodedata2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unicodedata2.git",
