@@ -1,0 +1,29 @@
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
+
+pkgname=python-funcparserlib
+pkgver=1.0.0a0
+pkgrel=1
+pkgdesc="Recursive descent parsing library based on functional combinators"
+url="https://github.com/vlasovskikh/funcparserlib"
+license=('MIT')
+arch=('any')
+depends=('python')
+makedepends=('python-build' 'python-installer' 'python-poetry')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/vlasovskikh/funcparserlib/archive/$pkgver.tar.gz")
+sha512sums=('02cac31d76bb888118a99367811a8cfac28a999ba113ce43f4bd6211cef815ce1793fc1767637dd019728f15d5c408e859d5bc8365a2c53804092f1d6f03e54e')
+
+build() {
+  cd funcparserlib-$pkgver
+  python -m build -nw
+}
+
+check() {
+  cd funcparserlib-$pkgver
+  python -m unittest discover
+}
+
+package() {
+  cd funcparserlib-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
