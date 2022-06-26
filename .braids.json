@@ -1611,6 +1611,11 @@
       "branch": "master",
       "revision": "5b8433d730d73d05f6834007292096be857cd907"
     },
+    "python-astor": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-astor.git",
+      "branch": "master",
+      "revision": "9c73876778ad7619e4c9161941d765ca34333b67"
+    },
     "python-astroid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-astroid.git",
       "branch": "master",
