@@ -1,8 +1,8 @@
-# Maintainer: Jonathan Steel <jsteel at archlinux.org>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Contributor: Chris Severance aur.severach AatT spamgourmet.com
 
 pkgname=python-s3transfer
-pkgver=0.5.2
+pkgver=0.6.0
 pkgrel=1
 pkgdesc='Amazon S3 Transfer Manager for Python'
 arch=('any')
@@ -10,18 +10,12 @@ url="https://github.com/boto/s3transfer"
 license=('Apache')
 depends=('python-botocore')
 makedepends=('python-setuptools')
-checkdepends=('python-pytest')
 source=($pkgname-$pkgver.tar.gz::$url/archive/$pkgver.tar.gz)
-b2sums=('50be228174eda51035c19ffe5d2f84ddd4c2b6e469e41fd00c2bdc844a52897cc43f443c33f7b3e9e577c5684d5c3533de3430c09079b8da3fe91016c744148f')
+md5sums=('34f27897a2794e669a199184318fd570')
 
 build() {
   cd s3transfer-$pkgver
   python setup.py build
-}
-
-check() {
-  cd s3transfer-$pkgver
-  PYTHONPATH="$PWD/build/lib" python scripts/ci/run-tests
 }
 
 package() {
