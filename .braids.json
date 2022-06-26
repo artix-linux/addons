@@ -3634,7 +3634,7 @@
     "python-memory-profiler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-memory-profiler.git",
       "branch": "master",
-      "revision": "5cc44f05c9f7c944f587bf69c005265362a0dbcf"
+      "revision": "d4bfe95010f29716d2de41fb4d1f3e8c04c6eaba"
     },
     "python-milksnake": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-milksnake.git",
