@@ -6844,7 +6844,7 @@
     "ruby-power_assert": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-power_assert.git",
       "branch": "master",
-      "revision": "720b452aa662040b6e8fb63991cbe3b1c43cba0a"
+      "revision": "ef6b6d53f2162ad57947b6f6dd47a76ad86e0f7d"
     },
     "ruby-psych": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-psych.git",
