@@ -6739,7 +6739,7 @@
     "ruby-metaclass": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-metaclass.git",
       "branch": "master",
-      "revision": "8173c2aa9d95a836976384f4d0b663df6f8e779e"
+      "revision": "0266870f2a066112131fc3cdcd00f6a685befd61"
     },
     "ruby-mini_portile": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mini_portile.git",
