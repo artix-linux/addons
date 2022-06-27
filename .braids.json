@@ -6859,7 +6859,7 @@
     "ruby-puppet-resource_api": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-puppet-resource_api.git",
       "branch": "master",
-      "revision": "a2707d39d6202eefeb2f8c04fe41fe622d13f0fb"
+      "revision": "2428371660e9d208b69087e3f26387ddedd608a5"
     },
     "ruby-rack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rack.git",
