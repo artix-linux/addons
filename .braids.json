@@ -6686,6 +6686,11 @@
       "branch": "master",
       "revision": "1d1a76368b22f3b74fba4e53b123832e32980ef0"
     },
+    "ruby-introspection": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-introspection.git",
+      "branch": "master",
+      "revision": "71cbe7a2d5e1ff30a34b256ad0589319ad6069dd"
+    },
     "ruby-irb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-irb.git",
       "branch": "master",
