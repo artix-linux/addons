@@ -6689,7 +6689,7 @@
     "ruby-introspection": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-introspection.git",
       "branch": "master",
-      "revision": "71cbe7a2d5e1ff30a34b256ad0589319ad6069dd"
+      "revision": "417592491b7042aa44eadc7f26ceada5c9d397c9"
     },
     "ruby-irb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-irb.git",
