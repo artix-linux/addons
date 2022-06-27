@@ -6769,7 +6769,7 @@
     "ruby-mocha": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mocha.git",
       "branch": "master",
-      "revision": "e50aed39260bf66b79e1905eb08661f160d398e5"
+      "revision": "d6f3e24c6067beb16fa06c1744ece69c8c766811"
     },
     "ruby-multi_json": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-multi_json.git",
