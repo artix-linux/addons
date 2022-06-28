@@ -1684,7 +1684,7 @@
     "python-autopage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autopage.git",
       "branch": "master",
-      "revision": "b592b85861c518deefd4c539e7e96d0cf713b66e"
+      "revision": "227bc05cddd9a0670507fd5db02098c971234332"
     },
     "python-aws-sam-translator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aws-sam-translator.git",
