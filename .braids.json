@@ -1866,6 +1866,11 @@
       "branch": "master",
       "revision": "c1e719d36b3ccdf27d11450712477b78426d9b1f"
     },
+    "python-cachelib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachelib.git",
+      "branch": "master",
+      "revision": "f6958fff4087d5b7a31664cc8b581679b82c73a3"
+    },
     "python-cachetools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachetools.git",
       "branch": "master",
