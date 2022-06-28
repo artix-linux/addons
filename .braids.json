@@ -2469,7 +2469,7 @@
     "python-elasticsearch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-elasticsearch.git",
       "branch": "master",
-      "revision": "3f94f4c3a57069b071421f085775f0fc6c00852d"
+      "revision": "72f9f0a06a40d41e588dbbaf22ddbdb63a2f1fe6"
     },
     "python-elementpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-elementpath.git",
