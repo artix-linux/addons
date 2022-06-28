@@ -1664,7 +1664,7 @@
     "python-authlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authlib.git",
       "branch": "master",
-      "revision": "7c6b6d9a12713b9c64fee56aca45a2250ddab3c8"
+      "revision": "18817fc6cf33a83e34632f5a72b9934355401786"
     },
     "python-autobahn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autobahn.git",
