@@ -111,6 +111,7 @@ check() {
     --deselect tests/unit/test_direct_url_helpers.py::test_from_link_vcs_with_source_dir_obtains_commit_id
     --deselect tests/unit/test_direct_url_helpers.py::test_from_link_vcs_without_source_dir
     --deselect tests/unit/test_wheel_builder.py::test_should_cache_git_sha
+    --deselect tests/unit/resolution_resolvelib/test_requirement.py::test_new_resolver_full_resolve
   )
 
   cd $_name-$pkgver
