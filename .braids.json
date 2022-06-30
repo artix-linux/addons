@@ -3119,7 +3119,7 @@
     "python-ini2toml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ini2toml.git",
       "branch": "master",
-      "revision": "f6afb7c1a6a0c04177979838b997b5995cbb1e01"
+      "revision": "a82b98ee4838bac3ef7736d0cc2f5fd9d12aebf3"
     },
     "python-iniconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iniconfig.git",
