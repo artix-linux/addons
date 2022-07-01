@@ -4546,6 +4546,11 @@
       "branch": "master",
       "revision": "7be128601cb217671e6188fad964d4b9e8c2d44b"
     },
+    "python-pyhcl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyhcl.git",
+      "branch": "master",
+      "revision": "66231cc04d92648e264a4d37716568e1295fdcb3"
+    },
     "python-pyicu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyicu.git",
       "branch": "master",
