@@ -5969,7 +5969,7 @@
     "python-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trio.git",
       "branch": "master",
-      "revision": "936aa2786a140a21aa6ba485e7f0c9bf4cd971d3"
+      "revision": "90e1b1a5a575e2447f13f26945334a0c94f05654"
     },
     "python-trio-asyncio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trio-asyncio.git",
