@@ -17,6 +17,7 @@ depends=(
 makedepends=(
   'git'
   'python-setuptools'
+  'python-setuptools-scm'
   'python-wheel'
   'python-pip'
 )
