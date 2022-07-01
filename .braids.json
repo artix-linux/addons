@@ -6009,7 +6009,7 @@
     "python-txrequests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txrequests.git",
       "branch": "master",
-      "revision": "3d9e54355fcc4ffcd955ece2ff52f094b0d16b9a"
+      "revision": "8f985820f6513b44d452ab74d996b9b455ed31bb"
     },
     "python-txtorcon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txtorcon.git",
