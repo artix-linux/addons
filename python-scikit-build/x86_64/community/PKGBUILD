@@ -28,9 +28,8 @@ checkdepends=(
     python-virtualenv
 )
 _tag=7da7674cc98f22579fb6b077fdfff09ca48536d9 # git rev-parse ${pkgver}
-source=(git+https://github.com/scikit-build/scikit-build.git#tag=${_tag}?signed)
-sha256sums=(SKIP)
-validpgpkeys=(2FDEC9863E5E14C7BC429F27B9D0E45146A241E8) # Henry Schreiner <hschrein@cern.ch>
+source=(git+https://github.com/scikit-build/scikit-build.git#tag=${_tag})
+sha256sums=('SKIP')
 
 build() {
   cd scikit-build
