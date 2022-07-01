@@ -5619,7 +5619,7 @@
     "python-sphinx-jinja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-jinja.git",
       "branch": "master",
-      "revision": "469556be1749434e15f321ce9eefc109c8be6748"
+      "revision": "22d0c62c3f322e675b331b8c3b6860c8aa39304e"
     },
     "python-sphinx-reredirects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-reredirects.git",
