@@ -6104,7 +6104,7 @@
     "python-unidiff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unidiff.git",
       "branch": "master",
-      "revision": "9ebf8857f920f9ec03e0e17e49031a870a6b837f"
+      "revision": "744cf090e3accc5205e2248ea99f6b7a13453cd0"
     },
     "python-unittest-mixins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unittest-mixins.git",
