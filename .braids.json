@@ -6369,7 +6369,7 @@
     "python-xmltodict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmltodict.git",
       "branch": "master",
-      "revision": "12aecd143d02c140902ab9c0821f5cd6e4eb2b29"
+      "revision": "5f0da24ef34781e8db9d51b32ebfce7bbd955fa6"
     },
     "python-xxhash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xxhash.git",
