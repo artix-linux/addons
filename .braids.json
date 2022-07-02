@@ -2894,7 +2894,7 @@
     "python-graphene": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphene.git",
       "branch": "master",
-      "revision": "b408ba7a1178296f18dcfdfec3d03d673a675150"
+      "revision": "4f15aa82f6248e86ba67db7cb09a0c87706a7519"
     },
     "python-graphql-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphql-core.git",
