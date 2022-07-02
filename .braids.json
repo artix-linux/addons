@@ -4634,7 +4634,7 @@
     "python-pymysql": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymysql.git",
       "branch": "master",
-      "revision": "ae163a56c936e5cf24b9d645f382215ca1d34be6"
+      "revision": "bca4cca8e24eb76bdc8d5fb93f455ba3a8ecfa83"
     },
     "python-pynacl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynacl.git",
