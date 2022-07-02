@@ -19,23 +19,23 @@ makedepends=(
   python-setuptools
 )
 _tag=5475a7ad1ff982b973f4c8c2a4507020c8682e15
-source=(git+https://github.com/graphql-python/graphene.git#tag=${_tag})
+source=(python-graphene::git+https://github.com/graphql-python/graphene.git#tag=${_tag})
 sha512sums=(SKIP)
 
 pkgver() {
-  cd graphene
+  cd "$pkgname"
 
   git describe --tags | sed 's/^v//'
 }
 
 build() {
-  cd graphene
+  cd "$pkgname"
 
   python setup.py build
 }
 
 package() {
-  cd graphene
+  cd "$pkgname"
 
   python setup.py install --root="${pkgdir}" --optimize=1 --skip-build
   install -Dm 644 LICENSE -t "${pkgdir}"/usr/share/licenses/python-graphene
