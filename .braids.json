@@ -5089,7 +5089,7 @@
     "python-pywayland": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywayland.git",
       "branch": "master",
-      "revision": "506352a9bdd88ec1e04284ef1d1fd32ac2299d96"
+      "revision": "2dd56c20849b45e88d56ce306c344ab54e464d99"
     },
     "python-pywlroots": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywlroots.git",
