@@ -3639,7 +3639,7 @@
     "python-mechanize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mechanize.git",
       "branch": "master",
-      "revision": "f2eb30913e734801d598772e6a7982e21a8af583"
+      "revision": "595c5cc8dc542fb28e0aea145bc7885c3107e0fd"
     },
     "python-mediafile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mediafile.git",
