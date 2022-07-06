@@ -6999,7 +6999,7 @@
     "ruby-ronn-ng": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ronn-ng.git",
       "branch": "master",
-      "revision": "09d26ccdb4a5273f19d97bb2676831eca79a9101"
+      "revision": "dcbfc0ca74a2d9bdd5070d359d65bc751da9371e"
     },
     "ruby-rr": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rr.git",
