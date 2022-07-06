@@ -2744,7 +2744,7 @@
     "python-fonttools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fonttools.git",
       "branch": "master",
-      "revision": "5dd4a1359e19884e779745cf97a7c9a425b2a43d"
+      "revision": "63d696cad9e4114aab4babaae92421cf3196e60a"
     },
     "python-freezegun": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-freezegun.git",
