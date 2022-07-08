@@ -3269,7 +3269,7 @@
     "python-jinja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jinja.git",
       "branch": "master",
-      "revision": "333df9b7519b699cba76eb5474a113d55c0308eb"
+      "revision": "4e4254eadc76dbc221c2a9c936da35844fd0c45c"
     },
     "python-jmespath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jmespath.git",
