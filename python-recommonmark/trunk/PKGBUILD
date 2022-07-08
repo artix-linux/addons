@@ -1,11 +1,11 @@
-# Maintainer: Evangelos Foutras <evangelos@foutrelis.com>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Contributor: Caleb Maclennan <caleb@alerque.com>
 # Contributor: Levente Polyak <anthraxx[at]archlinux[dot]org>
 
 _name=recommonmark
 pkgname=python-$_name
 pkgver=0.7.1
-pkgrel=4
+pkgrel=5
 pkgdesc='Markdown parser for docutils'
 arch=('any')
 url="https://recommonmark.readthedocs.io/"
@@ -31,7 +31,7 @@ build() {
 
 check() {
   cd $_name-$pkgver
-  pytest --deselect tests/test_sphinx.py
+  PYTHONDONTWRITEBYTECODE=1 pytest --deselect tests/test_sphinx.py
 }
 
 package() {
