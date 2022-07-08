@@ -27,7 +27,7 @@ package() {
 
 check() {
   cd "${pkgbase}-${pkgver}"
-  pytest -k 'not test_integration_with_listener_ipv6' tests
+  pytest -k 'not test_integration_with_listener_ipv6 and not test_service_browser_expire_callbacks' tests
 }
 
 # vim:set ts=2 sw=2 et:
