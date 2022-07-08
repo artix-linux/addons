@@ -6419,7 +6419,7 @@
     "python-zeroconf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zeroconf.git",
       "branch": "master",
-      "revision": "7b21c3bcd0e28d5e5d603477335039c0418cc29f"
+      "revision": "d0390c586c722745b523f2c815703b14a1760edf"
     },
     "python-zict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zict.git",
