@@ -2219,7 +2219,7 @@
     "python-dbusmock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbusmock.git",
       "branch": "master",
-      "revision": "98c087d8a2bad0aad2a09bde4ec03893479d660f"
+      "revision": "994646e4a6a33d64d9ab34584c833e5f6182e778"
     },
     "python-ddt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ddt.git",
