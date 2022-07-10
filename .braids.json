@@ -259,7 +259,7 @@
     "perl-devel-checklib": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-devel-checklib.git",
       "branch": "master",
-      "revision": "a24ded95e31a55fb50db6c7a3c65e6757394f71b"
+      "revision": "3d89b7e86ec95274f66276e01094f9ed02b02062"
     },
     "perl-devel-cycle": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-devel-cycle.git",
