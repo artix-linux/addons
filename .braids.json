@@ -434,7 +434,7 @@
     "perl-file-slurper": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-slurper.git",
       "branch": "master",
-      "revision": "e72d21a4673bd61a78090271392796974ca5af92"
+      "revision": "fb44b775cbcb966477353900b9cb9d6c90f92f8c"
     },
     "perl-file-tail": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-tail.git",
