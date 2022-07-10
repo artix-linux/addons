@@ -1329,7 +1329,7 @@
     "perl-uri": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-uri.git",
       "branch": "master",
-      "revision": "54e8c6efe9cbc6cb9d5e23f98f0e2de988bbca2c"
+      "revision": "657bd19e6d243ea00203f43e96a3e4cb13954ccf"
     },
     "perl-user-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-user-identity.git",
