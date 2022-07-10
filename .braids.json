@@ -189,7 +189,7 @@
     "perl-crypt-ssleay": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-ssleay.git",
       "branch": "master",
-      "revision": "5c48bdae63d7ef5472e838ce1150ea2ea6ad8fc3"
+      "revision": "13629010aab01de533e7b5209511c6f296515f9e"
     },
     "perl-cwd-guard": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cwd-guard.git",
