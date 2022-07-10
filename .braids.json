@@ -4154,7 +4154,7 @@
     "python-pendulum": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pendulum.git",
       "branch": "master",
-      "revision": "e0f6f5d438e2864c00a07c29824292919adf4a7a"
+      "revision": "eee6bfa2dddd01acd22bd1b169bf125e33389d97"
     },
     "python-pep517": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep517.git",
