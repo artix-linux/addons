@@ -546,6 +546,11 @@
       "branch": "master",
       "revision": "c78cce7eb8a2c54ec629cd02c46a16cf86aadddf"
     },
+    "perl-io-compress-brotli": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-compress-brotli.git",
+      "branch": "master",
+      "revision": "02c708206a57bf91d50d0d5693b492281da848fb"
+    },
     "perl-io-dirent": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-dirent.git",
       "branch": "master",
