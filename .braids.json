@@ -674,7 +674,7 @@
     "perl-lwp-protocol-https": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-lwp-protocol-https.git",
       "branch": "master",
-      "revision": "b7674e9a7eb03b031d528f50411f94a06c065c14"
+      "revision": "4bfb524169f6e8ff78a6d2b366d62b9f621f18e8"
     },
     "perl-mail-authenticationresults": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-authenticationresults.git",
