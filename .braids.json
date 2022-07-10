@@ -781,6 +781,11 @@
       "branch": "master",
       "revision": "0b1e819b49c2813a608352ebbefbe978e0509c30"
     },
+    "perl-mozilla-ca": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mozilla-ca.git",
+      "branch": "master",
+      "revision": "9a438699f15dac1986244d99a1ea00cbc50b9574"
+    },
     "perl-mro-compat": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mro-compat.git",
       "branch": "master",
