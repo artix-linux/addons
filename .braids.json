@@ -5139,7 +5139,7 @@
     "python-pyzmq": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyzmq.git",
       "branch": "master",
-      "revision": "4cef12b9be4dd4e1a4fcd75f6485948024e0d76c"
+      "revision": "7d4cb90bcb2a2998c57604077720109cfb3f1023"
     },
     "python-qdarkstyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-qdarkstyle.git",
