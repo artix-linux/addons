@@ -17,7 +17,7 @@ url='https://www.wxpython.org'
 depends=('wxwidgets-gtk3' 'python-six')
 optdepends=('python-pypubsub: Alternative to the deprecated wx.lib.pubsub API')
 makedepends=('mesa' 'glu' 'webkit2gtk' 'python-requests' 'python-setuptools' 'sip' 'doxygen' 'waf')
-checkdepends=('xorg-server-xvfb' 'python-pytest-forked' 'python-numpy')
+# checkdepends=('xorg-server-xvfb' 'python-pytest-forked' 'python-numpy')
 source=("https://files.pythonhosted.org/packages/source/w/wxPython/wxPython-$pkgver.tar.gz"
          https://github.com/wxWidgets/wxWidgets/releases/download/v$_wxver/wxWidgets-$_wxver.tar.bz2
          sip-5.patch
@@ -57,12 +57,12 @@ build() {
   python build.py dox etg --nodoc sip build --use_syswx --release
 }
 
-check() {
-  cd $_pkgname-$pkgver
-
+# check() {
+  # cd $_pkgname-$pkgver
+#
   # there are segfaulting tests so --forked ensures we get sensible results
-  PYTHONPATH=$PWD xvfb-run pytest --forked unittests || echo "==> WARNING: tests usually fail randomly"
-}
+  # PYTHONPATH=$PWD xvfb-run pytest --forked unittests || echo "==> WARNING: tests usually fail randomly"
+# }
 
 package() {
   cd $_pkgname-$pkgver
