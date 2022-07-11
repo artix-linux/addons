@@ -6359,7 +6359,7 @@
     "python-wxpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wxpython.git",
       "branch": "master",
-      "revision": "d228237b7f8c52c1c1c529fdaa2f889dd6205c5f"
+      "revision": "45d05acc07e6a8757f731493614de419b5e1abe8"
     },
     "python-xapp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xapp.git",
