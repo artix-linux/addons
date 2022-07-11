@@ -3689,7 +3689,7 @@
     "python-mistune": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mistune.git",
       "branch": "master",
-      "revision": "84d703ef16a8eab6990df9cdaa44d3af84335ed3"
+      "revision": "59b107d22bae1163be696d1f30600d8668701b90"
     },
     "python-mistune1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mistune1.git",
