@@ -3139,7 +3139,7 @@
     "python-inflect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-inflect.git",
       "branch": "master",
-      "revision": "416ba403f7eed6d887dcded2698842431a5f6de6"
+      "revision": "0a3d767bfa0cefa6b2ccd8ba6e821af5df6b2a45"
     },
     "python-ini2toml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ini2toml.git",
