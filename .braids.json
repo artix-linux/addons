@@ -5759,7 +5759,7 @@
     "python-sqlalchemy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlalchemy.git",
       "branch": "master",
-      "revision": "e6c76d7482bc6e3eabf54091d57643510f1aa172"
+      "revision": "643d6dfc07c27ac9257c8a45f095c0767b2bcd6f"
     },
     "python-sqlalchemy-migrate": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlalchemy-migrate.git",
