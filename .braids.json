@@ -5979,7 +5979,7 @@
     "python-toolz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-toolz.git",
       "branch": "master",
-      "revision": "c92abe6a3c7dc4aea67fd2051d5ebc906d1722a2"
+      "revision": "f1a7ab60e9f3102271b5e71279ef90522cb3acfc"
     },
     "python-toposort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-toposort.git",
