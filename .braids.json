@@ -1524,7 +1524,7 @@
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
-      "revision": "38a8fc497f34076157ee9ddadc4004ab4009d652"
+      "revision": "7e26e1c97d7b894fe264d6422b57f2db2b4d6a5f"
     },
     "python-ansicolors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansicolors.git",
