@@ -1501,6 +1501,11 @@
       "branch": "master",
       "revision": "df40ea8ff9b043a9aa26f18365cc84638890830f"
     },
+    "python-aiosqlite": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosqlite.git",
+      "branch": "master",
+      "revision": "a410a01242b097d4776b7564cadb458730007be6"
+    },
     "python-aiounittest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiounittest.git",
       "branch": "master",
