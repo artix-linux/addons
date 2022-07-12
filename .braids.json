@@ -4324,7 +4324,7 @@
     "python-pre-commit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pre-commit.git",
       "branch": "master",
-      "revision": "a04474837f1435586598b354e60efc7a86c6e893"
+      "revision": "52ac9e2664e6be219738157407ccf8991eed764c"
     },
     "python-precis_i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-precis_i18n.git",
