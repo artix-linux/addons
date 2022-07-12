@@ -2234,7 +2234,7 @@
     "python-databases": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-databases.git",
       "branch": "master",
-      "revision": "784d102c19484a0fe941eef0eae1b286befa2652"
+      "revision": "2282ebf896bd9cbb9eb7a8f94ad4cfcf9ab6414c"
     },
     "python-dateutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dateutil.git",
