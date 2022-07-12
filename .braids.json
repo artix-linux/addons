@@ -1676,6 +1676,11 @@
       "branch": "master",
       "revision": "489a26cf24fe657d173202d1a4b010dba4912344"
     },
+    "python-asyncpg": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-asyncpg.git",
+      "branch": "master",
+      "revision": "27f1ad5552b0fd8aea017c94b25e84c5e9e3d203"
+    },
     "python-asynctest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asynctest.git",
       "branch": "master",
