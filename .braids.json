@@ -3609,7 +3609,7 @@
     "python-magic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic.git",
       "branch": "master",
-      "revision": "537a7eff4203f1b26ef14f0dffb67b7f2bb620f7"
+      "revision": "c88fc985bd008719c9275445f3e53b6af2f98f6a"
     },
     "python-magic-wormhole-mailbox-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic-wormhole-mailbox-server.git",
