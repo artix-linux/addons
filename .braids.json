@@ -2229,7 +2229,7 @@
     "python-cytoolz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cytoolz.git",
       "branch": "master",
-      "revision": "4c15079479dc35f5a8fdbb9841177f494c10b783"
+      "revision": "d826c7f9c679bdc2ca92c103a4f2f8c972da33eb"
     },
     "python-daemonize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-daemonize.git",
