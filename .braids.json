@@ -1469,7 +1469,7 @@
     "python-aiohttp-openmetrics": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-openmetrics.git",
       "branch": "master",
-      "revision": "56ff82bf50606b501cb6bf2c9a4ec368a22441a7"
+      "revision": "f077b86aa8d1eca3fb747fd80119755fc83af58b"
     },
     "python-aiohttp-socks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-socks.git",
