@@ -1,0 +1,25 @@
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
+
+_name=aiohttp-openmetrics
+pkgname=python-aiohttp-openmetrics
+pkgver=0.0.6
+pkgrel=1
+pkgdesc='OpenMetrics provider for aiohttp'
+arch=('any')
+url=https://github.com/jelmer/aiohttp-openmetrics
+license=('Apache')
+depends=('python-aiohttp' 'python-prometheus_client')
+makedepends=('python-setuptools')
+source=("https://files.pythonhosted.org/packages/source/${_name::1}/$_name/$_name-$pkgver.tar.gz")
+sha256sums=('799264e4f2c1ea32f18597f220f156032cd41a5f1eb6bf2c2d60ab4d5f3de0d7')
+b2sums=('32058d25b91ff20d90a5575be40a2e8d05498e124bf643b2e0ada876481c242c0ee76ac51148739ab4576d999968aa527ed053ec57dca73c29386e11a8244f3f')
+
+build() {
+  cd $_name-$pkgver
+  python setup.py build
+}
+
+package() {
+  cd $_name-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+}
