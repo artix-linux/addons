@@ -1,0 +1,21 @@
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Contributor: crab2313 <crab2313@gmail.com>
+
+pkgname=python-gitlab
+pkgver=3.6.0
+pkgrel=1
+pkgdesc="Python wrapper for the GitLab API"
+arch=('any')
+url="https://github.com/python-gitlab/python-gitlab"
+license=('LGPL3')
+depends=('python' 'python-requests' 'python-six' 'python-requests-toolbelt')
+makedepends=('python-setuptools')
+source=($pkgname-$pkgver.tar.gz::https://github.com/python-gitlab/python-gitlab/archive/v${pkgver}.tar.gz)
+sha512sums=('c28b211bc63cbb3eee1df250fdadce0d7ed076dfe46cdc27f8eb1214275a43fa7bd8c261a37892ea0246cf7b0dcfb9cd453ff82a0b25e0b9e8860acbf7c4dd7c')
+
+package() {
+  cd "$srcdir/$pkgname-$pkgver"
+  python setup.py install --root="$pkgdir/" --optimize=1
+  # Tests get installed into the package for some reason
+  rm -rf "$pkgdir/usr/lib/python3.10/site-packages/tests"
+}
