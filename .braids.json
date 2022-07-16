@@ -6279,7 +6279,7 @@
     "python-voluptuous": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-voluptuous.git",
       "branch": "master",
-      "revision": "6ac7952a7820209580fc6ca7c27e8726327b7539"
+      "revision": "f0aae95940b895f74171c60135c4947eb34a0262"
     },
     "python-waitress": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-waitress.git",
