@@ -6394,7 +6394,7 @@
     "python-wxpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wxpython.git",
       "branch": "master",
-      "revision": "68fd19c3cc630b9c203bbec1a54ac94e67641072"
+      "revision": "2c60fd9952b4aed017bee920806b26f8aad4248a"
     },
     "python-xapp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xapp.git",
