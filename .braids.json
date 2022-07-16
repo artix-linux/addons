@@ -1254,7 +1254,7 @@
     "perl-test-utf8": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-utf8.git",
       "branch": "master",
-      "revision": "966a2dfb6eb88bb5849512604ad36c9c3210b60f"
+      "revision": "fc0fc11df02d3029b23e0cad10a38215a3dbd9a9"
     },
     "perl-test-warn": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-warn.git",
