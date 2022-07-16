@@ -2674,7 +2674,7 @@
     "python-filelock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-filelock.git",
       "branch": "master",
-      "revision": "7ab90c162e577044a84f490963e3e402abcafe35"
+      "revision": "ee83049ffb8494896697e3c1d5f6b266dd659525"
     },
     "python-fire": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fire.git",
