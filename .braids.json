@@ -5711,6 +5711,11 @@
       "branch": "master",
       "revision": "62eea1e59779318aa882acd2f86bbf8c0f4cfdd8"
     },
+    "python-sphinx-lv2-theme": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-lv2-theme.git",
+      "branch": "master",
+      "revision": "bb1a7758e0f6a5d9709830582c993d42824f7ad4"
+    },
     "python-sphinx-reredirects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-reredirects.git",
       "branch": "master",
