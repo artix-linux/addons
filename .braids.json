@@ -7209,7 +7209,7 @@
     "ruby-tzinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tzinfo.git",
       "branch": "master",
-      "revision": "fcc73a7f55492f2c7a453034d44370c6d1d820bf"
+      "revision": "128e4668ca13e4ca8c8ec9397a548d4f6b47ba74"
     },
     "ruby-unf": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-unf.git",
