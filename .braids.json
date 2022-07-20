@@ -3649,7 +3649,7 @@
     "python-markdown": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-markdown.git",
       "branch": "master",
-      "revision": "bfe24d3663c74f16b4d2324ba6c785614b0bc2fd"
+      "revision": "f8ad25d83fcbc576d989d86c8cb268c581b750cb"
     },
     "python-markdown-it-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-markdown-it-py.git",
