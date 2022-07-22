@@ -2244,7 +2244,7 @@
     "python-daiquiri": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-daiquiri.git",
       "branch": "master",
-      "revision": "06176dafcc76c63f9ea0873c6ac4b484c3799f79"
+      "revision": "3469f4913702a8b12a5b09e06822000d4e6ae9a6"
     },
     "python-dask": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dask.git",
