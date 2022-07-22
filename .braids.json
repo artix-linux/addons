@@ -2539,7 +2539,7 @@
     "python-email-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-email-validator.git",
       "branch": "master",
-      "revision": "6629e93121d4deec71154bfaaee2c1329466feff"
+      "revision": "984eba3cf34b41e673d1c2d49878aa84ce199c8a"
     },
     "python-engineio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-engineio.git",
