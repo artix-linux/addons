@@ -1669,7 +1669,7 @@
     "python-astunparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-astunparse.git",
       "branch": "master",
-      "revision": "7b5c11deb18d12e5628cfbc046ae4a9a60e25024"
+      "revision": "d8a82fc215987efb58d16dfcb9144cd461fc8000"
     },
     "python-async-timeout": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-async-timeout.git",
