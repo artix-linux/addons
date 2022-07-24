@@ -6294,7 +6294,7 @@
     "python-wand": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wand.git",
       "branch": "master",
-      "revision": "f6f8e0543652f3dd6d66f98c6f35f5aa44eceeef"
+      "revision": "0538db4c5498112d075b377d07a24a599d59195f"
     },
     "python-warlock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-warlock.git",
