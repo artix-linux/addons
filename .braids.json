@@ -5459,7 +5459,7 @@
     "python-secretstorage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-secretstorage.git",
       "branch": "master",
-      "revision": "f94022d49520db154f934f7dbab61dc4878311ef"
+      "revision": "19f209d180a3e8ae726648a2847b4149d2928502"
     },
     "python-semantic-version": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-semantic-version.git",
