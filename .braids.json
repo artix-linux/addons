@@ -1834,7 +1834,7 @@
     "python-bleach": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bleach.git",
       "branch": "master",
-      "revision": "c8372a436ab49e3b853ae8fc9a7bb2ab602349f5"
+      "revision": "0f5be711954b73c6b25f1b962c13fbdc2106e583"
     },
     "python-blinker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-blinker.git",
