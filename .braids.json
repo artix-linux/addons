@@ -2049,7 +2049,7 @@
     "python-click-didyoumean": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-didyoumean.git",
       "branch": "master",
-      "revision": "063618aa72c11ab757c6b72ec50570312c3cef99"
+      "revision": "a33a8ff11762576af295eea51d4cd6cf8247b5a0"
     },
     "python-click-option-group": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-option-group.git",
