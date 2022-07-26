@@ -7104,7 +7104,7 @@
     "ruby-rspec-expectations": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-expectations.git",
       "branch": "master",
-      "revision": "2dec236b83bbb5a8b5a69565493d8acfd3579b05"
+      "revision": "7b19e0d3015949ea7c296c7c5f46ba746fb6dc00"
     },
     "ruby-rspec-its": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-its.git",
