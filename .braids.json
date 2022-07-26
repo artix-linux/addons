@@ -7114,7 +7114,7 @@
     "ruby-rspec-mocks": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-mocks.git",
       "branch": "master",
-      "revision": "17f213285bf1cf1512c63a39b1520e40b723ef34"
+      "revision": "2097bcbe9011fb0fe0bf3029fd009fcaf034dae4"
     },
     "ruby-rspec-support": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-support.git",
