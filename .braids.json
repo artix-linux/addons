@@ -7099,7 +7099,7 @@
     "ruby-rspec-core": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-core.git",
       "branch": "master",
-      "revision": "919b1e76c0e3e9ceb3c02bb2bf8cffd7a61a4009"
+      "revision": "45a494467002463f2f5cac57c21de514b8e900e7"
     },
     "ruby-rspec-expectations": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-expectations.git",
