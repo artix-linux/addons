@@ -6694,7 +6694,7 @@
     "ruby-diff-lcs": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-diff-lcs.git",
       "branch": "master",
-      "revision": "7677c8b0be27725a32859438ca7153abed4b6770"
+      "revision": "1dd3c24822e436cd2f7f77dc39472efbd1e004c6"
     },
     "ruby-domain_name": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-domain_name.git",
