@@ -1,10 +1,10 @@
-# Maintainer: Daniel Wallace <danielwallace at gtmanfred dot com>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Contributor: Sebastien Leduc <sebastien@sleduc.fr>
 # Contributor: Emmanuel Gil Peyrot <linkmauve@linkmauve.fr>
 
 _pkgname=prettytable
 pkgname=python-prettytable
-pkgver=3.1.1
+pkgver=3.3.0
 pkgrel=1
 pkgdesc="A simple Python library for easily displaying tabular data"
 url="https://github.com/jazzband/prettytable"
@@ -12,12 +12,12 @@ arch=('any')
 license=('BSD')
 depends=('python-wcwidth')
 makedepends=('python-setuptools-scm')
-checkdepends=('python-pytest' 'python-pytest-lazy-fixture')
+checkdepends=('python-pytest-lazy-fixture')
 conflicts=('python-ptable')
 source=("https://files.pythonhosted.org/packages/source/p/prettyTable/prettytable-${pkgver}.tar.gz")
-sha512sums=('2abfe1039161fc7c1d25b0d053776e842c1413e70ce209324fd9b2f1885949513238ca362f93b1adf405461c978760bc7d635e3321b94352ac2aa9fea94450d5')
+sha512sums=('e190717e2ea89e8faddc7015fd5118e0d93ac5f5318641ce5960b22b4ea3740ff12c4d15812b33655252f258c96f9e848f554d1e678d39761c28025ba7772609')
 
-export SETUPTOOLSA_SCM_PRETEND_VERSION=$pkgver
+export SETUPTOOLS_SCM_PRETEND_VERSION=$pkgver
 
 build() {
   cd prettytable-$pkgver
