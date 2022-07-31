@@ -619,7 +619,7 @@
     "perl-libwww": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-libwww.git",
       "branch": "master",
-      "revision": "2ec49d4b4b521f582392f8bcc409c2961c3718ba"
+      "revision": "778eae6070291505f8fd342d44aacd0a51e22068"
     },
     "perl-lingua-en-inflect": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-lingua-en-inflect.git",
