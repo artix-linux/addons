@@ -2999,7 +2999,7 @@
     "python-hatch-vcs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-vcs.git",
       "branch": "master",
-      "revision": "7eaba511b59ede5b4dca1736515da042a2ea6f98"
+      "revision": "a4099e186adf10fbf22edef5b9b79bd085035d9a"
     },
     "python-hatchling": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatchling.git",
