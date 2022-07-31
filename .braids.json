@@ -2014,7 +2014,7 @@
     "python-chardet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-chardet.git",
       "branch": "master",
-      "revision": "56b2ffcd7863a549db59845a3e98034e9441cc6d"
+      "revision": "548a19580e535dfa3b2bc81124ad2c5a89f94255"
     },
     "python-charset-normalizer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-charset-normalizer.git",
