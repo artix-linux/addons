@@ -5019,7 +5019,7 @@
     "python-pytest-rerunfailures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-rerunfailures.git",
       "branch": "master",
-      "revision": "184df7d7ddd84079491108b5eeb89c46ada2aab7"
+      "revision": "1f0a1e68366729b2794011eb8749fc7dd4bb69ad"
     },
     "python-pytest-runner": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-runner.git",
