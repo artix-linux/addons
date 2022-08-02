@@ -5794,7 +5794,7 @@
     "python-spsdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spsdk.git",
       "branch": "master",
-      "revision": "d9395aecec4ba45404905f4686297f09b76b2f44"
+      "revision": "f5c1dd8fc879299854c24dabf7bec306f698bc6c"
     },
     "python-spur": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spur.git",
