@@ -4874,7 +4874,7 @@
     "python-pytest-celery": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-celery.git",
       "branch": "master",
-      "revision": "562debba4c13eebae2727b23c74942272a837f2a"
+      "revision": "00c5e3a82ff5d9f8c720f15e36bea47a844e88e7"
     },
     "python-pytest-checkdocs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-checkdocs.git",
