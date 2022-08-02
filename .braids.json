@@ -4789,7 +4789,7 @@
     "python-pyro": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyro.git",
       "branch": "master",
-      "revision": "815c572941bdd60063288d07b992728c4356f8aa"
+      "revision": "ad0c4d04ed20b9fa87a0c7af5688dbbea8c96964"
     },
     "python-pyrsistent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyrsistent.git",
