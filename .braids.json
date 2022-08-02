@@ -4206,6 +4206,11 @@
       "branch": "master",
       "revision": "ea1c1a5af701b0f16efa9490308e8009446bfdcf"
     },
+    "python-pc-ble-driver-py": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pc-ble-driver-py.git",
+      "branch": "master",
+      "revision": "4edad98c236dd3c89de747619e3e54d5ecaa95aa"
+    },
     "python-pdfrw": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pdfrw.git",
       "branch": "master",
