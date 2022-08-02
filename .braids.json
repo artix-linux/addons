@@ -6404,7 +6404,7 @@
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
-      "revision": "55e3a8ceb966677029b1dd3ad8f1f858165dbb07"
+      "revision": "b200dc75beb94842c5f6202a00cb056e68b1edca"
     },
     "python-wsaccel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsaccel.git",
