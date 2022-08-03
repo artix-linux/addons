@@ -3499,7 +3499,7 @@
     "python-lark-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lark-parser.git",
       "branch": "master",
-      "revision": "9bdae2ca8a657acdcab0dd22909198b1bd8aade2"
+      "revision": "974e5246338abe7863bb97048086b53ad3ca3cb1"
     },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
