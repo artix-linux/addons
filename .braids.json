@@ -5564,7 +5564,7 @@
     "python-sh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sh.git",
       "branch": "master",
-      "revision": "94b5ac9a3dd64312fb1b9a225ba87d6953be4a5a"
+      "revision": "feac575a5398619d2aa1765d2287b75de0c2244a"
     },
     "python-shellingham": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-shellingham.git",
