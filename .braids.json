@@ -6939,7 +6939,7 @@
     "ruby-minitest-sprint": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-sprint.git",
       "branch": "master",
-      "revision": "0d6ecd7df9a2992d4a21b2635ae8256dd4b89a59"
+      "revision": "5447d1a239f1dd076bd7660a926a404ce0a9be84"
     },
     "ruby-mocha": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mocha.git",
