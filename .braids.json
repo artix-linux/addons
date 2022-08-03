@@ -6969,7 +6969,7 @@
     "ruby-mustermann": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mustermann.git",
       "branch": "master",
-      "revision": "27ac22f444d43c22f35e80f7095f310ecdd38327"
+      "revision": "8efacb1f49c61cd6e5fad20cca0a81b4412fe7da"
     },
     "ruby-native-package-installer": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-native-package-installer.git",
