@@ -7074,7 +7074,7 @@
     "ruby-rainbow": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rainbow.git",
       "branch": "master",
-      "revision": "574fa0da6c747f63093670d8dafae08b9cc8d175"
+      "revision": "0eeea938784f6bc9deebb6a3b2de5e7b95430d50"
     },
     "ruby-rake": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rake.git",
