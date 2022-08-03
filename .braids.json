@@ -5244,7 +5244,7 @@
     "python-rapidfuzz-capi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rapidfuzz-capi.git",
       "branch": "master",
-      "revision": "2dc9320fbaf119f9391e3c32512e749bee2c63e6"
+      "revision": "9ff6af36aba4c70a7c1c4888e997b52e80b08cde"
     },
     "python-raven": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-raven.git",
