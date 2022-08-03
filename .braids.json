@@ -6664,7 +6664,7 @@
     "ruby-async-dns": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-dns.git",
       "branch": "master",
-      "revision": "2b220f1eafa1dcd8439576381703808fadf76dbb"
+      "revision": "428786aea37a0213bbc63013d7d51095e6584aed"
     },
     "ruby-async-io": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-io.git",
