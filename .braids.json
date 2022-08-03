@@ -6669,7 +6669,7 @@
     "ruby-async-io": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-io.git",
       "branch": "master",
-      "revision": "cebc2a4b8283048d59d9d9182b4dbbc1f79f1842"
+      "revision": "5e6ab7a072678e06856576e95296f55383977542"
     },
     "ruby-atk": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-atk.git",
