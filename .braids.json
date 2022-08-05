@@ -6319,7 +6319,7 @@
     "python-vistir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vistir.git",
       "branch": "master",
-      "revision": "f92f8a4abcd85054fa6fbb631af6d0f4cb382725"
+      "revision": "c78fdc2c4b24bfb41f28065ef7998f33787f8948"
     },
     "python-vobject": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vobject.git",
