@@ -4406,6 +4406,11 @@
       "branch": "master",
       "revision": "b96ed777063dcaf0fe4386fab05a88129e9f1093"
     },
+    "python-pprofile": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pprofile.git",
+      "branch": "master",
+      "revision": "6ac68ad00cacb9a00eb84ea4612ee49da8518ed3"
+    },
     "python-pproxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pproxy.git",
       "branch": "master",
