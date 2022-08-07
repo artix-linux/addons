@@ -5931,6 +5931,11 @@
       "branch": "master",
       "revision": "520dbd3e6d2e0603b5bad9406d9d53f7dd26e696"
     },
+    "python-structlog": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-structlog.git",
+      "branch": "master",
+      "revision": "2a4328521db3ecd6fde4aea40e7654ac5b863edc"
+    },
     "python-subunit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-subunit.git",
       "branch": "master",
