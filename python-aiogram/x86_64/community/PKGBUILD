@@ -1,0 +1,42 @@
+# Maintainer: Q <qontinuum@artixlinux.org>
+# Contributor: Evgeniy Filimonov <evgfilim1@gmail.com>
+
+pkgname=python-aiogram
+pkgver=2.21
+pkgrel=1
+pkgdesc="A pretty simple and fully asynchronous library for Telegram Bot API written with asyncio and aiohttp"
+arch=('any')
+url="https://github.com/aiogram/aiogram"
+license=('MIT')
+depends=('python-aiohttp' 'python-babel' 'python-certifi')
+makedepends=('python-setuptools')
+checkdepends=('python-aiohttp-socks' 'python-aioredis' 'python-aresponses' 'python-pytest'
+              'python-pytest-lazy-fixture' 'pifpaf' 'redis')
+optdepends=('python-uvloop: fast, drop-in replacement of the built-in asyncio event loop'
+            'python-ujson: ultra fast JSON encoder and decoder written in pure C'
+            'python-rapidjson: extremely fast C++ JSON parser and serialization library'
+            'python-emoji: emojize and demojize support'
+            'python-aioredis: Redis storage support'
+            'python-aiohttp-socks: SOCKS4(a) and SOCKS5 proxy support'
+#            'python-rethinkdb: RethinkDB storage support'  # No such package yet
+)
+source=("$url/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
+sha512sums=('0a193648d2341d9e091af63868dfa1b4c69c9d149b5bdf01bda076826d6d34bb3ac8e22afcea0c33eeee4dd478bdbba95c459b1678a59c009cd12fd8f7b3062a')
+
+build() {
+  cd aiogram-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd aiogram-$pkgver
+  pifpaf run redis -- bash -c 'python -m pytest --redis $PIFPAF_REDIS_URL'
+}
+
+package() {
+  cd aiogram-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname/
+  install -Dm644 README.md -t "$pkgdir"/usr/share/doc/$pkgname/
+}
