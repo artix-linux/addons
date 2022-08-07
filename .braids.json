@@ -3836,6 +3836,11 @@
       "branch": "master",
       "revision": "c2da15b7026b2bea378c0d68a6c0aa79edacc7fa"
     },
+    "python-mujson": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mujson.git",
+      "branch": "master",
+      "revision": "99ce12011132c8eb632eda8751b147ceffe38bd7"
+    },
     "python-multidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-multidict.git",
       "branch": "master",
