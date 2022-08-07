@@ -1741,6 +1741,11 @@
       "branch": "master",
       "revision": "227bc05cddd9a0670507fd5db02098c971234332"
     },
+    "python-awesomeversion": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-awesomeversion.git",
+      "branch": "master",
+      "revision": "dddf821070308bdcbcd91b12bd5b9d5c32a132bf"
+    },
     "python-aws-sam-translator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aws-sam-translator.git",
       "branch": "master",
