@@ -19,7 +19,7 @@ source=("${pkgname}-${pkgver}.tar.gz::https://github.com/${_name}/${_name}-pytho
         "${pkgname}-${pkgver}-pep479.patch"
         "python3.10-no-co_lnotab.patch")
 sha512sums=('1815e3310ea83b241514e7773d89f8ee40425119dc7ba195d1fb513596bd63d64ad5d50b0dc0c33e10157469d2d772c5d6435362042971167238ac86f1689b01'
-            'fe6eba8adb47c66f4c67d6559a83222e07fde23c75e732961e5e4370dea3fcfbcd1b81522adb37a321e92ba6ad87c58e887e20511c81e20669f39e6e1de87e30'
+            '3fdc8c8ceea4aa2e14160163f3d76d4f2dc87f65cdbfd16c60c9838987faba4e640f1a27df7e0a347b4e3e992afe55b046d7d9bd586bf362dfba77ccb226e93d'
             'ea085605b70a5cbf3629f5da0401747f1082bd7be3dda21ba036d7444cf48cebd3ad79312d70cd2daff652222f52201d4a4aee40c8c10fd15b7a4bb6ec03aa73'
             '0c169f720c3bd0937fef5a7dc264cad8b32f280bbb1e0c287ae47b784ee1c72c3ff2690ebc98240f0d616d3d9ed54781d01b037dd7c627d5de5a9d7ad6346953')
 
