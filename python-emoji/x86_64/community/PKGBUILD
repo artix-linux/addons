@@ -1,0 +1,31 @@
+# Maintainer: Q <qontinuum@artixlinux.org>
+
+pkgname=python-emoji
+pkgver=1.7.0
+pkgrel=1
+pkgdesc="Emoji for Python"
+url="https://github.com/carpedm20/emoji"
+license=('BSD')
+arch=('any')
+depends=('python')
+makedepends=('python-setuptools')
+checkdepends=('python-pytest')
+source=("https://pypi.io/packages/source/e/emoji/emoji-$pkgver.tar.gz")
+sha512sums=('fee25229ef24c82570eccf488dcdd7d1ac7ab99c8d3723c0b7b2afb5831c85bae8e4887f6d15121f4b65c9754616c2a8576087d4edfa1896f2cf0ebe03c5655a')
+
+build() {
+  cd emoji-$pkgver
+  python setup.py build
+}
+
+check() {
+  cd emoji-$pkgver
+  pytest
+}
+
+package() {
+  cd emoji-$pkgver
+  python setup.py install --root="$pkgdir" --optimize=1
+
+  install -Dm644 LICENSE.txt -t "$pkgdir"/usr/share/licenses/$pkgname/
+}
