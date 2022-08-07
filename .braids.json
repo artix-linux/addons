@@ -5919,7 +5919,7 @@
     "python-svglib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
       "branch": "master",
-      "revision": "46a4b6fa0054fc3dc78b8bb01a31ed9551f3a6e4"
+      "revision": "2037b0f031377691c60ba31b7f5992eeddc9ab76"
     },
     "python-sybil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sybil.git",
