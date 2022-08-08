@@ -7078,7 +7078,7 @@
     "ruby-open-uri": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-open-uri.git",
       "branch": "master",
-      "revision": "acc7be0a76bfc6df9f2610c6fb57a3641229a617"
+      "revision": "35415c59d8ca1090f2c11c5f2923cb663d0ef4b1"
     },
     "ruby-optimist": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-optimist.git",
