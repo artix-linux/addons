@@ -3,7 +3,7 @@
 _gemname='date'
 pkgname="ruby-${_gemname}"
 pkgver=3.2.2
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A subclass of Object includes Comparable module for handling dates'
 arch=('x86_64')
 url='https://github.com/ruby/date'
