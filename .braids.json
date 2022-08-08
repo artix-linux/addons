@@ -2564,7 +2564,7 @@
     "python-email-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-email-validator.git",
       "branch": "master",
-      "revision": "984eba3cf34b41e673d1c2d49878aa84ce199c8a"
+      "revision": "919f2274f1655bde0b0b4335adf555cb86cd47ce"
     },
     "python-emoji": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-emoji.git",
