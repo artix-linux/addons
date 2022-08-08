@@ -3,7 +3,7 @@
 _gemname='net-http'
 pkgname="ruby-${_gemname}"
 pkgver=0.2.2
-pkgrel=1
+pkgrel=1.1
 pkgdesc='HTTP client api for Ruby'
 arch=('any')
 url="https://github.com/ruby/${_gemname}"
