@@ -6790,6 +6790,11 @@
       "branch": "master",
       "revision": "c7657c18e25d3e6b6cab8c601f60b19a4df01e4c"
     },
+    "ruby-date": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-date.git",
+      "branch": "master",
+      "revision": "0abc7250048cb68c15659f70216034daab0238ec"
+    },
     "ruby-dbus": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-dbus.git",
       "branch": "master",
