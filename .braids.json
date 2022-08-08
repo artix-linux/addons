@@ -3809,7 +3809,7 @@
     "python-moto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moto.git",
       "branch": "master",
-      "revision": "15fe4805d91b3bf29a125b186c68ace5765e3c40"
+      "revision": "51be35ed9317212807dcabd84575fcd489c733c1"
     },
     "python-mox3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mox3.git",
