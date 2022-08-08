@@ -7348,7 +7348,7 @@
     "ruby-uri": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-uri.git",
       "branch": "master",
-      "revision": "7677a0d5be62b148e3438ca0a3cee5165656a3cd"
+      "revision": "4484d50e34725a2ca3c93d2cb672a14d320c0597"
     },
     "ruby-vimrunner": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-vimrunner.git",
