@@ -6767,7 +6767,8 @@
     },
     "ruby-bundler": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bundler.git",
-      "revision": "539fd9bd3a1fbf15cf7b264a4835be176dd04c7b"
+      "branch": "master",
+      "revision": "51e979694cb10977ead2b8106a1d6be43fde665e"
     },
     "ruby-chronic": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-chronic.git",
