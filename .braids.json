@@ -7103,7 +7103,7 @@
     "ruby-pcaprub": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-pcaprub.git",
       "branch": "master",
-      "revision": "71497dc59ad4b2ea0648db64ce35a454c5fdb8b6"
+      "revision": "bc4d468ca1579fc64bf04d0de68043520dbfdd66"
     },
     "ruby-permessage_deflate": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-permessage_deflate.git",
