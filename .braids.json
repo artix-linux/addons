@@ -5629,7 +5629,7 @@
     "python-shellingham": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-shellingham.git",
       "branch": "master",
-      "revision": "927dc147403ca8c24f2cd602163cc0c4a9f5f3a3"
+      "revision": "8a4d3f2ef1ca495afdaeb75497368ce2a3dc8802"
     },
     "python-should-dsl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-should-dsl.git",
