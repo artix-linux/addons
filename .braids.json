@@ -6818,7 +6818,7 @@
     "ruby-erubi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erubi.git",
       "branch": "master",
-      "revision": "c13a08dda4565e482266aa6ebb3778e930c9970e"
+      "revision": "84a88adade9e3ddfe89c60d939dffeec4c820ea0"
     },
     "ruby-eventmachine": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-eventmachine.git",
