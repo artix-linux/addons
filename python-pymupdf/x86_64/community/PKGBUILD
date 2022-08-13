@@ -9,7 +9,7 @@ arch=(x86_64)
 url="https://github.com/pymupdf/PyMuPDF"
 license=(AGPL3)
 depends=(glibc gumbo-parser jbig2dec libmupdf openjpeg2 python)
-makedepends=(freetype2 libjpeg-turbo python-distro python-build python-installer python-setuptools python-wheel swig systemd)
+makedepends=(freetype2 libjpeg-turbo python-distro python-build python-installer python-setuptools python-wheel swig)
 checkdepends=(python-fonttools python-pillow python-pytest)
 optdepends=(
   'python-fonttools: for building font subsets using fontTools'
