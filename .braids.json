@@ -424,7 +424,7 @@
     "perl-file-sharedir-install": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-sharedir-install.git",
       "branch": "master",
-      "revision": "3b94de48ae758baeffa23fa87cac97c959bc076f"
+      "revision": "ec0ddc25232f1a83f691556e105c555cb71988a2"
     },
     "perl-file-slurp-tiny": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-slurp-tiny.git",
