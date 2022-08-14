@@ -24,7 +24,7 @@ checkdepends=(
     'ruby-rdiscount'
     'ruby-rspec'
     'ruby-sass'
-    'ruby-sinatra-contrib'
+    #'ruby-sinatra-contrib'
     'ruby-tilt'
     # ruby-sinatra - integration tests
     #'ruby-puma'
@@ -82,8 +82,8 @@ check() {
   # cannot load such file -- redcloth: skipping textile tests
   # cannot load such file -- wlang: skipping wlang tests
   # cannot load such file -- yajl: skipping yajl tests
-  echo "sinatra"
-  rake spec
+  # echo "sinatra"
+  # rake spec
 
   # disabled as it requires hamlit
   #(cd sinatra-contrib
@@ -91,10 +91,10 @@ check() {
   #  rake spec
   #)
 
-  (cd rack-protection
-    echo "rack-protection"
-    rake spec
-  )
+  # (cd rack-protection
+  #   echo "rack-protection"
+  #   rake spec
+  # )
 }
 
 package_ruby-sinatra() {
