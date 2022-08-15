@@ -6224,7 +6224,7 @@
     "python-typing_extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typing_extensions.git",
       "branch": "master",
-      "revision": "c1686f178ea71e94ea0d77c1aa43b68ff9874ccb"
+      "revision": "e360002ab5ffb4efe46ac11ecd50adde568ed211"
     },
     "python-typing_inspect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typing_inspect.git",
