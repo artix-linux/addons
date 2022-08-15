@@ -6239,7 +6239,7 @@
     "python-tzdata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tzdata.git",
       "branch": "master",
-      "revision": "e7d768c80fb524ae2779146c8ded382214354824"
+      "revision": "b3c8bed2334cb964473a1e3858ca1b7e4e238a01"
     },
     "python-tzlocal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tzlocal.git",
