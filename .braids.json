@@ -3204,7 +3204,7 @@
     "python-importlib_resources": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-importlib_resources.git",
       "branch": "master",
-      "revision": "8db59f392cf3f4849e1715af74a78edd907cc884"
+      "revision": "b4ce55e6d5ac74989bc7c52ea2986bd506b540fc"
     },
     "python-incremental": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-incremental.git",
