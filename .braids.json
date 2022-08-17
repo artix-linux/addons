@@ -2499,7 +2499,7 @@
     "python-dogpile.cache": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dogpile.cache.git",
       "branch": "master",
-      "revision": "4de48cd88d768c1d9d181dedb5afc254dc9781b6"
+      "revision": "ed0318ee2e09c20768dfa6b5fe805a43b4eb2df0"
     },
     "python-doublex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doublex.git",
