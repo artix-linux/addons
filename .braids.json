@@ -4684,7 +4684,7 @@
     "python-pygments": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygments.git",
       "branch": "master",
-      "revision": "98d00a2ff9cbbe5cf0176d679eed65e7828c8d3d"
+      "revision": "f6a594fb785774de502c56b7ddbd880bc663671c"
     },
     "python-pyhamcrest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyhamcrest.git",
