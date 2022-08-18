@@ -6760,6 +6760,11 @@
       "branch": "master",
       "revision": "2f52957895a71732542a8171b1e34dfc1e39c2a0"
     },
+    "ruby-base64": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-base64.git",
+      "branch": "master",
+      "revision": "bd6771e27f1346fb83620189d61c148d0d07d4a6"
+    },
     "ruby-braid": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-braid.git",
       "branch": "master",
