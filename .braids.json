@@ -6763,7 +6763,7 @@
     "ruby-base64": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-base64.git",
       "branch": "master",
-      "revision": "bd6771e27f1346fb83620189d61c148d0d07d4a6"
+      "revision": "dcdc6951ad55c36cf07e62b4fb6081f47919ab3e"
     },
     "ruby-braid": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-braid.git",
