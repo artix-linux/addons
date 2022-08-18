@@ -4669,7 +4669,7 @@
     "python-pygame-sdl2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygame-sdl2.git",
       "branch": "master",
-      "revision": "b496ccaa8d68cf5f63e3213c4a3f388ecad285dc"
+      "revision": "35446b8a0d8585aecb4bdbdbd98b9b5edd7f6a2b"
     },
     "python-pygit2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygit2.git",
