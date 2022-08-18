@@ -6715,6 +6715,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesR/rapidfuzz-cpp.git",
       "branch": "master"
     },
+    "ruby-abbrev": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-abbrev.git",
+      "branch": "master",
+      "revision": "cadd36e863182a07f56a6a6e988bb0af6bf49906"
+    },
     "ruby-activesupport": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-activesupport.git",
       "branch": "master",
