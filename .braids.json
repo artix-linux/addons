@@ -6818,7 +6818,7 @@
     "ruby-csv": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-csv.git",
       "branch": "master",
-      "revision": "d18d53a9282a7dbc096043ae48301d1a169fa2ec"
+      "revision": "8924726772792803b33a9cca443f1336ec62766a"
     },
     "ruby-date": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-date.git",
