@@ -6768,7 +6768,7 @@
     "ruby-benchmark": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-benchmark.git",
       "branch": "master",
-      "revision": "93184d2e66fd6488a42d8cac6c079669ab0f63e1"
+      "revision": "e6bf8a0d601aba6ffd4dc554b700e21dce98b7eb"
     },
     "ruby-braid": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-braid.git",
