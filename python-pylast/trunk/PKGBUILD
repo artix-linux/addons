@@ -1,4 +1,4 @@
-# Maintainer: Maxime Gauduin <alucryd@archlinux.org>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Contributor: Steven Allen <steven@stebalien.com>
 # Contributor: Limao Luo <luolimao+AUR@gmail.com>
 # Contributor: Wieland Hoffmann <the_mineo@web.de>
@@ -6,18 +6,20 @@
 
 pkgname=python-pylast
 pkgver=5.0.0
-pkgrel=1.1
+pkgrel=2
 pkgdesc='A Python interface to Last.fm and Libre.fm'
 arch=(any)
 url='https://github.com/pylast/pylast'
 license=(Apache)
-# https://bugs.archlinux.org/task/74611?project=5
-depends=(python-httpx)
+depends=(
+  python-httpx
+  python-importlib-metadata
+)
 makedepends=(
   git
+  python-setuptools
   python-setuptools-scm
 )
-checkdepends=(python-tox)
 _tag=aefa7cef1bb4487f19914f2719c806ec891fdb93
 source=(git+https://github.com/pylast/pylast.git#tag=${_tag})
 sha256sums=(SKIP)
@@ -30,11 +32,6 @@ pkgver() {
 build() {
   cd pylast
   python setup.py build
-}
-
-check() {
-  cd pylast
-  tox -e py
 }
 
 package() {
