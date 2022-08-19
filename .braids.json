@@ -6870,6 +6870,11 @@
       "branch": "master",
       "revision": "30e70096d2204bf2c829a3feda619afb773270d9"
     },
+    "ruby-drb": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-drb.git",
+      "branch": "master",
+      "revision": "eccdd2aeb5747966f17137df0a66259bd6c6caa2"
+    },
     "ruby-erubi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erubi.git",
       "branch": "master",
