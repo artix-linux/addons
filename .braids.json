@@ -6848,7 +6848,7 @@
     "ruby-delegate": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-delegate.git",
       "branch": "master",
-      "revision": "61133d3842cca1f4d54f4fe04d670294134b9433"
+      "revision": "3813e37813c18093e117a90a22da0cd4250a8d9f"
     },
     "ruby-diff-lcs": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-diff-lcs.git",
