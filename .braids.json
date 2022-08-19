@@ -6728,7 +6728,7 @@
     "ruby-abbrev": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-abbrev.git",
       "branch": "master",
-      "revision": "ae2fae1d6262f6511c8307ed6cc2a64308bf8833"
+      "revision": "f1efcea2981d07728e0b1a524c2ed551b5eefdec"
     },
     "ruby-activesupport": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-activesupport.git",
