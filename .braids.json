@@ -6873,7 +6873,7 @@
     "ruby-drb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-drb.git",
       "branch": "master",
-      "revision": "eccdd2aeb5747966f17137df0a66259bd6c6caa2"
+      "revision": "4161193a3ae517ec21c4560066be4d52bb2e678b"
     },
     "ruby-erubi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erubi.git",
