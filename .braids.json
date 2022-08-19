@@ -6803,7 +6803,7 @@
     "ruby-cgi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-cgi.git",
       "branch": "master",
-      "revision": "b19d45b3c357ce6f7531ed97925237e99db50093"
+      "revision": "97c1e1b5a1524ddd0624ec1b2c334ed28645c904"
     },
     "ruby-chronic": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-chronic.git",
