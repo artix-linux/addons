@@ -1644,7 +1644,7 @@
     "python-arrow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-arrow.git",
       "branch": "master",
-      "revision": "eb651253efd964514f8ed45c43df80acd8d84620"
+      "revision": "e485b4ae2acd6b163affc9d55b2859af284fd56e"
     },
     "python-asgiref": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asgiref.git",
