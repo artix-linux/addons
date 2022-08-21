@@ -6606,6 +6606,11 @@
       "branch": "master",
       "revision": "f62ecd5b8e89d4d553c6a35dbefcb9a87f9db1bc"
     },
+    "python-z3-solver": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-z3-solver.git",
+      "branch": "master",
+      "revision": "af970bdcfe2646c9ff7fc6d92e9abbca856830b6"
+    },
     "python-zc.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zc.lockfile.git",
       "branch": "master",
