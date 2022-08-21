@@ -1,8 +1,8 @@
-# Maintainer: Maxime Gauduin <alucryd@archlinux.org>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Contributor: Jelle van der Waa <jelle@archlinux.org>
 
 pkgname=python-jellyfish
-pkgver=0.9.0
+pkgver=0.9.1
 pkgrel=2
 pkgdesc='A python library for doing approximate and phonetic matching of strings'
 arch=(x86_64)
@@ -13,7 +13,7 @@ makedepends=(
   git
   python-setuptools
 )
-_tag=4809892a28a0e96f6af982a6e119dca6e4994fb8
+_tag=f31b9bd8c06dd764023a8cf0a82319c0ce20a0bb
 source=(
   git+https://github.com/jamesturk/jellyfish.git#tag=${_tag}
   git+https://github.com/jamesturk/cjellyfish.git
@@ -25,29 +25,26 @@ sha256sums=(
 
 prepare() {
   cd jellyfish
-
   for submodule in cjellyfish; do
     git submodule init ${submodule}
     git config submodule.${submodule}.url ../${submodule}
     git submodule update ${submodule}
   done
+  sed 's/0.9.0/0.9.1/' -i setup.py
 }
 
 pkgver() {
   cd jellyfish
-
   git describe --tags | sed 's/^v//'
 }
 
 build() {
   cd jellyfish
-
   python setup.py build
 }
 
 package() {
   cd jellyfish
-
   python setup.py install --root="${pkgdir}" --optimize=1 --skip-build
   install -Dm 644 LICENSE -t "${pkgdir}"/usr/share/licenses/python-jellyfish/
 }
