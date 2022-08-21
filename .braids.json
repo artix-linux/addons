@@ -4319,7 +4319,7 @@
     "python-phonenumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
       "branch": "master",
-      "revision": "18ac18424f29df976d355fabb5ba9e25cd6b2579"
+      "revision": "2de2253236c194d1720de8021b4959be062758e8"
     },
     "python-piccata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-piccata.git",
