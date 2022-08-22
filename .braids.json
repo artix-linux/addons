@@ -2394,7 +2394,7 @@
     "python-dephell-specifier": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-specifier.git",
       "branch": "master",
-      "revision": "32b3ced04be3cb2478a1ac20d33df401127e82ed"
+      "revision": "185b0ed5340c3a5871867a1bd1f1b2bd11fd62dc"
     },
     "python-dephell-venvs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-venvs.git",
