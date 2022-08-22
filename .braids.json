@@ -2399,7 +2399,7 @@
     "python-dephell-venvs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-venvs.git",
       "branch": "master",
-      "revision": "261d98f1a87a6a469a847aca3fe486e6279f98d8"
+      "revision": "0e642fa7e7e93e3c6fb7e307327447216412a911"
     },
     "python-dephell-versioning": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-versioning.git",
