@@ -2341,11 +2341,6 @@
       "branch": "master",
       "revision": "9c763ee4b1132c47ef7dbdcb144cf5b578f4cff6"
     },
-    "python-dephell-licenses": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-licenses.git",
-      "branch": "master",
-      "revision": "c93be11330a75598ecb94449ffb69c0eee1ec128"
-    },
     "python-dephell-links": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-links.git",
       "branch": "master",
