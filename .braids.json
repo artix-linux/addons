@@ -2379,7 +2379,7 @@
     "python-dephell-pythons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-pythons.git",
       "branch": "master",
-      "revision": "3d7a7b3742fcaa170a30c8679cbcb695fbfff6b6"
+      "revision": "10b4b9df15e1de704b47f51b03ca1e94ca5bab65"
     },
     "python-dephell-setuptools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-setuptools.git",
