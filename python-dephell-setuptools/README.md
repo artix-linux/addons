@@ -1,2 +1,0 @@
-# python-dephell-setuptools
-
