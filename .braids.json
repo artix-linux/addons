@@ -2354,7 +2354,7 @@
     "python-dephell-changelogs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-changelogs.git",
       "branch": "master",
-      "revision": "678939c1363565ed4214bd0ffe2ea3890eb5ac08"
+      "revision": "e902d7badacb82f1e610ba8edc9a507c46985696"
     },
     "python-dephell-discover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-discover.git",
