@@ -2404,7 +2404,7 @@
     "python-dephell-versioning": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-versioning.git",
       "branch": "master",
-      "revision": "1aedd5fb86c5a96f274d7f01b385b4d0f795d02d"
+      "revision": "690d729652fc9ac6adca4fb2c56c5a5f10df1845"
     },
     "python-deprecated": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deprecated.git",
