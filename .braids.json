@@ -2624,7 +2624,7 @@
     "python-exceptiongroup": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-exceptiongroup.git",
       "branch": "master",
-      "revision": "cc34054656ca5cc345fa51b8f77897dde07846ac"
+      "revision": "4fca0188f367278f7d55e6697218644ee1fd8b46"
     },
     "python-execnet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-execnet.git",
