@@ -2359,7 +2359,7 @@
     "python-dephell-discover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-discover.git",
       "branch": "master",
-      "revision": "a8c03f074415767834324e77d8c5213964b51311"
+      "revision": "586aa518b7e8d4b872180e991e6f893b02de66e1"
     },
     "python-dephell-licenses": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-licenses.git",
