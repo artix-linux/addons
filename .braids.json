@@ -3539,7 +3539,7 @@
     "python-kiwisolver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kiwisolver.git",
       "branch": "master",
-      "revision": "560b8574b328acf99711e16219bbd8644783414c"
+      "revision": "802c6ffab11be26a7fe0101c3572a395d20c6ffb"
     },
     "python-kombu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kombu.git",
