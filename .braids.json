@@ -2826,6 +2826,11 @@
       "branch": "master",
       "revision": "d8f1b5ee9e7af7c897d80d6a8426366a77f37db9"
     },
+    "python-flit-scm": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit-scm.git",
+      "branch": "master",
+      "revision": "70ba1fbbd68e491f0af70ec544ad47e969e9e454"
+    },
     "python-fluidity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fluidity.git",
       "branch": "master",
