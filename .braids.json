@@ -7010,6 +7010,11 @@
       "branch": "master",
       "revision": "417592491b7042aa44eadc7f26ceada5c9d397c9"
     },
+    "ruby-io-console": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-io-console.git",
+      "branch": "master",
+      "revision": "8e415c694c22916bff44038677459561064c5393"
+    },
     "ruby-irb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-irb.git",
       "branch": "master",
