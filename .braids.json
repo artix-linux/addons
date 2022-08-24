@@ -6950,6 +6950,11 @@
       "branch": "master",
       "revision": "e8508fb2179f2294d079531c7c6b08aecc45fe37"
     },
+    "ruby-forwardable": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-forwardable.git",
+      "branch": "master",
+      "revision": "10648573137babaece0c1597781b4cffb985af44"
+    },
     "ruby-glib2": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-glib2.git",
       "branch": "master",
