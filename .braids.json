@@ -7018,7 +7018,7 @@
     "ruby-io-nonblock": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-io-nonblock.git",
       "branch": "master",
-      "revision": "10cc711731d3bc96863f61610e4e6e59ee58d0a9"
+      "revision": "ff6c7e78c1fad1c43fdd7d2d71a63eb8ad02275a"
     },
     "ruby-irb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-irb.git",
