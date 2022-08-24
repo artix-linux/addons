@@ -7050,6 +7050,11 @@
       "branch": "master",
       "revision": "334aca30151b758169ed404a7917d5631e00c348"
     },
+    "ruby-logger": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-logger.git",
+      "branch": "master",
+      "revision": "43b64424d37a521be8877b7d49afafa16025716f"
+    },
     "ruby-loofah": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-loofah.git",
       "branch": "master",
