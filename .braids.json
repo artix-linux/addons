@@ -6928,7 +6928,7 @@
     "ruby-fcntl": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fcntl.git",
       "branch": "master",
-      "revision": "520a0681b39448020f85105fbdad69245155f3f1"
+      "revision": "e5f71507eddd900df55b3ec9b07c2b8982c31adf"
     },
     "ruby-ffi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ffi.git",
