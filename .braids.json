@@ -6940,6 +6940,11 @@
       "branch": "master",
       "revision": "499fb26f30afdc911fbdd94764bfd006d8611e96"
     },
+    "ruby-fileutils": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fileutils.git",
+      "branch": "master",
+      "revision": "05cc41b1a32af1d7d674e1ba2223723fe673bdd7"
+    },
     "ruby-glib2": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-glib2.git",
       "branch": "master",
