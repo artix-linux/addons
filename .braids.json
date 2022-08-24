@@ -6843,7 +6843,7 @@
     "ruby-erb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erb.git",
       "branch": "master",
-      "revision": "325613ef81903501487457b7f7e577e7b7b2e7b9"
+      "revision": "90441e3486a1caaa45307520a9780297b2a6c70c"
     },
     "ruby-erubi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erubi.git",
