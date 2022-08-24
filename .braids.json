@@ -6948,7 +6948,7 @@
     "ruby-find": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-find.git",
       "branch": "master",
-      "revision": "4b5cfdb699aac8b3e5f291f89227ab5cbf9cb17f"
+      "revision": "e8508fb2179f2294d079531c7c6b08aecc45fe37"
     },
     "ruby-glib2": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-glib2.git",
