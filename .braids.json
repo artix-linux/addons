@@ -6698,7 +6698,7 @@
     "ruby-addressable": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-addressable.git",
       "branch": "master",
-      "revision": "b2b4b8200c12c7d04d10e108b5d88664a51f400c"
+      "revision": "ea69156aff12f032c628c9924766741884c43421"
     },
     "ruby-arrayfields": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-arrayfields.git",
