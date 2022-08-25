@@ -5209,7 +5209,7 @@
     "python-pywlroots": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywlroots.git",
       "branch": "master",
-      "revision": "051be16e8a31e8a3d1921563844fbbe7e9c691b3"
+      "revision": "406c223cffcc98f8488a1e07894cafa32df2a0b7"
     },
     "python-pyzmq": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyzmq.git",
