@@ -5619,7 +5619,7 @@
     "python-six": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-six.git",
       "branch": "master",
-      "revision": "60fdddc37275e893f1fd98cb4ea7aa883a0ef1a2"
+      "revision": "08a31400b677af4b29304827e42a2042c4ca7481"
     },
     "python-slip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-slip.git",
