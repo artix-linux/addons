@@ -1124,7 +1124,7 @@
     "perl-template-toolkit": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-template-toolkit.git",
       "branch": "master",
-      "revision": "01b627506a0f231096f46d1adbaf1ce50c93a0a1"
+      "revision": "ebeaa985314b7ade27a2ab90608a8318603cc7b5"
     },
     "perl-term-readkey": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-term-readkey.git",
