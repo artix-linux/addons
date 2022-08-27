@@ -7018,7 +7018,7 @@
     "ruby-io-nonblock": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-io-nonblock.git",
       "branch": "master",
-      "revision": "ff6c7e78c1fad1c43fdd7d2d71a63eb8ad02275a"
+      "revision": "b78d74eadeb676fd6142d3f5d97a665869d6ac90"
     },
     "ruby-io-wait": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-io-wait.git",
