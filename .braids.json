@@ -5354,7 +5354,7 @@
     "python-requests-kerberos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-kerberos.git",
       "branch": "master",
-      "revision": "09f5cb67cbeddf01f3b9017aa6a44428b9d2f9f9"
+      "revision": "f8639b93ecaec58f37cbdca4acf41604eedc0785"
     },
     "python-requests-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-mock.git",
