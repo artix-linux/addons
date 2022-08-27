@@ -3464,7 +3464,7 @@
     "python-keystoneauth1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keystoneauth1.git",
       "branch": "master",
-      "revision": "363fea5d20f2337caf6e061018635b7510d9f563"
+      "revision": "8830dad77f89c942834066d0b50bfadb6068821c"
     },
     "python-keyutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyutils.git",
