@@ -6938,7 +6938,7 @@
     "ruby-fiddle": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fiddle.git",
       "branch": "master",
-      "revision": "499fb26f30afdc911fbdd94764bfd006d8611e96"
+      "revision": "e1f23f7a2363048ff0d40aae747c0bf3789e5704"
     },
     "ruby-fileutils": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fileutils.git",
