@@ -5559,7 +5559,7 @@
     "python-setuptools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools.git",
       "branch": "master",
-      "revision": "bbc7f8ecbd38ceb733f60e50a4e0e6bc56644437"
+      "revision": "12f7b5d594f830c72f73fccda75125100356aa8e"
     },
     "python-setuptools-git": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools-git.git",
