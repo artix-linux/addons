@@ -3979,7 +3979,7 @@
     "python-openapi-spec-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-spec-validator.git",
       "branch": "master",
-      "revision": "7fa5026319b0ecc13d189b5d3981ad2ff94a7df9"
+      "revision": "88a34668fc6c87e0f946d4bcc94c123fb443535c"
     },
     "python-openpyxl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openpyxl.git",
