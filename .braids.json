@@ -1824,7 +1824,7 @@
     "python-billiard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-billiard.git",
       "branch": "master",
-      "revision": "be3b081a5dc28bcf1f753757bef2f11df3de1112"
+      "revision": "e4cebf4f657cb05f70e905d176702a10c2f772cd"
     },
     "python-bincopy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bincopy.git",
