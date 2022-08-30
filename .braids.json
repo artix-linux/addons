@@ -2709,7 +2709,7 @@
     "python-flasgger": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flasgger.git",
       "branch": "master",
-      "revision": "381e77efbf2ce112f8d623c869243aaef79731ef"
+      "revision": "642f313968d8a704fe67eb04edac05223614dca1"
     },
     "python-flask": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask.git",
