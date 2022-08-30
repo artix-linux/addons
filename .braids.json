@@ -5054,7 +5054,7 @@
     "python-pytest-runner": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-runner.git",
       "branch": "master",
-      "revision": "ff5bc74896115eab67954d1b3d0a42f63b95a7db"
+      "revision": "b4c04f25ea3690b415b3d114c9cbed9eca102675"
     },
     "python-pytest-services": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-services.git",
