@@ -2519,7 +2519,7 @@
     "python-engineio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-engineio.git",
       "branch": "master",
-      "revision": "28f6f48c5e07b39dc4383204292c549f8df0e7af"
+      "revision": "37fe00fa72590eaf2a2626ae182df2f99124cfb9"
     },
     "python-entrypoint2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-entrypoint2.git",
