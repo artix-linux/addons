@@ -1714,7 +1714,7 @@
     "python-atpublic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-atpublic.git",
       "branch": "master",
-      "revision": "843bfc9bcd68206fe1fcef7708795b117859fcb6"
+      "revision": "4fa07f977f2a42748b29e454ba7f0781189ff5cc"
     },
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
