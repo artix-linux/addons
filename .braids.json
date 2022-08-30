@@ -1719,7 +1719,7 @@
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
-      "revision": "99ad0970bec1acd3c443cd90f93cc800e57fdbf2"
+      "revision": "76b9b45fd4a08083e0541405a96aa3807530d976"
     },
     "python-authlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authlib.git",
