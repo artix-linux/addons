@@ -5034,7 +5034,7 @@
     "python-pytest-randomly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-randomly.git",
       "branch": "master",
-      "revision": "d9712b880e39e18271c77416b866b6dd42b38402"
+      "revision": "01a86c7d69b26e8a71d08e4b4bd9ec6df427a4b4"
     },
     "python-pytest-regressions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-regressions.git",
