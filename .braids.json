@@ -7188,7 +7188,7 @@
     "ruby-paint": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-paint.git",
       "branch": "master",
-      "revision": "44bd2f26e4dd9c216f8010b815987d6a38406891"
+      "revision": "aabced38c6e58b3fee1cee80fd02489235355828"
     },
     "ruby-path_expander": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-path_expander.git",
