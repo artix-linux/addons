@@ -5409,7 +5409,7 @@
     "python-rfc3986": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3986.git",
       "branch": "master",
-      "revision": "a9189c37607442184f0d14a8cf36e225280d08d5"
+      "revision": "40538136c3da5ca7f15ddb41104da35ea5c8f61c"
     },
     "python-rfc3987": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3987.git",
