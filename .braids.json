@@ -2514,7 +2514,7 @@
     "python-emoji": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-emoji.git",
       "branch": "master",
-      "revision": "b419d78182468eaa25caf6189322aee1a33750e2"
+      "revision": "841e580a51a91c818f31384bd28383841ddaf8d7"
     },
     "python-engineio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-engineio.git",
