@@ -4639,7 +4639,7 @@
     "python-pygls": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygls.git",
       "branch": "master",
-      "revision": "82c107b7f7634eaf6d147967ba7922454bc0b172"
+      "revision": "a118b1b807a754fed9b7a8996bd1b176fbccc1b2"
     },
     "python-pygments": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygments.git",
