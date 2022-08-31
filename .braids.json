@@ -6584,7 +6584,7 @@
     "python-zeroconf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zeroconf.git",
       "branch": "master",
-      "revision": "d0390c586c722745b523f2c815703b14a1760edf"
+      "revision": "d39fe49ceebf848a8246922ef9a864624857bb51"
     },
     "python-zict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zict.git",
