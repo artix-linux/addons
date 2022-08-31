@@ -2986,6 +2986,11 @@
       "branch": "master",
       "revision": "2361f5d81a7a975fda6c87363f3d9e13d86c1822"
     },
+    "python-hatch-fancy-pypi-readme": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-fancy-pypi-readme.git",
+      "branch": "master",
+      "revision": "76eda430b758d1ab26d48667451a43d721978faa"
+    },
     "python-hatch-vcs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-vcs.git",
       "branch": "master",
