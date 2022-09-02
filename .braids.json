@@ -4866,6 +4866,11 @@
       "branch": "master",
       "revision": "5d248cc6ec55bdd1f82ae9792b267d36d4eece78"
     },
+    "python-pysmt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysmt.git",
+      "branch": "master",
+      "revision": "0915a294d58919dd32cdb9b4fb645a66c063ac61"
+    },
     "python-pysocks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysocks.git",
       "branch": "master",
