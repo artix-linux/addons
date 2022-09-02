@@ -2064,7 +2064,7 @@
     "python-claripy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-claripy.git",
       "branch": "master",
-      "revision": "3fc47b5ccb8bf4b04711b02af80305f2f609742a"
+      "revision": "12f081ee44909fe2240a00d7f9a29934af2fea36"
     },
     "python-cleo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cleo.git",
