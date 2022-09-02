@@ -1934,7 +1934,7 @@
     "python-cachecontrol": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachecontrol.git",
       "branch": "master",
-      "revision": "4c3b542e38bd6b977e3f5f6a767c76a3e9ec776a"
+      "revision": "edb86ab1690dee9ce17f6f25aad34574949dddb1"
     },
     "python-cached-property": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cached-property.git",
