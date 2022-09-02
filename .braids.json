@@ -3369,7 +3369,7 @@
     "python-json5": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-json5.git",
       "branch": "master",
-      "revision": "4f8bc5d4094a5eafc218a644c5cf9e7d4f0132be"
+      "revision": "91a7d7026ba1bf742163ab8458035dec692060ac"
     },
     "python-jsondiff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsondiff.git",
