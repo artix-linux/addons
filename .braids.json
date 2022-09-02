@@ -6319,7 +6319,7 @@
     "python-vcrpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vcrpy.git",
       "branch": "master",
-      "revision": "4a1018b961c948ca96bb919a51effea94530ce60"
+      "revision": "c095e1759162e958174d896d692d1656180a6094"
     },
     "python-versioningit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-versioningit.git",
