@@ -1644,7 +1644,7 @@
     "python-arpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-arpy.git",
       "branch": "master",
-      "revision": "a4286a7e5bbb0d6f8f73b188c663a51fd9de7590"
+      "revision": "41531a123831b8de2ae78af6da69d061233ec901"
     },
     "python-arrow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-arrow.git",
