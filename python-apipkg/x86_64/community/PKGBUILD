@@ -1,4 +1,5 @@
 # Maintainer: qontinuum <qontinuum@artixlinux.org>
+#
 
 pkgname=python-apipkg
 pkgver=3.0.1
