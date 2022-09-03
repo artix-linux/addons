@@ -3,7 +3,7 @@
 _pyname=claripy
 pkgname=python-${_pyname}
 pkgver=9.2.14
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Abstraction layer for constraint solvers'
 url='https://github.com/angr/claripy'
 license=('custom:BSD2')
