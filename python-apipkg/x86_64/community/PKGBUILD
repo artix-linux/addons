@@ -2,7 +2,7 @@
 
 pkgname=python-apipkg
 pkgver=3.0.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc="Namespace control and lazy-import mechanism"
 arch=('any')
 license=('MIT')
