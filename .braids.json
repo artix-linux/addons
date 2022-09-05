@@ -5424,7 +5424,7 @@
     "python-requirementslib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requirementslib.git",
       "branch": "master",
-      "revision": "11e05ffb5c45d0f02c197d6a5f5e423b39b788ca"
+      "revision": "ea04d3d707e86e4ce22051898e42cbf632e37a27"
     },
     "python-resolvelib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-resolvelib.git",
