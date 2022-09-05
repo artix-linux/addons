@@ -3169,7 +3169,7 @@
     "python-importlib-metadata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-importlib-metadata.git",
       "branch": "master",
-      "revision": "3f27427662026440d912d0c291c32902e2adf4d4"
+      "revision": "555ecb67ce021e0254e0960ddf002b3764c0cbbc"
     },
     "python-importlib_resources": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-importlib_resources.git",
