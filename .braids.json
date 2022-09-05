@@ -6434,7 +6434,7 @@
     "python-warlock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-warlock.git",
       "branch": "master",
-      "revision": "80aa78149f1561b8fcd4ecdfbb8a265113d4adfc"
+      "revision": "ab09b97a1a90c5561d3e77bec8be88591c1529c6"
     },
     "python-watchdog": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-watchdog.git",
