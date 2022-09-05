@@ -4386,6 +4386,11 @@
       "branch": "master",
       "revision": "f09da20905f053c08977a0245ae6900c5919971c"
     },
+    "python-poetry-plugin-export": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry-plugin-export.git",
+      "branch": "master",
+      "revision": "a5b2c34081065cf76857c1a09e0189a2ec670b82"
+    },
     "python-portend": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-portend.git",
       "branch": "master",
