@@ -4334,7 +4334,7 @@
     "python-pip-shims": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip-shims.git",
       "branch": "master",
-      "revision": "319271aa4ad3f3dc46d3dc5a4cbaf5f5a3beba47"
+      "revision": "bf58901b25c2d067baf88fcf5f3f8703f7517e0c"
     },
     "python-pipreqs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pipreqs.git",
