@@ -4264,7 +4264,7 @@
     "python-pep621": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep621.git",
       "branch": "master",
-      "revision": "f7a8f147ea093eb61553d0f7cdb369321bbc9aef"
+      "revision": "cbe720ce876926a2d0b138b4e0ce14e40db74ff4"
     },
     "python-perf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-perf.git",
