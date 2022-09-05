@@ -5836,6 +5836,11 @@
       "branch": "master",
       "revision": "0984d759ea2f8261f01551251b92d3476bea747d"
     },
+    "python-sphinx-pytest": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-pytest.git",
+      "branch": "master",
+      "revision": "31d7cd96ec670da428f8744cd4bcf422febfe1d4"
+    },
     "python-sphinx-reredirects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-reredirects.git",
       "branch": "master",
