@@ -4,7 +4,7 @@
     "perl-acme-alien-dontpanic": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-acme-alien-dontpanic.git",
       "branch": "master",
-      "revision": "da93f09e5234e1351673956f31ab04baae964ba8"
+      "revision": "0efd1cb6b9870232efd3577a83f8c5d0e78cf57c"
     },
     "perl-alien-base-modulebuild": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-base-modulebuild.git",
