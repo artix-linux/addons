@@ -2204,7 +2204,7 @@
     "python-coverage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-coverage.git",
       "branch": "master",
-      "revision": "31228e9cbbddfda112ea56a09c38ccccebd3577b"
+      "revision": "c842b1a5ff54eb5eebd68a8471e0fbf7c8f39ef3"
     },
     "python-cppy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cppy.git",
