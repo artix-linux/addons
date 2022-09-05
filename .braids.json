@@ -3994,7 +3994,7 @@
     "python-openapi-schema-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-schema-validator.git",
       "branch": "master",
-      "revision": "3ddaf0fea58695e06b4d99dbf5752e8087e1d185"
+      "revision": "8cdd5ae12498d99295851b18dad3de78e9974980"
     },
     "python-openapi-spec-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-spec-validator.git",
