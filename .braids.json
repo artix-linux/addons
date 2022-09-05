@@ -1409,7 +1409,7 @@
     "perl-xml-xpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-xpath.git",
       "branch": "master",
-      "revision": "280630eb08a532ec542d148f50fbb87bfa60c8e2"
+      "revision": "013d0632adc0a8c9c71cd0eb5f583aafca988d8a"
     },
     "perl-yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-yaml.git",
