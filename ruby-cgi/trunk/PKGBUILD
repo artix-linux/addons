@@ -3,7 +3,7 @@
 _gemname='cgi'
 pkgname="ruby-${_gemname}"
 pkgver=0.3.2
-pkgrel=5
+pkgrel=5.1
 pkgdesc='Support for the Common Gateway Interface protocol.'
 arch=('x86_64')
 url="https://github.com/ruby/${_gemname}"
