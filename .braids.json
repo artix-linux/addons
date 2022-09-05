@@ -6154,7 +6154,7 @@
     "python-tqdm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tqdm.git",
       "branch": "master",
-      "revision": "40b73773e06c3ba9c5cfb002579fb93fb3319792"
+      "revision": "6654683cd0157a6ca269e4b145c8cc9e2ac5497a"
     },
     "python-traitlets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-traitlets.git",
