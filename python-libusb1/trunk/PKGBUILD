@@ -1,28 +1,28 @@
-# Maintainer: Filipe Laíns (FFY00) <lains@archlinux.org>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 
 _pkgname=libusb1
 pkgname=python-$_pkgname
-pkgver=2.0.1
-pkgrel=3
+pkgver=3.0.0
+pkgrel=1
 pkgdesc='Python ctype-based wrapper around libusb1'
 arch=('any')
 url='https://github.com/vpelletier/python-libusb1'
 license=('LGPL2.1')
 depends=('python' 'libusb')
-makedepends=('python-setuptools' 'python-wheel')
+makedepends=('python-build' 'python-installer' 'python-setuptools' 'python-wheel')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/$pkgver.tar.gz")
-sha512sums=('d19350aa62ddd7325f2417d69ec6716068f2cc1778f9d25cd51420ffd92d2ef9c998c831a2e3cde2c32855ba339a963e2f9b078d4ff7e315c1444a6f6f8f26e7')
+sha512sums=('7812dc4a22fc277f9791fb7050aa0a9c3953d1d3b386bb848380026a036a09bdff7745163eab07f5b70f919cb45ea4cd14f212f9e065dee670afee97a458de9d')
 
 build() {
   cd $pkgname-$pkgver
 
-  python setup.py build
+  python -m build -nw
 }
 
 package() {
   cd $pkgname-$pkgver
 
-  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+  python -m installer -d "$pkgdir" dist/*.whl
 }
 
 # vim:set ts=2 sw=2 et:
