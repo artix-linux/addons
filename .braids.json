@@ -1009,7 +1009,7 @@
     "perl-scalar-list-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-scalar-list-utils.git",
       "branch": "master",
-      "revision": "8bf2dd8cb0cc2a8cb20d7bc685bc4e10e249861d"
+      "revision": "e1e5ec08ba23dd1a2990091c6f305c8172c147cf"
     },
     "perl-scope-guard": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-scope-guard.git",
