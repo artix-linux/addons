@@ -3549,7 +3549,7 @@
     "python-libusb1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libusb1.git",
       "branch": "master",
-      "revision": "83dc4c61be182e1dd0794819885c98e3f0c0ac7e"
+      "revision": "61e01d24dd8f8d5dc3b0586f6aebd3bcff6e49a1"
     },
     "python-license-expression": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-license-expression.git",
