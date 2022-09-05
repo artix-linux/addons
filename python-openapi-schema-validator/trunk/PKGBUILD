@@ -1,18 +1,22 @@
 # Maintainer: qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-openapi-schema-validator
-pkgver=0.3.0
+pkgver=0.3.2
 pkgrel=1
 pkgdesc="OpenAPI schema validation for Python"
 url="https://github.com/p1c2u/openapi-schema-validator"
 license=('BSD')
 arch=('any')
-depends=('python-isodate' 'python-jsonschema' 'python-six')
-makedepends=('python-build' 'python-installer' 'python-poetry')
-checkdepends=('python-pytest-cov' 'python-pytest-flake8' 'python-rfc3339-validator'
-              'python-strict-rfc3339')
+depends=('python-attrs' 'python-jsonschema')
+makedepends=('python-build' 'python-installer' 'python-poetry-core')
+checkdepends=('python-pytest' 'python-isodate' 'python-rfc3339-validator' 'python-strict-rfc3339')
 source=("https://github.com/p1c2u/openapi-schema-validator/archive/$pkgver/$pkgname-$pkgver.tar.gz")
-sha512sums=('003ea97a1cac598eb3728d96291d8be56c6ba9e2d3cd4f77c1258962f67b460a887f4473fed39587870583e13a83403623c3b2f96fa8d02345583cd3bdaf008b')
+sha512sums=('c1aa992334c75573a8a5bc49018e783516d7142185391cb35a7bdcb3143413d9909c4a0a40c68f2cceb85fca1ce3fdeeba9acfd271a9e47915daf9b848791984')
+
+prepare() {
+  cd openapi-schema-validator-$pkgver
+  sed -i '/--cov/d' pyproject.toml
+}
 
 build() {
   cd openapi-schema-validator-$pkgver
