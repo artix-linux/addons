@@ -7533,7 +7533,7 @@
     "ruby-webmock": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-webmock.git",
       "branch": "master",
-      "revision": "f559ae1112f035124c94bbb3c8c373b1288b3438"
+      "revision": "6b4962eb681d3f3a368321565db6da696d74cbbe"
     },
     "ruby-webrick": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-webrick.git",
