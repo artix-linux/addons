@@ -7023,7 +7023,7 @@
     "ruby-forwardable": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-forwardable.git",
       "branch": "master",
-      "revision": "6574cc5909437f60a30084f8fb06e15488abbd68"
+      "revision": "05f757b6a2a35239d6a8cc8c35794ec42d121b1f"
     },
     "ruby-getoptlong": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-getoptlong.git",
