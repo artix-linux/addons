@@ -4579,7 +4579,7 @@
     "python-pycodestyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycodestyle.git",
       "branch": "master",
-      "revision": "65c6c891748f0a555eefc93bf2ffe2b8785cde51"
+      "revision": "35446ce2cae5c6b67b3c5682926265235045fc99"
     },
     "python-pycontracts": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycontracts.git",
