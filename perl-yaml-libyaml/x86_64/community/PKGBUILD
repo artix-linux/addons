@@ -1,10 +1,10 @@
-# Maintainer: Sergej Pupykin <arch+pub@sergej.pp.ru>
+# Maintainer: artoo <artoo@artixlinux.org>
 # Contributor: John D Jones III AKA jnbek <jnbek1972 -_AT_- g m a i l -_Dot_- com>
 # Generator  : CPANPLUS::Dist::Arch 1.32
 
 pkgname='perl-yaml-libyaml'
-pkgver=0.83
-pkgrel=3
+pkgver=0.84
+pkgrel=1
 pkgdesc="Perl YAML Serialization using XS and libyaml"
 arch=('x86_64')
 license=('PerlArtistic' 'GPL')
@@ -13,7 +13,7 @@ depends=('perl')
 makedepends=()
 url='https://search.cpan.org/dist/YAML-LibYAML/'
 source=("https://cpan.metacpan.org/authors/id/T/TI/TINITA/YAML-LibYAML-$pkgver.tar.gz")
-sha256sums=('b47175b4ff397ad75a4f7781d3d83c08637da6ff0bae326af3b389d854bec490')
+sha256sums=('225bcb39be2d5e3d02df7888d5f99fd8712f048ba539b09232ca1481e70bfd05')
 
 build() {
   ( export PERL_MM_USE_DEFAULT=1 PERL5LIB=""                 \
