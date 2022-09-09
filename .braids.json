@@ -1259,7 +1259,7 @@
     "perl-test-warn": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-warn.git",
       "branch": "master",
-      "revision": "f20cf1e0c88dfc52911b6e8067f408fcdac9db96"
+      "revision": "78e0b81d80b2e8012115c31f8b708dfb0bfdb576"
     },
     "perl-test-warnings": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-warnings.git",
