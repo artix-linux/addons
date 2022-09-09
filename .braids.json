@@ -1284,7 +1284,7 @@
     "perl-text-csv": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-csv.git",
       "branch": "master",
-      "revision": "bbf91f4ca7d1e8d38da675e65120336fd85409d6"
+      "revision": "99403e1197e094c1e63e03f8d379782ece3f5581"
     },
     "perl-text-glob": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-glob.git",
