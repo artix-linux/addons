@@ -594,7 +594,7 @@
     "perl-ipc-run": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ipc-run.git",
       "branch": "master",
-      "revision": "30af7c1601ec88ba18ce18e744407d585c434066"
+      "revision": "0874bf978345afc97406ac1dab4f3b3e0a8f6b39"
     },
     "perl-ipc-run3": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ipc-run3.git",
