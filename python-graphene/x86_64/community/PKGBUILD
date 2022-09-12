@@ -2,7 +2,7 @@
 # Contributor: Sven Schneider <archlinux.sandmann@googlemail.com>
 
 pkgname=python-graphene
-pkgver=3.1.0
+pkgver=3.1.1
 pkgrel=1
 pkgdesc='GraphQL framework for Python'
 arch=(any)
@@ -18,24 +18,24 @@ makedepends=(
   git
   python-setuptools
 )
-_tag=5475a7ad1ff982b973f4c8c2a4507020c8682e15
-source=(python-graphene::git+https://github.com/graphql-python/graphene.git#tag=${_tag})
+_tag=b20bbdcdf728eb1e009edb20da62df1f13fb165f
+source=(git+https://github.com/graphql-python/graphene.git#tag=${_tag})
 sha512sums=(SKIP)
 
 pkgver() {
-  cd "$pkgname"
+  cd graphene
 
   git describe --tags | sed 's/^v//'
 }
 
 build() {
-  cd "$pkgname"
+  cd graphene
 
   python setup.py build
 }
 
 package() {
-  cd "$pkgname"
+  cd graphene
 
   python setup.py install --root="${pkgdir}" --optimize=1 --skip-build
   install -Dm 644 LICENSE -t "${pkgdir}"/usr/share/licenses/python-graphene
