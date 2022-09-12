@@ -77,6 +77,7 @@ check() {
   # Ignore server tests as the server is partially broken with werkzeug 2.2.x
   # https://github.com/spulec/moto/issues/5341
   PYTHONDONTWRITEBYTECODE=1 TZ=UTC pytest tests -m 'not needs_docker' \
+    --deselect='tests/test_s3/test_multiple_accounts_server.py::TestAccountIdResolution::test_with_custom_request_header' \
     --ignore=tests/test_appsync/test_server.py \
     --ignore=tests/test_s3/test_server.py
 }
