@@ -2,7 +2,7 @@
 # Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
 
 pkgname=python-oslo-utils
-pkgver=4.12.2
+pkgver=4.13.0
 pkgrel=1
 pkgdesc="Oslo Utility library"
 arch=('any')
@@ -13,7 +13,7 @@ depends=('python-pbr' 'python-iso8601' 'python-oslo-i18n' 'python-pytz' 'python-
 makedepends=('python-setuptools')
 checkdepends=('python-oslotest' 'python-ddt' 'python-eventlet')
 source=("https://github.com/openstack/oslo.utils/archive/$pkgver/$pkgname-$pkgver.tar.gz")
-sha512sums=('51883d629f2760bda599906f6cbff42d0869c5a131de845981b4ee3837120d2bc9b7608989a564f0bfe701ad93d20ee1a65bb1b2908b878dc28a81b7a30c034b')
+sha512sums=('7a21d3b341794ff5378660b05276c807add1414d00e1fe8feebc8811da2fdf722bbcb4a91a7dad330c435b7ad8bc57978de018b1a31aaee4de9984fa6946f6ef')
 
 export PBR_VERSION=$pkgver
 
