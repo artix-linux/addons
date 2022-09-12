@@ -2379,7 +2379,7 @@
     "python-discogs-client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-discogs-client.git",
       "branch": "master",
-      "revision": "918a0017f01c2f5fa9b70dfc5ceb8d713a28c27b"
+      "revision": "c0c46fad37d7010f81b193d23b6f7192bc2aebb4"
     },
     "python-distlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distlib.git",
