@@ -3884,7 +3884,7 @@
     "python-nbxmpp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nbxmpp.git",
       "branch": "master",
-      "revision": "871a4d7c2e66514b83d9dd545aa29edb07899e63"
+      "revision": "8c07959780d4faf3151faf49ac3e9fc5798e9c07"
     },
     "python-ndg-httpsclient": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ndg-httpsclient.git",
