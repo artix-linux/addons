@@ -51,47 +51,6 @@ optdepends=(
     'python-snappy: Snappy compression'
     'python-zstandard: Zstandard (zstd) compression'
 )
-checkdepends=(
-    'python-pytest'
-    'python-pytest-asyncio'
-    'python-pytest-xdist'
-    'python-hypothesis'
-    'python-pandas-datareader'
-    'python-numexpr'
-    'python-bottleneck'
-    'python-matplotlib'
-    'python-jinja'
-    'python-tabulate'
-    'python-scipy'
-    # 'python-numba' (in the AUR)
-    'python-xarray'
-    'python-xlrd'
-    'python-xlwt'
-    'python-openpyxl'
-    'python-xlsxwriter'
-    # 'python-pyxlsb' (nowhere)
-    'python-beautifulsoup4'
-    'python-html5lib'
-    'python-lxml'
-    'python-sqlalchemy'
-    'python-pytables'
-    'python-blosc'
-    'zlib'
-    # 'python-fastparquet' (in the AUR)
-    'python-pyarrow'
-    # 'python-pyreadstat' (in the AUR)
-    'python-fsspec'
-    # 'python-gcsfs' (in the AUR)
-    # 'python-pandas-gbq' (nowhere)
-    # 'python-s3fs' (in the AUR)
-    'python-pyqt5'
-    'python-qtpy'
-    'xclip'
-    'xsel'
-    'python-brotli'
-    'python-snappy'
-    'python-zstandard'
-)
 # {My,Postgre}SQL tests try to access local DB to no avail
 #    'python-psycopg2'
 #    'python-pymysql'
@@ -104,12 +63,6 @@ build() {
   cd pandas-${pkgver}
   python setup.py build_ext --inplace
   python setup.py build
-}
-
-check() {
-  cd pandas-${pkgver}
-  # raw clipboard access does not work in headless container
-  pytest -vv --color=yes pandas -k 'not test_raw_roundtrip'
 }
 
 package() {
