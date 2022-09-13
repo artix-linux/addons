@@ -13,9 +13,9 @@ makedepends=(pybind11 python-build python-installer python-wheel python-toml pyt
 depends=(python-lxml python-pillow python-deprecation python-typing_extensions python-packaging qpdf)
 checkdepends=(python-pytest-xdist python-hypothesis)
 source=(https://pypi.python.org/packages/source/p/pikepdf/pikepdf-$pkgver.tar.gz
-        qpdf-11.0.0.diff::https://github.com/pikepdf/pikepdf/compare/master...feature/qpdf11.patch)
+        qpdf-11.0.0.diff::https://github.com/pikepdf/pikepdf/compare/v5.6.1...feature/qpdf11.patch)
 sha256sums=('03fb70ff4fada9cba864d04033f4166b5bf7fa85c90cdc05afd0ab87c9ccaa1a'
-            'SKIP')
+            'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855')
 options=(!makeflags)
 
 prepare () {
