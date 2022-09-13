@@ -374,7 +374,7 @@
     "perl-ffi-checklib": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ffi-checklib.git",
       "branch": "master",
-      "revision": "3e0027861464dbac6c9a5c3e14c269fa129dff0f"
+      "revision": "8c503be99dc295d25463d6d62d170b7bc2894d2d"
     },
     "perl-file-chdir": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-file-chdir.git",
