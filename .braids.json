@@ -14,7 +14,7 @@
     "perl-alien-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-build.git",
       "branch": "master",
-      "revision": "16cc87385262dbc318a5403f40bfcc68088ebc09"
+      "revision": "d60da02b0efa4c009a7f9b1bbcac90e78e1da2ac"
     },
     "perl-alien-cmake3": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-cmake3.git",
