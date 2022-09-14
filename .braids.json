@@ -7033,7 +7033,7 @@
     "ruby-glib2": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-glib2.git",
       "branch": "master",
-      "revision": "6baa6f60a492de7ab78c59ea7282ebab05626640"
+      "revision": "1aff8f6f096e1bd9b9709d3c45c437c8fedb7379"
     },
     "ruby-hashdiff": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hashdiff.git",
