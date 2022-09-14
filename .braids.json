@@ -6923,7 +6923,7 @@
     "ruby-etc": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-etc.git",
       "branch": "master",
-      "revision": "636612f1c6d18328f1ae09e68766adaf638ff6a5"
+      "revision": "d8092d1dc47500cfe540a2e0e215d34e2ca1246c"
     },
     "ruby-eventmachine": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-eventmachine.git",
