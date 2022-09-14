@@ -6878,7 +6878,7 @@
     "ruby-delegate": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-delegate.git",
       "branch": "master",
-      "revision": "a1f85598ee949615a7536713e1de856dea09900c"
+      "revision": "0bf6237ff2db509fa0282398d6a07aaeaeff13a2"
     },
     "ruby-did_you_mean": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-did_you_mean.git",
