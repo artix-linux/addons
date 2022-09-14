@@ -7508,7 +7508,7 @@
     "ruby-tmpdir": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tmpdir.git",
       "branch": "master",
-      "revision": "6dd7904fa63b4688a9319b724e3810d6fa352090"
+      "revision": "a56c0f0b3c55f746aba9c604b4f5c26bcff00048"
     },
     "ruby-tzinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tzinfo.git",
