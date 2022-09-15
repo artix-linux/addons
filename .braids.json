@@ -2459,7 +2459,7 @@
     "python-doublex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doublex.git",
       "branch": "master",
-      "revision": "32e006a728ad7d08bf86359f0a12b3a978e0943c"
+      "revision": "48e9e1f68f7671f7147247b030edd072bf05ee12"
     },
     "python-doublex-expects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doublex-expects.git",
