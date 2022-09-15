@@ -2014,7 +2014,7 @@
     "python-certifi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-certifi.git",
       "branch": "master",
-      "revision": "5ca63d35a627ef4464c35f66ab4b70dec7579335"
+      "revision": "f7dd4f772e3614dae8971d1542df6fa113e2dff9"
     },
     "python-cffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cffi.git",
