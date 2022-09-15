@@ -3,7 +3,7 @@
 _gemname='cgi'
 pkgname="ruby-${_gemname}"
 pkgver=0.3.2
-pkgrel=8
+pkgrel=8.1
 pkgdesc='Support for the Common Gateway Interface protocol.'
 arch=('x86_64')
 url="https://github.com/ruby/${_gemname}"
@@ -43,7 +43,7 @@ build() {
 check() {
   cd "${_gemname}-${pkgver}"
 
-  #rake test
+  rake test
 }
 
 package() {
