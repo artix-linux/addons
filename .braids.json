@@ -3951,6 +3951,11 @@
       "branch": "master",
       "revision": "46a833cb791316e3167fc3d79173a8809f6fa6f9"
     },
+    "python-nose2": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose2.git",
+      "branch": "master",
+      "revision": "227bd1a5ed6bedfd6fb0144f3217a4f6ffea7b12"
+    },
     "python-nosexcover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nosexcover.git",
       "branch": "master",
