@@ -4274,7 +4274,7 @@
     "python-pep440": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep440.git",
       "branch": "master",
-      "revision": "899f4c709238cfdbb089ed7aea0c5fc82d297c00"
+      "revision": "968b20aa3ee4968acf08ec47aed715a1ba42c2a5"
     },
     "python-pep517": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pep517.git",
