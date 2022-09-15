@@ -3,7 +3,7 @@
 _gemname='digest'
 pkgname="ruby-${_gemname}"
 pkgver=3.1.0
-pkgrel=4
+pkgrel=4.1
 pkgdesc='Provides a framework for message digest libraries'
 arch=('x86_64')
 url="https://github.com/ruby/${_gemname}"
@@ -37,7 +37,7 @@ check() {
   cd "${_gemname}-${pkgver}"
 
   rake check
-  #rake test
+  rake test
 }
 
 package() {
