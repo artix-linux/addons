@@ -3,7 +3,7 @@
 _gemname='bigdecimal'
 pkgname="ruby-${_gemname}"
 pkgver=3.1.2
-pkgrel=2
+pkgrel=2.1
 pkgdesc='This library provides arbitrary-precision decimal floating-point number class'
 arch=('x86_64')
 url="https://github.com/ruby/bigdecimal"
@@ -32,7 +32,7 @@ build() {
 check() {
   cd "${_gemname}-${pkgver}"
 
-  #rake test
+  rake test
 }
 
 package() {
