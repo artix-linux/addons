@@ -37,7 +37,7 @@ check() {
   cd "${_gemname}-${pkgver}"
 
   rake check
-  rake test
+  #rake test
 }
 
 package() {
