@@ -9,7 +9,7 @@
     "perl-alien-base-modulebuild": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-base-modulebuild.git",
       "branch": "master",
-      "revision": "dabcc649f91f74da740cccad2f2c37fcf098ba93"
+      "revision": "381ec0ff82aa6178c23916cb0eb222dfa19b5583"
     },
     "perl-alien-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-build.git",
