@@ -6734,7 +6734,7 @@
     "python-zope-schema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-schema.git",
       "branch": "master",
-      "revision": "97b270ea0384da317e0ec8d35865277f30077144"
+      "revision": "abb9575f83e833863ba102fd73fab18c0cda562c"
     },
     "python-zope-security": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-security.git",
