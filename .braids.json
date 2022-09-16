@@ -4704,7 +4704,7 @@
     "python-pyhamcrest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyhamcrest.git",
       "branch": "master",
-      "revision": "bf06252b1fb94a8ddabca95fad26c3f52ab51ff9"
+      "revision": "5c84df8680974642066674b99cb9d22eb4c11b7d"
     },
     "python-pyhcl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyhcl.git",
