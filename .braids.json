@@ -724,7 +724,7 @@
     "perl-mime-charset": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mime-charset.git",
       "branch": "master",
-      "revision": "d213ceb6b189a8bf5cda009d37e60640172965c9"
+      "revision": "1db31ab13e101f6af3fc645627d9e145cd69c692"
     },
     "perl-mime-types": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mime-types.git",
