@@ -6893,7 +6893,7 @@
     "ruby-did_you_mean": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-did_you_mean.git",
       "branch": "master",
-      "revision": "96d3d94651ace99c0a86a8bcd80e916f26caa0f5"
+      "revision": "afdecd8f7c384065118d7f2a1ad9a993a0908760"
     },
     "ruby-diff-lcs": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-diff-lcs.git",
