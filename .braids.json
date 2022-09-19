@@ -6903,7 +6903,7 @@
     "ruby-digest": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-digest.git",
       "branch": "master",
-      "revision": "0af5f2cd7ccba80e22f0e31791ee8ded092f1bbe"
+      "revision": "01bd74c54c3d5b20169ce5f9872b31c655ec05d2"
     },
     "ruby-domain_name": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-domain_name.git",
