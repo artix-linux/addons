@@ -7108,7 +7108,7 @@
     "ruby-ipaddr": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ipaddr.git",
       "branch": "master",
-      "revision": "8377b5373a7e29835bb0676973b3151e653c491f"
+      "revision": "c83c8e5f04a5efa11fd92885ac04dfb14c015e34"
     },
     "ruby-irb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-irb.git",
