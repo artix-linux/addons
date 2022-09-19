@@ -7028,7 +7028,7 @@
     "ruby-find": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-find.git",
       "branch": "master",
-      "revision": "62a93ad0b0271a645ed99d34bd4b0f40f6e1084c"
+      "revision": "1301b56c3ac30d23680e4328b68329d2c2bc2852"
     },
     "ruby-forwardable": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-forwardable.git",
