@@ -3,7 +3,7 @@
 _gemname='mutex_m'
 pkgname="ruby-${_gemname}"
 pkgver=0.1.1
-pkgrel=2
+pkgrel=2.1
 pkgdesc='Mixin to extend objects to be handled like a Mutex'
 arch=('any')
 url="https://github.com/ruby/${_gemname}"
@@ -30,7 +30,7 @@ build() {
 check() {
   cd "${_gemname}-${pkgver}"
 
-  #rake test
+  rake test
 }
 
 package() {
