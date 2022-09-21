@@ -3,7 +3,7 @@
 _gemname='logger'
 pkgname="ruby-${_gemname}"
 pkgver=1.5.1
-pkgrel=2
+pkgrel=2.1
 pkgdesc='Provides a simple logging utility for outputting messages'
 arch=('any')
 url="https://github.com/ruby/${_gemname}"
@@ -30,7 +30,7 @@ build() {
 check() {
   cd "${_gemname}-${pkgver}"
 
-  #rake test
+  rake test
 }
 
 package() {
