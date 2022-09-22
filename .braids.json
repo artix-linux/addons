@@ -7373,7 +7373,7 @@
     "ruby-rdoc": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rdoc.git",
       "branch": "master",
-      "revision": "7ad3f2ca9bdf1079f36e95272b97695805ca4852"
+      "revision": "7d9e5ea468c241b67f6a87191fa46a7e8643410e"
     },
     "ruby-reline": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-reline.git",
