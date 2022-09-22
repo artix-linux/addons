@@ -3,7 +3,7 @@
 _gemname='io-console'
 pkgname="ruby-${_gemname}"
 pkgver=0.5.11
-pkgrel=2
+pkgrel=2.1
 pkgdesc='add console capabilities to IO instances'
 arch=('x86_64')
 url="https://github.com/ruby/${_gemname}"
@@ -36,7 +36,7 @@ build() {
 check() {
   cd "${_gemname}-${pkgver}"
 
-  #rake test
+  rake test
 }
 
 package() {
