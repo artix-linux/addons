@@ -3,7 +3,7 @@
 _gemname='io-nonblock'
 pkgname="ruby-${_gemname}"
 pkgver=0.1.0
-pkgrel=2
+pkgrel=2.1
 pkgdesc='Enables non-blocking mode with IO class'
 arch=('any')
 url="https://github.com/ruby/${_gemname}"
@@ -34,7 +34,7 @@ build() {
 check() {
   cd "${_gemname}-${pkgver}"
 
-  #rake test
+  rake test
 }
 
 package() {
