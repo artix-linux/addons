@@ -7373,7 +7373,7 @@
     "ruby-reline": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-reline.git",
       "branch": "master",
-      "revision": "7a31c2d2c02bbcfb21ac5af29a0ac9b146870987"
+      "revision": "c6fc5df74354c470a7e844dd96200f2ab07a1b71"
     },
     "ruby-rexml": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rexml.git",
