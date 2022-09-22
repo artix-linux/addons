@@ -7315,6 +7315,11 @@
       "branch": "master",
       "revision": "2428371660e9d208b69087e3f26387ddedd608a5"
     },
+    "ruby-racc": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-racc.git",
+      "branch": "master",
+      "revision": "476c3764e9be77b8068768bcf2850334f9359f9c"
+    },
     "ruby-rack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rack.git",
       "branch": "master",
