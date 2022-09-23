@@ -1139,7 +1139,7 @@
     "perl-term-table": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-term-table.git",
       "branch": "master",
-      "revision": "f7ee0d5cbb5c9def1ed471d2f2161e1257975470"
+      "revision": "0ee63859179dcac3c8b67ba6e2d34f4728bcb61a"
     },
     "perl-term-ui": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-term-ui.git",
