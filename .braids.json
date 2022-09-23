@@ -969,7 +969,7 @@
     "perl-ppix-quotelike": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ppix-quotelike.git",
       "branch": "master",
-      "revision": "7a441bb0e62a4146aec7345b276b7b098dc00219"
+      "revision": "7bfc369754cc81b153f1557a5ade799ddaec96d2"
     },
     "perl-ppix-regexp": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ppix-regexp.git",
