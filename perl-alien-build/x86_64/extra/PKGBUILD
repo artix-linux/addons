@@ -1,7 +1,7 @@
 # Maintainer: artoo <artoo@artixlinux.org>
 
 pkgname=perl-alien-build
-pkgver=2.66
+pkgver=2.68
 pkgrel=1
 pkgdesc="Build external dependencies for use in CPAN"
 arch=('any')
@@ -14,7 +14,7 @@ checkdepends=('perl-alien-base-modulebuild' 'perl-alien-cmake3' 'perl-env-shellw
               'perl-pkgconfig' 'perl-pkgconfig-libpkgconf' 'perl-readonly' 'perl-sort-versions')
 options=('!emptydirs')
 source=("https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Build-$pkgver.tar.gz")
-sha512sums=('8893eb6a9a2b9744402dc6abb723cae93f07afe15e0da9f23e508b83bea552dd2d0c8c29d07ba6a5a98ed6c6bae7e952a5a935c6b4ba0ed9155bb6b89c4817ea')
+sha512sums=('ecc97a7069f3c3c254710eae6237b4ef43abc75c88e7f0e405de877d817c1f2abd0caa797ffa3b8427fabb21e4063945040c2c4ceaa8631904cf45cecd191944')
 
 build() {
   cd Alien-Build-$pkgver
