@@ -4614,7 +4614,7 @@
     "python-pycryptodome": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycryptodome.git",
       "branch": "master",
-      "revision": "eae20ed5103ae522576b1ee052304907a435eb22"
+      "revision": "bf457a44d1671aa82177b5039504b90b3f23357f"
     },
     "python-pycryptodomex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycryptodomex.git",
