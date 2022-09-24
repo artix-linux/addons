@@ -7118,7 +7118,7 @@
     "ruby-irb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-irb.git",
       "branch": "master",
-      "revision": "3c0d07020874ed88030aa5978a5868f4745aea37"
+      "revision": "bbce05e963541edbd42f78e14de804011686bcdd"
     },
     "ruby-json": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-json.git",
