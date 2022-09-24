@@ -1669,7 +1669,7 @@
     "python-asteval": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asteval.git",
       "branch": "master",
-      "revision": "5b8433d730d73d05f6834007292096be857cd907"
+      "revision": "9625b6f21a899affc027319cbf57fac1f3cdd352"
     },
     "python-astor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-astor.git",
