@@ -1504,7 +1504,7 @@
     "python-aioresponses": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aioresponses.git",
       "branch": "master",
-      "revision": "425d08e31a2692f8df4a1a0c47adf1de4f88197f"
+      "revision": "d0a3b770dd81f5f0e13ec39a5eef8a984017edd9"
     },
     "python-aiorpcx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiorpcx.git",
