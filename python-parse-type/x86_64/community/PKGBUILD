@@ -11,7 +11,7 @@ depends=('python-parse' 'python-six')
 makedepends=('python-setuptools')
 checkdepends=('python-pytest' 'python-pytest-html')
 source=("https://github.com/jenisys/parse_type/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
-sha512sums=('ace12b013306d5d330ffecca2f929667169da24b6593f86c13820ff34628fb00ef045c37f5c8b6ddc1094d5a8ed6fb929918871b1d0493ef6719d2bb3d2293de')
+sha512sums=('cbe2c8d2bac567cb89b600ef4b0fb5e65c5afdb8e83c3da01cf0b80ce40630c6fb0e1156e352f8b64d5b6d69555126edfbd3f48c6482f7fe8cfb79fcff8ac5b7')
 
 build() {
   cd parse_type-$pkgver
