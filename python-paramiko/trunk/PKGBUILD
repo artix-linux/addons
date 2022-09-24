@@ -1,11 +1,11 @@
-# Maintainer: Angel Velasquez <angvp@archlinux.org>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Maintainer: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Douglas Soares de Andrade <douglas@archlinux.org>
 # Contributor: Mario Danic <mario.danic@gmail.com>
 
 pkgname=python-paramiko
 pkgver=2.11.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Python module that implements the SSH2 protocol"
 url="https://github.com/paramiko/paramiko/"
 license=('LGPL')
