@@ -2629,7 +2629,7 @@
     "python-fastjsonschema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastjsonschema.git",
       "branch": "master",
-      "revision": "76ab86f0702de9f6d8f5a3d9697f91ddab5503c2"
+      "revision": "a8f1fae52117bb6e424bcfb8b7728777ce15fe18"
     },
     "python-fastnumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastnumbers.git",
