@@ -3369,7 +3369,7 @@
     "python-js2py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-js2py.git",
       "branch": "master",
-      "revision": "e8eaef39e7d75c859e6d343c2c2f9f93aabf8a25"
+      "revision": "8b889d6d2538a994ce24c9a3203a84a0ea9832ed"
     },
     "python-jschema-to-python": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jschema-to-python.git",
