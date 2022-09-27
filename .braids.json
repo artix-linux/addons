@@ -2579,7 +2579,7 @@
     "python-executing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-executing.git",
       "branch": "master",
-      "revision": "5ce83fc28c61eca2a8c89e10372d2841f2d18b32"
+      "revision": "cbfe3e5dde083167e2debfad004d6cc5d6a74a49"
     },
     "python-expects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-expects.git",
