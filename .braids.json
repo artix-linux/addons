@@ -4409,7 +4409,7 @@
     "python-poetry": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry.git",
       "branch": "master",
-      "revision": "f3e5a679c39f0b04af0ad0c951f72af2679d32ce"
+      "revision": "db48a77be88b0dd739c6255532a26a943a96a71c"
     },
     "python-poetry-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry-core.git",
