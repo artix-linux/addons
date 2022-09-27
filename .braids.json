@@ -1834,7 +1834,7 @@
     "python-bincopy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bincopy.git",
       "branch": "master",
-      "revision": "e0e5c998c4b595fc67dbd374cdce7bd32db1cf68"
+      "revision": "949a7ec4e9c7c82b75d67aa82839c1fa14109193"
     },
     "python-biopython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-biopython.git",
