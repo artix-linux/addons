@@ -4209,7 +4209,7 @@
     "python-path": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-path.git",
       "branch": "master",
-      "revision": "4ea569e2df6aa033d32471281134836a18df43b9"
+      "revision": "52d23e7585d30e75cb60aa6ddcf3f8a9376d7708"
     },
     "python-pathable": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pathable.git",
