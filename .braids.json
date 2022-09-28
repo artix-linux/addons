@@ -24,7 +24,7 @@
     "perl-alien-libxml2": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-libxml2.git",
       "branch": "master",
-      "revision": "5c8ef73f08bb6633b07014043924b0421498276c"
+      "revision": "c352664e24d0ea9527ec707574fa137f352f4ece"
     },
     "perl-appconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-appconfig.git",
