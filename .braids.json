@@ -6344,7 +6344,7 @@
     "python-unidecode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unidecode.git",
       "branch": "master",
-      "revision": "d7ef365ea012a01358d82845e0205205f526f265"
+      "revision": "abe89615ecfcfd6c71d01ee1f8887aab85a2bb7f"
     },
     "python-unidiff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unidiff.git",
