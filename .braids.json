@@ -3254,7 +3254,7 @@
     "python-iso8601": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iso8601.git",
       "branch": "master",
-      "revision": "dd987538d722d2c33d053d716d37f1e895992e3b"
+      "revision": "32aa0832c43ebd9852971f5abdc564755e3ba196"
     },
     "python-isort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-isort.git",
