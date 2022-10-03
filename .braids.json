@@ -3354,7 +3354,7 @@
     "python-joblib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-joblib.git",
       "branch": "master",
-      "revision": "5e210c71a288c79dca6429bb4f7bb44c4696697d"
+      "revision": "93c88d2f9a3dc1adb58171f357ad428a3c65169d"
     },
     "python-jose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jose.git",
