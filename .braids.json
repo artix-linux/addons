@@ -6604,7 +6604,7 @@
     "python-xmlschema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmlschema.git",
       "branch": "master",
-      "revision": "9078c5c69f760af86d41ee0bb5cda8d169ac49c9"
+      "revision": "b0a52b4cfe0b1d3880cec9c9bde4c3b58c53df14"
     },
     "python-xmlsec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmlsec.git",
