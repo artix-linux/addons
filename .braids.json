@@ -6414,7 +6414,7 @@
     "python-virtualenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-virtualenv.git",
       "branch": "master",
-      "revision": "3846481d0177625f729f803ce197cc778187922c"
+      "revision": "329caf91f10ef0c5c6f8e1fe905de06e32f75a52"
     },
     "python-vistir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vistir.git",
