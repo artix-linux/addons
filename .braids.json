@@ -7243,7 +7243,7 @@
     "ruby-net-http": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-net-http.git",
       "branch": "master",
-      "revision": "3c1d0af7fd1b855ce6cbfa9e96f59452006b0b19"
+      "revision": "e29e8715393cbba651cda59a2706e938d99327c3"
     },
     "ruby-network_interface": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-network_interface.git",
