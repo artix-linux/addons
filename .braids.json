@@ -6923,7 +6923,7 @@
     "ruby-english": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-english.git",
       "branch": "master",
-      "revision": "3c4bd9e85eb8d326bf73075687150ba5f7c1f979"
+      "revision": "4bfc79630454a296c025d0d351bbc99387e253c5"
     },
     "ruby-erb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-erb.git",
