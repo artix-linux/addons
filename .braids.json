@@ -6878,7 +6878,7 @@
     "ruby-date": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-date.git",
       "branch": "master",
-      "revision": "5eaa1497dde877d9a38512c96f380d3e17bc7f4b"
+      "revision": "6873bd60e061dce5636819bf093bda6c010679d4"
     },
     "ruby-dbus": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-dbus.git",
