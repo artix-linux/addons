@@ -6918,7 +6918,7 @@
     "ruby-drb": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-drb.git",
       "branch": "master",
-      "revision": "96027c5c76aef3129002e36f9fdfcf759323e6d7"
+      "revision": "81c5914d67cffec37e5b9907a80feae703bd9edd"
     },
     "ruby-english": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-english.git",
