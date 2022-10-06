@@ -4399,7 +4399,7 @@
     "python-plumbum": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-plumbum.git",
       "branch": "master",
-      "revision": "b61f40452758c0daed038cb149f248f24a24384d"
+      "revision": "e817b04886c3bde470f1d4086b0297cb157c1c72"
     },
     "python-ply": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ply.git",
