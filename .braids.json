@@ -7043,7 +7043,7 @@
     "ruby-getoptlong": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-getoptlong.git",
       "branch": "master",
-      "revision": "7be8b1935bd121fc7fae3edfebf919235d8be038"
+      "revision": "c3702077dc81ddaeeeea20847be75de4c1269202"
     },
     "ruby-glib2": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-glib2.git",
