@@ -6818,7 +6818,7 @@
     "ruby-base64": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-base64.git",
       "branch": "master",
-      "revision": "eb32b0f69efc99c02804a831947bd0e126d70d77"
+      "revision": "0f13a208edd061b12a2aa0329659a04d32b4782d"
     },
     "ruby-benchmark": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-benchmark.git",
