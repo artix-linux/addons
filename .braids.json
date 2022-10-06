@@ -7108,7 +7108,7 @@
     "ruby-io-wait": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-io-wait.git",
       "branch": "master",
-      "revision": "eddc2b47b01d39c816d4ea26a18da8f80ccc6644"
+      "revision": "3f9d4b455d0747b7c4411fdb90662e70a1d47a6e"
     },
     "ruby-ipaddr": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ipaddr.git",
