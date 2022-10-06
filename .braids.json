@@ -4674,7 +4674,7 @@
     "python-pyftpdlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyftpdlib.git",
       "branch": "master",
-      "revision": "7a86ea46fbd9caf253fa42e9ce90c53432522379"
+      "revision": "acab3d78d1993eeb2801b74cbc2756588739e453"
     },
     "python-pygal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygal.git",
