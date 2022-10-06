@@ -5649,7 +5649,7 @@
     "python-setuptools-rust": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools-rust.git",
       "branch": "master",
-      "revision": "78138cbffa894fcc1492caf68d5f1deb67a09056"
+      "revision": "641421b77c2517cad63b10e2b871175de03121f8"
     },
     "python-setuptools-scm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools-scm.git",
