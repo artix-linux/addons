@@ -7028,7 +7028,7 @@
     "ruby-fileutils": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fileutils.git",
       "branch": "master",
-      "revision": "3d71cfc215bcb97000fcf859bf3f55470f95236e"
+      "revision": "eee203289d80550c93a6bcce3a105a458844dcdf"
     },
     "ruby-find": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-find.git",
