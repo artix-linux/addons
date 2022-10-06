@@ -6823,7 +6823,7 @@
     "ruby-benchmark": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-benchmark.git",
       "branch": "master",
-      "revision": "b65e5737b2f0dd7fa4745d37b216d3a37ee0cf9d"
+      "revision": "d008fd46b43481067c2a78320c59fa8437c3529a"
     },
     "ruby-bigdecimal": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bigdecimal.git",
