@@ -5996,6 +5996,11 @@
       "branch": "master",
       "revision": "801e998e473b4bccff20360c9e8df10834a35e14"
     },
+    "python-straight.plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-straight.plugin.git",
+      "branch": "master",
+      "revision": "48c8659d3f4fd55f910dbd32703edd7d318a304c"
+    },
     "python-strict-rfc3339": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-strict-rfc3339.git",
       "branch": "master",
