@@ -3981,6 +3981,11 @@
       "branch": "master",
       "revision": "937d7d7cf069855a7dcb650dd4689720fdaa9d2e"
     },
+    "python-ntlm-auth": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-ntlm-auth.git",
+      "branch": "master",
+      "revision": "7ba9151a9955f118bde1fce8735aa295b194d3b9"
+    },
     "python-numexpr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numexpr.git",
       "branch": "master",
