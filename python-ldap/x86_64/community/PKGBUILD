@@ -1,0 +1,40 @@
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
+# Contributor: Maikel Wever <maikelwever@gmail.com>
+
+pkgname=python-ldap
+pkgver=3.4.2
+pkgrel=1
+pkgdesc="LDAP client API for Python"
+url="https://python-ldap.readthedocs.io/"
+arch=('x86_64')
+license=('MIT')
+depends=('python-pyasn1' 'python-pyasn1-modules' 'libldap')
+makedepends=('python-setuptools' 'python-coverage')
+checkdepends=('openldap' 'python-pyasn1' 'python-pyasn1-modules')
+source=("${pkgname}-${pkgver}.tar.gz::https://github.com/python-ldap/python-ldap/archive/${pkgname}-${pkgver}.tar.gz")
+sha256sums=('091d7e790e288872191f7a09dba3d35972e5d79a245a14a8fea6c4b91eab0f50')
+
+prepare() {
+  cd "$pkgbase-$pkgbase-$pkgver"
+
+  # slapd fails to start because -F points to a non-empty directory.
+  # Simply don't pass both -f and -F to slapd, it is only done when
+  # converting slapd.conf to LDIF and pointless here.
+  sed -i "/'-F', self.testrundir,/d" Lib/slapdtest/_slapdtest.py
+}
+
+build(){
+  cd "$pkgbase-$pkgbase-$pkgver"
+  python setup.py build
+}
+
+check(){
+  cd "$pkgbase-$pkgbase-$pkgver"
+  python -m coverage run --parallel setup.py test
+}
+
+package() {
+  cd "$pkgbase-$pkgbase-$pkgver"
+  python setup.py install --root="$pkgdir/" --optimize=1 --skip-build
+  install -Dm 644 LICENCE "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+}
