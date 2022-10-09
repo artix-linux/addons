@@ -2534,7 +2534,7 @@
     "python-enrich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-enrich.git",
       "branch": "master",
-      "revision": "1f458b6ae60e68c3bf9ce28576c906295fee8fcc"
+      "revision": "10ac647451bb983fe46ef3654f7e01c183177eaf"
     },
     "python-entrypoint2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-entrypoint2.git",
