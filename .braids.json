@@ -6419,7 +6419,7 @@
     "python-uri-template": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uri-template.git",
       "branch": "master",
-      "revision": "d6ec9156222837239dc8edd2584d4930448065cf"
+      "revision": "4358331022181d88a3c9250efdc39e261dd11cad"
     },
     "python-uritemplate": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uritemplate.git",
