@@ -3549,7 +3549,7 @@
     "python-levenshtein": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-levenshtein.git",
       "branch": "master",
-      "revision": "b4d3ea2598ff05bc44fd1446b48860d6c817f468"
+      "revision": "b99992e6cac3538404293e4fe732532aef995d0c"
     },
     "python-lexicon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lexicon.git",
