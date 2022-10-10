@@ -3809,7 +3809,7 @@
     "python-more-itertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-more-itertools.git",
       "branch": "master",
-      "revision": "4d389937913363489a4ab691131f9aff19452ba1"
+      "revision": "cc740eba43e27055e637ae3d19bc82581b174a0d"
     },
     "python-moreorless": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moreorless.git",
