@@ -1364,7 +1364,7 @@
     "perl-xml-libxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-libxml.git",
       "branch": "master",
-      "revision": "65e0cf28155e3a6e258ef1f9ea9f1c33c57c7038"
+      "revision": "b02faf526f5db548d8d77b22b6db602f188c4a8f"
     },
     "perl-xml-namespacesupport": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-namespacesupport.git",
