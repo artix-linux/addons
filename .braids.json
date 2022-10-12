@@ -7438,7 +7438,7 @@
     "ruby-rake-compiler-dock": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rake-compiler-dock.git",
       "branch": "master",
-      "revision": "c2834e20be149114a93812f8c05560b5acccc445"
+      "revision": "836dc46db58be57db93d99e5f97bd4fd1d998a5f"
     },
     "ruby-rb-fsevent": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rb-fsevent.git",
