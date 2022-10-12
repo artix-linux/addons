@@ -999,7 +999,7 @@
     "perl-ref-util": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ref-util.git",
       "branch": "master",
-      "revision": "9e4de5c3c30b50ef0481ae81617d6f8df252c2c7"
+      "revision": "ca2f9b17e756eae3021b59de093bb58cc5a249f8"
     },
     "perl-return-multilevel": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-return-multilevel.git",
