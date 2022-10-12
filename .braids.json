@@ -1279,7 +1279,7 @@
     "perl-test2-tools-process": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-tools-process.git",
       "branch": "master",
-      "revision": "5d0a94e046c3a9f2db9ba072a683fe5277a9b536"
+      "revision": "bd63b5c4f35806c7d04b52d1472131c94363a712"
     },
     "perl-text-charwidth": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-charwidth.git",
