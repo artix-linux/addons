@@ -999,7 +999,7 @@
     "perl-ref-util": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ref-util.git",
       "branch": "master",
-      "revision": "ca2f9b17e756eae3021b59de093bb58cc5a249f8"
+      "revision": "af856fd8c27cdb87d293a93537d79f63b28db16a"
     },
     "perl-ref-util-xs": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ref-util-xs.git",
