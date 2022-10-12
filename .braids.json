@@ -1001,6 +1001,11 @@
       "branch": "master",
       "revision": "ca2f9b17e756eae3021b59de093bb58cc5a249f8"
     },
+    "perl-ref-util-xs": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ref-util-xs.git",
+      "branch": "master",
+      "revision": "5907e6d227a89c02068d5018e80ce8beee89b3b2"
+    },
     "perl-return-multilevel": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-return-multilevel.git",
       "branch": "master",
