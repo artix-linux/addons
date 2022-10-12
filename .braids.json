@@ -959,7 +959,7 @@
     "perl-pod-spell": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-pod-spell.git",
       "branch": "master",
-      "revision": "b263887d0a2b53276869b19455742e4537cafd5c"
+      "revision": "55e6541120f84221ebe6f25f08ea11ebd8465719"
     },
     "perl-ppi": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ppi.git",
