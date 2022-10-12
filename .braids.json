@@ -7223,7 +7223,7 @@
     "ruby-loofah": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-loofah.git",
       "branch": "master",
-      "revision": "538621bf6cc1447dcb4e49eee180cabe0a78228e"
+      "revision": "21a89ed6b350cc9d76c218d98209fa59aabc0a1a"
     },
     "ruby-main": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-main.git",
