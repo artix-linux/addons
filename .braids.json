@@ -2489,7 +2489,7 @@
     "python-dropbox": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dropbox.git",
       "branch": "master",
-      "revision": "454924977843d7c348597fc9ce4b0ae762530b43"
+      "revision": "fe6277cb9ace17e4934f62c3d25fcdb19cf9fee5"
     },
     "python-dulwich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dulwich.git",
