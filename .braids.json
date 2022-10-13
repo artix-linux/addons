@@ -3894,7 +3894,7 @@
     "python-mutagen": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mutagen.git",
       "branch": "master",
-      "revision": "c1ad9219b0e9d9e53ec0b9da853917e3fa3bba7b"
+      "revision": "15c2beb4541948450e374972aca6fb5b6e712c02"
     },
     "python-mypy_extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mypy_extensions.git",
