@@ -1774,7 +1774,7 @@
     "python-aws-sam-translator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aws-sam-translator.git",
       "branch": "master",
-      "revision": "c26c167397151cd8b3b0c428bd6f98fb21ed950c"
+      "revision": "cd579d73d7cc339d34fd1a798beb685cb163d819"
     },
     "python-aws-xray-sdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aws-xray-sdk.git",
