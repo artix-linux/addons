@@ -2919,7 +2919,7 @@
     "python-gitpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gitpython.git",
       "branch": "master",
-      "revision": "bb06d06fadbb402df3139ad411cb67150611485b"
+      "revision": "8c6c6a4bb0a2b5568112a46bca094dade5cc0ed7"
     },
     "python-glanceclient": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-glanceclient.git",
