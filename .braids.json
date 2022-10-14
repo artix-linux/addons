@@ -7563,7 +7563,7 @@
     "ruby-sqlite3": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sqlite3.git",
       "branch": "master",
-      "revision": "f2121d237a1af5a62f83052178b6a8882c37fb8b"
+      "revision": "9249bb872003ea5647b61449770b0f72ee7e669d"
     },
     "ruby-stringio": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-stringio.git",
