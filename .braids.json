@@ -5801,6 +5801,11 @@
       "branch": "master",
       "revision": "6596a317df6d1f93371d2ff52a271e3c2bf5486b"
     },
+    "python-slugify": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-slugify.git",
+      "branch": "master",
+      "revision": "c986c7a651fa7dd9ec139d8ec85e7a7cefc4b9e8"
+    },
     "python-sly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sly.git",
       "branch": "master",
