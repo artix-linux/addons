@@ -5531,6 +5531,11 @@
       "branch": "master",
       "revision": "3f329ae6eb6110d53683b6f253cb0bafc067fdf2"
     },
+    "python-requests-wsgi-adapter": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-wsgi-adapter.git",
+      "branch": "master",
+      "revision": "54bd8166313597925dee9492f4b22f5b12f36c7f"
+    },
     "python-requestsexceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requestsexceptions.git",
       "branch": "master",
