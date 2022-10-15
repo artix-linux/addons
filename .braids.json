@@ -6581,6 +6581,11 @@
       "branch": "master",
       "revision": "5cce6526f802df251465423b9ad14b38aefc346f"
     },
+    "python-wcmatch": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcmatch.git",
+      "branch": "master",
+      "revision": "fb68ce885bb3fa7321ab1d0f317761528e0e7c2c"
+    },
     "python-wcwidth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcwidth.git",
       "branch": "master",
