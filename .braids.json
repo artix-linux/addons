@@ -6421,6 +6421,11 @@
       "branch": "master",
       "revision": "fe65a6a4c1707c029c68a0dbe22ce4f88b86ac33"
     },
+    "python-unearth": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-unearth.git",
+      "branch": "master",
+      "revision": "2df13bb7fc298a4ae00d3b7da18bd96878c32205"
+    },
     "python-unicodedata2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unicodedata2.git",
       "branch": "master",
