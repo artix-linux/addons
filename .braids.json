@@ -3396,6 +3396,11 @@
       "branch": "master",
       "revision": "4e4254eadc76dbc221c2a9c936da35844fd0c45c"
     },
+    "python-jinja-time": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jinja-time.git",
+      "branch": "master",
+      "revision": "bf98eba0e76646454c49355a3a5370adb6a34442"
+    },
     "python-jmespath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jmespath.git",
       "branch": "master",
