@@ -1854,7 +1854,7 @@
     "python-binaryornot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-binaryornot.git",
       "branch": "master",
-      "revision": "f8df5d009857b812c7118b775bb536ce038c2809"
+      "revision": "6f879b267f5b9d16b75a471bc8d282bf14c393d6"
     },
     "python-bincopy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bincopy.git",
