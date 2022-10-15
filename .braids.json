@@ -5241,6 +5241,11 @@
       "branch": "master",
       "revision": "cdc08ea4267f2841c4c426996fdfbff041af18f3"
     },
+    "python-pytest-testinfra": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-testinfra.git",
+      "branch": "master",
+      "revision": "08605ddba07aab0abf76ac3cff9e5d310e582f53"
+    },
     "python-pytest-timeout": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-timeout.git",
       "branch": "master",
