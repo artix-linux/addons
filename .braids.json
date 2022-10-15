@@ -5524,7 +5524,7 @@
     "python-requests-toolbelt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-toolbelt.git",
       "branch": "master",
-      "revision": "8533814bd6a3fd8a9eb4586bd10c659a1194c9b8"
+      "revision": "f328a7af16368b3173383fa911538ea6d58970c2"
     },
     "python-requests-unixsocket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-unixsocket.git",
