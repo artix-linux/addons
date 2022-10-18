@@ -7168,7 +7168,7 @@
     "ruby-fiber-local": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fiber-local.git",
       "branch": "master",
-      "revision": "aa3cf9ca6038336b7cd029a5791c0dab8ac2de05"
+      "revision": "5a74080f3a4b54dd1d64c1078fa57e0be07417c1"
     },
     "ruby-fiddle": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-fiddle.git",
