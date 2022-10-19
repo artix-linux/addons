@@ -6965,6 +6965,11 @@
       "branch": "master",
       "revision": "2f52957895a71732542a8171b1e34dfc1e39c2a0"
     },
+    "ruby-bake": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bake.git",
+      "branch": "master",
+      "revision": "9b74bc627da6c31d31a7525ad306dcdc853b5a73"
+    },
     "ruby-base64": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-base64.git",
       "branch": "master",
