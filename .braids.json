@@ -1909,7 +1909,7 @@
     "python-boto3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-boto3.git",
       "branch": "master",
-      "revision": "b5ba17f48b4305000e8235ab0d822bd828ac43c0"
+      "revision": "f0186d2af32156515f51d69e0b06520683267996"
     },
     "python-botocore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-botocore.git",
