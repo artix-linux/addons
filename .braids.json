@@ -7020,6 +7020,11 @@
       "branch": "master",
       "revision": "2672b590555b728468f90b5ff52192298ea49464"
     },
+    "ruby-console": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-console.git",
+      "branch": "master",
+      "revision": "509188b18274b2ecc3bc97d9816a9fd8575a95f1"
+    },
     "ruby-crack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-crack.git",
       "branch": "master",
