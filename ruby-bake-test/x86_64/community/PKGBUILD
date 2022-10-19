@@ -2,7 +2,7 @@
 
 pkgname=ruby-bake-test
 pkgver=0.2.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Run local test suites without knowing exactly how to run them'
 arch=(any)
 url='https://github.com/ioquatix/bake-test'
@@ -48,7 +48,7 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd bake-test-$pkgver
-  # GEM_HOME="tmp_install/$_gemdir" bake test
+  GEM_HOME="tmp_install/$_gemdir" bake test
 }
 
 package() {
