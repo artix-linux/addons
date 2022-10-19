@@ -6973,7 +6973,7 @@
     "ruby-bake-test": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bake-test.git",
       "branch": "master",
-      "revision": "e44983f408b69385a8de6b01b8b1a02a4cb7cb8e"
+      "revision": "302937d080266a4c4c7f417a6ea69ba574b96e3b"
     },
     "ruby-base64": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-base64.git",
