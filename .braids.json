@@ -7610,6 +7610,11 @@
       "branch": "master",
       "revision": "149db82fe0d32ebd11b1463d18bbbd25ca9da371"
     },
+    "ruby-samovar": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-samovar.git",
+      "branch": "master",
+      "revision": "fdbada533217c898ea491780d1fdfe3c272a58c6"
+    },
     "ruby-samus": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-samus.git",
       "branch": "master",
