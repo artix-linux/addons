@@ -7323,7 +7323,7 @@
     "ruby-mapping": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mapping.git",
       "branch": "master",
-      "revision": "3a95293a93f8c65cbb2f10756bbcc4604054782a"
+      "revision": "2668cce5224816aedb4c0a585a97bc8301dfe16b"
     },
     "ruby-maruku": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-maruku.git",
