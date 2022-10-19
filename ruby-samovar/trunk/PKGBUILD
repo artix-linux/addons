@@ -2,12 +2,12 @@
 
 pkgname=ruby-samovar
 pkgver=2.1.4
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A flexible option parser excellent support for sub-commands and help documentation'
 arch=(any)
 url='https://github.com/ioquatix/samovar'
 license=(MIT)
-depends=(ruby-mapping)
+depends=(ruby-console ruby-mapping)
 checkdepends=(ruby-rake ruby-rspec)
 options=(!emptydirs)
 source=(https://github.com/ioquatix/samovar/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
@@ -47,7 +47,7 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd samovar-$pkgver
-  # GEM_HOME="tmp_install/$_gemdir" rspec
+  GEM_HOME="tmp_install/$_gemdir" rspec
 }
 
 package() {
