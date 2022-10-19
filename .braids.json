@@ -6034,7 +6034,7 @@
     "python-sphinxcontrib-spelling": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-spelling.git",
       "branch": "master",
-      "revision": "1493d4ee4149c51842203e9bfb60302592c263d7"
+      "revision": "a6c90a85a7980d649f46b5e7bcbae3756f78c69f"
     },
     "python-sphinxcontrib-towncrier": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-towncrier.git",
