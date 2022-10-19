@@ -2,12 +2,13 @@
 
 pkgname=ruby-sus
 pkgver=0.14.0
-pkgrel=2
+pkgrel=2.1
 pkgdesc='A fast and scalable test runner'
 arch=(any)
 url='https://github.com/ioquatix/sus'
 license=(MIT)
 depends=(ruby)
+makedepends=(ruby-bake-test)
 options=(!emptydirs)
 source=(https://github.com/ioquatix/sus/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
 sha256sums=('66070d715ae0531e9dac48db04f97c111c40bae6be2ca504d2ffc4c2900c2f00')
@@ -47,7 +48,7 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd sus-$pkgver
-  # PATH="$PWD/tmp_install/usr/bin:$PATH" GEM_HOME="tmp_install/$_gemdir" bake test
+  PATH="$PWD/tmp_install/usr/bin:$PATH" GEM_HOME="tmp_install/$_gemdir" bake test
 }
 
 package() {
