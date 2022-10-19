@@ -1,0 +1,58 @@
+# Maintainer: Cory Sanin <corysanin@artixlinux.org>
+
+pkgname=ruby-console
+pkgver=1.16.0
+pkgrel=2
+pkgdesc='Beautiful logging for Ruby'
+arch=(any)
+url='https://github.com/socketry/console'
+license=(MIT)
+depends=(ruby-fiber-local)
+makedepends=(ruby-bake ruby-bake-test ruby-sus)
+options=(!emptydirs)
+source=(https://github.com/socketry/console/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
+sha256sums=('72a980ad5bff63eae38ef515d0804c1061e37f7e0865204472e48e5cc62b8191')
+
+prepare() {
+  cd console-$pkgver
+  sed -r -e 's|~>|>=|g' -e '/covered/d' -e '/signing_key/d' -e '/bake-test-external/d' -i console.gemspec
+  sed -i '/[cC]overed/d' config/sus.rb
+  sed -i '/bake-gem/d;/bake-modernize/d;/bake-github-pages/d;/utopia-project/d;/bake-test-external/d' gems.rb
+}
+
+build() {
+  local _gemdir="$(gem env gemdir)"
+  cd console-$pkgver
+  gem build console.gemspec
+  gem install \
+    --local \
+    --verbose \
+    --ignore-dependencies \
+    --no-user-install \
+    --install-dir "tmp_install/$_gemdir" \
+    --bindir "tmp_install/usr/bin" \
+    console-$pkgver.gem
+  find "tmp_install/$_gemdir/gems/" \
+    -type f \
+    \( \
+        -iname "*.o" -o \
+        -iname "*.c" -o \
+        -iname "*.so" -o \
+        -iname "*.time" -o \
+        -iname "gem.build_complete" -o \
+        -iname "Makefile" \
+    \) \
+    -delete
+  rm -r tmp_install/$_gemdir/cache
+}
+
+check() {
+  local _gemdir="$(gem env gemdir)"
+  cd console-$pkgver
+  GEM_HOME="tmp_install/$_gemdir" bake test
+}
+
+package() {
+  cd console-$pkgver
+  cp -a tmp_install/* "$pkgdir"/
+}
