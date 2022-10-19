@@ -2,7 +2,7 @@
 
 pkgname=ruby-bake
 pkgver=0.18.2
-pkgrel=2
+pkgrel=2.1
 pkgdesc='A replacement for rake with a simpler syntax'
 arch=(any)
 url='https://github.com/ioquatix/bake'
@@ -48,7 +48,7 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd bake-$pkgver
-  # GEM_HOME="tmp_install/$_gemdir" rspec
+  GEM_HOME="tmp_install/$_gemdir" rspec
 }
 
 package() {
