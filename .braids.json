@@ -4469,7 +4469,7 @@
     "python-plette": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-plette.git",
       "branch": "master",
-      "revision": "cb2111a52bd86c2b267a74f3e68c4ea540d9b97d"
+      "revision": "d1de4e72bd1a3b46420626e335c4ef5b209c4f15"
     },
     "python-pluggy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pluggy.git",
