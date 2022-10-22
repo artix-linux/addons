@@ -7023,7 +7023,7 @@
     "ruby-console": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-console.git",
       "branch": "master",
-      "revision": "45c7562669d483ba5dc1bd3daf839f1fb7e93d05"
+      "revision": "5d5bfa2ce4c6d09a2ecf0cfd437a77ec098a6786"
     },
     "ruby-crack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-crack.git",
