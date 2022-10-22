@@ -3274,7 +3274,7 @@
     "python-invoke": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-invoke.git",
       "branch": "master",
-      "revision": "a951f8cd65689a830d553463777e669233d2b2c3"
+      "revision": "9e78551402c5da7816bccfacdba55cd631a2f083"
     },
     "python-iocapture": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iocapture.git",
