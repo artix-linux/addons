@@ -6059,7 +6059,7 @@
     "python-spsdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spsdk.git",
       "branch": "master",
-      "revision": "bdb2f74646d3229c75b8de340abc30832f5119e4"
+      "revision": "9cf886973323372c0f86888fef7e84d2ae8eb885"
     },
     "python-spur": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spur.git",
