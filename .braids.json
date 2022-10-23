@@ -3864,7 +3864,7 @@
     "python-more-itertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-more-itertools.git",
       "branch": "master",
-      "revision": "21ed16fd22a044545250da370fca7309026b9a22"
+      "revision": "0acd1533e2c11cf180ad9f38bff6007afeaf7f5e"
     },
     "python-moreorless": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moreorless.git",
