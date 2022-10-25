@@ -1939,7 +1939,7 @@
     "python-braintree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-braintree.git",
       "branch": "master",
-      "revision": "d0bb476e419b3689c8cd70231e808f4392695033"
+      "revision": "2a3bf17a2e2828d1d664202e9a815de8e2c64a61"
     },
     "python-breathe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-breathe.git",
