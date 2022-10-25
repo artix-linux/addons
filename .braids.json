@@ -6164,7 +6164,7 @@
     "python-subprocess-tee": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-subprocess-tee.git",
       "branch": "master",
-      "revision": "aeca0fc2d9e90a5e06ebdaf42ae0c7664c09b36a"
+      "revision": "d93c6b606f4aa8a304ed4f541a4fa32d54c5a7ab"
     },
     "python-subunit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-subunit.git",
