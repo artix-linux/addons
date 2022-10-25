@@ -1786,6 +1786,11 @@
       "branch": "master",
       "revision": "7ea5f54ebd87e59f77271b47fc8c4ec70868896a"
     },
+    "python-awscrt": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-awscrt.git",
+      "branch": "master",
+      "revision": "ae893580f264186f50445701881dd5b1b5a42a02"
+    },
     "python-axolotl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-axolotl.git",
       "branch": "master",
