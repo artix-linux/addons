@@ -5439,7 +5439,7 @@
     "python-rapidjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rapidjson.git",
       "branch": "master",
-      "revision": "bed820b0c86575c9dcebb013d41e52df517f3d2d"
+      "revision": "cb3b3e84c34cfae55a4c2ea1ddaa5b30736cf6a9"
     },
     "python-raven": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-raven.git",
