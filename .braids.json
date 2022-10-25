@@ -2154,7 +2154,7 @@
     "python-clikit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clikit.git",
       "branch": "master",
-      "revision": "b897e11b4bd0c70e52e759a4f87c135c6d8ed848"
+      "revision": "bd0647bf876d3f65d5451dceaa826af5acb935a1"
     },
     "python-clint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clint.git",
