@@ -1,0 +1,37 @@
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
+
+_name=findpython
+pkgname=python-findpython
+pkgver=0.2.1
+pkgrel=1
+pkgdesc="A utility to find python versions on your system"
+arch=(any)
+url="https://github.com/frostming/findpython"
+license=(MIT)
+depends=(python-packaging)
+makedepends=(python-build python-installer python-pdm-pep517 python-wheel)
+checkdepends=(python-pytest)
+source=(https://files.pythonhosted.org/packages/source/${_name::1}/$_name/$_name-$pkgver.tar.gz)
+sha512sums=('34c86bdf7935df749710aee6b52782b9bf5bb18b4ba7aed314bface936ffaaac267b83f350c8f2c1f828d54834f3d5fd07aae9057b63350d3d6927deaa2b0f6d')
+b2sums=('0691157e7e7a59b0ca696287f1f87107082f2ba01fbc9ece19aabad5367d6fe1c407712d7db70909c9f4183be19056ac3a2ea623bd67be6fdd03366d57d67db9')
+
+build() {
+  cd $_name-$pkgver
+  python -m build --wheel --no-isolation
+}
+
+check() {
+  local _site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
+
+  cd $_name-$pkgver
+  python -m installer --destdir="test_dir" dist/*.whl
+  export PYTHONPATH="test_dir/$_site_packages:$PYTHONPATH"
+  pytest -vv
+}
+
+package() {
+  cd $_name-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -vDm 644 LICENSE -t "$pkgdir/usr/share/licenses/$pkgname/"
+  install -vDm 644 README.md -t "$pkgdir/usr/share/doc/$pkgname/"
+}
