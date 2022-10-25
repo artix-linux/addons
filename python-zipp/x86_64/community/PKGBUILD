@@ -1,7 +1,7 @@
 # Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-zipp
-pkgver=3.9.0
+pkgver=3.10.0
 pkgrel=1
 pkgdesc="Pathlib-compatible object wrapper for zip files"
 url="https://github.com/jaraco/zipp"
@@ -11,7 +11,7 @@ depends=('python')
 makedepends=('python-build' 'python-installer' 'python-setuptools-scm' 'python-toml' 'python-wheel')
 checkdepends=('python-jaraco.itertools' 'python-func-timeout' 'python-more-itertools')
 source=("https://github.com/jaraco/zipp/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
-sha512sums=('19473a29d5123006007b7b67a09adbbe4badc452260d63c5c6d318853a7a7b184d8062021fb9c34d7ce2346cc2398a10ef93bcf64ab9f72ee462de2a950c6ccf')
+sha512sums=('ca0103742051648531b2df57545018f779b166fb25117254ea4826ec5364b1fb501fab68aa56d5ffe86df563116027a68858e87a9eacb9b67fb50ad51cbf1066')
 
 export SETUPTOOLS_SCM_PRETEND_VERSION=$pkgver
 
