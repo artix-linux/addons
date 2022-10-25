@@ -6274,7 +6274,7 @@
     "python-tinycss2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss2.git",
       "branch": "master",
-      "revision": "badfb4fcc4c4e6e0f2747f98833af76e80804b59"
+      "revision": "68753f7881b18d281efa34f324e9a38e22c502ea"
     },
     "python-tokenize-rt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tokenize-rt.git",
