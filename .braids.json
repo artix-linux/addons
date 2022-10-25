@@ -7248,7 +7248,7 @@
     "ruby-http-cookie": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-http-cookie.git",
       "branch": "master",
-      "revision": "dbe4266f79dd2c12ae211abbb4136c40ccfa1c12"
+      "revision": "ea06d5a39c74d327df7e764b9ac9bdce11a5993a"
     },
     "ruby-httpclient": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-httpclient.git",
