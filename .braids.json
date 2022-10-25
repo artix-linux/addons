@@ -5629,7 +5629,7 @@
     "python-rope": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rope.git",
       "branch": "master",
-      "revision": "f2d51b9e9ce4e8f253e99bb3959609b09273ac81"
+      "revision": "a086f44d5fc1a64f0a57679958d20b49b0302ec8"
     },
     "python-routes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-routes.git",
