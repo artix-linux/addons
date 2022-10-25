@@ -2501,6 +2501,11 @@
       "branch": "master",
       "revision": "ed0318ee2e09c20768dfa6b5fe805a43b4eb2df0"
     },
+    "python-dotenv": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dotenv.git",
+      "branch": "master",
+      "revision": "f710cd455eceab8768fccb4ee2da948fad66e410"
+    },
     "python-doublex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doublex.git",
       "branch": "master",
