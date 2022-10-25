@@ -2189,7 +2189,7 @@
     "python-colorama": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-colorama.git",
       "branch": "master",
-      "revision": "c8ce864be056c36327052cf28587b6ca4a1268e4"
+      "revision": "1caefbc1df7f1970afdca75ae7225c0dbe36f9c6"
     },
     "python-colored-traceback": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-colored-traceback.git",
