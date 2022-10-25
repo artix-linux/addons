@@ -5144,7 +5144,7 @@
     "python-pytest-html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-html.git",
       "branch": "master",
-      "revision": "ee496e125afa9589074ec5e24525f025b2bc8859"
+      "revision": "ca5771db9362a77842b52b4173d9bae286ea7ed9"
     },
     "python-pytest-httpbin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-httpbin.git",
