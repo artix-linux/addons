@@ -6574,7 +6574,7 @@
     "python-versioningit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-versioningit.git",
       "branch": "master",
-      "revision": "6ce90d5a420632973ac7538aa149d0fff76dff8c"
+      "revision": "b671083fb5f9110f1f1fb6f88d1baf03fbd4778d"
     },
     "python-vine": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vine.git",
