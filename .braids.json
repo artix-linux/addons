@@ -2999,7 +2999,7 @@
     "python-google-auth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-auth.git",
       "branch": "master",
-      "revision": "daf6f0c40d5e53d759aaa8f5d18fd0269a4fb04b"
+      "revision": "6cfca1eeeba8153a762493290a45006bcf07adc5"
     },
     "python-google-auth-httplib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-auth-httplib2.git",
