@@ -3599,7 +3599,7 @@
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
       "branch": "master",
-      "revision": "3c035b9a7181fcaf3fd4350876a9a7c3e13917f6"
+      "revision": "2afb805990972608c359de1e457c8233b4878146"
     },
     "python-ldap": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ldap.git",
