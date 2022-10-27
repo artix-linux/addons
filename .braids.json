@@ -4824,7 +4824,7 @@
     "python-pyicu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyicu.git",
       "branch": "master",
-      "revision": "72683b2d6298ddc150c8b13c1e1dc4bf73129876"
+      "revision": "005f0a561698b0bc7257af2aa879a7fb1dff02bd"
     },
     "python-pyinotify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyinotify.git",
