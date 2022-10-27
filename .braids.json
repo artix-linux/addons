@@ -5209,7 +5209,7 @@
     "python-pytest-pylint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pylint.git",
       "branch": "master",
-      "revision": "f03fc183bcf63d7431d72268a14010d35d4c5b53"
+      "revision": "6768a6605ffab50f62fbca13cb69fc6f6ccef79b"
     },
     "python-pytest-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-qt.git",
