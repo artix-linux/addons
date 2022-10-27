@@ -4019,7 +4019,7 @@
     "python-nkdfu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nkdfu.git",
       "branch": "master",
-      "revision": "12cc9ca655e4ea5c52f1d46764b296ddf8e9527c"
+      "revision": "a20f0e8502d7aeb274379fdf4c4cd4e5efefeedb"
     },
     "python-nodeenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nodeenv.git",
