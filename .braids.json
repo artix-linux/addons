@@ -4654,7 +4654,7 @@
     "python-py-cpuinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py-cpuinfo.git",
       "branch": "master",
-      "revision": "7f0b29828a6219d673e4e413b1275baec525d96a"
+      "revision": "8924312132ed17ad20f344842cd5af1276acfa8b"
     },
     "python-py3c": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py3c.git",
