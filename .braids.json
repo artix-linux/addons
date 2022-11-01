@@ -7673,7 +7673,7 @@
     "ruby-rubytest": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rubytest.git",
       "branch": "master",
-      "revision": "983d56f9ab299f4993d679ed2ff8804904bbca25"
+      "revision": "a0069b9d4c6f9e964a9c6f33072095c09f313e4e"
     },
     "ruby-safe_yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-safe_yaml.git",
