@@ -7760,6 +7760,11 @@
       "branch": "master",
       "revision": "085e0f2da707016a9a9153b742343303ad4cb45f"
     },
+    "ruby-simplecov-html": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-simplecov-html.git",
+      "branch": "master",
+      "revision": "3957f843588b76c3a9ec2f482eb84b57f8d01e83"
+    },
     "ruby-sinatra": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sinatra.git",
       "branch": "master",
