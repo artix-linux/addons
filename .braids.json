@@ -6629,7 +6629,7 @@
     "python-watchdog": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-watchdog.git",
       "branch": "master",
-      "revision": "86ca7dfba55e1577ffed4f8c528a0f756b960011"
+      "revision": "92c1faf2f396f46e6fb1784985edfeba2a2798ab"
     },
     "python-watchgod": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-watchgod.git",
