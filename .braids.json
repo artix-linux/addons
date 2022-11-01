@@ -4559,7 +4559,7 @@
     "python-prettytable": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prettytable.git",
       "branch": "master",
-      "revision": "fb013c2bffe93c49e92f0660b4e66381187f852c"
+      "revision": "e401293f728c7fc140fa72a4605a2efcbb545b78"
     },
     "python-priority": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-priority.git",
