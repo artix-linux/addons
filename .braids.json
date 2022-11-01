@@ -3064,7 +3064,7 @@
     "python-hatch-fancy-pypi-readme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-fancy-pypi-readme.git",
       "branch": "master",
-      "revision": "d84a9be82b3bad611c3dd5cb92ae478ea7d96a9b"
+      "revision": "40ace6ac75ce82936c50778258b8a140514fa532"
     },
     "python-hatch-nodejs-version": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-nodejs-version.git",
