@@ -7423,7 +7423,7 @@
     "ruby-minitest-hooks": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-hooks.git",
       "branch": "master",
-      "revision": "cd6082b00876622bf468b36ed32466ef07a20272"
+      "revision": "0ea3237831d8f5ba889944eb3cbe89ea99602f0a"
     },
     "ruby-minitest-reporters": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-reporters.git",
