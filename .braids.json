@@ -7765,6 +7765,11 @@
       "branch": "master",
       "revision": "550d138fb26a0fc61d46794b10e22758e987e4ea"
     },
+    "ruby-simplecov_json_formatter": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-simplecov_json_formatter.git",
+      "branch": "master",
+      "revision": "adfc8aa1eab22535ac1ab19c7c249f8effc85f2a"
+    },
     "ruby-sinatra": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sinatra.git",
       "branch": "master",
