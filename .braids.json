@@ -7423,7 +7423,7 @@
     "ruby-minitest-reporters": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-reporters.git",
       "branch": "master",
-      "revision": "510f2a963b9ee6be12bba11781a1fc6f06b78f61"
+      "revision": "bfe464ed251f7f0c4187610ceabeea3b2c332a92"
     },
     "ruby-minitest-sprint": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-sprint.git",
