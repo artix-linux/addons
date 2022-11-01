@@ -7020,6 +7020,11 @@
       "branch": "master",
       "revision": "d886837a581159f88b1c404d70f152cc22cdc994"
     },
+    "ruby-brass": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-brass.git",
+      "branch": "master",
+      "revision": "4965436916888dd66642acfa036eee95163a9260"
+    },
     "ruby-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-builder.git",
       "branch": "master",
