@@ -7158,7 +7158,7 @@
     "ruby-facets": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-facets.git",
       "branch": "master",
-      "revision": "f8e712d7d9d82a4a743920ad121cfe9d0f04eaf2"
+      "revision": "9c47cbfb1294497945d412ca28580dc9002fdfbb"
     },
     "ruby-faraday": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday.git",
