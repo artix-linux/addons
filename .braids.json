@@ -4939,7 +4939,7 @@
     "python-pypandoc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pypandoc.git",
       "branch": "master",
-      "revision": "89944b289bf94f102f16e8084c5fe1506e2cbbb8"
+      "revision": "1f1ee91912a857c707b07c9a19d6b569d944c7ca"
     },
     "python-pyparsing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyparsing.git",
