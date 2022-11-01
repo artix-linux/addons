@@ -7118,7 +7118,7 @@
     "ruby-docile": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-docile.git",
       "branch": "master",
-      "revision": "0728938625217716fc327cefae5dde9b2e78e7ea"
+      "revision": "aaf4d2565bedb6aa92b9024ecb81ff5dc0fab08a"
     },
     "ruby-domain_name": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-domain_name.git",
