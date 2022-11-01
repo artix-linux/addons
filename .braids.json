@@ -7503,7 +7503,7 @@
     "ruby-nokogiri": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-nokogiri.git",
       "branch": "master",
-      "revision": "b5800c3589a0e71b8196d741dd4bbaa6a19aac21"
+      "revision": "b7567303f7fdc87b9377a09d5a414623448fe0e1"
     },
     "ruby-open-uri": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-open-uri.git",
