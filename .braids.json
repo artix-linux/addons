@@ -5159,7 +5159,7 @@
     "python-pytest-isort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-isort.git",
       "branch": "master",
-      "revision": "3ebff9be9ec30b736047d5593bd4eb1e01e3614a"
+      "revision": "cccd6d6f891fbeca3674b02d49e7dca7222ed0a9"
     },
     "python-pytest-lazy-fixture": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-lazy-fixture.git",
