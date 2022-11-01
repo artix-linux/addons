@@ -7733,7 +7733,7 @@
     "ruby-sequel": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sequel.git",
       "branch": "master",
-      "revision": "487ff2376c2982e1630beb79bf36a1cabdf137e9"
+      "revision": "0190cad152c6619de8c8515ac3bd0f29318068cd"
     },
     "ruby-shadow": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-shadow.git",
