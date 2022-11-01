@@ -7353,7 +7353,7 @@
     "ruby-lemon": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-lemon.git",
       "branch": "master",
-      "revision": "68bb352634528e717c08dc9739607bbf57dc709f"
+      "revision": "5e89063659fe4060c295bdec72ca376d088a3048"
     },
     "ruby-locale": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-locale.git",
