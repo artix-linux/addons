@@ -7425,6 +7425,11 @@
       "branch": "master",
       "revision": "0ea3237831d8f5ba889944eb3cbe89ea99602f0a"
     },
+    "ruby-minitest-parallel_fork": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-parallel_fork.git",
+      "branch": "master",
+      "revision": "5c958ca117b064f8b5bad50308bc0f451a7c1fa6"
+    },
     "ruby-minitest-reporters": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-reporters.git",
       "branch": "master",
