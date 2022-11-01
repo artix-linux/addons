@@ -6960,6 +6960,11 @@
       "branch": "master",
       "revision": "ea69156aff12f032c628c9924766741884c43421"
     },
+    "ruby-ae": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ae.git",
+      "branch": "master",
+      "revision": "99bf037ba2a9e4042ad2d02a6a658e4fe5662f00"
+    },
     "ruby-ansi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ansi.git",
       "branch": "master",
