@@ -6963,7 +6963,7 @@
     "ruby-ansi": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ansi.git",
       "branch": "master",
-      "revision": "f099e485523163b3a6354e19b52b0c10815fd3e0"
+      "revision": "7b5b64fc0ac7688c91bdb62985a5febe166a825e"
     },
     "ruby-arrayfields": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-arrayfields.git",
