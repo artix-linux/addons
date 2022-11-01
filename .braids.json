@@ -7420,6 +7420,11 @@
       "branch": "master",
       "revision": "35b31810c899a8ec723c002b7051bb00e29459f2"
     },
+    "ruby-minitest-reporters": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-reporters.git",
+      "branch": "master",
+      "revision": "510f2a963b9ee6be12bba11781a1fc6f06b78f61"
+    },
     "ruby-minitest-sprint": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-minitest-sprint.git",
       "branch": "master",
