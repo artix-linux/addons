@@ -2,12 +2,13 @@
 
 pkgname=ruby-brass
 pkgver=1.2.1
-pkgrel=1
+pkgrel=2
 pkgdesc='Bare-Metal Ruby Assertions System Standard'
 arch=(any)
 url='https://github.com/rubyworks/brass'
 license=(BSD)
 depends=(ruby)
+checkdepends=(ruby-lemon ruby-rubytest-cli ruby-simplecov)
 options=(!emptydirs)
 source=(https://github.com/rubyworks/brass/archive/$pkgver/$pkgname-$pkgver.tar.gz)
 sha256sums=('8f3f97e35014753155ccbc91c64543012628cdfebb0593550e46abb78973ee8c')
@@ -48,6 +49,7 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd brass-$pkgver
+  GEM_HOME="tmp_install/$_gemdir" rubytest test
 }
 
 package() {
