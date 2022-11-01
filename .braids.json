@@ -2729,7 +2729,7 @@
     "python-findpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-findpython.git",
       "branch": "master",
-      "revision": "2f8ea3cd4a4d552e1b2ea56ee8a8a798a40e1c30"
+      "revision": "9160b95e60b4bb688ac971a5310a4be4a20f9308"
     },
     "python-fire": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fire.git",
