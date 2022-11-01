@@ -7675,6 +7675,11 @@
       "branch": "master",
       "revision": "a0069b9d4c6f9e964a9c6f33072095c09f313e4e"
     },
+    "ruby-rubytest-cli": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rubytest-cli.git",
+      "branch": "master",
+      "revision": "20f9f24ab8a1bf6a28b0b80919ea246f006180ff"
+    },
     "ruby-safe_yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-safe_yaml.git",
       "branch": "master",
