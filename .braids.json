@@ -7033,7 +7033,7 @@
     "ruby-brass": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-brass.git",
       "branch": "master",
-      "revision": "dee5de5aa7c3ba4fa93acd2c7ecae588febac63a"
+      "revision": "6c2250b5ee45bda19462d62960daeca3075fab93"
     },
     "ruby-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-builder.git",
