@@ -7540,6 +7540,11 @@
       "branch": "master",
       "revision": "757fdfad0efac552369628ed4ce480bfa9551113"
     },
+    "ruby-qed": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-qed.git",
+      "branch": "master",
+      "revision": "f131186d5478fa1bdf04ded241803c18889692a9"
+    },
     "ruby-racc": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-racc.git",
       "branch": "master",
