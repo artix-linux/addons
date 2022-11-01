@@ -7543,7 +7543,7 @@
     "ruby-qed": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-qed.git",
       "branch": "master",
-      "revision": "f131186d5478fa1bdf04ded241803c18889692a9"
+      "revision": "5631fa91e0c871e9c067574788c680ad03bf633c"
     },
     "ruby-racc": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-racc.git",
