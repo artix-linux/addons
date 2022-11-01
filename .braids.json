@@ -7668,7 +7668,7 @@
     "ruby-ruby-progressbar": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ruby-progressbar.git",
       "branch": "master",
-      "revision": "b95bb2efef820b241781c0c99d13d8c01bb17c41"
+      "revision": "e6363edadfd0867963b3a7c4e4539db1c7ca611b"
     },
     "ruby-ruby2_keywords": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ruby2_keywords.git",
