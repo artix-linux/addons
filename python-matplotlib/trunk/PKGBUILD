@@ -33,7 +33,7 @@ optdepends=('tk: Tk{Agg,Cairo} backends'
 makedepends=(git python-setuptools-scm-git-archive python-certifi)
 checkdepends=(python-pytest python-pytest-xdist python-pytest-runner python-pytest-rerunfailures xorg-server-xvfb
               texlive-bin texlive-core texlive-latexextra texlive-pictures ghostscript inkscape ffmpeg imagemagick
-              gtk4 python-cairo python-cairocffi python-gobject python-pyqt5 pyside2 python-pyqt6 pyside6 python-tornado python-wxpython tk
+              gtk4 python-cairo python-gobject python-pyqt5 pyside2 python-pyqt6 pyside6 python-tornado python-wxpython tk
               jupyter-nbconvert jupyter-nbformat python-ipykernel python-pandas python-pikepdf python-pytz)
 _tag=2aad0d94ff80a81cd2e735b46f11f4f4b5e3e59d # git rev-parse v${pkgver}
 _ftver=2.12.1
