@@ -2699,7 +2699,7 @@
     "python-fastpbkdf2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastpbkdf2.git",
       "branch": "master",
-      "revision": "4bf122d4152663a88c601719b6f888dff1b4c27a"
+      "revision": "49cac892b5875f98060a2954ef507093b8bbbc5e"
     },
     "python-feedgenerator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedgenerator.git",
