@@ -489,7 +489,7 @@
     "perl-http-message": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-message.git",
       "branch": "master",
-      "revision": "e59b2edea2f2dbb8c6b02c1b4112cea4fee2da7a"
+      "revision": "b47734df7ba46bd5a91be091435b686509882d26"
     },
     "perl-http-negotiate": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-negotiate.git",
