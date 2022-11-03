@@ -159,7 +159,7 @@
     "perl-crypt-openssl-dsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-dsa.git",
       "branch": "master",
-      "revision": "20880d9777845dcb4762668a0ea265ef397ad779"
+      "revision": "865a4742fe5fd2d9c1a885784ce6a8ef4c4673e7"
     },
     "perl-crypt-openssl-guess": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-guess.git",
