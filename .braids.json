@@ -464,7 +464,7 @@
     "perl-html-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-html-parser.git",
       "branch": "master",
-      "revision": "05a4aa4ee11716d23af9a22304e23e45801f9f63"
+      "revision": "6aa4ff9c0b97fe39fa4b12d398bb797e07bc6ba9"
     },
     "perl-html-tagset": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-html-tagset.git",
