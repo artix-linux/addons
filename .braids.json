@@ -819,7 +819,7 @@
     "perl-net-dns-sec": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-dns-sec.git",
       "branch": "master",
-      "revision": "00e96c38b069dd9c0ce2fe1b8d6e170369bbb376"
+      "revision": "ece5f72c1d0beec4a83dc830a1cd2bb25ff08ccd"
     },
     "perl-net-http": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-http.git",
