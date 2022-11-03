@@ -834,7 +834,7 @@
     "perl-net-libidn2": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-libidn2.git",
       "branch": "master",
-      "revision": "f4400202c0b550ea164d0631ab4249b81c1b7619"
+      "revision": "3e40644218d10ef6ea19b144da08a1b5b4d02aff"
     },
     "perl-net-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-server.git",
