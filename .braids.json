@@ -889,7 +889,7 @@
     "perl-params-validate": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-params-validate.git",
       "branch": "master",
-      "revision": "18d4a073100d8ed4d571bd8e8d6199473358e0b4"
+      "revision": "431fe2c98923d1fef4bfcacbda68bc499f58e380"
     },
     "perl-params-validationcompiler": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-params-validationcompiler.git",
