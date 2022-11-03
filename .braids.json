@@ -1359,7 +1359,7 @@
     "perl-uri": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-uri.git",
       "branch": "master",
-      "revision": "5f48bd01a2c96e68259e2fe7c3883d995f295286"
+      "revision": "4e9a22a6f8f508444fb9bdfa5a05af893793a390"
     },
     "perl-user-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-user-identity.git",
