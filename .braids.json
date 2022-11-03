@@ -604,7 +604,7 @@
     "perl-json": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-json.git",
       "branch": "master",
-      "revision": "a7402037039db5c851ef1c87efee85feced8251b"
+      "revision": "f42c53bdc2d27032e344ece7ca5c22c198c99e75"
     },
     "perl-json-xs": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-json-xs.git",
