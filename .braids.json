@@ -234,7 +234,7 @@
     "perl-datetime-locale": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-locale.git",
       "branch": "master",
-      "revision": "16c75dc038c232b7cc25d1877638c62228d46ac5"
+      "revision": "2e8892cb40595a0bc59ae65a2cb40726ebe1b7ef"
     },
     "perl-datetime-timezone": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-timezone.git",
