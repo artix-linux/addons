@@ -154,7 +154,7 @@
     "perl-crypt-openssl-bignum": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-bignum.git",
       "branch": "master",
-      "revision": "0c94d11bf768940fbb4d9d32215668feffe6b605"
+      "revision": "d88916fd7e151be0e8e55f54df80a1245d9137a2"
     },
     "perl-crypt-openssl-dsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-dsa.git",
