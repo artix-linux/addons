@@ -239,7 +239,7 @@
     "perl-datetime-timezone": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-timezone.git",
       "branch": "master",
-      "revision": "882902a65df8b73367feb7485122a93ec6bbe7bf"
+      "revision": "ff5d1fde8f39e4bcc2f7e89dcf74d36f37e10221"
     },
     "perl-dbd-mysql": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-dbd-mysql.git",
