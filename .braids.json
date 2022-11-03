@@ -219,7 +219,7 @@
     "perl-datetime": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime.git",
       "branch": "master",
-      "revision": "78c372082d6d24eda9e584c05f070494a39b3283"
+      "revision": "4f61ad44764f5eed5c50a324c01ff283612a4f69"
     },
     "perl-datetime-format-mail": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-format-mail.git",
