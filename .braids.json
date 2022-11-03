@@ -5744,7 +5744,7 @@
     "python-scrypt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scrypt.git",
       "branch": "master",
-      "revision": "375d40dd0165c82924c1965ce9b96393e7d78b5b"
+      "revision": "b425baec1af30ceeb043354e5519ca8d75c18cbe"
     },
     "python-seaborn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-seaborn.git",
