@@ -3834,7 +3834,7 @@
     "python-merge3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-merge3.git",
       "branch": "master",
-      "revision": "4ca6e6398d9131aa409f672c423e6c39648a42b3"
+      "revision": "cec76cc45eca76df66bf47845e25a5a732a8b349"
     },
     "python-milksnake": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-milksnake.git",
