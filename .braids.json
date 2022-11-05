@@ -7083,7 +7083,7 @@
     "ruby-covered": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-covered.git",
       "branch": "master",
-      "revision": "76e3a1db019e739292e8121c8eed975bf39a7b8a"
+      "revision": "d909bbd4be28fda553f024b4789a54b720af28f0"
     },
     "ruby-crack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-crack.git",
