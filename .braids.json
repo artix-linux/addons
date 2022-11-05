@@ -1,11 +1,6 @@
 {
   "config_version": 1,
   "mirrors": {
-    "Ruby-protocol-http2": {
-      "url": "gitea@gitea.artixlinux.org:packagesR/Ruby-protocol-http2.git",
-      "branch": "master",
-      "revision": "6ea2a088481500027573ce7ceaf3c6a2cc5b643a"
-    },
     "perl-acme-alien-dontpanic": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-acme-alien-dontpanic.git",
       "branch": "master",
