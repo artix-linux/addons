@@ -7860,6 +7860,11 @@
       "branch": "master",
       "revision": "8bab485c1428fe2bda0cb54308c14ebcc7e1d8f7"
     },
+    "ruby-trenni": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-trenni.git",
+      "branch": "master",
+      "revision": "894bce62fccce025eadb831f3245e63da996674d"
+    },
     "ruby-tzinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tzinfo.git",
       "branch": "master",
