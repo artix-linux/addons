@@ -7893,7 +7893,7 @@
     "ruby-traces": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-traces.git",
       "branch": "master",
-      "revision": "c3ec30db0821699cbc72d9b9870dcd339ed477f8"
+      "revision": "7e1c1a05a1b5626801a2bd8a15c0d098c0335cbd"
     },
     "ruby-trenni": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-trenni.git",
