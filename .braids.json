@@ -7168,7 +7168,7 @@
     "ruby-eventmachine": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-eventmachine.git",
       "branch": "master",
-      "revision": "9f40dee9ecbc6879f914458aa8e63d398492c003"
+      "revision": "bf44ab3bfa5ff126c8a571ffe3b02aa260e19840"
     },
     "ruby-facets": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-facets.git",
