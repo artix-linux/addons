@@ -1,11 +1,11 @@
-# Maintainer: Morten Linderud <foxboron@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Angel Velasquez <angvp@archlinux.org> 
 # Contributor: Sergej Pupykin <sergej@aur.archlinux.org>
 # Contributor: William Rea <sillywilly@gmail.com>
 
 pkgname=python-m2crypto
 pkgver=0.38.0
-pkgrel=3
+pkgrel=4
 pkgdesc="A crypto and SSL toolkit for Python"
 arch=('x86_64')
 url="https://pypi.python.org/pypi/M2Crypto"
