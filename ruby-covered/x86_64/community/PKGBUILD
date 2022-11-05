@@ -2,13 +2,13 @@
 
 pkgname=ruby-covered
 pkgver=0.18.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A modern approach to code coverage'
 arch=(any)
 url='https://github.com/ioquatix/covered'
 license=(MIT)
 depends=(ruby-async-rest ruby-console ruby-msgpack ruby-parser)
-checkdepends=(ruby-rspec ruby-sus ruby-bake-test ruby-minitest)
+checkdepends=(ruby-rspec ruby-sus ruby-trenni ruby-bake-test ruby-minitest)
 options=(!emptydirs)
 source=(https://github.com/ioquatix/covered/archive/v$pkgver/$pkgname-$pkgver.tar.gz
         $pkgname-sus-0.14.patch::https://github.com/ioquatix/covered/pull/16.patch)
@@ -51,6 +51,7 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd covered-$pkgver
+  GEM_HOME="tmp_install/$_gemdir" bake test
 }
 
 package() {
