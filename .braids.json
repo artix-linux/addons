@@ -7018,7 +7018,7 @@
     "ruby-bake": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bake.git",
       "branch": "master",
-      "revision": "90ffecd2a9130bdbcfa18b3a09f9102160bfa8d6"
+      "revision": "4b3f3e10f800e941f6b30dc208282424c08c78e2"
     },
     "ruby-bake-test": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bake-test.git",
