@@ -844,7 +844,7 @@
     "perl-net-ssleay": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-ssleay.git",
       "branch": "master",
-      "revision": "0b77ce6cc819a7397b2ac413ecd7ed23618a9fe7"
+      "revision": "13d1c5e93e84798ecbb54c7b2eeb187dd9d82bca"
     },
     "perl-netaddr-ip": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-netaddr-ip.git",
