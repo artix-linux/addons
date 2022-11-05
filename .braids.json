@@ -174,7 +174,7 @@
     "perl-crypt-openssl-rsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-rsa.git",
       "branch": "master",
-      "revision": "ce8c79202f4402c0a597f3f8a674b37c2aff8a1f"
+      "revision": "d569b4c4298e6863acaaf90dd6a03870df7b74f9"
     },
     "perl-crypt-random-seed": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-random-seed.git",
