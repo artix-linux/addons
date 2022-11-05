@@ -7573,7 +7573,7 @@
     "ruby-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-parser.git",
       "branch": "master",
-      "revision": "b282fcb0536dafc128aec2db469ddf3cae395e79"
+      "revision": "176aa7d0e99d6a006a4aa366e8a5da98a29885cc"
     },
     "ruby-path_expander": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-path_expander.git",
