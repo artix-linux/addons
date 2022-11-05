@@ -7580,6 +7580,11 @@
       "branch": "master",
       "revision": "9dd54a930e86534b34184d1166e9844c9b6021b2"
     },
+    "ruby-protocol-http": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-protocol-http.git",
+      "branch": "master",
+      "revision": "01eb7a4cab9cf7e6b5914ca0287f330da27d6794"
+    },
     "ruby-psych": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-psych.git",
       "branch": "master",
