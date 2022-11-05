@@ -7000,6 +7000,11 @@
       "branch": "master",
       "revision": "428786aea37a0213bbc63013d7d51095e6584aed"
     },
+    "ruby-async-http": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-http.git",
+      "branch": "master",
+      "revision": "44e24cb8134218ccbf7dc3580386fa918c842b93"
+    },
     "ruby-async-io": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-io.git",
       "branch": "master",
