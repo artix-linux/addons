@@ -7580,6 +7580,11 @@
       "branch": "master",
       "revision": "9dd54a930e86534b34184d1166e9844c9b6021b2"
     },
+    "ruby-protocol-hpack": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-protocol-hpack.git",
+      "branch": "master",
+      "revision": "15f41426405a2ad7942b0e219c86a668e166b68b"
+    },
     "ruby-protocol-http": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-protocol-http.git",
       "branch": "master",
