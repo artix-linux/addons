@@ -6993,7 +6993,7 @@
     "ruby-ast": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ast.git",
       "branch": "master",
-      "revision": "a146f7550c8e3529761ad467c1d6d997b20c829c"
+      "revision": "69cbf7cfb98f509ae90975ee95ee7f2ba9472574"
     },
     "ruby-async": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async.git",
