@@ -7890,6 +7890,11 @@
       "branch": "master",
       "revision": "8bab485c1428fe2bda0cb54308c14ebcc7e1d8f7"
     },
+    "ruby-traces": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-traces.git",
+      "branch": "master",
+      "revision": "c3ec30db0821699cbc72d9b9870dcd339ed477f8"
+    },
     "ruby-trenni": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-trenni.git",
       "branch": "master",
