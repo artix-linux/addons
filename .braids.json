@@ -7038,7 +7038,7 @@
     "ruby-benchmark-ips": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-benchmark-ips.git",
       "branch": "master",
-      "revision": "16842b15ef31c1b9904868f202f52860719540a2"
+      "revision": "4e3ae9dbcee5ec02e50fe786f78241d5e0461de7"
     },
     "ruby-bigdecimal": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bigdecimal.git",
