@@ -7583,7 +7583,7 @@
     "ruby-protocol-hpack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-protocol-hpack.git",
       "branch": "master",
-      "revision": "15f41426405a2ad7942b0e219c86a668e166b68b"
+      "revision": "7e0d568fb8c6ea3e55b22304278a6e2f1a8de8b0"
     },
     "ruby-protocol-http": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-protocol-http.git",
