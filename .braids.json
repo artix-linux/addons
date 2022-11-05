@@ -7045,6 +7045,11 @@
       "branch": "master",
       "revision": "5c706fa0479cba3da9a42a5c57720aac2ea5f911"
     },
+    "ruby-bake-test-external": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bake-test-external.git",
+      "branch": "master",
+      "revision": "970134ba495c838a3cc873618cd204aa7dd49bc8"
+    },
     "ruby-base64": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-base64.git",
       "branch": "master",

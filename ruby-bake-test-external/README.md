@@ -1,0 +1,2 @@
+# ruby-bake-test-external
+
