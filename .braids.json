@@ -7005,6 +7005,11 @@
       "branch": "master",
       "revision": "1c7eafda0907e96adbcf4084fc0808cf5e81df8c"
     },
+    "ruby-async-rest": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-rest.git",
+      "branch": "master",
+      "revision": "a3dae5224302b4abfdf2e31e15cadab9a9287e98"
+    },
     "ruby-atk": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-atk.git",
       "branch": "master",
