@@ -7493,7 +7493,7 @@
     "ruby-msgpack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-msgpack.git",
       "branch": "master",
-      "revision": "dac2a92392a5e88835ef1f11f2cabad82e512178"
+      "revision": "cad5f8f41abef1a9885ef43277749e57ea7b777c"
     },
     "ruby-multi_json": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-multi_json.git",
