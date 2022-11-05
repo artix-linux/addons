@@ -7108,7 +7108,7 @@
     "ruby-console": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-console.git",
       "branch": "master",
-      "revision": "864cefebe90e3aea71f8b68708419beb15d09e40"
+      "revision": "56949364a336762e705fc1cba5d8a1635304835e"
     },
     "ruby-covered": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-covered.git",
