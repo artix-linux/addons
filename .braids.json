@@ -7398,7 +7398,7 @@
     "ruby-kpeg": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-kpeg.git",
       "branch": "master",
-      "revision": "3b10a04479bbef8f23d09feeecafeb7d1ce8bce4"
+      "revision": "ca6038062fd6dc0930cc836460425a06a7545d56"
     },
     "ruby-kramdown": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-kramdown.git",
