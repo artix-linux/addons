@@ -2874,7 +2874,7 @@
     "python-flufl.bounce": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.bounce.git",
       "branch": "master",
-      "revision": "282d503e34fcea8a771c9b13368a3016efbba36a"
+      "revision": "05354e9812c29158d66368677f281d0090bd0daf"
     },
     "python-fluidity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fluidity.git",
