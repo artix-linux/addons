@@ -2489,7 +2489,7 @@
     "python-django-mailman3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-mailman3.git",
       "branch": "master",
-      "revision": "a8073ce91fa353f3c5a3617827a2e97242f0a4b0"
+      "revision": "2d06118aee4c0b77c46357d08f4eece2312f5f16"
     },
     "python-dkim": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dkim.git",
