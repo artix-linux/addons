@@ -4814,7 +4814,7 @@
     "python-pygit2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygit2.git",
       "branch": "master",
-      "revision": "d65002e16eefdc586d8362053ff1616af96152d3"
+      "revision": "c709ac3fdddff19750dc8f384b39e44e34e9f7b8"
     },
     "python-pygls": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygls.git",
