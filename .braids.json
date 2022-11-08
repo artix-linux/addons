@@ -1474,7 +1474,7 @@
     "python-aiodns": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiodns.git",
       "branch": "master",
-      "revision": "7939068f38a9d789228164402f4a90122b32027d"
+      "revision": "ce9e551e244a7a34934a01de484ce285ce7bab24"
     },
     "python-aiofiles": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiofiles.git",
