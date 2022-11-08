@@ -4869,7 +4869,7 @@
     "python-pylast": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylast.git",
       "branch": "master",
-      "revision": "fc40a48ae05ddc53a301e05e2c5d8c4ab9186e09"
+      "revision": "5a6c5fb06b87572a32f95cf71da82c1a559dee43"
     },
     "python-pylev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylev.git",
