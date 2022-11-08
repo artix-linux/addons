@@ -1,11 +1,11 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Max Mehl <aur at mehl dot mx>
 # SPDX-FileCopyrightText: 2019 Max Mehl
 # SPDX-License-Identifier: CC0-1.0
 
 pkgname=python-license-expression
 pkgver=30.0.0
-pkgrel=1
+pkgrel=2
 pkgdesc='Utility to parse, normalize and compare license expressions'
 arch=('any')
 url='https://github.com/nexB/license-expression'
@@ -16,10 +16,11 @@ depends=(
 )
 makedepends=(
   'git'
-  'python-setuptools'
+  'python-build'
+  'python-installer'
+  'python-wheel'
   'python-setuptools-scm'
   'python-wheel'
-  'python-pip'
 )
 checkdepends=(
   'python-pytest'
@@ -47,17 +48,17 @@ prepare() {
 build() {
   cd "$pkgname"
 
-  python setup.py build
+  python -m build --wheel --no-isolation
 }
 
 check() {
   cd "$pkgname"
 
-  pytest
+  pytest -v
 }
 
 package() {
   cd "$pkgname"
 
-  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+  python -m installer --destdir="$pkgdir" dist/*.whl
 }
