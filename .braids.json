@@ -2879,7 +2879,7 @@
     "python-flufl.i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.i18n.git",
       "branch": "master",
-      "revision": "9bbdf2b48423ff117ea817652ee7c3e7544f25ae"
+      "revision": "dacee8cbd8b2f4bc598d715426dc9a270965414a"
     },
     "python-fluidity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fluidity.git",
