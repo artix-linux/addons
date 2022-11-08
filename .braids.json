@@ -4104,7 +4104,7 @@
     "python-oauthlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oauthlib.git",
       "branch": "master",
-      "revision": "d5a337b15a20ee2a539c26dfe7920481abb50444"
+      "revision": "3de47432d8c0a595ab2d62e7fcb335e5626eb75e"
     },
     "python-objgraph": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-objgraph.git",
