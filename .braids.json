@@ -5009,7 +5009,7 @@
     "python-pyrsistent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyrsistent.git",
       "branch": "master",
-      "revision": "a0aa528e6bc49f4eeef229d6e77444da56cbb81f"
+      "revision": "eed92bc64047f41feb796b499e81fe6d10412d65"
     },
     "python-pysaml2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysaml2.git",
