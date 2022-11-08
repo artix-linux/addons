@@ -4019,7 +4019,7 @@
     "python-networkx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-networkx.git",
       "branch": "master",
-      "revision": "e736c19d607f53f74b2f3abd7f5bad220ec6e184"
+      "revision": "9c89e79b08112dc7e543f1f5e25efca1b101b428"
     },
     "python-nine": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nine.git",
