@@ -2294,7 +2294,7 @@
     "python-css-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-css-parser.git",
       "branch": "master",
-      "revision": "bdae2ddbe24d455e783bc3d953e43aea5637b543"
+      "revision": "a05f26a14f0d0bbba6375bb4761c8b8f86bcf5d1"
     },
     "python-cssselect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cssselect.git",
