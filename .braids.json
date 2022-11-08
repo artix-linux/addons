@@ -2886,6 +2886,11 @@
       "branch": "master",
       "revision": "dacee8cbd8b2f4bc598d715426dc9a270965414a"
     },
+    "python-flufl.testing": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.testing.git",
+      "branch": "master",
+      "revision": "61c381e48f0eb92b2ceed96bfce7fc8dab5c2fff"
+    },
     "python-fluidity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fluidity.git",
       "branch": "master",
