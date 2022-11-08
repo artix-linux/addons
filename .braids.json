@@ -5279,7 +5279,7 @@
     "python-pytest-sugar": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-sugar.git",
       "branch": "master",
-      "revision": "cdc08ea4267f2841c4c426996fdfbff041af18f3"
+      "revision": "849c805d41be5f16db96471c8ac94d91bab7fb7c"
     },
     "python-pytest-testinfra": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-testinfra.git",
