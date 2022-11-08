@@ -2479,7 +2479,7 @@
     "python-django-debug-toolbar": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-debug-toolbar.git",
       "branch": "master",
-      "revision": "ec58f83010e24fcdbe407e1aacc0ddbd23e621c8"
+      "revision": "47bdc44f713582d01958edaf9c0331a05e80ad78"
     },
     "python-django-fake-model": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-fake-model.git",
