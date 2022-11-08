@@ -6224,7 +6224,7 @@
     "python-teamcity-messages": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-teamcity-messages.git",
       "branch": "master",
-      "revision": "636a01d0c3db14946e683a73ad720dce84a8508c"
+      "revision": "4a0bcbc25b6669b3db27addecf91d0e76a01a7ec"
     },
     "python-telegram-bot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-telegram-bot.git",
