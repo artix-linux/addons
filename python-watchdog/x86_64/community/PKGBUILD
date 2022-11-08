@@ -2,19 +2,18 @@
 # Contributor: Francois Boulogne <fboulogne at april dot org>
 
 pkgname=python-watchdog
-pkgver=2.1.4
+pkgver=2.1.7
 pkgrel=1
 pkgdesc="Python API and shell utilities to monitor file system events"
 arch=('any')
 url="https://github.com/gorakhargosh/watchdog"
 license=('Apache')
 depends=('python')
-optdepends=('python-yaml: for watchmedo'
-            'python-argh: for watchmedo')
+optdepends=('python-yaml: for watchmedo')
 makedepends=('python-setuptools')
 checkdepends=('python-pytest' 'python-pytest-timeout')
 source=($pkgname-$pkgver.tar.gz::https://github.com/gorakhargosh/watchdog/archive/v$pkgver.tar.gz)
-sha512sums=('88bed725c045f59091902a1fe4673036a679d263c71269e36125df2a4c851864bddee0cf4f8c3f20bfc2d5f735804b7c7b1ff07a3d89d8649bfa16d3e7e1fe21')
+sha512sums=('f69265aac6e8a840d230c15cfe88c803f043cb540785446113617c0fd1a3c5dce8a885a376bbadc75372a718800948dd4b00c618e18e033d510b8e2bc2bbb36b')
 
 prepare() {
   cd watchdog-$pkgver
