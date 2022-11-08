@@ -4186,6 +4186,11 @@
       "branch": "master",
       "revision": "db1e51218a1ad64e09b5c061b286c835dd2028ce"
     },
+    "python-openid": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-openid.git",
+      "branch": "master",
+      "revision": "055b5b1b28dcb39087dad7b8bed72affe7dafc52"
+    },
     "python-openpyxl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openpyxl.git",
       "branch": "master",
