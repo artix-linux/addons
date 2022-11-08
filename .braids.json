@@ -2871,6 +2871,11 @@
       "branch": "master",
       "revision": "327c2d9b9a4ae653ce683c69b2ad18e30bda9e7a"
     },
+    "python-flufl-lock": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl-lock.git",
+      "branch": "master",
+      "revision": "30621b8e827e30ba03d0003999dbc458ac864f80"
+    },
     "python-flufl.bounce": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.bounce.git",
       "branch": "master",
