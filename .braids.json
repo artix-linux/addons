@@ -5084,7 +5084,7 @@
     "python-pytest-bdd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-bdd.git",
       "branch": "master",
-      "revision": "a9e6aa7117079beba6b3bbc9eedccf59c3aabec8"
+      "revision": "2cbda67fe801df471e863b23121b86b183aa550d"
     },
     "python-pytest-benchmark": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-benchmark.git",
