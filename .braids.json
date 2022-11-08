@@ -1471,6 +1471,11 @@
       "branch": "master",
       "revision": "5f515d2da3bdea00157f537a615b587139613148"
     },
+    "python-aiodns": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiodns.git",
+      "branch": "master",
+      "revision": "7939068f38a9d789228164402f4a90122b32027d"
+    },
     "python-aiofiles": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiofiles.git",
       "branch": "master",
