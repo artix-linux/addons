@@ -4429,7 +4429,7 @@
     "python-phonenumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
       "branch": "master",
-      "revision": "aee6ded12fb3d1c75df5e41a5922266880bba69f"
+      "revision": "860ac63b37b766837cbd967908b20379eb1f3b17"
     },
     "python-piccata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-piccata.git",
