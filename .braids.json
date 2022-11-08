@@ -1756,6 +1756,11 @@
       "branch": "master",
       "revision": "76b9b45fd4a08083e0541405a96aa3807530d976"
     },
+    "python-authheaders": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-authheaders.git",
+      "branch": "master",
+      "revision": "f9de2d0e065df5b0f5ecc87610e8e96e37b6adcc"
+    },
     "python-authlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authlib.git",
       "branch": "master",
