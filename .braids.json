@@ -4189,7 +4189,7 @@
     "python-openid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openid.git",
       "branch": "master",
-      "revision": "055b5b1b28dcb39087dad7b8bed72affe7dafc52"
+      "revision": "7d60ee8ce7848e80c43544e473be16260fdcb937"
     },
     "python-openpyxl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openpyxl.git",
