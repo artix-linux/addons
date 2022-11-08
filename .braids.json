@@ -1759,7 +1759,7 @@
     "python-authheaders": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authheaders.git",
       "branch": "master",
-      "revision": "f9de2d0e065df5b0f5ecc87610e8e96e37b6adcc"
+      "revision": "d70c69195d949b6f2a0c23c597709185f58f65c4"
     },
     "python-authlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authlib.git",
