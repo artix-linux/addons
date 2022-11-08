@@ -2474,7 +2474,7 @@
     "python-django-allauth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-allauth.git",
       "branch": "master",
-      "revision": "caea0cfa4620c13fb447ed4e8462cd1396f70d57"
+      "revision": "e5c17df972f8865d6f3e9e1b3a0eed306147c4ec"
     },
     "python-django-fake-model": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-fake-model.git",
