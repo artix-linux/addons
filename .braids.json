@@ -3644,7 +3644,7 @@
     "python-lazr.config": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazr.config.git",
       "branch": "master",
-      "revision": "f90d4e88e500e06c93616893d29e06b7420657a4"
+      "revision": "756e09bfb2de313f496aacf9bfd2cb941cb2f3d7"
     },
     "python-lazr.delegates": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazr.delegates.git",
