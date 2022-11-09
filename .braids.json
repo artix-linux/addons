@@ -3941,6 +3941,11 @@
       "branch": "master",
       "revision": "a742f05af3349d6d0a0d302a13a0077f87abaad0"
     },
+    "python-mitmproxy-wireguard": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-mitmproxy-wireguard.git",
+      "branch": "master",
+      "revision": "f3c6fd65e1df21da2f0fdd2bffc105c103af3b3f"
+    },
     "python-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mock.git",
       "branch": "master",
