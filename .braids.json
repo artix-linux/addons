@@ -5759,7 +5759,7 @@
     "python-robot-detection": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-robot-detection.git",
       "branch": "master",
-      "revision": "900ab5d89f5c68aad70db36ae213690352ec9b4d"
+      "revision": "5ee06c1b8e121827e3f131909f336249de55e966"
     },
     "python-rope": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rope.git",
