@@ -27,7 +27,7 @@ prepare() {
 
 build() {
   cd $_archive
-  python -m build -wn
+  python -m build -wn 
 }
 
 package() {
