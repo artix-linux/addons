@@ -7915,6 +7915,11 @@
       "branch": "master",
       "revision": "6d5dd36691884b39b41040f39a7137012ad12a6d"
     },
+    "ruby-sassc": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sassc.git",
+      "branch": "master",
+      "revision": "5b2aff04cbd4978b4d458d7606fa96cc4ded4746"
+    },
     "ruby-scanf": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-scanf.git",
       "branch": "master",
