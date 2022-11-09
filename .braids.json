@@ -5756,6 +5756,11 @@
       "branch": "master",
       "revision": "fff3e601a49e95269ff8e7654352ae2b960e2ced"
     },
+    "python-robot-detection": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-robot-detection.git",
+      "branch": "master",
+      "revision": "900ab5d89f5c68aad70db36ae213690352ec9b4d"
+    },
     "python-rope": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rope.git",
       "branch": "master",
