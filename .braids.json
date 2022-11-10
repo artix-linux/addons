@@ -2459,7 +2459,7 @@
     "python-distributed": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distributed.git",
       "branch": "master",
-      "revision": "1c3bd0a2545ecafcce913ea468f66243efd2d435"
+      "revision": "2fdc304096cb05f2b970fbac5abeb84027fb665f"
     },
     "python-distro": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distro.git",
