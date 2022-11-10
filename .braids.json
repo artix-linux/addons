@@ -3634,7 +3634,7 @@
     "python-keyring": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyring.git",
       "branch": "master",
-      "revision": "58bbfef1381e7990413b0a69cd34963c3d08185e"
+      "revision": "ac178e021f6a46fb02f498d43e395106f11acaba"
     },
     "python-keyrings-alt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyrings-alt.git",
