@@ -1519,7 +1519,7 @@
     "python-aiopg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiopg.git",
       "branch": "master",
-      "revision": "5ee9498e8c3b31939b9ec51ed6380180e1bdb2ce"
+      "revision": "34827add772562d98690edb611d9fd80e8d6f1a5"
     },
     "python-aioredis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aioredis.git",
