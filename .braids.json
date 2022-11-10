@@ -4174,7 +4174,7 @@
     "python-numexpr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numexpr.git",
       "branch": "master",
-      "revision": "523ca146222750a7c4472551a5a84d7e31022187"
+      "revision": "fc634b5aade4a5eab86880f87f4e6469c2dc9c1c"
     },
     "python-numpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numpy.git",
