@@ -2729,7 +2729,7 @@
     "python-fasteners": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fasteners.git",
       "branch": "master",
-      "revision": "73ad4d27af336a2c022eac2bd80f3ab9401c85c8"
+      "revision": "52dd8aedda014425f54de5535322c14f3c8f4076"
     },
     "python-fastimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
