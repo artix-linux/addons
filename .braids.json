@@ -7188,7 +7188,7 @@
     "ruby-build-files": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-build-files.git",
       "branch": "master",
-      "revision": "8f6e168be84bb74082e26a8000fc67d25433764a"
+      "revision": "780f153ca0a08306e135a7136485892df4067e12"
     },
     "ruby-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-builder.git",
