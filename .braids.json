@@ -7558,7 +7558,7 @@
     "ruby-markly": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-markly.git",
       "branch": "master",
-      "revision": "d033638390f531c733aabb0905276ccc227d127f"
+      "revision": "95f1bd00b2a5e8c44bc847502a3bbdb840addfad"
     },
     "ruby-maruku": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-maruku.git",
