@@ -8053,7 +8053,7 @@
     "ruby-traces": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-traces.git",
       "branch": "master",
-      "revision": "7e1c1a05a1b5626801a2bd8a15c0d098c0335cbd"
+      "revision": "213d84bceb143a4cec3189ea6a53a999b450d655"
     },
     "ruby-trenni": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-trenni.git",
