@@ -7883,7 +7883,7 @@
     "ruby-rspec-support": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-support.git",
       "branch": "master",
-      "revision": "1403332bc53d823ce8248a21b8692fab024be868"
+      "revision": "0486b5fd55d4a9f7228eb78e2d0c6401f9712887"
     },
     "ruby-ruby-progressbar": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ruby-progressbar.git",
