@@ -4709,7 +4709,7 @@
     "python-psutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-psutil.git",
       "branch": "master",
-      "revision": "bc6d59e5bb7bfe940d536473c84331af087b4b32"
+      "revision": "ed6961e24b0c18ee74db2f6108219079642b4b5a"
     },
     "python-psycopg2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-psycopg2.git",
