@@ -4514,7 +4514,7 @@
     "python-pg8000": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pg8000.git",
       "branch": "master",
-      "revision": "4c0d89bd7a8f95d9c8a5978b5ce2b51ed2fd1bd4"
+      "revision": "e5ae3346f916ba75ac0696dcbcd992478da17edc"
     },
     "python-phonenumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
