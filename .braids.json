@@ -3004,7 +3004,7 @@
     "python-genty": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-genty.git",
       "branch": "master",
-      "revision": "a0f5fd0490bb6999fc045537a5f22bb1e670893a"
+      "revision": "f477c3c2b7da9f69a6b4c29b5e507bd8c7b9134e"
     },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
