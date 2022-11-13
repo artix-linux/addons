@@ -5494,7 +5494,7 @@
     "python-pyvex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyvex.git",
       "branch": "master",
-      "revision": "6da4b0e67c8ec0ae97178c8c5a46ad9e5408c510"
+      "revision": "cb16ba18056e075596eb58bd9f68f6a0abc8fea2"
     },
     "python-pyvirtualdisplay": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyvirtualdisplay.git",
