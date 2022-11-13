@@ -3224,7 +3224,7 @@
     "python-httplib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httplib2.git",
       "branch": "master",
-      "revision": "b6ca39c71e9801e7f3484eef77a26690ce484025"
+      "revision": "6afb5f17a591f7f0e7bf0e8f79bd0442dcd99a49"
     },
     "python-httpretty": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httpretty.git",
