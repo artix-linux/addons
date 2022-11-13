@@ -7004,7 +7004,7 @@
     "python-zope-exceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-exceptions.git",
       "branch": "master",
-      "revision": "feb5f10ee7e705ffe90a4cfd58d02a3e5d9bd7f5"
+      "revision": "73d2a3a1c601e3827001233f9f5f07d945741858"
     },
     "python-zope-hookable": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-hookable.git",
