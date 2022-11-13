@@ -2509,7 +2509,7 @@
     "python-dnspython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dnspython.git",
       "branch": "master",
-      "revision": "0f9d1e3db7ca420885979defad87d96ba4e1f129"
+      "revision": "e5ef40f80fe12c642505459e9f29583b9c104e0d"
     },
     "python-docker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docker.git",
