@@ -6249,7 +6249,7 @@
     "python-stem": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stem.git",
       "branch": "master",
-      "revision": "03ed263c1ded09b3b231621bb4378a4a028bbe59"
+      "revision": "14ce640717385c21c94c5e1c372e4e3e9509ea8f"
     },
     "python-stestr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stestr.git",
