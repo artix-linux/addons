@@ -8025,6 +8025,11 @@
       "branch": "master",
       "revision": "7d88408d9de8c7c146cf694b106d3086650e13a4"
     },
+    "ruby-thread-local": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-thread-local.git",
+      "branch": "master",
+      "revision": "394f42410be49b9510a1d48da01e723d0ca5df85"
+    },
     "ruby-tilt": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tilt.git",
       "branch": "master",
