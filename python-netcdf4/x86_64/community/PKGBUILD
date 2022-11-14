@@ -14,7 +14,7 @@ license=(MIT)
 depends=(python-numpy python-cftime netcdf)
 makedepends=(cython python-setuptools)
 source=(https://files.pythonhosted.org/packages/source/${_pkg::1}/${_pkg}/${_pkg}-${pkgver}.tar.gz
-        ${pkgname}-fix-netcdf-filters-detection.patch::https://github.com/Unidata/netcdf4-python/pull/1173.patch)
+        ${pkgname}-fix-netcdf-filters-detection.patch)
 sha256sums=('ba8dc5d65293a99f1afb8c2acf588d903fdfdc1963a62545b677fa2734262a78'
             'cea33cb4b763cc450386c111b61a8c051d834a360ad6ce0487c890dd6dc4ba85')
 
