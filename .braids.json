@@ -5484,7 +5484,7 @@
     "python-pyudev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyudev.git",
       "branch": "master",
-      "revision": "f9e6fdb97da6b6712cc2a97e8f7781762ba4e79d"
+      "revision": "2ca3482395a1c83132f24e95042b8038ac587a88"
     },
     "python-pyusb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyusb.git",
