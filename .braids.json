@@ -4194,7 +4194,7 @@
     "python-objgraph": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-objgraph.git",
       "branch": "master",
-      "revision": "9d92fb62b6a46362a7e907a63cbce9a236f7c130"
+      "revision": "dd66505d8908b13e582ff52825237b160e7aa28e"
     },
     "python-openapi-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-core.git",
