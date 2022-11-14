@@ -6319,7 +6319,7 @@
     "python-tappy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tappy.git",
       "branch": "master",
-      "revision": "8c0270fe9ae269a773f07208598a7515f0b19d8e"
+      "revision": "73770857196f94beb108f5155d2b18530e4c1d84"
     },
     "python-tblib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tblib.git",
