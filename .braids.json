@@ -4274,7 +4274,7 @@
     "python-oslo-db": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-db.git",
       "branch": "master",
-      "revision": "c5283d43f43ffff7f5d4707d3f123c6e6a127572"
+      "revision": "261ef7e63217119a81f8932fbb490d7bee675ecd"
     },
     "python-oslo-i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-i18n.git",
