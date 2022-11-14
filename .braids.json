@@ -5544,7 +5544,7 @@
     "python-qtpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-qtpy.git",
       "branch": "master",
-      "revision": "65ade68d0f912413054e3c13dd55c354fdcd0f49"
+      "revision": "e1bfa584be1a10123da7de5301bae61bb09d8b80"
     },
     "python-quart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-quart.git",
