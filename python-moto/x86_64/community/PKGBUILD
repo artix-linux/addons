@@ -75,7 +75,8 @@ build() {
 check() {
   cd $_pkgname-$pkgver
 
-  PYTHONDONTWRITEBYTECODE=1 TZ=UTC pytest tests -m 'not needs_docker'
+  PYTHONDONTWRITEBYTECODE=1 TZ=UTC pytest tests -m 'not needs_docker' \
+      --deselect=tests/test_s3/test_multiple_accounts_server.py::TestAccountIdResolution::test_with_custom_request_header
 }
 
 package() {
