@@ -2709,7 +2709,7 @@
     "python-faker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-faker.git",
       "branch": "master",
-      "revision": "3f4ab4ebbb5fd452946e1141708bf17ec9bd79bd"
+      "revision": "30cbbe25d2e74d0aebd1e29c3ee81ab7e1f009bb"
     },
     "python-fakeredis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fakeredis.git",
