@@ -22,7 +22,8 @@ build() {
 
 check() {
   cd ipykernel-$pkgver
-  pytest -v
+  pytest -v \
+      --deselect=ipykernel/tests/test_kernel.py::test_shutdown_subprocesses
 }
 
 package() {
