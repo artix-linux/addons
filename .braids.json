@@ -4469,7 +4469,7 @@
     "python-pecan": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pecan.git",
       "branch": "master",
-      "revision": "6bc6d7d9d9ab63f7b315db3ed3c8d20b1b3fc24c"
+      "revision": "0e625bdccd95771496b71e38ece39f3ec0010499"
     },
     "python-pefile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pefile.git",
