@@ -6179,7 +6179,7 @@
     "python-sphinxcontrib-towncrier": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-towncrier.git",
       "branch": "master",
-      "revision": "d4e7daa6f0ef629da1f008ca124a84c474273681"
+      "revision": "655662b5c3f1fb257c27f60c4ea6777887d1f241"
     },
     "python-sphinxcontrib-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-trio.git",
