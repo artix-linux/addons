@@ -6884,7 +6884,7 @@
     "python-xlrd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlrd.git",
       "branch": "master",
-      "revision": "348e6ba2cca6f1e333680cf937ee22f31c2aa170"
+      "revision": "ad78a35f0dcbfd651028fee1cc7b34903c963208"
     },
     "python-xlsxwriter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlsxwriter.git",
