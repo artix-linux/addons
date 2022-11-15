@@ -2379,7 +2379,7 @@
     "python-dbus-deviation": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbus-deviation.git",
       "branch": "master",
-      "revision": "df0726cad65930e0a16fd325e6954d503d2cb295"
+      "revision": "071acea1acfb6e4b1092eae123ed6c7818278099"
     },
     "python-dbusmock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbusmock.git",
