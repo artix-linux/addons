@@ -7873,7 +7873,7 @@
     "ruby-rspec-files": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-files.git",
       "branch": "master",
-      "revision": "8a5abe663697694cff0f8c857d45f973524e2458"
+      "revision": "f30fb0a5ad3767e88000aa4eb65ea72abb6b17f2"
     },
     "ruby-rspec-its": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-its.git",
