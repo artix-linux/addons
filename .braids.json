@@ -3144,7 +3144,7 @@
     "python-hatch-nodejs-version": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-nodejs-version.git",
       "branch": "master",
-      "revision": "c3a4c08b12642aaff102a3635c94965cd1bda30f"
+      "revision": "b4af4c9edf09d75897fc2a7da8fcc0bcda936e53"
     },
     "python-hatch-vcs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-vcs.git",
