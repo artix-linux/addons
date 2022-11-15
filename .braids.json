@@ -7880,6 +7880,11 @@
       "branch": "master",
       "revision": "71a7f6b8ec6ccea0b7130e16158ae10b664c971b"
     },
+    "ruby-rspec-memory": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-memory.git",
+      "branch": "master",
+      "revision": "e389e972fd054546fb556e057588e9dba5be2b53"
+    },
     "ruby-rspec-mocks": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rspec-mocks.git",
       "branch": "master",
