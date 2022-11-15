@@ -7130,6 +7130,11 @@
       "branch": "master",
       "revision": "d68e9bd33a70ab3e1fbd61f6bb5da92300b60589"
     },
+    "ruby-async-rspec": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-rspec.git",
+      "branch": "master",
+      "revision": "8717ef2303bf6cad96d4e88e4cc990db78525b78"
+    },
     "ruby-atk": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-atk.git",
       "branch": "master",
