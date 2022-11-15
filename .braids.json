@@ -7133,7 +7133,7 @@
     "ruby-async-process": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-process.git",
       "branch": "master",
-      "revision": "6ea48cbc1da591184138b4f94fd212016239acca"
+      "revision": "2e4fd8bc17120768eff3352a3d531327375ac8dd"
     },
     "ruby-async-rest": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-rest.git",
