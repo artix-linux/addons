@@ -7108,7 +7108,7 @@
     "ruby-async-container": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-container.git",
       "branch": "master",
-      "revision": "b5385f9fb6b9d6bd86341027184f424874daf919"
+      "revision": "3fd0127c527e1c5d3ff4fac1fc057ec7e0c92c0c"
     },
     "ruby-async-dns": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-dns.git",
