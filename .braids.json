@@ -5884,7 +5884,7 @@
     "python-serpent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-serpent.git",
       "branch": "master",
-      "revision": "8ef12822c5102153b56bfb4d3e1420b6b8606594"
+      "revision": "ff3052c031b920505da3135305b208c6e61440a4"
     },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
