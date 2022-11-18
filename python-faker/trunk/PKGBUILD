@@ -3,7 +3,7 @@
 # Contributor: dnuux <dnuuxx@gmail.com>
 
 pkgname=python-faker
-pkgver=11.3.0
+pkgver=12.0.1
 pkgrel=1
 pkgdesc='Faker generates fake data for you.'
 arch=('any')
@@ -12,12 +12,12 @@ license=('MIT')
 provides=("python-fake-factory=$pkgver")
 conflicts=('python-fake-factory')
 replaces=('python-fake-factory')
-depends=('python-dateutil' 'python-text-unidecode')
+depends=('python-dateutil')
 makedepends=('python-setuptools' 'python-pytest')
 checkdepends=('python-validators' 'python-ukpostcodeparser' 'python-random2'
               'python-freezegun' 'python-pillow')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/joke2k/faker/archive/v$pkgver.tar.gz")
-sha512sums=('c6e50b03bc1939b085f966cb1827fc4a2e510bdd80a16ee073162ffb5a37b950a6461975422bea41be326c6fca170349b6ce7f63ce225aa48e8982dfa996a830')
+sha512sums=('86fd3f2d5cfefa9b8cba0565d925d6aa410c531d9cbe473ed3f88dcd68f8b3d0adc629ce794b3220670b636a7243699a34d114226559a2084be6c4e198e6b4c9')
 
 prepare() {
   sed -i -e 's/==/>=/' faker-$pkgver/setup.py
