@@ -2809,7 +2809,7 @@
     "python-flake8-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-black.git",
       "branch": "master",
-      "revision": "44fb284396803091ef91425ddda6361e9d538cb3"
+      "revision": "99ec0b20a5511dc609e47961e0b8c0c5bde80b19"
     },
     "python-flake8-debugger": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-debugger.git",
