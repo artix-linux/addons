@@ -2606,6 +2606,11 @@
       "branch": "master",
       "revision": "ddfdb72b7acce4425412da0f01557f88e86d57c1"
     },
+    "python-editdistance-s": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance-s.git",
+      "branch": "master",
+      "revision": "40d723b341f9e0125d8be354422ca8dda24624d2"
+    },
     "python-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editor.git",
       "branch": "master",
