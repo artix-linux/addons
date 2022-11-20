@@ -2104,7 +2104,7 @@
     "python-charset-normalizer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-charset-normalizer.git",
       "branch": "master",
-      "revision": "cf7d0134480c478b0c9830c54eb1f22e9d4412bf"
+      "revision": "cd0eec0ebf29ba5e24bc6911c50ef6c16b79ed6a"
     },
     "python-cheroot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cheroot.git",
