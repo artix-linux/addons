@@ -3074,7 +3074,7 @@
     "python-google-api-python-client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-api-python-client.git",
       "branch": "master",
-      "revision": "d9a0e9af717917b49a4e289163859f5724be3b71"
+      "revision": "12268aa4965c3f84fdeea749e30a6f77f5a5f48b"
     },
     "python-google-auth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-auth.git",
