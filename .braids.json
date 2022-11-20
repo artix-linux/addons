@@ -2169,7 +2169,7 @@
     "python-cliff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cliff.git",
       "branch": "master",
-      "revision": "93154344bb1a9657345faaa0d7b64e82c34bc09f"
+      "revision": "393c8f0394574e67db369390aacedfc13d8ed56e"
     },
     "python-clikit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clikit.git",
