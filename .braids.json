@@ -4709,7 +4709,7 @@
     "python-prompt_toolkit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prompt_toolkit.git",
       "branch": "master",
-      "revision": "57b9c956c9ec4127a042e1078369154b0a72cb3c"
+      "revision": "ac6a2b88ea5eb2e7a72012efcf90824a527df795"
     },
     "python-proxmoxer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-proxmoxer.git",
