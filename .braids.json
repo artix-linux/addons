@@ -4031,6 +4031,11 @@
       "branch": "master",
       "revision": "e19ffcbe91dc2490d3df5936f28c6150e08af696"
     },
+    "python-multipart": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-multipart.git",
+      "branch": "master",
+      "revision": "6c7cc5cb3ff9db72f5586827928880141e5f483c"
+    },
     "python-munch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-munch.git",
       "branch": "master",
