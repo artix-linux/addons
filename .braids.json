@@ -4429,7 +4429,7 @@
     "python-patiencediff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patiencediff.git",
       "branch": "master",
-      "revision": "b07f16b5e42643071e4d11d5192a2c521ae60395"
+      "revision": "919c6aa1cab42ef55df496153d99ce1318eaaa83"
     },
     "python-patsy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patsy.git",
