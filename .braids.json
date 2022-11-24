@@ -2479,7 +2479,7 @@
     "python-django-debug-toolbar": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-debug-toolbar.git",
       "branch": "master",
-      "revision": "47bdc44f713582d01958edaf9c0331a05e80ad78"
+      "revision": "9c642295f5afd99cdb54176d699989700fa76e2d"
     },
     "python-django-extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-extensions.git",
