@@ -6294,7 +6294,7 @@
     "python-structlog": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-structlog.git",
       "branch": "master",
-      "revision": "ea09536af21b15fea14b206d282415a7f015e861"
+      "revision": "2986db14734633e4b5417a47582430df09343167"
     },
     "python-subprocess-tee": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-subprocess-tee.git",
