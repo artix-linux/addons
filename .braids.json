@@ -2224,7 +2224,7 @@
     "python-comm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-comm.git",
       "branch": "master",
-      "revision": "fc18e231db266b0913c6631b965b5b2e43b5136d"
+      "revision": "13503eda3b9423c1576d6e15c75e24dffe70fba2"
     },
     "python-commentjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-commentjson.git",
