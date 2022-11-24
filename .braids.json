@@ -6929,7 +6929,7 @@
     "python-xxhash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xxhash.git",
       "branch": "master",
-      "revision": "a5d695ffe66b990ad317ec24997248440165e0bb"
+      "revision": "131a84414949335610e55ed20bd8cf37076c6033"
     },
     "python-yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yaml.git",
