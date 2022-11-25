@@ -2029,7 +2029,7 @@
     "python-canonicaljson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-canonicaljson.git",
       "branch": "master",
-      "revision": "ffa26c9dd504f5e7f63ef0900c3dbee1d9dd9817"
+      "revision": "ce18f56666cd1b3a588bf68668b14c0614f30881"
     },
     "python-case": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-case.git",
