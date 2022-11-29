@@ -2114,7 +2114,7 @@
     "python-cherrypy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cherrypy.git",
       "branch": "master",
-      "revision": "a687eaa7feda7d64e44785a2b234349a37222117"
+      "revision": "1d0bd283bb70babc0eb45474458f456fb8bb0019"
     },
     "python-claripy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-claripy.git",
