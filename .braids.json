@@ -7208,7 +7208,7 @@
     "ruby-bigdecimal": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bigdecimal.git",
       "branch": "master",
-      "revision": "0c865bcf062cf4cf841c396f3a57d92f19ce2c8c"
+      "revision": "85af963b9475bf28536b0ee2ff8ad49cd8b67431"
     },
     "ruby-braid": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-braid.git",
