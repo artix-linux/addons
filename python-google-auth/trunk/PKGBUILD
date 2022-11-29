@@ -1,7 +1,7 @@
 # Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-google-auth
-pkgver=2.10.0
+pkgver=2.11.1
 pkgrel=1
 pkgdesc="Google Authentication Library"
 url="https://github.com/GoogleCloudPlatform/google-auth-library-python"
@@ -13,7 +13,7 @@ checkdepends=('python-pytest' 'python-mock' 'python-requests' 'python-flask'
               'python-oauth2client' 'python-pytest-localserver' 'python-cryptography'
               'python-freezegun' 'python-responses' 'python-pyopenssl' 'python-pyu2f')
 source=("https://github.com/GoogleCloudPlatform/google-auth-library-python/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
-sha512sums=('9484d24b733811d10b381e032041aae25afbefed9fb25ab212581c4390e8adf0faddbeecdb7d731669e521a69b57aab64235401420fce34a5f763b1e587dea2b')
+sha512sums=('379e236b1b99145e5bbbb64279fdb9ef233d62c9b1c0f48c02c5066cea956d437dbf264b95c95cabd931601016bf4f24c9c4f27aa32a8762c1e53d17b532aa24')
 
 prepare() {
   cd google-auth-library-python-$pkgver
