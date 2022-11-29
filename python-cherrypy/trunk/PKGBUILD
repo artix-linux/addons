@@ -1,4 +1,4 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Laurent Soest <laurent.soest@gmail.com>
 # Contributor: Angel Velasquez <angvp@archlinux.org>
 # Contributor: Kaiting Chen <kaitocracy@gmail.com>
@@ -9,10 +9,10 @@
 pkgname='python-cherrypy'
 _pkgname="${pkgname#python-}"
 pkgver=18.8.0
-pkgrel=1
+pkgrel=2
 pkgdesc='A pythonic, object-oriented web development framework'
 arch=('any')
-url='https://cherrypy.org'
+url='https://cherrypy.dev'
 license=('BSD')
 depends=('python' 'python-cheroot' 'python-portend' 'python-jaraco.collections'
 'python-more-itertools' 'python-zc.lockfile')
