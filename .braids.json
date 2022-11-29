@@ -6359,7 +6359,7 @@
     "python-tempora": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tempora.git",
       "branch": "master",
-      "revision": "f772ff905c99635101082662ed0f647157c09bc3"
+      "revision": "fd8afb074c6b260567426da465e0fd187962642d"
     },
     "python-tenacity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tenacity.git",
