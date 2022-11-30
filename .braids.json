@@ -7513,7 +7513,7 @@
     "ruby-io-console": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-io-console.git",
       "branch": "master",
-      "revision": "8c0041306f872659597c7cf45e6657642bae74d8"
+      "revision": "db29b32dbb200e1a386a321ed96a9f95dcfe2057"
     },
     "ruby-io-nonblock": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-io-nonblock.git",
