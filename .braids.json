@@ -7688,7 +7688,7 @@
     "ruby-mutex_m": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mutex_m.git",
       "branch": "master",
-      "revision": "f54667f10b11802b6abc857c714de8518be13a0f"
+      "revision": "bb8686d9d2759b58dc1ce07e214f6730b5fac176"
     },
     "ruby-native-package-installer": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-native-package-installer.git",
