@@ -2019,7 +2019,7 @@
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
-      "revision": "4771dac15894d9dab2286cb95bd500f572859153"
+      "revision": "13a2ad690b2b84066a753127b904acfde5d63509"
     },
     "python-calver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calver.git",
