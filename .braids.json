@@ -6369,7 +6369,7 @@
     "python-termcolor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-termcolor.git",
       "branch": "master",
-      "revision": "57fb81b162ed346dea6217f5e808a8d5291367ce"
+      "revision": "d45ffec325f3b5063c1fc4f806bb6ff14ecb76ba"
     },
     "python-terminado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-terminado.git",
