@@ -5869,7 +5869,7 @@
     "python-seaborn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-seaborn.git",
       "branch": "master",
-      "revision": "e4128b8c545be8cf8113f19a5ad61888ff3864da"
+      "revision": "60031bcb3788b8f77fa2178c0d6151c9f608ad04"
     },
     "python-secretstorage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-secretstorage.git",
