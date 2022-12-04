@@ -3,7 +3,7 @@
 # Contributor: dnuux <dnuuxx@gmail.com>
 
 pkgname=python-faker
-pkgver=12.3.1
+pkgver=13.1.0
 pkgrel=1
 pkgdesc='Faker generates fake data for you.'
 arch=('any')
@@ -17,7 +17,7 @@ makedepends=('python-setuptools' 'python-pytest')
 checkdepends=('python-validators' 'python-ukpostcodeparser' 'python-random2'
               'python-freezegun' 'python-pillow')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/joke2k/faker/archive/v$pkgver.tar.gz")
-sha512sums=('4787f839400bd2e018107af10e9d038e8506588423736611b7bac8642d50cb1a70ce4bcd8c1b6d77f310b0b5a8b16dfc36e40beae96a9c5a7d5a5634b42ae3ec')
+sha512sums=('9e441ccfd350a78966d8c70320e7df6f9107d880c8b4b9c1f4698f5077c1abc9b4fdb01e076bf46a954badb52c9f25b3df6f053662a05fe1df707cc290c41fc2')
 
 prepare() {
   sed -i -e 's/==/>=/' faker-$pkgver/setup.py
