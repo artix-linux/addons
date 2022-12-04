@@ -5044,7 +5044,7 @@
     "python-pynitrokey": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynitrokey.git",
       "branch": "master",
-      "revision": "2a6e62326fb4692f42fcdee703dc0c7705bda89e"
+      "revision": "4675d262d113ab3ab7209b10418d089cc555d491"
     },
     "python-pynvim": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynvim.git",
