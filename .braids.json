@@ -2304,7 +2304,7 @@
     "python-cryptography-vectors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cryptography-vectors.git",
       "branch": "master",
-      "revision": "f6afdd392ef36423efeb48f8f9e002f6e4cdda3f"
+      "revision": "bf1095081bb1b5c7ecf50aebaa044b009dbf3a3a"
     },
     "python-cson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cson.git",
