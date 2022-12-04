@@ -3509,7 +3509,7 @@
     "python-jinja-time": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jinja-time.git",
       "branch": "master",
-      "revision": "45a6e41d39b40c3c17ca15f1564b2bd5515d9f75"
+      "revision": "29ef89c6fe04887b08ebec2f0191c380c5cb0b32"
     },
     "python-jmespath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jmespath.git",
