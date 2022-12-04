@@ -4594,7 +4594,7 @@
     "python-pkginfo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pkginfo.git",
       "branch": "master",
-      "revision": "5eb06c3218a4255d89fe0162aeaec34054cd5c17"
+      "revision": "43f7d39e20f8036f3d48c51c5d062608d682adc1"
     },
     "python-platformdirs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-platformdirs.git",
