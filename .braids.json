@@ -6614,7 +6614,7 @@
     "python-ujson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ujson.git",
       "branch": "master",
-      "revision": "56ba172156a12bec58f3ca61d18423960dcc4912"
+      "revision": "da2527cec275c415682ecf88e78bd949140fd062"
     },
     "python-ukkonen": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ukkonen.git",
