@@ -3734,7 +3734,7 @@
     "python-libcst": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libcst.git",
       "branch": "master",
-      "revision": "4b0642bef036e92893b8c4a6c941ef8edfc897f0"
+      "revision": "d21eefa4bcca797465a23c8af6ee8c8e36f54b53"
     },
     "python-libevdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libevdev.git",
