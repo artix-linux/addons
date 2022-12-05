@@ -1751,6 +1751,11 @@
       "branch": "master",
       "revision": "56bafc44d10145a8401cf2f015083130335fc951"
     },
+    "python-attrdict": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrdict.git",
+      "branch": "master",
+      "revision": "085ae15dafbf6c8309e80b4a1071a7582e17f1bc"
+    },
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
