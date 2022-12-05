@@ -6521,6 +6521,11 @@
       "branch": "master",
       "revision": "d5f4aeb5b53354235a226e1375c4824df14e41c9"
     },
+    "python-trailrunner": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-trailrunner.git",
+      "branch": "master",
+      "revision": "ad52ecbfb9dd67f73cefcfc0c5591529af5bd924"
+    },
     "python-traitlets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-traitlets.git",
       "branch": "master",
