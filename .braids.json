@@ -4181,6 +4181,11 @@
       "branch": "master",
       "revision": "f30216b3419c8d5636db69c4d4cbf767e8d3ffad"
     },
+    "python-nptyping": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-nptyping.git",
+      "branch": "master",
+      "revision": "499c6d64b023f34c38e03283600a01de7e572d26"
+    },
     "python-nrfutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nrfutil.git",
       "branch": "master",
