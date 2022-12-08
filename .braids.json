@@ -1634,7 +1634,7 @@
     "python-archinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-archinfo.git",
       "branch": "master",
-      "revision": "e482000110bce8c8dc2303b2078c91fcf0b9b93d"
+      "revision": "e4cbd40fcf9e2cab4ed697f446dd7e9bbf41df4b"
     },
     "python-aresponses": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aresponses.git",
