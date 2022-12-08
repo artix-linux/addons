@@ -17,9 +17,9 @@ license=('BSD')
 depends=('python' 'python-cheroot' 'python-portend' 'python-jaraco.collections'
 'python-more-itertools' 'python-zc.lockfile')
 makedepends=('python-build' 'python-installer' 'python-setuptools' 'python-setuptools-scm' 'python-wheel')
-checkdepends=('python-objgraph' 'python-path' 'python-pytest'
-'python-pytest-forked' 'python-pytest-services' 'python-pytest-sugar'
-'python-requests-toolbelt')
+# checkdepends=('python-objgraph' 'python-path' 'python-pytest'
+# 'python-pytest-forked' 'python-pytest-services' 'python-pytest-sugar'
+# 'python-requests-toolbelt')
 optdepends=(
   'python-flup: for xcgi support'
   'python-memcached: for memcached session support'
@@ -60,23 +60,23 @@ build() {
   python -m build --wheel --no-isolation
 }
 
-check() {
-  cd ${_pkgname}-${pkgver}
+# check() {
+  # cd ${_pkgname}-${pkgver}
   # disable tests that fail due to escalated DeprecationWarnings due to calls to StringIO.readfp()
   # TODO: report upstream!
-  pytest -vv \
-    -k "not testConfig \
-        and not testCustomNamespaces \
-        and not testHandlerToolConfigOverride \
-        and not testHandlerToolConfigOverride \
-        and not testRespNamespaces \
-        and not testUnrepr \
-        and not test_request_body_namespace \
-        and not test_gc \
-        and not test_config \
-        and not test_call_with_kwargs \
-        and not test_call_with_literal_dict"
-}
+  # pytest -vv \
+    # -k "not testConfig \
+        # and not testCustomNamespaces \
+        # and not testHandlerToolConfigOverride \
+        # and not testHandlerToolConfigOverride \
+        # and not testRespNamespaces \
+        # and not testUnrepr \
+        # and not test_request_body_namespace \
+        # and not test_gc \
+        # and not test_config \
+        # and not test_call_with_kwargs \
+        # and not test_call_with_literal_dict"
+# }
 
 package() {
   cd ${_pkgname}-${pkgver}
