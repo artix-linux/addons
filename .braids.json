@@ -6149,7 +6149,7 @@
     "python-sphinx-jinja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-jinja.git",
       "branch": "master",
-      "revision": "62eea1e59779318aa882acd2f86bbf8c0f4cfdd8"
+      "revision": "cb78e62cbcebe14f582c3988bbf35f93476ecea7"
     },
     "python-sphinx-lv2-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-lv2-theme.git",
