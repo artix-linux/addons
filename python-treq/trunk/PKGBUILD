@@ -1,9 +1,9 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Maintainer: Chih-Hsuan Yen <yan12125@archlinux.org>
 
 pkgname=python-treq
 pkgver=22.2.0
-pkgrel=1
+pkgrel=2
 pkgdesc="A requests-like API built on top of twisted.web's Agent"
 arch=('any')
 license=('MIT')
