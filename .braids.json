@@ -5191,6 +5191,11 @@
       "branch": "master",
       "revision": "852d36e6a6e49a3bdeace3d4c9cba14e83be0fbf"
     },
+    "python-pysolr": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysolr.git",
+      "branch": "master",
+      "revision": "3823de80f46895bab9c18058e70b7fa9a8eb18ee"
+    },
     "python-pyspinel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyspinel.git",
       "branch": "master",
