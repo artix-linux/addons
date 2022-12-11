@@ -2799,7 +2799,7 @@
     "python-filelock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-filelock.git",
       "branch": "master",
-      "revision": "3c410f70a236d73b6125a0fec93f140f99ff2345"
+      "revision": "04059012de79b64a6d494bc574596d333b04d0c5"
     },
     "python-findpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-findpython.git",
