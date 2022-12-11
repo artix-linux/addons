@@ -6916,6 +6916,11 @@
       "branch": "master",
       "revision": "12c1d0e23108866a912cdb7fa1f00ea2ab53ce60"
     },
+    "python-xapian": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-xapian.git",
+      "branch": "master",
+      "revision": "bc83e0d484faa2cdf3f2220ab302fc2a263ec3aa"
+    },
     "python-xapp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xapp.git",
       "branch": "master",
