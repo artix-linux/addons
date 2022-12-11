@@ -2511,6 +2511,11 @@
       "branch": "master",
       "revision": "1524d4693704de2415ecb9a77530457f5774618b"
     },
+    "python-django-classy-tags": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-classy-tags.git",
+      "branch": "master",
+      "revision": "43fa060f58003637a12cab49f6b4d004863ee4b5"
+    },
     "python-django-crispy-forms": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-crispy-forms.git",
       "branch": "master",
