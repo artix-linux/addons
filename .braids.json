@@ -2521,6 +2521,11 @@
       "branch": "master",
       "revision": "c7358968209db95bc9c50ea367c9aaef2b8804b8"
     },
+    "python-django-compressor": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-compressor.git",
+      "branch": "master",
+      "revision": "75fda7669129a6679649e06a17e306336719ece6"
+    },
     "python-django-crispy-forms": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-crispy-forms.git",
       "branch": "master",
