@@ -2536,6 +2536,11 @@
       "branch": "master",
       "revision": "2d06118aee4c0b77c46357d08f4eece2312f5f16"
     },
+    "python-django-picklefield": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-picklefield.git",
+      "branch": "master",
+      "revision": "5f6f127f9c69070deca8bc203fb7d38c62773ea8"
+    },
     "python-django-rest-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-rest-framework.git",
       "branch": "master",
