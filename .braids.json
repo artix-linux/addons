@@ -2549,7 +2549,7 @@
     "python-django-q": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-q.git",
       "branch": "master",
-      "revision": "fe66126a15fe0b58b1a2478e6cf9b59d79dc236c"
+      "revision": "f003893794d3211b930710bfac013d65ccd8ff75"
     },
     "python-django-rest-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-rest-framework.git",
