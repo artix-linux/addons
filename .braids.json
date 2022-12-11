@@ -2526,6 +2526,11 @@
       "branch": "master",
       "revision": "2d06118aee4c0b77c46357d08f4eece2312f5f16"
     },
+    "python-django-rest-framework": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-rest-framework.git",
+      "branch": "master",
+      "revision": "72d2a612414bc1f14f2f6a3659e0d3d6b465dfd0"
+    },
     "python-dkim": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dkim.git",
       "branch": "master",
