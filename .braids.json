@@ -2546,6 +2546,11 @@
       "branch": "master",
       "revision": "d41223dee8c054f6234b61b86b249e707829ec66"
     },
+    "python-django-q": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-q.git",
+      "branch": "master",
+      "revision": "fe66126a15fe0b58b1a2478e6cf9b59d79dc236c"
+    },
     "python-django-rest-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-rest-framework.git",
       "branch": "master",
