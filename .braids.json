@@ -2581,6 +2581,11 @@
       "branch": "master",
       "revision": "154146b74035a2f15d043f4f085607a9ae90be70"
     },
+    "python-django-sekizai": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-sekizai.git",
+      "branch": "master",
+      "revision": "5351684e6a2737bce6314e6334afe17723459b97"
+    },
     "python-dkim": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dkim.git",
       "branch": "master",
