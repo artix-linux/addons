@@ -2514,7 +2514,7 @@
     "python-django-classy-tags": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-classy-tags.git",
       "branch": "master",
-      "revision": "43fa060f58003637a12cab49f6b4d004863ee4b5"
+      "revision": "c7358968209db95bc9c50ea367c9aaef2b8804b8"
     },
     "python-django-crispy-forms": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-crispy-forms.git",
