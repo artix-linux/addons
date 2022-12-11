@@ -1916,6 +1916,11 @@
       "branch": "master",
       "revision": "0f5be711954b73c6b25f1b962c13fbdc2106e583"
     },
+    "python-blessed": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-blessed.git",
+      "branch": "master",
+      "revision": "628099af621e436922ff264b71ca96342f0eb7fb"
+    },
     "python-blinker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-blinker.git",
       "branch": "master",
