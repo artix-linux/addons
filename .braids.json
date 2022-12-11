@@ -2514,7 +2514,7 @@
     "python-django-guardian": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-guardian.git",
       "branch": "master",
-      "revision": "b9b2ad5cab21c097e8a563e986a87b3986f14189"
+      "revision": "ed8180529d2c6d4bd8a8f9e9b2817d1fabf96656"
     },
     "python-django-haystack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-haystack.git",
