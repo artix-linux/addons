@@ -3031,6 +3031,11 @@
       "branch": "master",
       "revision": "f477c3c2b7da9f69a6b4c29b5e507bd8c7b9134e"
     },
+    "python-geographiclib": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-geographiclib.git",
+      "branch": "master",
+      "revision": "9f9e6b14177a4e501a34c852aac33440c2aeeb1c"
+    },
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
