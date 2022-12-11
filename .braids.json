@@ -5874,7 +5874,7 @@
     "python-scikit-learn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scikit-learn.git",
       "branch": "master",
-      "revision": "cb2cd14a1a7d7915ab5629ec6bde01044b390369"
+      "revision": "06111f59ec710df65c0c6e2a80cd00abdb326788"
     },
     "python-scipy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scipy.git",
