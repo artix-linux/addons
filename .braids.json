@@ -4499,7 +4499,7 @@
     "python-pdm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pdm.git",
       "branch": "master",
-      "revision": "8d37fcbd85e6be67c2c8281b25258de38920fab5"
+      "revision": "b9e8e85d84bbdcaae965a009df2fdaf6ed5bc7aa"
     },
     "python-pdm-pep517": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pdm-pep517.git",
