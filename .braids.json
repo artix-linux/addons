@@ -2486,6 +2486,11 @@
       "branch": "master",
       "revision": "1524d4693704de2415ecb9a77530457f5774618b"
     },
+    "python-django-crispy-forms": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-crispy-forms.git",
+      "branch": "master",
+      "revision": "a6650949e5d226da248036589b3e76929562fa40"
+    },
     "python-django-debug-toolbar": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-debug-toolbar.git",
       "branch": "master",
