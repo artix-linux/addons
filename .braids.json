@@ -3664,7 +3664,7 @@
     "python-kazoo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kazoo.git",
       "branch": "master",
-      "revision": "09055a2d3be2d44ac2aef079418b4f51fb96085e"
+      "revision": "fcbff720a12c364d372374e5639b36fc0e3f5bce"
     },
     "python-keyring": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyring.git",
