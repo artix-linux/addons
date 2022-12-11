@@ -4454,7 +4454,7 @@
     "python-pathspec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pathspec.git",
       "branch": "master",
-      "revision": "8429541ccf8bd8452bc12ddea1c8bb6256dd3f41"
+      "revision": "eb1140ebbb840917d87cf9c4a8f38507f302dbfb"
     },
     "python-pathtools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pathtools.git",
