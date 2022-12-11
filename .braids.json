@@ -2511,6 +2511,11 @@
       "branch": "master",
       "revision": "1524d4693704de2415ecb9a77530457f5774618b"
     },
+    "python-django-appconf": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-appconf.git",
+      "branch": "master",
+      "revision": "4657c878095edb93d4ec08b0ed56e59671e1cefd"
+    },
     "python-django-classy-tags": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-classy-tags.git",
       "branch": "master",
