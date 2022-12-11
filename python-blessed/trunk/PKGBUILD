@@ -16,9 +16,6 @@ makedepends=(
   git
   python-setuptools
 )
-checkdepends=(
-  python-tox
-)
 _tag=7078fadc7502cda371f848a369fecbe0e47e4ee4
 source=(git+https://github.com/jquast/blessed.git#tag=${_tag})
 sha256sums=(SKIP)
@@ -33,12 +30,6 @@ build() {
   cd blessed
 
   python setup.py build
-}
-
-check() {
-  cd blessed
-
-  tox -e py310
 }
 
 package() {
