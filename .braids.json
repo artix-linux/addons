@@ -6654,7 +6654,7 @@
     "python-traitlets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-traitlets.git",
       "branch": "master",
-      "revision": "018d3522cff543a44e6954c69faf327b08a2d71b"
+      "revision": "b22dfdf6ba85e71f198ce3b345cb5a97e444bc07"
     },
     "python-transaction": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-transaction.git",
