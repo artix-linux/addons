@@ -7298,7 +7298,7 @@
     "ruby-async-http": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-http.git",
       "branch": "master",
-      "revision": "bd6fabd0b478d18ae52b106d264fe3525d890932"
+      "revision": "c04bf2d5a3ddd62dc073d49d73b7e4dff74898ac"
     },
     "ruby-async-io": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-async-io.git",
