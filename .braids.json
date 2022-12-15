@@ -8223,7 +8223,7 @@
     "ruby-test-unit": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-test-unit.git",
       "branch": "master",
-      "revision": "59db9afcde256f714a4177b1fb2f2b7ee54a0c05"
+      "revision": "79f8aaa420bafe24deb5c3b3e396f45b2386c21b"
     },
     "ruby-test-unit-rr": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-test-unit-rr.git",
