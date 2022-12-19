@@ -3164,7 +3164,7 @@
     "python-gmpy2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gmpy2.git",
       "branch": "master",
-      "revision": "d65f2ce7f64eb607de2e8120c0597a1feb2dfa15"
+      "revision": "1622c5c114e2755f3b307d8891372360d63034ef"
     },
     "python-gnupg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gnupg.git",
