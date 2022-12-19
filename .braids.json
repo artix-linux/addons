@@ -3679,7 +3679,7 @@
     "python-jsonpickle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonpickle.git",
       "branch": "master",
-      "revision": "a58955f725f8fce2d02232b707ac640efe88f885"
+      "revision": "fdbacf7d9a84545095c7e5e26740925155769efe"
     },
     "python-jsonpointer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonpointer.git",
