@@ -4974,7 +4974,7 @@
     "python-pycurl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycurl.git",
       "branch": "master",
-      "revision": "325de3a7c07bfe0288cfc84ed6cebcb6f57c786f"
+      "revision": "0306dbdf6819a686930415743e449388615eebb8"
     },
     "python-pydantic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydantic.git",
