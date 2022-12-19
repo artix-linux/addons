@@ -5654,7 +5654,7 @@
     "python-pywal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywal.git",
       "branch": "master",
-      "revision": "0a3b8e3ec40fddd6b3121b85f06ceebcdfa2135f"
+      "revision": "31d4316a7961fc09434d53af75647bdc495a194f"
     },
     "python-pywayland": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywayland.git",
