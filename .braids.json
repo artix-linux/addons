@@ -2894,7 +2894,7 @@
     "python-fire": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fire.git",
       "branch": "master",
-      "revision": "717a21f3174e2768d72af988541df02a438aa5ce"
+      "revision": "692913ccc089692719bdad1fe9f372e3e0ce32a8"
     },
     "python-first": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-first.git",
