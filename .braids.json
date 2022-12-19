@@ -2699,7 +2699,7 @@
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
       "branch": "master",
-      "revision": "ddfdb72b7acce4425412da0f01557f88e86d57c1"
+      "revision": "1bf10305246156624e27d522d3d91b346707adb0"
     },
     "python-editdistance-s": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance-s.git",
