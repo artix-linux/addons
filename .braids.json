@@ -3529,7 +3529,7 @@
     "python-isort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-isort.git",
       "branch": "master",
-      "revision": "95c7c7c46c55290c3f78e8f2877b952959dbddee"
+      "revision": "05c2925fd309e48c0c4c7a196c74f8a1ae65a901"
     },
     "python-itsdangerous": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-itsdangerous.git",
