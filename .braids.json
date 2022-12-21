@@ -4339,7 +4339,7 @@
     "python-openapi-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-core.git",
       "branch": "master",
-      "revision": "3dbe31ecd60283c0bde1872b3cc1221be1f9905c"
+      "revision": "d5dc8f2b90ffd7448a2c5ef4eb1f59551f44e4db"
     },
     "python-openapi-schema-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-schema-validator.git",
