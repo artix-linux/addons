@@ -5421,6 +5421,11 @@
       "branch": "master",
       "revision": "cccd6d6f891fbeca3674b02d49e7dca7222ed0a9"
     },
+    "python-pytest-jupyter": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-jupyter.git",
+      "branch": "master",
+      "revision": "cbbdaf19cab5182c2ce6ed662f56521d168eaa2b"
+    },
     "python-pytest-lazy-fixture": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-lazy-fixture.git",
       "branch": "master",
