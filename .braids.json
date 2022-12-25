@@ -2199,7 +2199,7 @@
     "python-cligj": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cligj.git",
       "branch": "master",
-      "revision": "2dbc2208d2f092ddf1813f8ff15c1f12d7895bda"
+      "revision": "681c135666da5f06daa3c9d91b036bd40d58323f"
     },
     "python-clikit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clikit.git",
