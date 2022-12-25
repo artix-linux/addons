@@ -4336,6 +4336,11 @@
       "branch": "master",
       "revision": "dd66505d8908b13e582ff52825237b160e7aa28e"
     },
+    "python-odfpy": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-odfpy.git",
+      "branch": "master",
+      "revision": "160b5a16c9b9ebc36bc60210e74249c95e497663"
+    },
     "python-openapi-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-core.git",
       "branch": "master",
