@@ -5051,6 +5051,11 @@
       "branch": "master",
       "revision": "24b6a6423fc9b1666db31f7c9c857c99e3e3b250"
     },
+    "python-pygeos": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygeos.git",
+      "branch": "master",
+      "revision": "595ccbfc7b03a5b97acb491db33ae5049cb8e69d"
+    },
     "python-pygit2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygit2.git",
       "branch": "master",
