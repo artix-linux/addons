@@ -2814,7 +2814,7 @@
     "python-fakeredis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fakeredis.git",
       "branch": "master",
-      "revision": "550caf8f1b73a21a6fcb5dc1d20b142952b122ee"
+      "revision": "c80eaa1206f9a1b3dbffc3fb3eb1ddbe3e39873e"
     },
     "python-falcon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-falcon.git",
