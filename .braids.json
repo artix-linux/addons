@@ -4489,7 +4489,7 @@
     "python-pandas": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pandas.git",
       "branch": "master",
-      "revision": "625ae1d3c465591c5429f59ac0177e730ae24f24"
+      "revision": "67f9aef20271c229f9ff6c6f8d6ee0ecfc40d242"
     },
     "python-pandas-datareader": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pandas-datareader.git",
