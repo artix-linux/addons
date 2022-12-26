@@ -126,7 +126,8 @@ build() {
 check() {
   cd pandas-${pkgver}
   # raw clipboard access does not work in headless container
-  pytest -vv --color=yes pandas -k 'not test_raw_roundtrip'
+  pytest -vv --color=yes pandas -k 'not test_raw_roundtrip' \
+      --ignore=pandas/tests/io/test_orc.py
 }
 
 package() {
