@@ -5221,6 +5221,11 @@
       "branch": "master",
       "revision": "cc0dd110bba42640c9e691e3bc5a41e341c75e18"
     },
+    "python-pyopencl": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopencl.git",
+      "branch": "master",
+      "revision": "0b1fa871d447f73d227cdfad380ab0d640d07dc1"
+    },
     "python-pyopenssl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
       "branch": "master",
