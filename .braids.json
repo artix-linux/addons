@@ -5646,6 +5646,11 @@
       "branch": "master",
       "revision": "bfff980d7fe57b5bd635a5c38335ff4294beb38a"
     },
+    "python-pytools": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytools.git",
+      "branch": "master",
+      "revision": "9ad25fd225ef16cee39cf18981de8064c48ed505"
+    },
     "python-pytrie": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytrie.git",
       "branch": "master",
