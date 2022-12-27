@@ -3784,7 +3784,7 @@
     "python-keras-applications": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keras-applications.git",
       "branch": "master",
-      "revision": "c6d23297b86552a61f73d5369127bceaff61d88a"
+      "revision": "7d95a3436d1fad624c1e479d261b4bee6d66c8d9"
     },
     "python-keyring": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyring.git",
