@@ -7553,7 +7553,7 @@
     "ruby-digest": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-digest.git",
       "branch": "master",
-      "revision": "49346ceff37a60d135f29d7cd68e2c348a4a3358"
+      "revision": "f036c1e42d1b6411c1a26f7d13d45db270416275"
     },
     "ruby-docile": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-docile.git",
