@@ -5029,7 +5029,7 @@
     "python-pydantic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydantic.git",
       "branch": "master",
-      "revision": "fb110c29095eae82f557184a11b9bed577486337"
+      "revision": "8c8f244a07c76843a191ba9e468a3113573c445c"
     },
     "python-pydocstyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydocstyle.git",
