@@ -5304,7 +5304,7 @@
     "python-pyquery": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyquery.git",
       "branch": "master",
-      "revision": "af50f6fb388b36970998469b87b5fa04fbb17a0c"
+      "revision": "a3df7f6875f2a8d51517bdf4d5d0027d61bd95a5"
     },
     "python-pyrfc3339": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyrfc3339.git",
