@@ -4929,7 +4929,7 @@
     "python-pwntools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pwntools.git",
       "branch": "master",
-      "revision": "bae11ae7faa7b3cb08b17580e1fca814e1788c3b"
+      "revision": "d5a0c1e2ec5acc26ce75b9be0c7679bc7f5f0e6e"
     },
     "python-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py.git",
