@@ -1874,7 +1874,7 @@
     "python-bidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bidict.git",
       "branch": "master",
-      "revision": "cc3f654741310077ee59e326bca690e088d9a499"
+      "revision": "99de1c2ff837503844eac69efb4bff00578084fd"
     },
     "python-billiard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-billiard.git",
