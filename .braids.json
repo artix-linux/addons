@@ -8318,7 +8318,7 @@
     "ruby-sus": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sus.git",
       "branch": "master",
-      "revision": "6eba051069ebb5b379271a913809cf6ff53dafda"
+      "revision": "2ea5a4388544301f486f404b071e25cd6516a442"
     },
     "ruby-term-ansicolor": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-term-ansicolor.git",
