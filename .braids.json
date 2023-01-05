@@ -4004,7 +4004,7 @@
     "python-mailmanclient": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mailmanclient.git",
       "branch": "master",
-      "revision": "10adc3909f3d9b151aea394d7fb7a7c462f8b2eb"
+      "revision": "74b0571bbdfbbb556678e8ba390879830f5b6a58"
     },
     "python-mako": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mako.git",
