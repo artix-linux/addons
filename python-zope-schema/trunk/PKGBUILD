@@ -1,7 +1,7 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-zope-schema
-pkgver=6.2.1
+pkgver=7.0.1
 pkgrel=1
 pkgdesc="zope.interface extension for defining data schemas"
 arch=('any')
@@ -10,7 +10,7 @@ license=('ZPL')
 depends=('python-setuptools' 'python-zope-interface' 'python-zope-event')
 checkdepends=('python-zope-testrunner' 'python-zope-testing' 'python-zope-i18nmessageid')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/zopefoundation/zope.schema/archive/$pkgver.tar.gz")
-sha512sums=('baba3473a6793d929c5d9345b9cffa866739a5766fd9c9f77d64520d85867de0a5693ff21a600cd9d118ef0f733f1eadc536216d207b9439eb5189d7adf90dfc')
+sha512sums=('35ef47aa059cecced52abaff9a7d5fb1070008ead2526fe1b3f6d11619c28e70c6f3e3a78c299af1a8a6503d510a363a1dded6d8e4dfde90cae45b9ea90bd89f')
 
 build() {
   cd "$srcdir"/zope.schema-$pkgver
