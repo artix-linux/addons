@@ -3959,7 +3959,7 @@
     "python-lsp-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-server.git",
       "branch": "master",
-      "revision": "90fc0364b03654283e855b8d008625f8c4e43556"
+      "revision": "7baa98a26f077739dd3a10b9f8780a48f4a275bb"
     },
     "python-lsprotocol": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsprotocol.git",
