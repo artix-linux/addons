@@ -5754,7 +5754,7 @@
     "python-pywlroots": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywlroots.git",
       "branch": "master",
-      "revision": "17a99a735d00f81b7d8e3f0fc955e3972b0862b1"
+      "revision": "32d94f36f6eb1ccf1e9f0acfb06b3189a9badb63"
     },
     "python-pyxbe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyxbe.git",
