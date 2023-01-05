@@ -6079,7 +6079,7 @@
     "python-scipy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scipy.git",
       "branch": "master",
-      "revision": "5e00c75953827baff2ec118b43c87af247ea11fb"
+      "revision": "2acf5edd23a561b784aac09747ae8d09fdc81423"
     },
     "python-scramp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scramp.git",
