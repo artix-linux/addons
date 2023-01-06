@@ -4811,6 +4811,11 @@
       "branch": "master",
       "revision": "804f2a52749d539697c12d366741da9e1c7b0685"
     },
+    "python-pooch": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pooch.git",
+      "branch": "master",
+      "revision": "f05c9e7e44d479b727b47550893fe59a04871cb0"
+    },
     "python-portend": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-portend.git",
       "branch": "master",
