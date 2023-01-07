@@ -4044,7 +4044,7 @@
     "python-matplotlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-matplotlib.git",
       "branch": "master",
-      "revision": "31c4b627885e01e26142f56b8eaf30243cdac582"
+      "revision": "5b99bce814535564238bf3dd8d7710449ebc91d8"
     },
     "python-matplotlib-inline": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-matplotlib-inline.git",
