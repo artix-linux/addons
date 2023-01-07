@@ -24,7 +24,7 @@ prepare() {
 	# TODO: add upstream ticket/ change upstream and bump use of python-setuptools-scm to >= 7.0.5
 	sed -e '/setuptools-scm-git-archive/d' -i pyproject.toml
 	# Fix pytest-asyncio 0.17.0 DeprecationWarning (https://github.com/abhinavsingh/proxy.py/pull/998)
-	patch --forward --strip=1 --input="$srcdir/$pkgname-$pkgver_fix-asyncio-deprecationwarning.patch"
+	patch --forward --strip=1 --input="$srcdir/$pkgname-${pkgver}_fix-asyncio-deprecationwarning.patch"
 }
 
 build() {
