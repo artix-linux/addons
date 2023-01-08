@@ -1444,7 +1444,7 @@
     "perl-yaml-pp": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-yaml-pp.git",
       "branch": "master",
-      "revision": "b6effcef7008371b8a007a4236449be8b46619f4"
+      "revision": "dad2fa0fdd89735de0a2c78c5cc9ae97209d7a4f"
     },
     "perl-yaml-tiny": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-yaml-tiny.git",
