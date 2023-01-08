@@ -1439,7 +1439,7 @@
     "perl-yaml-libyaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-yaml-libyaml.git",
       "branch": "master",
-      "revision": "cc49ceca7832dfa850be403e5366ca02318d6f0b"
+      "revision": "19033775b8db4406b855eec437f61f7145fedd94"
     },
     "perl-yaml-pp": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-yaml-pp.git",
