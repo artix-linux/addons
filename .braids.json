@@ -919,7 +919,7 @@
     "perl-path-tiny": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-path-tiny.git",
       "branch": "master",
-      "revision": "46800520554f4afee2e1a88a55be23edf5b5f099"
+      "revision": "61a31f348f34fa08643bdeb2a2609c58d2540256"
     },
     "perl-pegex": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-pegex.git",
