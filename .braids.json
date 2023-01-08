@@ -1374,7 +1374,7 @@
     "perl-variable-magic": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-variable-magic.git",
       "branch": "master",
-      "revision": "d4d3b8992bdda0f1e5a63060fb98a99861735d46"
+      "revision": "b2637d25f1a62e4324b702c29b1a85d1ab00aad6"
     },
     "perl-www-robotrules": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-www-robotrules.git",
