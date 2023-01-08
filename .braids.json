@@ -619,7 +619,7 @@
     "perl-libintl-perl": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-libintl-perl.git",
       "branch": "master",
-      "revision": "b6e47119e9e258a800eed93c6a418e2218ca366e"
+      "revision": "56448223e204d5f951eec0e40bc5cdf179bd82aa"
     },
     "perl-libwww": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-libwww.git",
