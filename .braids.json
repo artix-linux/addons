@@ -734,7 +734,7 @@
     "perl-mime-types": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mime-types.git",
       "branch": "master",
-      "revision": "075ee9c4adcb8847ffcae751a7431acc40b492c1"
+      "revision": "58bfab99c6e52958026e894404db6ea828c6fea5"
     },
     "perl-module-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-build.git",
