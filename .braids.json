@@ -1319,7 +1319,7 @@
     "perl-tidy": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-tidy.git",
       "branch": "master",
-      "revision": "455e096e8e507dc9633d9d668a558587b14248fd"
+      "revision": "71c3fba0be7def42b52ceca084c0942bee0ac020"
     },
     "perl-time-duration": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-time-duration.git",
