@@ -1204,7 +1204,7 @@
     "perl-test-minimumversion": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-minimumversion.git",
       "branch": "master",
-      "revision": "d7065d5aec67a61e61d40e388c57eeddeb27c053"
+      "revision": "8e3e89db9a4ef197f69841f17ef7c3050f9e8f67"
     },
     "perl-test-mockmodule": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-mockmodule.git",
