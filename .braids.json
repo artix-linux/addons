@@ -674,7 +674,7 @@
     "perl-lwp-mediatypes": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-lwp-mediatypes.git",
       "branch": "master",
-      "revision": "dc6db3cd91dbddebc675a817fdf6d358d218fe8f"
+      "revision": "4c5dac8110f51625991f2c5c1343f247bdd0fae6"
     },
     "perl-lwp-protocol-https": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-lwp-protocol-https.git",
