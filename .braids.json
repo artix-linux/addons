@@ -304,7 +304,7 @@
     "perl-digest-sha1": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-digest-sha1.git",
       "branch": "master",
-      "revision": "489f191bcbc11baae70c7e74b447ffa66d887081"
+      "revision": "ad603c0d5d26e3f729f9ba876159f2394f62fcec"
     },
     "perl-dist-checkconflicts": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-dist-checkconflicts.git",
