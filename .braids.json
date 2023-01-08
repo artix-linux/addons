@@ -69,7 +69,7 @@
     "perl-berkeleydb": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-berkeleydb.git",
       "branch": "master",
-      "revision": "d22938202602f95beee04f3fb1d9458137143812"
+      "revision": "f92c50f6c5880080d6a3e1af995c700055a9de13"
     },
     "perl-bytes-random-secure": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-bytes-random-secure.git",
