@@ -779,7 +779,7 @@
     "perl-moo": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-moo.git",
       "branch": "master",
-      "revision": "29785fda29eea31cf13b44edda91e457fdf32a28"
+      "revision": "3a2c848585fddb3c19f64a157d2cfb59128108fc"
     },
     "perl-mouse": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mouse.git",
