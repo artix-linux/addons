@@ -559,7 +559,7 @@
     "perl-io-dirent": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-dirent.git",
       "branch": "master",
-      "revision": "9c021668257957c43601d232b687b6fa2a1aacbf"
+      "revision": "9029876989648b8c9586e354807b9d7f6018dc2a"
     },
     "perl-io-html": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-html.git",
