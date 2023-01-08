@@ -1409,7 +1409,7 @@
     "perl-xml-sax-base": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-sax-base.git",
       "branch": "master",
-      "revision": "97b925fbfbd37a1367a4fe4a8dab77efa8d7c1fb"
+      "revision": "8b0bb1a65fafcee6d5008d39685a592884d3f1c3"
     },
     "perl-xml-sax-expat": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-sax-expat.git",
