@@ -704,7 +704,7 @@
     "perl-mail-spf": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-spf.git",
       "branch": "master",
-      "revision": "0b622d505d5433824bedca14116ff54b4322ba07"
+      "revision": "30fe606376455fcf3fc66561541cfa4f2bed4ce8"
     },
     "perl-mailtools": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mailtools.git",
