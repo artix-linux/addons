@@ -1084,7 +1084,7 @@
     "perl-sub-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-exporter.git",
       "branch": "master",
-      "revision": "22a8ffe1692a451584f6dd2a8210a6074e647fb6"
+      "revision": "66d39a717084cc4845ff0bb8edc407cdf9b950ed"
     },
     "perl-sub-exporter-progressive": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-exporter-progressive.git",
