@@ -1379,7 +1379,7 @@
     "perl-www-robotrules": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-www-robotrules.git",
       "branch": "master",
-      "revision": "d877866c0c1edf448988e62235590361a209894f"
+      "revision": "5d2d50b8c9624ee62a46f87c0e7e702d505b86d9"
     },
     "perl-xml-libxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-xml-libxml.git",
