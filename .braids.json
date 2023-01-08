@@ -844,7 +844,7 @@
     "perl-net-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-server.git",
       "branch": "master",
-      "revision": "ce1cbdd72a0d337802e8b3a88be69ef9a707ea7c"
+      "revision": "234a213b7490ebaacb8fd6771f4564b2f8542101"
     },
     "perl-net-ssleay": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-ssleay.git",
