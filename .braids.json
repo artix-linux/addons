@@ -834,7 +834,7 @@
     "perl-net-ip": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-ip.git",
       "branch": "master",
-      "revision": "d25485dfd6f8185993492d236862852125d8bda8"
+      "revision": "65e9ab36446108f43099c8ec84804223d6be6e5d"
     },
     "perl-net-libidn2": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-net-libidn2.git",
