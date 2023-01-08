@@ -364,7 +364,7 @@
     "perl-extutils-pkgconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-extutils-pkgconfig.git",
       "branch": "master",
-      "revision": "8f6d85e322cdde516d52dcc222dbaab32692becb"
+      "revision": "23643c749ceff776ed8bc74b75d993b836dad3b2"
     },
     "perl-fcgi": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-fcgi.git",
