@@ -789,7 +789,7 @@
     "perl-mozilla-ca": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mozilla-ca.git",
       "branch": "master",
-      "revision": "8964275bb44763bbd4110bd957d58f5599328bdc"
+      "revision": "9654effe409a6a61b5a85f6a21c6b5324e88c952"
     },
     "perl-mro-compat": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mro-compat.git",
