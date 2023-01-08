@@ -509,7 +509,7 @@
     "perl-image-info": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-image-info.git",
       "branch": "master",
-      "revision": "49e389e7db4bf7770b7dbd0470b523e11a1924ad"
+      "revision": "d146c955591e77bb6c295f0ae9115bf9365456b1"
     },
     "perl-import-into": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-import-into.git",
