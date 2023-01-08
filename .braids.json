@@ -719,7 +719,7 @@
     "perl-math-round": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-math-round.git",
       "branch": "master",
-      "revision": "d8727ae81a3301b29167d9a6f6d950ed420c8e0a"
+      "revision": "1299662ac3fe2333ba48309929b02756ad275735"
     },
     "perl-mime-base32": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mime-base32.git",
