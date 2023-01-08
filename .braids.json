@@ -1079,7 +1079,7 @@
     "perl-string-shellquote": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-string-shellquote.git",
       "branch": "master",
-      "revision": "65521d08fc965fd41a8a0f211609286a652630e2"
+      "revision": "33399a0da3f0cce02161689225ae1631a4b3bd2b"
     },
     "perl-sub-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-exporter.git",
