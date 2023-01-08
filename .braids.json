@@ -489,7 +489,7 @@
     "perl-http-date": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-date.git",
       "branch": "master",
-      "revision": "6d2f7509940b3c976089e31ca2d740e0c046ffa2"
+      "revision": "1e2641ee648e9924341ec5d374cb5550172dfc8b"
     },
     "perl-http-message": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-message.git",
