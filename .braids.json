@@ -7453,7 +7453,7 @@
     "ruby-bake-modernize": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bake-modernize.git",
       "branch": "master",
-      "revision": "bd34764426eb7c59893644f0d3d53a973cb009fa"
+      "revision": "1e963963cdead60730f8649f2b86520422f8f153"
     },
     "ruby-bake-test": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bake-test.git",
