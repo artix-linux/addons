@@ -34,7 +34,7 @@
     "perl-appconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-appconfig.git",
       "branch": "master",
-      "revision": "4efdbfd25ce4b39963e02eca810a3d8a61df3dc3"
+      "revision": "ae88b28afecd4d4886da6d4b1532e349ece58c51"
     },
     "perl-archive-cpio": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-archive-cpio.git",
