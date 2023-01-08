@@ -314,7 +314,7 @@
     "perl-encode-locale": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-encode-locale.git",
       "branch": "master",
-      "revision": "a25a9dc8089d89aa18640af409790007483ad474"
+      "revision": "7ac822599e1206cdd590b1a7c29eb397109d3a4a"
     },
     "perl-env-shellwords": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-env-shellwords.git",
