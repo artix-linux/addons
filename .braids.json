@@ -649,7 +649,7 @@
     "perl-list-someutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-list-someutils.git",
       "branch": "master",
-      "revision": "47fb0f6f5e6a13d7a0ecfd0eb030d0c18e2399fa"
+      "revision": "fd03aed083490df2382d80e40b619a8544a932d1"
     },
     "perl-list-utilsby": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-list-utilsby.git",
