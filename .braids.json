@@ -499,7 +499,7 @@
     "perl-http-negotiate": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-negotiate.git",
       "branch": "master",
-      "revision": "41bb9de8e75e3a7dc6457951f21ce59ea8178ac2"
+      "revision": "a9e873a906811f628edd29d0494db8439863cab6"
     },
     "perl-image-exiftool": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-image-exiftool.git",
