@@ -594,7 +594,7 @@
     "perl-io-tty": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-tty.git",
       "branch": "master",
-      "revision": "5f079c6fa8271f49203bf68247fc76b4beb14389"
+      "revision": "8ea5d4f53050f7622218183a9034d8c7a64ec78c"
     },
     "perl-ipc-run": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ipc-run.git",
