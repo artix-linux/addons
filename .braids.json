@@ -854,7 +854,7 @@
     "perl-netaddr-ip": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-netaddr-ip.git",
       "branch": "master",
-      "revision": "53594f60299e2c4397d2dddf83ee7b05ea691165"
+      "revision": "ddc88d156438af981506a80828267a852e7ec0e2"
     },
     "perl-number-compare": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-number-compare.git",
