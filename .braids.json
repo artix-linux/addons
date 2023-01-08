@@ -1149,7 +1149,7 @@
     "perl-term-readline-gnu": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-term-readline-gnu.git",
       "branch": "master",
-      "revision": "ed0df898cada59df2a76ec60f0b489258f209f0e"
+      "revision": "a4da54284e2fea32be517c9fec9a9a2c31b81c81"
     },
     "perl-term-table": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-term-table.git",
