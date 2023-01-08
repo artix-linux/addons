@@ -299,7 +299,7 @@
     "perl-digest-nilsimsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-digest-nilsimsa.git",
       "branch": "master",
-      "revision": "470e3b0bcd743d5855430fa2e7ae4fa534daea55"
+      "revision": "6b5c6df281ea1d9493312a7f80c677706621fe31"
     },
     "perl-digest-sha1": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-digest-sha1.git",
