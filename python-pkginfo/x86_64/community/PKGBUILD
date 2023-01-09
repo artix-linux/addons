@@ -5,7 +5,7 @@
 
 pkgname=python-pkginfo
 _pkgname="${pkgname#python-}"
-pkgver=1.9.3
+pkgver=1.9.6
 pkgrel=1
 pkgdesc='Query metadata from sdists / bdists / installed packages'
 arch=('any')
@@ -20,8 +20,8 @@ makedepends=(
 )
 checkdepends=('python-pytest')
 source=("$pkgname-$pkgver.tar.gz::https://pypi.io/packages/source/p/pkginfo/pkginfo-$pkgver.tar.gz")
-sha512sums=('452893a2fdc99068ea780f11d1a54bc5c0f99a2ec7e1ced2ec43a0703c85af24e61b6d80c0724981fab9b6e0caa3e2e98882f34d3edbe8b187ea16d66e120dcc')
-b2sums=('6b5c507073a30900e9325c68e437594fee0e491199a38de19baea0170453d84031441ab7a08387d5b3d363f8b77ec971ef6c36dd72154114041e724c17f4eb1b')
+sha512sums=('07d9b8ce9965572b84ddced107aa1fcd2ed20a485580f87d667bd53508b0a8fc3aef2ca900bf8bb7fc075b95a81512920c4eef513c9ee6582d61b09968efee08')
+b2sums=('a063e3461aecabac5bf35a9eb6b9f59a24865f3eeb903f69538a6e625893f506a897df7199d647539405bdd383b10722f5b0048380cc8ce8b6a8b4e7b2016c54')
 
 build() {
   cd "$_pkgname-$pkgver"
