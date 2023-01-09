@@ -5689,7 +5689,7 @@
     "python-pytoolconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytoolconfig.git",
       "branch": "master",
-      "revision": "bfff980d7fe57b5bd635a5c38335ff4294beb38a"
+      "revision": "282e7f4795d867d4a896e8bb60bd151e8f181f38"
     },
     "python-pytools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytools.git",
