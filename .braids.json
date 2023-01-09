@@ -7179,7 +7179,7 @@
     "python-xlsxwriter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlsxwriter.git",
       "branch": "master",
-      "revision": "dbb7ab9529746ac50f93bed7b1c9f02c1778189f"
+      "revision": "f02fe6ac0acc0e78510c8392ba69702419714ee0"
     },
     "python-xlwt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlwt.git",
