@@ -1,8 +1,8 @@
-# Maintainer: Q <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _name=svglib
 pkgname=python-svglib
-pkgver=1.4.1
+pkgver=1.5.1
 pkgrel=1
 pkgdesc="Read SVG files and convert them to other formats"
 arch=(any)
@@ -12,8 +12,8 @@ depends=(python-lxml python-reportlab python-tinycss2 python-cssselect2)
 makedepends=(python-build python-installer python-setuptools python-wheel)
 checkdepends=(python-pillow python-pytest)
 source=(https://files.pythonhosted.org/packages/source/${_name::1}/$_name/$_name-$pkgver.tar.gz)
-sha512sums=('c639de1f83b9fad743fc1dc84fb5aa404e0c385ae315a24b37ffecc37e4e18ba95a48a3781faac1a233b69afcb9bfa0fd896cce5499fa7af428cf5344ec93582')
-b2sums=('84bc511419fb08582cf63ff0be242772d4c18bf8c9e72cbe23a649350355d2df992bf3087c84767008a5fdf256aa6909f3c8a0974a20e70ad8e50aef464e8cdb')
+sha512sums=('5f0f21e1be59b3d6e4e9f58893f35e4cd268c25cf5d422487c7f58723286c114206d0d6f212bf0e1e52d7b192de0ed870e52a5d1423e90ddd962e00f41e5048d')
+b2sums=('06f3b04b750b31b9238ada9f40659b1ab0999a645c111524d750eeadc5f9e0a5c9f522f98f9066ec0042859ad8c15c6bcd90bb2501590b6f2d1cf1946f515c50')
 
 build() {
   cd $_name-$pkgver
