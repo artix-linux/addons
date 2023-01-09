@@ -659,7 +659,7 @@
     "perl-locale-gettext": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-locale-gettext.git",
       "branch": "master",
-      "revision": "11223b4e41bb54b358cfe2c6dd9dede0a435bf7c"
+      "revision": "3e8d38c6017b02ce139fd2bdc9ab2d2950a33dce"
     },
     "perl-log-message": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-log-message.git",
