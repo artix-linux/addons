@@ -154,7 +154,7 @@
     "perl-cpan-meta-check": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cpan-meta-check.git",
       "branch": "master",
-      "revision": "1bb072e141c47ff51f818ed1983864ea21998269"
+      "revision": "8889597125bd313db7f61a17c147b71f59f373b2"
     },
     "perl-crypt-openssl-bignum": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-crypt-openssl-bignum.git",
