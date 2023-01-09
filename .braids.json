@@ -1189,7 +1189,7 @@
     "perl-test-file": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-file.git",
       "branch": "master",
-      "revision": "73814d339cac697019657801fd1244c59a8c9790"
+      "revision": "00746707bfa821e331893871eae082680c2fe3c9"
     },
     "perl-test-leaktrace": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-leaktrace.git",
