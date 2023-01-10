@@ -4709,7 +4709,7 @@
     "python-phonenumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
       "branch": "master",
-      "revision": "9900236bd550af27c03129d4892886171e0ce715"
+      "revision": "f4373ffcf1b3564286833c84d2c8eb5bebbbf159"
     },
     "python-piccata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-piccata.git",
