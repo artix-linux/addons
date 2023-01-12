@@ -1,43 +1,40 @@
-# Maintainer: David Runge <dvzrv@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _name=xkbcommon
 pkgname=python-xkbcommon
-pkgver=0.4
-pkgrel=3
+pkgver=0.8
+pkgrel=1
 pkgdesc="Python bindings for libxkbcommon using cffi"
-arch=('x86_64')
+arch=(x86_64)
 url="https://github.com/sde1000/python-xkbcommon"
-license=('MIT')
-depends=('python-cffi' 'libxkbcommon')
-makedepends=('git' 'python-setuptools')
-checkdepends=('python-pytest')
-source=("https://files.pythonhosted.org/packages/source/${_name::1}/${_name}/${_name}-${pkgver}.tar.gz")
-sha512sums=('fb2c272b8229c4457762d95a622f42838a222f715b1882ca41e5733a20a44d2bc1289218f72f24da3cb959b9628e7ceb73327b61263397207fecabbe0e6fce77')
-b2sums=('6e43960a521b6366ded43527b15a7c24ae299f216754d2d582b91c1b2b26c1b9527a6d1e20a09533f00b69a3b0b43b196695304c0b2e83e814660c94c763f30e')
-
-prepare() {
-  mv -v "${_name}-${pkgver}" "$pkgname-${pkgver}"
-}
+license=(MIT)
+depends=(python-cffi libxkbcommon)
+makedepends=(python-build python-installer python-setuptools python-wheel)
+checkdepends=(python-pytest)
+options=(debug)
+source=(https://files.pythonhosted.org/packages/source/${_name::1}/$_name/$_name-$pkgver.tar.gz)
+sha512sums=('d6390b427f751d25fe607383cd8239fb439fed62bcaafe980e1a776dac605a474fc3be573a8450d1d52900c06ce3dd0c791c657c556a15198754f7e416dc4d67')
+b2sums=('5b4a5313ab5dc07328702d96c4228e96a00db221156f69a2a1afb2c753f82bae40c4f950c5c93b1ed2cb8b27f23f35e3bc66d027411aa8d55cbc34d8c003f3f4')
 
 build() {
-  cd "$pkgname-${pkgver}"
-  python "${_name}/ffi_build.py"
-  python setup.py build
+  cd $_name-$pkgver
+  python $_name/ffi_build.py
+  python -m build --wheel --no-isolation
 }
 
 check() {
-  local _py_ver=$(python -c 'import sys; print(".".join(map(str, sys.version_info[:2])))')
+  local _site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
 
-  cd "$pkgname-${pkgver}"
-  export PYTHONPATH="build/lib.linux-${CARCH}-${_py_ver}:${PYTHONPATH}"
+  cd $_name-$pkgver
+  # install to temporary location, as importlib is used
+  python -m installer --destdir=test_dir dist/*.whl
+  export PYTHONPATH="test_dir/$_site_packages:$PYTHONPATH"
   pytest -v
 }
 
 package() {
-  cd "$pkgname-${pkgver}"
-  python setup.py install --skip-build \
-                          --optimize=1 \
-                          --root="${pkgdir}"
-  install -vDm 644 README.rst -t "${pkgdir}/usr/share/doc/${pkgname}"
-  install -vDm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+  cd $_name-$pkgver
+  python -m installer --destdir="$pkgdir" dist/*.whl
+  install -vDm 644 README.rst -t "$pkgdir/usr/share/doc/$pkgname/"
+  install -vDm 644 LICENSE -t "$pkgdir/usr/share/licenses/$pkgname/"
 }
