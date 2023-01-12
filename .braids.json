@@ -899,7 +899,7 @@
     "perl-params-validationcompiler": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-params-validationcompiler.git",
       "branch": "master",
-      "revision": "1040cfc44b5d783d8cf098613eddee148a2f575d"
+      "revision": "dd7a9da6d784c5b2492e62e5c59792007af83fd1"
     },
     "perl-parse-recdescent": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-parse-recdescent.git",
