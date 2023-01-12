@@ -1169,7 +1169,7 @@
     "perl-test-deep": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-deep.git",
       "branch": "master",
-      "revision": "5da0df006dfad1741ccb670a465837190f30d9c3"
+      "revision": "0d5e9dc8279b15034c76f3685cf03d7552389233"
     },
     "perl-test-exception": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-exception.git",
