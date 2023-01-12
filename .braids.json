@@ -3744,7 +3744,7 @@
     "python-jupyter-events": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter-events.git",
       "branch": "master",
-      "revision": "8241975bfb416b68836aba85e2205f00a1cbd12b"
+      "revision": "c5b43c4f2a5fc73c61bc29508809b0a5b2c60b6f"
     },
     "python-jupyter_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_client.git",
