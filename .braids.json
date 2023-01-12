@@ -1999,7 +1999,7 @@
     "python-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-build.git",
       "branch": "master",
-      "revision": "851adfefd91ad8799d6a3e23d7016fa2ce4f75f5"
+      "revision": "5bab63cfad56fa68a6203cc450980ff462095c1b"
     },
     "python-cachecontrol": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachecontrol.git",
