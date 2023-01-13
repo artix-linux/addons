@@ -1306,6 +1306,11 @@
       "branch": "master",
       "revision": "99403e1197e094c1e63e03f8d379782ece3f5581"
     },
+    "perl-text-diff": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-diff.git",
+      "branch": "master",
+      "revision": "e9983f3219886426ee6b0eb660721bdf00d3c6a0"
+    },
     "perl-text-glob": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-glob.git",
       "branch": "master",
