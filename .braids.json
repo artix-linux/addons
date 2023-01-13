@@ -9,7 +9,7 @@
     "perl-algorithm-diff": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-algorithm-diff.git",
       "branch": "master",
-      "revision": "c0c7af7118261da328a4ce5ea289171d6a722841"
+      "revision": "efbd4c8d663d2395ade30031fa712b493075accf"
     },
     "perl-alien-base-modulebuild": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-base-modulebuild.git",
