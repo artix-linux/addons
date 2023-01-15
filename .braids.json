@@ -3429,7 +3429,7 @@
     "python-hypothesis-auto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesis-auto.git",
       "branch": "master",
-      "revision": "a053125b604b436807ffe503ed382b69cc4f9775"
+      "revision": "2bafc48483a7937079d9df507483a7b799d403c3"
     },
     "python-hypothesis-fspaths": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesis-fspaths.git",
