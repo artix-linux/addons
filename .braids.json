@@ -3759,7 +3759,7 @@
     "python-jupyter_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_client.git",
       "branch": "master",
-      "revision": "66ce3a4a7e49ef9dd5fb2d92ebdf2c1c39577ee4"
+      "revision": "9a68fe7d70cd07b3185384f0713b509ea1fc87f5"
     },
     "python-jupyter_core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_core.git",
