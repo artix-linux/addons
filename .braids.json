@@ -6794,7 +6794,7 @@
     "python-trio-asyncio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trio-asyncio.git",
       "branch": "master",
-      "revision": "dba9057694b7f369cbf60d0c3c97e44c7b8baea6"
+      "revision": "a37be5024f1594007517975520f482f057de04db"
     },
     "python-trove-classifiers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trove-classifiers.git",
