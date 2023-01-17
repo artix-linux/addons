@@ -3954,7 +3954,7 @@
     "python-logutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-logutils.git",
       "branch": "master",
-      "revision": "73550c5a3ecb30a7c6e6420ee47bd69b489a6231"
+      "revision": "bcd671244ca663e39d5b35098443f12d8c9bfbf9"
     },
     "python-lsp-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-black.git",
