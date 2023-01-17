@@ -4299,7 +4299,7 @@
     "python-nine": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nine.git",
       "branch": "master",
-      "revision": "4bd84899e2fd946233f78a0d0b0f76c412380bb4"
+      "revision": "5d8efaaad3ffa6b7997c36ded30919f8aa9b6d95"
     },
     "python-nkdfu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nkdfu.git",
