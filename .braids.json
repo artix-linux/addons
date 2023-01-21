@@ -2909,7 +2909,7 @@
     "python-findpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-findpython.git",
       "branch": "master",
-      "revision": "9160b95e60b4bb688ac971a5310a4be4a20f9308"
+      "revision": "1217e07007cedb16d4107807ea84653ab7946a9d"
     },
     "python-fiona": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fiona.git",
