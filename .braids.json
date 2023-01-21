@@ -7823,7 +7823,7 @@
     "ruby-json": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-json.git",
       "branch": "master",
-      "revision": "da1f500a0483e51cacdd79e53bbcde0e831c15c1"
+      "revision": "5df6c38d4c77cbd72f08850c864c265ca6fd48b5"
     },
     "ruby-kpeg": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-kpeg.git",
