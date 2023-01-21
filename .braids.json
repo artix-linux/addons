@@ -3914,7 +3914,7 @@
     "python-license-expression": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-license-expression.git",
       "branch": "master",
-      "revision": "9e624042a95cf852c56b9e2ecca43247f9e54af9"
+      "revision": "8b4a3acf7dbaf940e2bce62b60bbf0daecbf5e84"
     },
     "python-linkify-it-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-linkify-it-py.git",
