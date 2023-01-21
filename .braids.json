@@ -4244,7 +4244,7 @@
     "python-mysql-connector": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mysql-connector.git",
       "branch": "master",
-      "revision": "f67be50e5799ec8cb6b2bd8f8f1f2aaa81ec6ad2"
+      "revision": "ae77d030dba5d3b7b409cc5fcad50256c45df8bc"
     },
     "python-mysqlclient": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mysqlclient.git",
