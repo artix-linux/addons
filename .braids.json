@@ -1554,7 +1554,7 @@
     "python-aiosmtpd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosmtpd.git",
       "branch": "master",
-      "revision": "4c2363d9867073dc12fc20d8925a4c6e9977fc1c"
+      "revision": "f64e0c374127cd3d9f25c87ec2af19a4b202671e"
     },
     "python-aiosqlite": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosqlite.git",
