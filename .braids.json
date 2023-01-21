@@ -6009,7 +6009,7 @@
     "python-rich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rich.git",
       "branch": "master",
-      "revision": "1660615adf19b31ba2d966f575436545af9e881e"
+      "revision": "8605b1500c82798cfab4c0cfbb100d75bfd59502"
     },
     "python-rjsmin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rjsmin.git",
