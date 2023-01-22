@@ -5039,7 +5039,7 @@
     "python-pycuda": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycuda.git",
       "branch": "master",
-      "revision": "7e5304e33cbd6f06824213d986e8abe8aff67838"
+      "revision": "b9761489c342a70e49ed2e3415bc86ceb7e5bf5e"
     },
     "python-pycurl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycurl.git",
