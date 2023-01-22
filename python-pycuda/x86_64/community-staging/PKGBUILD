@@ -12,9 +12,16 @@ depends=('boost-libs' 'cuda' 'nvidia-utils' 'python' 'python-numpy' 'python-pyto
 provides=('pycuda-headers')
 conflicts=('pycuda-headers')
 replaces=('pycuda-headers')
-source=("https://pypi.io/packages/source/p/pycuda/pycuda-$pkgver.tar.gz")
+source=("https://pypi.io/packages/source/p/pycuda/pycuda-$pkgver.tar.gz"
+	"boost-cuda.patch")
 makedepends=('ctags' 'python-setuptools' 'python-numpy' 'mesa' 'cuda' 'boost' 'nvidia-utils')
-sha512sums=('2c26c7ff2271d2dd2f59c1f028b6823dd5c9d9bc38300bb8de1d38d5220108de9ea090fde64bfe1855ff94d2c0a9b57b163bff456fb39d16bec32e96d176859e')
+sha512sums=('2c26c7ff2271d2dd2f59c1f028b6823dd5c9d9bc38300bb8de1d38d5220108de9ea090fde64bfe1855ff94d2c0a9b57b163bff456fb39d16bec32e96d176859e'
+            '02a89e9b16853613f9dbe492830ebd66bd3ea5615b954d8578c22097bcfbfefc0e2da66762b3a4fcd83fadcb7fb8836aa94ef43c1a702320be7e41486d7cb684')
+
+prepare() {
+   cd pycuda-$pkgver
+   patch -Np1 -i ../boost-cuda.patch
+}
 
 build() {
    _arch=''
