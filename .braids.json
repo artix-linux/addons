@@ -934,7 +934,7 @@
     "perl-perl-critic": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-perl-critic.git",
       "branch": "master",
-      "revision": "21817c49bd39948c293fef33ca9bb493b63fc467"
+      "revision": "4ca919e50bf591d7935d04ce413a21b9f233d2e3"
     },
     "perl-perl-minimumversion": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-perl-minimumversion.git",
