@@ -1219,7 +1219,7 @@
     "perl-test-needs": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-needs.git",
       "branch": "master",
-      "revision": "6e8a25a1de02d691d03534cd9b7a3eabfcbf69e4"
+      "revision": "7b788bbdbef979a35c02b545b60432ec013b4595"
     },
     "perl-test-nowarnings": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-nowarnings.git",
