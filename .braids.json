@@ -7938,7 +7938,7 @@
     "ruby-mocha": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mocha.git",
       "branch": "master",
-      "revision": "d6f3e24c6067beb16fa06c1744ece69c8c766811"
+      "revision": "1f44c423ee828dfc51378de306c43525ea420229"
     },
     "ruby-msgpack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-msgpack.git",
