@@ -19,7 +19,7 @@
     "perl-alien-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-build.git",
       "branch": "master",
-      "revision": "5d359691e53b372abe7060fffc3a2bcdbf52eb3c"
+      "revision": "f6d08c18b758104132959567b62afc038d033c89"
     },
     "perl-alien-build-plugin-download-gitlab": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-alien-build-plugin-download-gitlab.git",
