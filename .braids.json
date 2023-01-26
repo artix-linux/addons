@@ -3449,7 +3449,7 @@
     "python-icecream": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-icecream.git",
       "branch": "master",
-      "revision": "93d0bccfa596bbf72ee161632dee3f7f31336676"
+      "revision": "0ab410123aab6891a049e6fe257ffb44d50502e8"
     },
     "python-identify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-identify.git",
