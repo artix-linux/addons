@@ -3939,7 +3939,7 @@
     "python-lmdb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lmdb.git",
       "branch": "master",
-      "revision": "8c26b256858aee0393091567ffce03fe872ad75a"
+      "revision": "5b7727d9ae67fbf11b3affba2a93cbc14b35985a"
     },
     "python-locket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-locket.git",
