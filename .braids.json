@@ -7973,7 +7973,7 @@
     "ruby-multipart-post": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-multipart-post.git",
       "branch": "master",
-      "revision": "a93493bf7ca42aa8d9ce662d13ec1c5a91c29902"
+      "revision": "1e64f5224548c49fe0bea75354a38d272b5b160c"
     },
     "ruby-mustache": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mustache.git",
