@@ -119,7 +119,7 @@
     "perl-class-method-modifiers": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-method-modifiers.git",
       "branch": "master",
-      "revision": "9764cab538f2123fdfd3ba89de29c9607eabeb92"
+      "revision": "35e930cbc9173f7c7b7b493294ba80de79e51342"
     },
     "perl-class-singleton": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-singleton.git",
