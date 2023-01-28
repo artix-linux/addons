@@ -61,6 +61,11 @@
       "branch": "master",
       "revision": "a21e5fa7c00aa63a5f7d8576bac6a5d16fc25072"
     },
+    "perl-b-cow": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-b-cow.git",
+      "branch": "master",
+      "revision": "d76036146f339feea40dfb47b871d43e0b18e4b6"
+    },
     "perl-b-hooks-endofscope": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-b-hooks-endofscope.git",
       "branch": "master",
