@@ -8263,7 +8263,7 @@
     "ruby-rubytest-cli": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rubytest-cli.git",
       "branch": "master",
-      "revision": "2aa8983ab6cf153f18d03845ad7fa2428e306b00"
+      "revision": "7fd1a2f14c17f94cc58eb9576575fbf0bd248d93"
     },
     "ruby-rugged": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rugged.git",
