@@ -584,7 +584,7 @@
     "perl-io-socket-ssl": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-socket-ssl.git",
       "branch": "master",
-      "revision": "54f0904a8991ba4d4131f690ee60acf9018d903b"
+      "revision": "0b1d0a6e801b7f166099be4f0b8c0824766ec8c2"
     },
     "perl-io-string": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-io-string.git",
