@@ -134,7 +134,7 @@
     "perl-clone": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-clone.git",
       "branch": "master",
-      "revision": "4f5d903103dddbce0bcf2851ee107740399def81"
+      "revision": "e0340cb509a43b660342cfe89d7bd235f5f0ec92"
     },
     "perl-common-sense": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-common-sense.git",
