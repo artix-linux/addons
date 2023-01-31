@@ -989,7 +989,7 @@
     "perl-ppix-regexp": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ppix-regexp.git",
       "branch": "master",
-      "revision": "189005c24f57bc18939a831b0cc13d8ff2bf4da7"
+      "revision": "a109b4f82cd0b0f7374a1daea5291592495f8e57"
     },
     "perl-ppix-utilities": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-ppix-utilities.git",
