@@ -9,6 +9,7 @@ url='https://github.com/socketry/protocol-http'
 license=(MIT)
 depends=(ruby)
 makedepends=(ruby-rspec)
+checkdepends=(ruby-bake-test ruby-async-io ruby-async-rspec)
 options=(!emptydirs)
 source=(https://github.com/socketry/protocol-http/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
 sha256sums=('3846898818c42472590a739ae24be6b5134b3d5e851fa3a987996a10d465efdc')
@@ -48,6 +49,7 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd protocol-http-$pkgver
+  GEM_HOME="tmp_install/$_gemdir" bake test
 }
 
 package() {
