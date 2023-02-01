@@ -8078,7 +8078,7 @@
     "ruby-protocol-http": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-protocol-http.git",
       "branch": "master",
-      "revision": "5f134ff2642954924c84345f5b0684521e154c28"
+      "revision": "fc5ed43d195ef55fba9a5cb0bb1b0e0db1022042"
     },
     "ruby-protocol-http1": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-protocol-http1.git",
