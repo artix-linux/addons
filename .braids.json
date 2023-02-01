@@ -5334,7 +5334,7 @@
     "python-pyqt5-sip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyqt5-sip.git",
       "branch": "master",
-      "revision": "caeffb151b210c9beaf98e5fe4ff6bcee3c11a6d"
+      "revision": "4d5aa31210854c0c212c3c9a903c19db727b46e1"
     },
     "python-pyqt6-sip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyqt6-sip.git",
