@@ -5434,7 +5434,7 @@
     "python-pytest-asyncio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-asyncio.git",
       "branch": "master",
-      "revision": "28eca4bf6c1af4982047e5123384992891818292"
+      "revision": "d994d84852b0e527b48f32a4d97bd6ca258efc59"
     },
     "python-pytest-bdd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-bdd.git",
