@@ -3364,7 +3364,7 @@
     "python-html2text": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-html2text.git",
       "branch": "master",
-      "revision": "0d910f5bdb741d65789bdd2cedab416cd88e1a11"
+      "revision": "53fe4fb30425d0d2b59e8a54998be96548e9e9a9"
     },
     "python-html5-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-html5-parser.git",
