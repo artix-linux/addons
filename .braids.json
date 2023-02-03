@@ -8195,6 +8195,11 @@
       "branch": "master",
       "revision": "be644f4cddb0a7435d320b016570e1a575889ca9"
     },
+    "ruby-regexp_property_values": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-regexp_property_values.git",
+      "branch": "master",
+      "revision": "8fd85a8ea2b501835ffd1be5cb682be096eda5c6"
+    },
     "ruby-reline": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-reline.git",
       "branch": "master",
