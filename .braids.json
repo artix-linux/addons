@@ -7259,7 +7259,7 @@
     "python-yg.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yg.lockfile.git",
       "branch": "master",
-      "revision": "f62ecd5b8e89d4d553c6a35dbefcb9a87f9db1bc"
+      "revision": "d03107a529095dfd4b1f46ab3676f28690a5eca6"
     },
     "python-z3-solver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-z3-solver.git",
