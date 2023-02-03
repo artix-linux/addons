@@ -8050,6 +8050,11 @@
       "branch": "master",
       "revision": "aabced38c6e58b3fee1cee80fd02489235355828"
     },
+    "ruby-parallel": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-parallel.git",
+      "branch": "master",
+      "revision": "2f70e82e91f9cb25fbeb483a3f33a6ec97c4a94b"
+    },
     "ruby-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-parser.git",
       "branch": "master",
