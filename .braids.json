@@ -8040,6 +8040,11 @@
       "branch": "master",
       "revision": "b7567303f7fdc87b9377a09d5a414623448fe0e1"
     },
+    "ruby-oedipus_lex": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-oedipus_lex.git",
+      "branch": "master",
+      "revision": "aefe8d20dfc69aa71d97c49ffe77bf09e6ed4f03"
+    },
     "ruby-open-uri": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-open-uri.git",
       "branch": "master",
