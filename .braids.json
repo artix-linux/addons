@@ -8473,7 +8473,7 @@
     "ruby-unicode-display_width": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-unicode-display_width.git",
       "branch": "master",
-      "revision": "9fe225aee067b32a01f2f516b5190cb52d7a853b"
+      "revision": "d1d82f77c2dd1f32f4eb89a88fbeaca0e52581ed"
     },
     "ruby-unicode-emoji": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-unicode-emoji.git",
