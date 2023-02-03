@@ -2334,7 +2334,7 @@
     "python-cppy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cppy.git",
       "branch": "master",
-      "revision": "16e07921c5f3dd62ff26172d091ae78d2ab2842f"
+      "revision": "ff827fddf5edaf6a8a7f493864516c93f83df403"
     },
     "python-crashtest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crashtest.git",
