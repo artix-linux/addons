@@ -7915,6 +7915,11 @@
       "branch": "master",
       "revision": "84f0ce0379c8d0f57c508b8f561dc3aeb8e5aea0"
     },
+    "ruby-memory_profiler": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-memory_profiler.git",
+      "branch": "master",
+      "revision": "baef000b75946e4d6bf744818bbc4492a710799a"
+    },
     "ruby-metaclass": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-metaclass.git",
       "branch": "master",
