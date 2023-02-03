@@ -4779,7 +4779,7 @@
     "python-pip-run": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip-run.git",
       "branch": "master",
-      "revision": "28f07cb0b1e06f2bbae6774a333b63616b92dc07"
+      "revision": "e34fb8de2474814b176eab31a21094c68dc2fd61"
     },
     "python-pip-shims": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip-shims.git",
