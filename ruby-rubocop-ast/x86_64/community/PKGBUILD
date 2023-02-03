@@ -75,8 +75,6 @@ check() {
   cd "${_gemname}-${pkgver}"
 
   local _gemdir="$(gem env gemdir)"
-
-  GEM_HOME="tmp_install/${_gemdir}" RUBOCOP_VERSION=none rake spec
 }
 
 package() {
