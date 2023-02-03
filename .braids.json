@@ -8195,6 +8195,11 @@
       "branch": "master",
       "revision": "be644f4cddb0a7435d320b016570e1a575889ca9"
     },
+    "ruby-regexp_parser": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-regexp_parser.git",
+      "branch": "master",
+      "revision": "7327b65ed865efc283b7df6905ac76341dadc8fb"
+    },
     "ruby-regexp_property_values": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-regexp_property_values.git",
       "branch": "master",
