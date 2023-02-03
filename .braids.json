@@ -7818,7 +7818,7 @@
     "ruby-ice_nine": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ice_nine.git",
       "branch": "master",
-      "revision": "44c48113f90adf6c182d67de9f27435ebc867700"
+      "revision": "96a652984bed76f3fd6b7cd71530ec775de7111d"
     },
     "ruby-introspection": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-introspection.git",
