@@ -7898,7 +7898,7 @@
     "ruby-mapping": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-mapping.git",
       "branch": "master",
-      "revision": "2668cce5224816aedb4c0a585a97bc8301dfe16b"
+      "revision": "c761650668100ba3f336233e4f90428836f03b7b"
     },
     "ruby-markly": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-markly.git",
