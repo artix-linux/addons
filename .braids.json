@@ -2244,7 +2244,7 @@
     "python-cmd2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cmd2.git",
       "branch": "master",
-      "revision": "8b7fccb7d2d5f0a8eae3a30928c335b9687b9112"
+      "revision": "e4e3d30b99ff70d442419c51ce3aa8011ff57a8b"
     },
     "python-cmsis-pack-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cmsis-pack-manager.git",
