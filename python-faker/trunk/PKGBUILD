@@ -3,39 +3,37 @@
 # Contributor: dnuux <dnuuxx@gmail.com>
 
 pkgname=python-faker
-pkgver=13.15.0
+pkgver=14.1.1
+_commit=0721d05ec9605998ec4a5a67f30333d0ed277154
 pkgrel=1
 pkgdesc='Faker generates fake data for you.'
 arch=('any')
 url='https://faker.readthedocs.io/en/master/'
 license=('MIT')
-provides=("python-fake-factory=$pkgver")
-conflicts=('python-fake-factory')
-replaces=('python-fake-factory')
 depends=('python-dateutil')
-makedepends=('python-setuptools' 'python-pytest')
+makedepends=('git' 'python-setuptools' 'python-pytest')
 checkdepends=('python-validators' 'python-ukpostcodeparser' 'python-random2'
               'python-freezegun' 'python-pillow')
-source=("$pkgname-$pkgver.tar.gz::https://github.com/joke2k/faker/archive/v$pkgver.tar.gz")
-sha512sums=('d26f5371e381407f5f9b413925bd8aee59be646c6e608a02975ea3ec2064046adbdcf34c5a9e445ae5a0eb48b43071f51561d0793f3ac662a87646ee397f4e4e')
+source=("git+https://github.com/joke2k/faker.git#commit=$_commit")
+sha512sums=('SKIP')
 
 prepare() {
-  sed -i -e 's/==/>=/' faker-$pkgver/setup.py
+  sed -i -e 's/==/>=/' faker/setup.py
 }
 
 build() {
-  cd faker-$pkgver
+  cd faker
   python setup.py build
 }
 
 check() {
-  cd faker-$pkgver
+  cd faker
   python setup.py egg_info
   python -m pytest
 }
 
 package() {
-  cd faker-$pkgver
+  cd faker
   python setup.py install --root="$pkgdir" --optimize=1
-  install -Dm 644 LICENSE.txt "$pkgdir"/usr/share/licenses/${pkgname}/LICENSE.txt
+  install -Dm644 LICENSE.txt -t "$pkgdir"/usr/share/licenses/$pkgname/
 }
