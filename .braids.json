@@ -3189,7 +3189,7 @@
     "python-gitlab": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gitlab.git",
       "branch": "master",
-      "revision": "acf5f0d8e3048a77511fdcdd0d2dd65778a369de"
+      "revision": "12e6a06129c01770e2a130fc916a01ff1938df1c"
     },
     "python-gitpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gitpython.git",
