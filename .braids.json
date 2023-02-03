@@ -8473,7 +8473,7 @@
     "ruby-unicode-version": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-unicode-version.git",
       "branch": "master",
-      "revision": "c10b39069b5d9bcaa5e4fd0e5de522d6285a1cd1"
+      "revision": "4e9fd2c33cf4f17ffc95b76ba85587d91e78926d"
     },
     "ruby-uri": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-uri.git",
