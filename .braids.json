@@ -7540,6 +7540,11 @@
       "branch": "master",
       "revision": "87e671aaf133c036abfeea04707a5d63378fc7f4"
     },
+    "ruby-bump": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bump.git",
+      "branch": "master",
+      "revision": "526e4785f9ec84710167e228f0b3a9fe339a8698"
+    },
     "ruby-bundler": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bundler.git",
       "branch": "master",
