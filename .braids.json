@@ -4719,7 +4719,7 @@
     "python-perf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-perf.git",
       "branch": "master",
-      "revision": "f1c6f91871adc5c4fecaac55b46de071ca86683e"
+      "revision": "00199910dfe9d479c882605ef4c2b7904250519b"
     },
     "python-persistent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-persistent.git",
