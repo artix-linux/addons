@@ -1644,7 +1644,7 @@
     "python-apscheduler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-apscheduler.git",
       "branch": "master",
-      "revision": "3375eb567fb94c2f704c6e6a6d71fd2957a7fca0"
+      "revision": "d23ce5c59e0c38cabadd93f9183b68a4f55c593d"
     },
     "python-archinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-archinfo.git",
