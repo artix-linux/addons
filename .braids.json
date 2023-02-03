@@ -4744,7 +4744,7 @@
     "python-piccata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-piccata.git",
       "branch": "master",
-      "revision": "7d90f5afffc7614428dc0ab25de6c73b8e42bd96"
+      "revision": "4fb085137e124df6a3772cb3c1d4ead9931294da"
     },
     "python-pickleshare": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pickleshare.git",
