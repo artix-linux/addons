@@ -7543,7 +7543,7 @@
     "ruby-bump": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bump.git",
       "branch": "master",
-      "revision": "526e4785f9ec84710167e228f0b3a9fe339a8698"
+      "revision": "689feccd67949ca1f4722d9cc7d8d3530de51c39"
     },
     "ruby-bundler": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-bundler.git",
