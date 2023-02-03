@@ -5,7 +5,7 @@
 
 _pyname=astroid
 pkgname=python-$_pyname
-pkgver=2.13.3
+pkgver=2.14.1
 pkgrel=1
 pkgdesc='A common base representation of python source code'
 arch=(any)
@@ -24,7 +24,7 @@ replaces=(python-logilab-astng)
 conflicts=(python-logilab-astng)
 _archive="$_pyname-$pkgver"
 source=("$url/archive/v$pkgver/$_archive.tar.gz")
-sha256sums=('2336cfe4371640d1a8a6d25eeb391582360978aa65037782a3e8ab5edc9cacb1')
+sha256sums=('d8e20fa5011efa610e24550d9f598d7e66c01d0516ba8e94c36ba48a103e5de5')
 
 prepare() {
 	cd "$_archive"
@@ -38,8 +38,7 @@ build() {
 
 check() {
 	cd "$_archive"
-        # Passes locally
-	pytest -k 'not test_regex_pattern_and_match_subscriptable'
+	pytest
 }
 
 package() {
