@@ -8278,7 +8278,7 @@
     "ruby-rubocop-ast": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rubocop-ast.git",
       "branch": "master",
-      "revision": "ae7ecdd9f87e55e4682895cc07c83d9ec024198a"
+      "revision": "3fb82ae3369578b8851047184af5ac9c859d9ea8"
     },
     "ruby-ruby-progressbar": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ruby-progressbar.git",
