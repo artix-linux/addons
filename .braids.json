@@ -3549,7 +3549,7 @@
     "python-ipykernel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipykernel.git",
       "branch": "master",
-      "revision": "cf7dfee40845b2506070043440fbcd75e9a10508"
+      "revision": "a2a2c648d286c1758e603c7f16bd528ea6a329c3"
     },
     "python-ipyparallel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipyparallel.git",
