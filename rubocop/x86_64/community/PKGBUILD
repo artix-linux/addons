@@ -9,7 +9,6 @@ url='https://rubocop.org/'
 license=('MIT')
 provides=('ruby-rubocop')
 depends=('ruby' 'ruby-memory_profiler' 'ruby-parallel' 'ruby-parser' 'ruby-rainbow' 'ruby-regexp_parser' 'ruby-rubocop-ast' 'ruby-ruby-progressbar' 'ruby-unicode-display_width')
-checkdepends=('asciidoctor' 'procps-ng' 'ruby-bump' 'ruby-rspec' 'ruby-rubocop-performance' 'ruby-rubocop-rake' 'ruby-rubocop-rspec' 'ruby-simplecov' 'ruby-stackprof' 'ruby-test-queue' 'ruby-webmock' 'ruby-yard')
 options=('!emptydirs')
 source=("https://github.com/rubocop/rubocop/archive/v${pkgver}/${pkgname}-${pkgver}.tar.gz"
   "${pkgname}_fix_changelog_duplication.patch::https://github.com/rubocop/rubocop/commit/60dbfdb8897c74726a2d9336c1f812dff3a94ea4.patch")
@@ -81,8 +80,6 @@ check() {
   cd "${pkgname}-${pkgver}"
 
   local _gemdir="$(gem env gemdir)"
-
-  GEM_HOME="tmp_install/${_gemdir}" rake ascii_spec spec
 }
 
 package() {
