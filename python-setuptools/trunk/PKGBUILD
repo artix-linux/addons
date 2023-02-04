@@ -85,7 +85,7 @@ check() { (
   # 1: subtle difference introduced by devendoring
   # 2: pip failures related to devendoring, 
   # 3: TODO
-#  PYTHONPATH="$PWD"/build/lib python -m pytest \
+  PYTHONPATH="$PWD"/build/lib python -m pytest \
     --deselect setuptools/tests/config/test_apply_pyprojecttoml.py::test_apply_pyproject_equivalent_to_setupcfg \
     --deselect setuptools/tests/test_virtualenv.py \
     --deselect setuptools/tests/test_editable_install.py::test_editable_with_prefix \
