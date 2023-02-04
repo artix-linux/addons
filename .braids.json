@@ -7388,7 +7388,7 @@
     "rubocop": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rubocop.git",
       "branch": "master",
-      "revision": "3029bdf42f1b922ef6fd0ca48b8485f94c746cf4"
+      "revision": "e906da2beba5916749333198fe8e3eccd62c49d6"
     },
     "ruby-abbrev": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-abbrev.git",
