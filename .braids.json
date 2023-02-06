@@ -2044,7 +2044,7 @@
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
-      "revision": "13a2ad690b2b84066a753127b904acfde5d63509"
+      "revision": "f4f2cdc33083509b7a378c765efe617c4150f1ad"
     },
     "python-calmjs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calmjs.git",
