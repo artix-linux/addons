@@ -1594,7 +1594,7 @@
     "python-ansible-compat": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansible-compat.git",
       "branch": "master",
-      "revision": "eb91d4580b4ac5082aecebb205180c8857d58521"
+      "revision": "0d8d8f2e6a9b20c9fbd42ddcaa6d25a4a9adcc31"
     },
     "python-ansicolors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansicolors.git",
