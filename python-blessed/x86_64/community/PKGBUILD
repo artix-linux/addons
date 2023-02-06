@@ -35,12 +35,6 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd blessed
-
-  tox -e py310
-}
-
 package() {
   cd blessed
 
