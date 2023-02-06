@@ -2869,7 +2869,7 @@
     "python-fastnumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastnumbers.git",
       "branch": "master",
-      "revision": "a6bd7d2a62dd21e6b578777a1c5d093f2b02ce90"
+      "revision": "4b990f2bdaa87a4a521f0e773e558140443d0953"
     },
     "python-fastpbkdf2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastpbkdf2.git",
