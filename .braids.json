@@ -5624,7 +5624,7 @@
     "python-pytest-socket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-socket.git",
       "branch": "master",
-      "revision": "288bc3d2adb20ca5468fd93b5fb3a792f77d9b4f"
+      "revision": "6f56094c6c35809f1aaecf24ca61adcf73661fc6"
     },
     "python-pytest-subtesthack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-subtesthack.git",
