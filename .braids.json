@@ -3634,7 +3634,7 @@
     "python-jaraco.text": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.text.git",
       "branch": "master",
-      "revision": "4e145a4af323f219a971538fc95b989b76ec9297"
+      "revision": "e0dff3efb998f72a75d0811e3dc4f51bf2fac83b"
     },
     "python-jarowinkler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jarowinkler.git",
