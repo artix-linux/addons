@@ -1794,7 +1794,7 @@
     "python-autobahn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autobahn.git",
       "branch": "master",
-      "revision": "c75b6f603b1da6914e2efb50cafba04ccea874b0"
+      "revision": "d985310343d0c17c44d9ba7222546c413bff026c"
     },
     "python-autocommand": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autocommand.git",
