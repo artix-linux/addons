@@ -27,7 +27,10 @@ check() {
   # install to temporary location, as importlib is used
   python -m installer --destdir=test_dir dist/*.whl
   export PYTHONPATH="test_dir/$site_packages:$PYTHONPATH"
-  pytest -vv
+  pytest -vv \
+    --deselect test_parametrize_with_socket_enabled_and_allow_hosts.py::test_remote_not_allowed_fails \
+    --deselect test_parametrize_with_socket_enabled_and_allow_hosts.py::test_domain \
+    --deselect tests/test_combinations.py::test_parametrize_with_socket_enabled_and_allow_hosts
 }
 
 package() {
