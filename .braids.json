@@ -3784,7 +3784,7 @@
     "python-jupyter_packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_packaging.git",
       "branch": "master",
-      "revision": "e2b5a6b5a83cff92e7404961ae8c31b33afa2eea"
+      "revision": "00da0d0c1641c3a58794d4121758e647bed3d00e"
     },
     "python-jupyterlab_server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyterlab_server.git",
