@@ -11,7 +11,7 @@ depends=('python-fastjsonschema' 'python-packaging' 'python-trove-classifiers' '
 makedepends=('python-build' 'python-installer' 'python-wheel' 'python-setuptools-scm')
 checkdepends=('python-pytest')
 source=("https://github.com/abravalheri/validate-pyproject/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
-sha512sums=('7add0a3f53c4d7437e1967e905b8e787dc9bfe5b64b246712e60896df017e863213978799e4f0a8714e9d6d27fc6f3a47112e06bbd256202f558e932fa1044d2')
+sha512sums=('092c44179b82731e9aca6a97817883a745e2bd8f138762978f4b56b63a57057c5d58105b16dcb7b3dcfd539e7fdc258224c458a59984e14e21e49152bcbaa6b0')
 
 export SETUPTOOLS_SCM_PRETEND_VERSION=$pkgver
 
