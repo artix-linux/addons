@@ -3766,6 +3766,11 @@
       "branch": "master",
       "revision": "e66775aa08ca164935df77a06ebbbf2335334917"
     },
+    "python-jupyter-packaging": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter-packaging.git",
+      "branch": "master",
+      "revision": "04c1e62fc8d52b1a050732f6906d2168e6300172"
+    },
     "python-jupyter_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_client.git",
       "branch": "master",
