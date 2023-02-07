@@ -44,7 +44,8 @@ build() {
 check() {
   local _gemdir="$(gem env gemdir)"
   cd ruby_memcheck
-  GEM_HOME="tmp_install/$_gemdir" rake
+  #Test requires debuginfod, skipping
+  #GEM_HOME="tmp_install/$_gemdir" rake
 }
 
 package() {
