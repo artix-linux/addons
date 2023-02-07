@@ -8293,7 +8293,7 @@
     "ruby-ruby_memcheck": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-ruby_memcheck.git",
       "branch": "master",
-      "revision": "da228d65fd165381e7b0474d0f003c06d6de9616"
+      "revision": "080e3019b31f14693ea9e601923b0694c553feb2"
     },
     "ruby-rubydns": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rubydns.git",
