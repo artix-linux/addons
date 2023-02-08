@@ -8405,6 +8405,11 @@
       "branch": "master",
       "revision": "9a595d4b3f8e2490b31a016a047c1d78871106c9"
     },
+    "ruby-sus-fixtures-async": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sus-fixtures-async.git",
+      "branch": "master",
+      "revision": "cf7e6136e436cec8203f6ff27c02dd80b5c14380"
+    },
     "ruby-term-ansicolor": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-term-ansicolor.git",
       "branch": "master",
