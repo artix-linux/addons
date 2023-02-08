@@ -7888,7 +7888,7 @@
     "ruby-localhost": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-localhost.git",
       "branch": "master",
-      "revision": "f615a8d7abe56afc112474a130254b1b8032ef97"
+      "revision": "a9e57288c68562b56da58c081adcc607845b96fd"
     },
     "ruby-logger": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-logger.git",
