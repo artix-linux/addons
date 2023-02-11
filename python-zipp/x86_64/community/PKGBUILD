@@ -1,9 +1,9 @@
 # Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-zipp
-pkgver=3.12.0
-_commit=ad532d5ed4a37f527eb546c3543e45c5a5ee8d36
-pkgrel=2
+pkgver=3.13.0
+_commit=a730c30dd4c2c9fe0c5a5374481adcaf984bfd37
+pkgrel=1
 pkgdesc="Pathlib-compatible object wrapper for zip files"
 url="https://github.com/jaraco/zipp"
 license=('MIT')
