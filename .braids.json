@@ -1494,7 +1494,7 @@
     "python-aiofiles": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiofiles.git",
       "branch": "master",
-      "revision": "af1429a036fcc7a88684059d30a812ca6c1008f4"
+      "revision": "b5d133a3dc8e259338a59709a3acbf3caa525614"
     },
     "python-aiogram": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiogram.git",
