@@ -6649,7 +6649,7 @@
     "python-tenacity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tenacity.git",
       "branch": "master",
-      "revision": "3945f2afc243932bae093ba70fd1ce1f7edb9b77"
+      "revision": "2f955c1aefcbc8ffdfbf2093cae944edfa3a5970"
     },
     "python-termcolor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-termcolor.git",
