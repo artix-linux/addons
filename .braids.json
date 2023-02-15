@@ -4774,7 +4774,7 @@
     "python-pip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip.git",
       "branch": "master",
-      "revision": "cccb6d4569c4b88a23c3b961558c4a26cdedddaa"
+      "revision": "08ed3de0470dba6429e2c0a2997308f4a092fbd9"
     },
     "python-pip-api": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip-api.git",
