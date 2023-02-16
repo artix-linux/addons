@@ -779,7 +779,7 @@
     "perl-module-runtime": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-runtime.git",
       "branch": "master",
-      "revision": "b8c749817d773b2e48b7f88c5ce8f9a9e907f411"
+      "revision": "0d91c111cb6750e1fe1b8409d0397d63dc4992fe"
     },
     "perl-module-scandeps": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-scandeps.git",
