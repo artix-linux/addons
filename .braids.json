@@ -694,7 +694,7 @@
     "perl-mail-authenticationresults": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-authenticationresults.git",
       "branch": "master",
-      "revision": "c32ecfde711e2f7e0d200662df192b4a5fddcec3"
+      "revision": "6949d69d23b1537bf3fa1d07ddc25def2b76f610"
     },
     "perl-mail-box": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-mail-box.git",
