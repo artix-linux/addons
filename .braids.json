@@ -2704,7 +2704,7 @@
     "python-dulwich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dulwich.git",
       "branch": "master",
-      "revision": "f937f5fbf3c8b5bfc5f03ced249c8cb56146da69"
+      "revision": "6dd4391dca7ff85206379ef0fea1cfb180930bdb"
     },
     "python-easyprocess": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-easyprocess.git",
