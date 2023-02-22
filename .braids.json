@@ -6329,7 +6329,7 @@
     "python-soupsieve": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-soupsieve.git",
       "branch": "master",
-      "revision": "7dd8acfc18058d034e7317c8242e419211fef82f"
+      "revision": "bff08b2e658a2a2d90e21bb5f978b59b709679aa"
     },
     "python-spake2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spake2.git",
