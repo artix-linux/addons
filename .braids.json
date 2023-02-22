@@ -5509,7 +5509,7 @@
     "python-pytest-forked": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-forked.git",
       "branch": "master",
-      "revision": "3ea3e771ca6cdef792b754ff8ae873821791f99a"
+      "revision": "bdd680027ea51a927e1c9deab6d4a8629403d8cf"
     },
     "python-pytest-freezegun": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-freezegun.git",
