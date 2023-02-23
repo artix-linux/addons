@@ -22,7 +22,6 @@ optdepends=('tk: Tk{Agg,Cairo} backends'
             'python-gobject: for GTK{3,4}{Agg,Cairo} backend'
             'python-wxpython: WX{Agg,Cairo} backend'
             'python-cairo: {GTK{3,4},Qt{5,6},Tk,WX}Cairo backends'
-            'python-cairocffi: alternative for Cairo backends'
             'python-tornado: WebAgg backend'
             'ffmpeg: for saving movies'
             'imagemagick: for saving animated gifs'
@@ -34,7 +33,7 @@ makedepends=(git python-setuptools-scm python-certifi)
 checkdepends=(python-pytest python-pytest-xdist python-pytest-runner python-pytest-rerunfailures xorg-server-xvfb
               texlive-bin texlive-core texlive-latexextra texlive-pictures
               ghostscript inkscape ffmpeg imagemagick gtk4
-              python-cairo python-cairocffi python-gobject python-pyqt5 pyside2
+              python-cairo python-gobject python-pyqt5 pyside2
               python-pyqt6 pyside6 python-tornado python-wxpython tk
               jupyter-nbconvert jupyter-nbformat python-ipykernel
               python-pandas python-pikepdf python-pytz python-xarray
