@@ -5311,6 +5311,11 @@
       "branch": "master",
       "revision": "31f2e14b4ae99a7f5420c85aa7978f341a2a1ace"
     },
+    "python-pypng": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pypng.git",
+      "branch": "master",
+      "revision": "58d17f256dc5e33573fce600b6eaa80a793330a2"
+    },
     "python-pyppeteer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyppeteer.git",
       "branch": "master",
