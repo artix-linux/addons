@@ -8463,7 +8463,7 @@
     "ruby-tilt": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tilt.git",
       "branch": "master",
-      "revision": "b8f7f86428ab3a09acf7ee326242e43f4339b23f"
+      "revision": "d8f83b2ffc65fb118aa581aaa704a4de754e0aa0"
     },
     "ruby-time": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-time.git",
