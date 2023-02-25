@@ -8473,7 +8473,7 @@
     "ruby-timers": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-timers.git",
       "branch": "master",
-      "revision": "516bc9334a2e82efab67b5d09f5e2c83390b67be"
+      "revision": "d44dd9d7f9d372124ee7aaa697570bdab022eaaf"
     },
     "ruby-tins": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tins.git",
