@@ -8183,7 +8183,7 @@
     "ruby-rack-test": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rack-test.git",
       "branch": "master",
-      "revision": "019c1694ee093a1fe22466f0c89d4703ff3017ae"
+      "revision": "fe1fcacd1885f0a025b757ae4f6366c7419f44a4"
     },
     "ruby-rails-dom-testing": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rails-dom-testing.git",
