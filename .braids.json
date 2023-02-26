@@ -494,7 +494,7 @@
     "perl-http-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-daemon.git",
       "branch": "master",
-      "revision": "43e3243ef85bec14eecd7b964c35a73f6dc9f22a"
+      "revision": "4da1671eba20c3e06a9a65d3348caea5cb8616cf"
     },
     "perl-http-date": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-http-date.git",
