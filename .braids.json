@@ -1229,7 +1229,7 @@
     "perl-test-nowarnings": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-nowarnings.git",
       "branch": "master",
-      "revision": "cfeb2d048e3d193dc1c3df0acf3f9922587582a2"
+      "revision": "087ef5c2cfd4bcdeebc7db9014df801a3a6662bb"
     },
     "perl-test-object": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-object.git",
