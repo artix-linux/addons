@@ -244,7 +244,7 @@
     "perl-datetime-format-w3cdtf": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-format-w3cdtf.git",
       "branch": "master",
-      "revision": "5ce7c245001800006fa878ee1a2a9b6863b5421b"
+      "revision": "26ee7407e85f0616ee15ec770df5817aa903cb1f"
     },
     "perl-datetime-locale": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-datetime-locale.git",
