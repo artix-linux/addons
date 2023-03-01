@@ -3339,7 +3339,7 @@
     "python-hidapi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hidapi.git",
       "branch": "master",
-      "revision": "c3b4eddd3a1f65a570320dfc645c5630f6c79169"
+      "revision": "252a10cb261cc2e7c90042617b4a5de0c2a1a5eb"
     },
     "python-hiredis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hiredis.git",
