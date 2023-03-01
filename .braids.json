@@ -109,7 +109,7 @@
     "perl-class-data-inheritable": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-data-inheritable.git",
       "branch": "master",
-      "revision": "4ad1802ed94ee5d1c53a4806ebd0831a5ca93845"
+      "revision": "3ca1f762ff92db0da6be5ab0e24c49890903b4f0"
     },
     "perl-class-inspector": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-inspector.git",
