@@ -4759,7 +4759,7 @@
     "python-phonenumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
       "branch": "master",
-      "revision": "abe493330d9661d294f63131bb79d62ccce8e010"
+      "revision": "e9ecc355bc5a41669ad01732e427af2b0fa73501"
     },
     "python-piccata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-piccata.git",
