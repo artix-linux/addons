@@ -2564,7 +2564,7 @@
     "python-django-environ": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-environ.git",
       "branch": "master",
-      "revision": "af33404b86cc3836c2e5529239beaef9d96e5fd8"
+      "revision": "14311fbe0a07185e9455d51ba78c312d81313fda"
     },
     "python-django-extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-extensions.git",
