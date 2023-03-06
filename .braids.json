@@ -1891,6 +1891,11 @@
       "branch": "master",
       "revision": "05d05f3fb05a8ccc70ee0f09373e1fda6ff79146"
     },
+    "python-big-o": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-big-o.git",
+      "branch": "master",
+      "revision": "180da54fa9b7bacc6d07604090377053548d65a3"
+    },
     "python-billiard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-billiard.git",
       "branch": "master",
