@@ -14,7 +14,7 @@ depends=(python-numpy)
 makedepends=(python-setuptools)
 checkdepends=(python-pytest)
 source=(${url}/archive/v${pkgver}/${pkgname}-${pkgver}.tar.gz)
-sha256sums=('d01d4687a67817a208fafd136b3700dbe7ad068af41e8cd98bf27328fed6c512')
+sha256sums=('90dd007f5544a686a3f56753d1159d367298f6557702536fe596cafefb384759')
 
 build() {
   cd bottleneck-${pkgver}
