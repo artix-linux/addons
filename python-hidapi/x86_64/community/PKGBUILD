@@ -4,19 +4,19 @@
 # Contributor: Kevin Azzam <arch@kevin.azz.am>
 
 pkgname=python-hidapi
-_pipname=hidapi
+_pipname=cython-hidapi
 pkgver=0.13.1
 # _pkgver=${pkgver%.*}.post${pkgver##*.}
 _pkgver="$pkgver"
-pkgrel=1
+pkgrel=1.1
 arch=('x86_64')
 pkgdesc="A Cython interface to the hidapi from signal11/hidapi"
 url="https://github.com/trezor/cython-hidapi"
 depends=('python' 'hidapi')
 makedepends=('cython' 'python-setuptools' 'udev')
 license=('custom')
-source=("https://pypi.org/packages/source/${_pipname:0:1}/$_pipname/$_pipname-$_pkgver.tar.gz")
-sha512sums=('8e6a7a6bf47e24f6f637cc036dc306518d893fc9fdf94639f626725e8f8767d7e85496d8db5f9f394d648ef5af4dd5ead0f0a6d452a019b5d9fa0716371febed')
+source=("https://github.com/trezor/cython-hidapi/archive/refs/tags/${pkgver}.tar.gz")
+sha512sums=('2bb3c96100a4de41bdd00992dcc8093ba636cf0c2805d39cf93ed13f5b7f39da32c943af4b4f3f0b360d0a9a0815f8500334942384fb2395d1a385c56c7f4192')
 
 build() {
   cd "$_pipname-$_pkgver"
