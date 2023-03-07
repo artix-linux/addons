@@ -5,16 +5,16 @@
 
 pkgname=python-bottleneck
 pkgver=1.3.6
-pkgrel=1
+pkgrel=1.1
 pkgdesc="Fast NumPy array functions written in Cython"
 arch=(x86_64)
-url="https://github.com/kwgoodman/bottleneck"
+url="https://github.com/pydata/bottleneck"
 license=(BSD)
 depends=(python-numpy)
 makedepends=(python-setuptools)
 checkdepends=(python-pytest)
-source=(${url}/archive/v${pkgver}/${pkgname}-${pkgver}.tar.gz)
-sha256sums=('90dd007f5544a686a3f56753d1159d367298f6557702536fe596cafefb384759')
+source=(${pkgname}-${pkgver}-${pkgrel}.tar.gz::${url}/archive/refs/tags/v${pkgver}.tar.gz)
+sha256sums=('d01d4687a67817a208fafd136b3700dbe7ad068af41e8cd98bf27328fed6c512')
 
 build() {
   cd bottleneck-${pkgver}
