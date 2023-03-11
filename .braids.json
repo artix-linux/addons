@@ -6819,7 +6819,7 @@
     "python-tqdm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tqdm.git",
       "branch": "master",
-      "revision": "63da346a36ca3b24dd111427e8937be674b69583"
+      "revision": "7f2279e9a004336859fde2c214e9e09be8e82cff"
     },
     "python-trailrunner": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trailrunner.git",
