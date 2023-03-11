@@ -6854,7 +6854,7 @@
     "python-trove-classifiers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trove-classifiers.git",
       "branch": "master",
-      "revision": "0d134a217f55ac5a646a0d6e869e47b13aad429c"
+      "revision": "6c8cfaf50d4acedd9881679777305fb23d3d2429"
     },
     "python-trustme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trustme.git",
