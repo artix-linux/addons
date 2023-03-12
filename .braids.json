@@ -1299,7 +1299,7 @@
     "perl-test2-suite": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-suite.git",
       "branch": "master",
-      "revision": "0095101a9b57e15ec2822c9200d67491d48a0628"
+      "revision": "37b01aa8303d1623a0e1c4f6bc4f7e15b5a36245"
     },
     "perl-test2-tools-process": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test2-tools-process.git",
