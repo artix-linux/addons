@@ -1969,7 +1969,7 @@
     "python-botocore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-botocore.git",
       "branch": "master",
-      "revision": "4133d8a54b4a1a65626e250e549976884a1be6e0"
+      "revision": "6efffc57a68977893b6c2bab350e1dc53e9ef350"
     },
     "python-bottle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bottle.git",
