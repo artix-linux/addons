@@ -5764,7 +5764,7 @@
     "python-pytz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytz.git",
       "branch": "master",
-      "revision": "7fb3564bb760e0396745aefa4fa696ba248845c3"
+      "revision": "6a55e6e361eca0f46897e534f990f4405d4c2905"
     },
     "python-pytz-deprecation-shim": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytz-deprecation-shim.git",
