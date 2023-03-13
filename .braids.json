@@ -6481,6 +6481,11 @@
       "branch": "master",
       "revision": "372bfbd72c5302a46c0f13de484d51f40c15b98b"
     },
+    "python-sphinxcontrib-jquery": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-jquery.git",
+      "branch": "master",
+      "revision": "ea9adfb35c4cfbb495fb3e0e0943a10cd3c9095e"
+    },
     "python-sphinxcontrib-jsmath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-jsmath.git",
       "branch": "master",
