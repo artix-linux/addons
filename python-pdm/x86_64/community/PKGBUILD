@@ -53,7 +53,7 @@ check() {
   python -m installer --destdir=test_dir dist/*.whl
   export PYTHONPATH="test_dir/$site_packages:$PYTHONPATH"
   # skip tests that would fail because of missing interpreters: https://github.com/pdm-project/pdm/issues/1175
-  pytest -vv -c /dev/null -k 'not test_basic_integration and not test_use_invalid_wrapper_python'
+  pytest -vv -c /dev/null -k 'not test_basic_integration and not test_use_invalid_wrapper_python and not test_find_python_in_path'
 }
 
 package() {
