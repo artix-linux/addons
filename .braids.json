@@ -1484,7 +1484,7 @@
     "python-aiobotocore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiobotocore.git",
       "branch": "master",
-      "revision": "f763e3a85c407515b7bc3f7e0c8bc143d14f7cff"
+      "revision": "2a50c0d406df3ef48554f771ddcf0b51cbd4e3f7"
     },
     "python-aiodns": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiodns.git",
