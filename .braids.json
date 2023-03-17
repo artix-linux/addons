@@ -8233,7 +8233,7 @@
     "ruby-rb-inotify": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rb-inotify.git",
       "branch": "master",
-      "revision": "4e711e2436f75905151d9933bf02c9576b77ff52"
+      "revision": "13af6f0085bd3a5cc8d0ce4d540c176db7555af3"
     },
     "ruby-rdiscount": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rdiscount.git",
