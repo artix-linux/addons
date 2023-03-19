@@ -5709,7 +5709,7 @@
     "python-pytest-xdist": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-xdist.git",
       "branch": "master",
-      "revision": "ae8e0bb8ed014d5711acb54b9639baeb58900a47"
+      "revision": "33c111ddc94225b681da94f3b500ce48025180ed"
     },
     "python-pytest-xprocess": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-xprocess.git",
