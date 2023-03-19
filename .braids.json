@@ -2809,7 +2809,7 @@
     "python-exceptiongroup": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-exceptiongroup.git",
       "branch": "master",
-      "revision": "e48b7eef4e06b0472deebb987d7f04100158d486"
+      "revision": "72e1248dde303544197495c2a54fa0093e11a708"
     },
     "python-execnet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-execnet.git",
