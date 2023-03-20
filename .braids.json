@@ -8353,7 +8353,7 @@
     "ruby-rugged": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-rugged.git",
       "branch": "master",
-      "revision": "4b3be59e791d40aecdf4a2f5705a29ac1deb65f9"
+      "revision": "d6f44e79b86dc6bf7fe887b36fc9ebb61d850e0f"
     },
     "ruby-safe_yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-safe_yaml.git",
