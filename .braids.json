@@ -8438,7 +8438,7 @@
     "ruby-sus": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sus.git",
       "branch": "master",
-      "revision": "e6a55dc9741c29f7b816ef0e8379f1d90a3cfe8a"
+      "revision": "c971c33ebb95fc61809e4180e346d610fc5eac79"
     },
     "ruby-sus-fixtures-async": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sus-fixtures-async.git",
