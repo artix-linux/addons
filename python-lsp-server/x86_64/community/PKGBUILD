@@ -3,8 +3,8 @@
 # Contributor: Platon Pronko <platon7pronko@gmail.com>
 
 pkgname=python-lsp-server
-pkgver=1.7.0
-pkgrel=1
+pkgver=1.7.1
+pkgrel=3
 pkgdesc="Fork of the python-language-server project, maintained by the Spyder IDE team and the community"
 arch=(any)
 url="https://github.com/python-lsp/python-lsp-server"
@@ -40,12 +40,16 @@ checkdepends=(
     python-numpy
     python-pandas
     python-pyqt5
+    python-appdirs
 )
-source=(https://files.pythonhosted.org/packages/source/${pkgname::1}/${pkgname}/${pkgname}-${pkgver}.tar.gz)
-sha256sums=('401ce78ea2e98cadd02d94962eb32c92879caabc8055b9a2f36d7ef44acc5435')
+source=(https://files.pythonhosted.org/packages/source/${pkgname::1}/${pkgname}/${pkgname}-${pkgver}.tar.gz
+        https://github.com/python-lsp/python-lsp-server/commit/40124c6d.patch)
+sha256sums=('67473bb301f35434b5fa8b21fc5ed5fac27dc8a8446ccec8bae456af52a0aef6'
+            'a035a8a4053cc134fb2dd88f9c7ee3a7ebbcf43b439cb72c665d785fd4b0336e')
 
 prepare() {
   cd ${pkgname}-${pkgver}
+  patch -p1 -i ../40124c6d.patch # Support pydocstyle 6.3
   sed 's|autopep8>=1.6.0,<1.7.0|autopep8>=1.6.0|' -i pyproject.toml
   sed 's|flake8>=5.0.0,<7|flake8>=5.0.0|' -i pyproject.toml
   sed 's|mccabe>=0.7.0,<0.8.0|mccabe>=0.7.0|' -i pyproject.toml
@@ -62,8 +66,7 @@ check() {
   cd ${pkgname}-${pkgver}
   # Disable coverage
   sed -i '/--cov/d' pyproject.toml
-  # Numpy completions broken with numpy 1.23
-  pytest -vv --color=yes -k 'not test_numpy_completions'
+  pytest -vv --color=yes
 }
 
 package() {
