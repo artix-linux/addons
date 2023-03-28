@@ -7374,7 +7374,7 @@
     "python-zope-i18nmessageid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-i18nmessageid.git",
       "branch": "master",
-      "revision": "f3e17de96cf04635389903c2615ee81b4c553c56"
+      "revision": "cde7564d158d4ded48353b2effc5c4d84953dc26"
     },
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
