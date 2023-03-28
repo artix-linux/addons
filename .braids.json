@@ -4864,7 +4864,7 @@
     "python-poetry-plugin-export": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry-plugin-export.git",
       "branch": "master",
-      "revision": "804f2a52749d539697c12d366741da9e1c7b0685"
+      "revision": "1521a8fda6c86b68f8b9c8eed94763624db12e12"
     },
     "python-pooch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pooch.git",
