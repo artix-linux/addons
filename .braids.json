@@ -5939,7 +5939,7 @@
     "python-regex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-regex.git",
       "branch": "master",
-      "revision": "2dbb2d165b9bb01dfcb8db70bb4fb434aa6cc162"
+      "revision": "2eeba93d427b0cdd2ad7dae05d8991cecc47a66e"
     },
     "python-rencode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rencode.git",
