@@ -2184,7 +2184,7 @@
     "python-click-command-tree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-command-tree.git",
       "branch": "master",
-      "revision": "61599b6cb76c00a4239d168acd218ace9b171cf7"
+      "revision": "0f28faf953ff07d4b9338acd8b3460a3a51a48b2"
     },
     "python-click-default-group": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-default-group.git",
