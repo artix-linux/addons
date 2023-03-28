@@ -6899,7 +6899,7 @@
     "python-typeguard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typeguard.git",
       "branch": "master",
-      "revision": "3eb728c3e41f628e2cf24bc46abe0f93a3b15ce8"
+      "revision": "de641b091483ab3988c05e0a2ddaca46fb856c42"
     },
     "python-typing_extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typing_extensions.git",
