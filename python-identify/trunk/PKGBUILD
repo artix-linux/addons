@@ -3,22 +3,30 @@
 
 _name=identify
 pkgname=python-identify
-pkgver=2.5.18
+pkgver=2.5.22
 pkgrel=1
 pkgdesc="File identification library for Python"
 arch=(any)
 url="https://github.com/pre-commit/identify"
 license=(MIT)
 depends=(python)
-makedepends=(python-build python-installer python-setuptools python-wheel)
-checkdepends=(python-ukkonen python-pytest)
+makedepends=(
+  python-build
+  python-installer
+  python-setuptools
+  python-wheel
+)
+checkdepends=(
+  python-pytest
+  python-ukkonen
+)
 optdepends=(
   'python-editdistance-s: for returning license identifiers'
   'python-ukkonen: for returning license identifiers'
 )
 source=($_name-$pkgver.tar.gz::https://github.com/pre-commit/$_name/archive/refs/tags/v$pkgver.tar.gz)
-sha512sums=('c7c6998340b77ddb13c88df8dbcc9b72efb68bf3cbf8a7ab2b81a4bda1180d04d4bdd9db360b7203235e2ebd252852de2c806b73e6a7236786bffbd3f4d4a672')
-b2sums=('4575b4084dc28678275704f44a02d171d79a02f015e6d2267545b18c4288b55609cc64af2f9eca866bc2d164ed534cac59d69915e23fd3100cb680fcb08ceae0')
+sha512sums=('a2133cf8a2dc329af5bf10c8c6186c273ec6d1d2dc6941550b3c9d749f14e31fdbee71b978b26384661f92ac5cf31afb5e4164ed646c5e3a2c2b5962cdddc1e6')
+b2sums=('289a26bb570a3a4c369013837783cad8b4503c6bf3732dab5b2e5785e19884fec8a39f31e37833a242ddd852f9b401af5bb71655c5ed3107e2575a960e663035')
 
 build() {
   cd $_name-$pkgver
