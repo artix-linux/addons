@@ -6739,7 +6739,7 @@
     "python-testtools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testtools.git",
       "branch": "master",
-      "revision": "203bb829c6d0b5a9c79e773a3673d351a9719e39"
+      "revision": "a19952ec7f780f78eae72a33ec77f55aca4f296f"
     },
     "python-text-unidecode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-text-unidecode.git",
