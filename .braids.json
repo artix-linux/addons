@@ -4454,7 +4454,7 @@
     "python-openapi-spec-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-spec-validator.git",
       "branch": "master",
-      "revision": "c6a00b69ae3dba38a6333d50063ce5d92e314b63"
+      "revision": "24c6ff2190a349bcd4889a576efe7845ea2f48a7"
     },
     "python-openid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openid.git",
