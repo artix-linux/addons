@@ -6034,7 +6034,7 @@
     "python-responses": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-responses.git",
       "branch": "master",
-      "revision": "678ed1666ac507d18a3f24825ab911c48da56c3f"
+      "revision": "6d4c7081879016a28c8f9db909a41dfb612250e0"
     },
     "python-retrying": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-retrying.git",
