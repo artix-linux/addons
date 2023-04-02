@@ -7513,7 +7513,7 @@
     "ruby-atk": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-atk.git",
       "branch": "master",
-      "revision": "aae078bf3c2ca916cea76bf83f7d1aefa3dfb764"
+      "revision": "829c985b7196a007f8f3d088e5b3aa302eb3d5e9"
     },
     "ruby-augeas": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-augeas.git",
