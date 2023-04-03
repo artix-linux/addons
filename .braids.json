@@ -2324,7 +2324,7 @@
     "python-cookiecutter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cookiecutter.git",
       "branch": "master",
-      "revision": "5989fafad38ad062cc40a018f63e56a1367b77bc"
+      "revision": "20afff937cfc9c556ec77f0bf172e0ca24bfb6fe"
     },
     "python-cookies": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cookies.git",
