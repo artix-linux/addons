@@ -1984,7 +1984,7 @@
     "python-bowler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bowler.git",
       "branch": "master",
-      "revision": "74e6a3d61cb7a04599c3ad92f1eb485bf2b3f6f9"
+      "revision": "6c84bdb2d3f2bf8699efd1e0a96e477c4303f9bf"
     },
     "python-bracex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bracex.git",
