@@ -5314,7 +5314,7 @@
     "python-pyopenssl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopenssl.git",
       "branch": "master",
-      "revision": "4a465d1e0f0c9c3c3073e2cb5c2dbb0804c79638"
+      "revision": "f15604846f6fed3119a52a066522b696cfc4489e"
     },
     "python-pypandoc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pypandoc.git",
