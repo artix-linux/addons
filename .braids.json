@@ -1724,7 +1724,7 @@
     "python-astroid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-astroid.git",
       "branch": "master",
-      "revision": "485cb9fcfaeefc92dfd42938d98e888fb5c6dea0"
+      "revision": "33d55071d9a0a7fd48788b472d1334626a229ef7"
     },
     "python-asttokens": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asttokens.git",
