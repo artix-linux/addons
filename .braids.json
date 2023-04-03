@@ -2349,7 +2349,7 @@
     "python-crcmod": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crcmod.git",
       "branch": "master",
-      "revision": "35652168a70569eb49794b550e0d78d28f65ac39"
+      "revision": "1de3daa39dc188d2a651fb6325c01a61af10a6db"
     },
     "python-cryptography": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cryptography.git",
