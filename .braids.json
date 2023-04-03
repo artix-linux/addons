@@ -4964,7 +4964,7 @@
     "python-psycopg2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-psycopg2.git",
       "branch": "master",
-      "revision": "ac830d80111c9c726a63cc33be917622580c6144"
+      "revision": "15393b39d0ca3e604e2090e56574a71206f6e71b"
     },
     "python-ptrace": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ptrace.git",
