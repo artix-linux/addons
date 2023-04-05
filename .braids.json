@@ -8448,7 +8448,7 @@
     "ruby-sync": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sync.git",
       "branch": "master",
-      "revision": "3e5aa8de878f220fae370119a1972c60406f5b43"
+      "revision": "cfa04a35c450c8b724b65469eab27235dcc3e06d"
     },
     "ruby-term-ansicolor": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-term-ansicolor.git",
