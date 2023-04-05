@@ -8488,7 +8488,7 @@
     "ruby-tins": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tins.git",
       "branch": "master",
-      "revision": "963a2eadb3045bdc9a0602d6d9730016c2bf0e0b"
+      "revision": "dcb15adb2b2f6deda533172624938554573fef6d"
     },
     "ruby-tmpdir": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-tmpdir.git",
