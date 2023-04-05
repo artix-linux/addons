@@ -8445,6 +8445,11 @@
       "branch": "master",
       "revision": "aafd7d238e6d2d2d792b395982aac129c1b1e387"
     },
+    "ruby-sync": {
+      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-sync.git",
+      "branch": "master",
+      "revision": "3e5aa8de878f220fae370119a1972c60406f5b43"
+    },
     "ruby-term-ansicolor": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-term-ansicolor.git",
       "branch": "master",
