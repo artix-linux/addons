@@ -3504,7 +3504,7 @@
     "python-incremental": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-incremental.git",
       "branch": "master",
-      "revision": "7833d0eba7c39e366bb22bfc6e06e0b8fb3c73ba"
+      "revision": "90503c5ee1a4e014f4bf55234dbf5837e1262be2"
     },
     "python-inflect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-inflect.git",
