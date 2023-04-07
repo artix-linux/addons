@@ -6914,7 +6914,7 @@
     "python-typing_inspect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typing_inspect.git",
       "branch": "master",
-      "revision": "fc0ceba4fff90bd1a8a08263ef3f115eb25edc2f"
+      "revision": "d4fa9aa5ab0fcb37890bbad8f3be70d864d66433"
     },
     "python-typogrify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typogrify.git",
