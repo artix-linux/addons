@@ -15,10 +15,10 @@ checkdepends=('python-pytest' 'python-sphobjinv' 'python-nptyping')
 source=("git+https://github.com/agronholm/sphinx-autodoc-typehints#commit=${_gitcommit}")
 sha512sums=('SKIP')
 
-pkgver() {
-  cd ${_pyname}
-  git describe --tags | sed 's/^v//;s/\([^-]*-g\)/r\1/;s/-/./g'
-}
+#pkgver() {
+#  cd ${_pyname}
+#  git describe --tags | sed 's/^v//;s/\([^-]*-g\)/r\1/;s/-/./g'
+#}
 
 build() {
   cd ${_pyname}
