@@ -3,13 +3,13 @@
 
 pkgname=python-pygments
 pkgver=2.14.0
-pkgrel=2.1
+pkgrel=3
 pkgdesc="Python syntax highlighter"
 arch=('any')
 url="https://pygments.org/"
 license=('BSD')
 depends=('python')
-makedepends=('python-setuptools' 'python-sphinx' 'python-wcag-contrast-ratio' 'python-bootstrap-evil')
+makedepends=('python-setuptools' 'python-sphinx' 'python-wcag-contrast-ratio')
 checkdepends=('python-pytest' 'python-lxml')
 provides=('pygmentize')
 conflicts=('pygmentize')
