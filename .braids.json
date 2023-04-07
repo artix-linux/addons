@@ -1804,7 +1804,7 @@
     "python-automat": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-automat.git",
       "branch": "master",
-      "revision": "b799007f19cac49e2142dfb17455be2b4920712d"
+      "revision": "41de8950ba9acf26a38386bccc80fa2a233a3285"
     },
     "python-autopage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autopage.git",
