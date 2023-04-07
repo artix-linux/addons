@@ -2949,7 +2949,7 @@
     "python-fixtures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fixtures.git",
       "branch": "master",
-      "revision": "c001a6b7ed57b508f867c31e3d73561d8b8b75dd"
+      "revision": "5c10299073e639b7a74c7e54450a7c3f52a4fcff"
     },
     "python-flake8-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-black.git",
