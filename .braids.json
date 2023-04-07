@@ -6209,7 +6209,7 @@
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
       "branch": "master",
-      "revision": "1c3cb6c278df7c8fdd12efc26aec904cbc068e92"
+      "revision": "b63bd4094e09d25b7c65de43b722b461cb0cd5ab"
     },
     "python-setproctitle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setproctitle.git",
