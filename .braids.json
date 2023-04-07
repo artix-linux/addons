@@ -3794,7 +3794,7 @@
     "python-jupyter-server-terminals": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter-server-terminals.git",
       "branch": "master",
-      "revision": "82cfcdf394adb50af560e982566e446274f8fc5c"
+      "revision": "b9e0abecfcd0a7d00db388a35e1b92eef896c2e1"
     },
     "python-jupyter_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_client.git",
