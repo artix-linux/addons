@@ -5744,7 +5744,7 @@
     "python-pythran": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pythran.git",
       "branch": "master",
-      "revision": "f1bccd082b2a26da3092d03fa945c31e56bba16b"
+      "revision": "d47cb5a23a746aff48c63ac83db6ec3e2cd886e4"
     },
     "python-pytoml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytoml.git",
