@@ -1959,7 +1959,7 @@
     "python-bootstrap-evil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bootstrap-evil.git",
       "branch": "master",
-      "revision": "d32ce2d53d624013adbc92123ac5bc670e153d84"
+      "revision": "0351b450a87d0fe0f50c29c039b8110a5b6509b7"
     },
     "python-boto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-boto.git",
