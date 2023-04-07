@@ -3709,7 +3709,7 @@
     "python-jschema-to-python": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jschema-to-python.git",
       "branch": "master",
-      "revision": "1b454dcde89d8b354d60ca4d1d8fde8972d29988"
+      "revision": "3a186ffa7d3e6ed6ab34f25028f8f2d92529d069"
     },
     "python-json-logger": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-json-logger.git",
