@@ -6124,7 +6124,7 @@
     "python-s3transfer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-s3transfer.git",
       "branch": "master",
-      "revision": "5b849c1dbbbb9e28843a06d7fe5367e64380b289"
+      "revision": "07bbf08e21f0d3539cfd3ab1e57f7a7e3f432fe2"
     },
     "python-sarif-om": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sarif-om.git",
