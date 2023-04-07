@@ -7114,7 +7114,7 @@
     "python-wcag-contrast-ratio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcag-contrast-ratio.git",
       "branch": "master",
-      "revision": "5cce6526f802df251465423b9ad14b38aefc346f"
+      "revision": "a56038272bccde05c603ffaee400ca91658ffbd8"
     },
     "python-wcmatch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcmatch.git",
