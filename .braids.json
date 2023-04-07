@@ -6499,7 +6499,7 @@
     "python-sphinxcontrib-qthelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-qthelp.git",
       "branch": "master",
-      "revision": "0f63a31d0260429beb2993fade858f1298cefd9b"
+      "revision": "c85626f5bed1f31f2fe0109c7f7cfab94c3895f1"
     },
     "python-sphinxcontrib-serializinghtml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-serializinghtml.git",
