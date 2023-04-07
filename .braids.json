@@ -5479,7 +5479,7 @@
     "python-pytest-benchmark": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-benchmark.git",
       "branch": "master",
-      "revision": "4311c60d0d96f9d4513c6f0d589e72429f4fc38b"
+      "revision": "0735b941282020e8bb609e300fe0522016927777"
     },
     "python-pytest-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-black.git",
