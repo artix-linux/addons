@@ -5964,7 +5964,7 @@
     "python-requests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests.git",
       "branch": "master",
-      "revision": "eb6c4013936f16c83f8cf6f0acf04728740e3d46"
+      "revision": "ba0bc29008828839de5cf3be0250e4f89beaedb6"
     },
     "python-requests-credssp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-credssp.git",
