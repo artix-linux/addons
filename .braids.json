@@ -2754,7 +2754,7 @@
     "python-elementpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-elementpath.git",
       "branch": "master",
-      "revision": "46c1507cc689a71fbc07a31c6bfa47c918fd6b56"
+      "revision": "2c6c1ea3c76a7b548c9a4d77181fde86a011b3f9"
     },
     "python-email-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-email-validator.git",
