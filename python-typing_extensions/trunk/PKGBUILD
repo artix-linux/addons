@@ -4,13 +4,13 @@
 
 pkgname=python-typing_extensions
 pkgver=4.5.0
-pkgrel=1.1
+pkgrel=2
 pkgdesc='Backported and Experimental Type Hints for Python 3.7+'
 arch=(any)
 url=https://github.com/python/typing_extensions
 license=(custom)
 depends=(python)
-makedepends=(git python-build python-flit-core python-installer python-bootstrap-evil)
+makedepends=(git python-build python-flit-core python-installer)
 checkdepends=(python-tests)
 provides=(python-typing-extensions)
 conflicts=(python-typing-extensions)
