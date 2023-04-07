@@ -4479,7 +4479,7 @@
     "python-ordered-set": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ordered-set.git",
       "branch": "master",
-      "revision": "fb392eaa7f8edd339f1e8c3b3e09355675e3c9fc"
+      "revision": "ada601a8b7699c27e97afb3f55dc2fced5f768a1"
     },
     "python-orderedmultidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-orderedmultidict.git",
