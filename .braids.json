@@ -4564,7 +4564,7 @@
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
       "branch": "master",
-      "revision": "98584b9fcbfde71e83fe47f35a0807e5745cdd3b"
+      "revision": "a675c48449185e1a6c1f9c990bc5625505faad67"
     },
     "python-pallets-sphinx-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pallets-sphinx-themes.git",
