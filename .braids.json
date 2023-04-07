@@ -6874,7 +6874,7 @@
     "python-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
       "branch": "master",
-      "revision": "b03933b30daceb3c63cb1c1d1ae301db90e545e8"
+      "revision": "8f244f35d70ca16acf0107db2e90c55de99877a7"
     },
     "python-txaio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txaio.git",
