@@ -4854,7 +4854,7 @@
     "python-ply": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ply.git",
       "branch": "master",
-      "revision": "fb157c59cd4d14590a74a05b0ffcdfda88a76b28"
+      "revision": "74ff4fe5bd03c45883ce2f0ece9a66a5bd8a5fca"
     },
     "python-poetry": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry.git",
