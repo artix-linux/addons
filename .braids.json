@@ -3489,7 +3489,7 @@
     "python-imagesize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-imagesize.git",
       "branch": "master",
-      "revision": "c6dcdf77b0b32cfef71fb35b83ef6c9e43a80b1f"
+      "revision": "b21df9b952f0875d2b0eb776fc588bd3ef89d4b5"
     },
     "python-importlib-metadata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-importlib-metadata.git",
