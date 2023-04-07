@@ -6739,7 +6739,7 @@
     "python-testscenarios": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testscenarios.git",
       "branch": "master",
-      "revision": "772ac680eedbebc0bb6eef5826cdc9047bd96b64"
+      "revision": "2a25d942c99b389dcde9351e8e5906910eb09eea"
     },
     "python-testtools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testtools.git",
