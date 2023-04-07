@@ -3674,7 +3674,7 @@
     "python-jinja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jinja.git",
       "branch": "master",
-      "revision": "4e4254eadc76dbc221c2a9c936da35844fd0c45c"
+      "revision": "42f16b4ea12600274e7812bcc4fd344d29c188de"
     },
     "python-jinja-time": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jinja-time.git",
