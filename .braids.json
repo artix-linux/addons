@@ -2909,7 +2909,7 @@
     "python-fields": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fields.git",
       "branch": "master",
-      "revision": "c9c1517ff0a3fade366c98ba83d9e403123a86a7"
+      "revision": "0ca56d0b46af284f035ab1cd82d91fb63b453166"
     },
     "python-filebytes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-filebytes.git",
