@@ -1864,7 +1864,7 @@
     "python-beaker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beaker.git",
       "branch": "master",
-      "revision": "5e44d7f0717d973218a8d610527da501e02aa4fe"
+      "revision": "6bf1e54bb3447c692a6778692589988fba48f3ed"
     },
     "python-beautifulsoup4": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beautifulsoup4.git",
