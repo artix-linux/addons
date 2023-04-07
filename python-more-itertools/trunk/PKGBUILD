@@ -4,7 +4,7 @@
 
 pkgname=python-more-itertools
 pkgver=9.0.0
-pkgrel=1.1
+pkgrel=2
 pkgdesc='More routines for operating on iterables, beyond itertools'
 arch=('any')
 url='https://github.com/more-itertools/more-itertools'
@@ -16,7 +16,6 @@ makedepends=(
   'python-installer'
   'python-wheel'
   'python-flit-core'
-  'python-bootstrap-evil'
 )
 _commit='ffcfe0b4e63c75fe1470b8b25a29b0e698a9a587'
 source=("$pkgname::git+$url#commit=$_commit")
