@@ -3529,7 +3529,7 @@
     "python-installer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-installer.git",
       "branch": "master",
-      "revision": "054ccf5f75ca7bcd3c3964b0d0e1fff41332be8f"
+      "revision": "5d7fd16981b051f8a6cd1aa99800cda49f04d856"
     },
     "python-intelhex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-intelhex.git",
