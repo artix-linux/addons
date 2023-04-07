@@ -5074,7 +5074,7 @@
     "python-pycparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycparser.git",
       "branch": "master",
-      "revision": "953dfc54e7adc37fae6673fd5dbc67fd670d7fa0"
+      "revision": "a7e8ad49a7f76c825167233f5d60acf21fe5cad8"
     },
     "python-pycryptodome": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycryptodome.git",
