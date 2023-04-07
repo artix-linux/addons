@@ -2874,7 +2874,7 @@
     "python-fastjsonschema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastjsonschema.git",
       "branch": "master",
-      "revision": "ba23b79707da2e436d262c90a937c849c372790c"
+      "revision": "0a4bdb9eb22d20d7740e9a9ae34672f3cdb88c91"
     },
     "python-fastnumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastnumbers.git",
