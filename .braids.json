@@ -5929,7 +5929,7 @@
     "python-redis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-redis.git",
       "branch": "master",
-      "revision": "3f5ce87162afecfad2a4eb52acbdb7bcbc70f539"
+      "revision": "3205d90f692bfb21e4b61e39fcf3abcad0ae5e52"
     },
     "python-rednose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rednose.git",
