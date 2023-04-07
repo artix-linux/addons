@@ -5329,7 +5329,7 @@
     "python-pyparsing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyparsing.git",
       "branch": "master",
-      "revision": "2ae7fad3f0f01ca0a50e51c4005474643dcf885c"
+      "revision": "e269e6ae79ee2465a6069f957ad39f4673a1a78e"
     },
     "python-pyperclip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyperclip.git",
