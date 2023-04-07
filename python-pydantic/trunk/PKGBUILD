@@ -4,7 +4,7 @@
 _name=pydantic
 pkgname=python-$_name
 pkgver=1.10.7
-pkgrel=2.1
+pkgrel=3
 pkgdesc='Data parsing and validation using Python type hints'
 arch=(x86_64)
 url="https://github.com/pydantic/pydantic"
@@ -21,7 +21,6 @@ makedepends=(
   python-importlib-metadata
   python-setuptools
   python-wheel
-  python-bootstrap-evil
 )
 checkdepends=(
   python-hypothesis
