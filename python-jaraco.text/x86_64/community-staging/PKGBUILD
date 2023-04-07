@@ -4,13 +4,13 @@
 pkgname=python-jaraco.text
 # https://github.com/jaraco/jaraco.text/blob/main/CHANGES.rst
 pkgver=3.11.1
-pkgrel=1.1
+pkgrel=2
 pkgdesc='Module for text manipulation'
 arch=('any')
 url='https://github.com/jaraco/jaraco.text'
 license=('MIT')
 depends=('python' 'python-jaraco.functools' 'python-jaraco.context' 'python-autocommand' 'python-inflect' 'python-more-itertools')
-makedepends=('python-build' 'python-installer' 'python-setuptools-scm' 'python-wheel' 'python-bootstrap-evil')
+makedepends=('python-build' 'python-installer' 'python-setuptools-scm' 'python-wheel')
 checkdepends=('python-pytest')
 conflicts=('python-jaraco')
 replaces=('python-jaraco')
