@@ -7429,7 +7429,7 @@
     "python-zstandard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zstandard.git",
       "branch": "master",
-      "revision": "b5b2dafde074a4dd06a01d5e45e1958d4ade6f87"
+      "revision": "9d8ba0704cfce902bd2384bb9cde68d3ba81e8b2"
     },
     "rapidfuzz-cpp": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rapidfuzz-cpp.git",
