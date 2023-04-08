@@ -2374,7 +2374,7 @@
     "python-cson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cson.git",
       "branch": "master",
-      "revision": "e7b8a1b399ef01f68feca367c91f69dff1624f02"
+      "revision": "6df2a0c0ac808be1923c17ef7b75db90aa663607"
     },
     "python-css-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-css-parser.git",
