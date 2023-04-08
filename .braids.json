@@ -3819,7 +3819,7 @@
     "python-jupyterlab_server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyterlab_server.git",
       "branch": "master",
-      "revision": "c782bf6ef5b2cd45ce43da48dfb7cde47ce5396a"
+      "revision": "7c578b04b5daa3df0166c2f08348f0e3ac7c123a"
     },
     "python-jwcrypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jwcrypto.git",
