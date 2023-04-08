@@ -2609,7 +2609,7 @@
     "python-django-haystack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-haystack.git",
       "branch": "master",
-      "revision": "18a512a2d65f39c575e1d220102a53ad6032b035"
+      "revision": "aec50f64b0d349bc4b21058b439f0aef3a9e6351"
     },
     "python-django-mailman3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-mailman3.git",
