@@ -3,7 +3,7 @@
 # Contributor: Mark Wagie <mark.wagie@tutanota.com>
 
 pkgname=python-merge3
-pkgver=0.0.9
+pkgver=0.0.13
 pkgrel=1
 pkgdesc='Python implementation of 3-way merge'
 arch=(any)
@@ -14,7 +14,7 @@ makedepends=(
   git
   python-setuptools
 )
-_tag=7c779b5d0baea11048c11253962a27182b851db4
+_tag=3c65769e219bc7c5efd68e2204b344d3504c854d
 #source=(git+https://github.com/breezy-team/merge3.git?signed#tag=${_tag})
 source=(git+https://github.com/breezy-team/merge3.git#tag=${_tag})
 b2sums=(SKIP)
