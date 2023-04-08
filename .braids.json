@@ -3579,7 +3579,7 @@
     "python-ipywidgets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipywidgets.git",
       "branch": "master",
-      "revision": "c7c703ecf6bde052ae7b8b7e83605b14f897ed14"
+      "revision": "a4c87de5f9bbf0bc0219013bd4ac76102037a8a3"
     },
     "python-iso8601": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iso8601.git",
