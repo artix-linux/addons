@@ -7304,7 +7304,7 @@
     "python-yaspin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yaspin.git",
       "branch": "master",
-      "revision": "1a8d75e70abfb8c988d3e43e102fbb1a5222dc7d"
+      "revision": "5d1faa6dd3d031609541d1302833973fd52c650e"
     },
     "python-yg.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yg.lockfile.git",
