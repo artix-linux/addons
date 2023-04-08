@@ -7084,7 +7084,7 @@
     "python-volatile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-volatile.git",
       "branch": "master",
-      "revision": "c0837c07332e9723a5b8e41b20254ff373f55fb2"
+      "revision": "660d37b914ae8d87381a30256a779e324011f032"
     },
     "python-voluptuous": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-voluptuous.git",
