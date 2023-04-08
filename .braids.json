@@ -1769,7 +1769,7 @@
     "python-attrdict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrdict.git",
       "branch": "master",
-      "revision": "31a625e006f95ad7ea99d9b16f04996d62b73d1d"
+      "revision": "8e692eb4d09925e7a74275e149090c6ac2ddce39"
     },
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
