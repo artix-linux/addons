@@ -7029,7 +7029,7 @@
     "python-uvloop": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uvloop.git",
       "branch": "master",
-      "revision": "af2dcdf8b243f0daf32f0553873df3be50ef6b37"
+      "revision": "0423912bb3bbf7098103f922e3607d719135e508"
     },
     "python-validate-email": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-validate-email.git",
