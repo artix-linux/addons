@@ -4619,7 +4619,7 @@
     "python-parsedatetime": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parsedatetime.git",
       "branch": "master",
-      "revision": "6b143758ba993ef2f840e2fbac936d2b70732f48"
+      "revision": "c48f8a9596834cd38d5c1eb2b648f8c9209b67c6"
     },
     "python-parso": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parso.git",
