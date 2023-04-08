@@ -4799,7 +4799,7 @@
     "python-pint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pint.git",
       "branch": "master",
-      "revision": "708b17cb30bc8dbbc2222432301a50b4553669c4"
+      "revision": "be885f053bf3544d93a369f0fa9ba9efba9ff013"
     },
     "python-pip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pip.git",
