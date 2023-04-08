@@ -7189,7 +7189,7 @@
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
-      "revision": "9a38177f3df2ea38b0917e60075f5b00a3c47703"
+      "revision": "d2814234dca327fc220732b28f42a7bb99b92ca4"
     },
     "python-wsaccel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsaccel.git",
