@@ -2399,7 +2399,7 @@
     "python-csv23": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-csv23.git",
       "branch": "master",
-      "revision": "b37bbe52aac434a9fa00bdd8facb442f59e4558c"
+      "revision": "8b27f77589a6f6b3508a32fd11def9444de0e2eb"
     },
     "python-cucumber-tag-expressions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cucumber-tag-expressions.git",
