@@ -4709,7 +4709,7 @@
     "python-pdfrw": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pdfrw.git",
       "branch": "master",
-      "revision": "204713e9ca78885ff45582e5c6b6b7bcf5012af8"
+      "revision": "d32b9ac494038bf3caa26e8f2f390d5a46177f18"
     },
     "python-pdm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pdm.git",
