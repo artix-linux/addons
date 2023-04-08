@@ -3399,7 +3399,7 @@
     "python-httpcore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httpcore.git",
       "branch": "master",
-      "revision": "0e56b0b22693605604280dc0cb1d9c044790e80c"
+      "revision": "6a314924280003d820bcfe5e689d5ac4be74c8cf"
     },
     "python-httplib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httplib2.git",
