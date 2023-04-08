@@ -6334,7 +6334,7 @@
     "python-sniffio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sniffio.git",
       "branch": "master",
-      "revision": "e8b7f58075673065975c6942f4b04784c02cdb5d"
+      "revision": "037cdbda7941bbbb7585af1cf410333e6752872b"
     },
     "python-snowballstemmer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-snowballstemmer.git",
