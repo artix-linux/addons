@@ -2539,7 +2539,7 @@
     "python-distro": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distro.git",
       "branch": "master",
-      "revision": "d95d59a763280b1bd904b922bb403fa260dcdf29"
+      "revision": "e8cada0d2dcdac61ad852075954304529a0b421a"
     },
     "python-distutils-extra": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distutils-extra.git",
