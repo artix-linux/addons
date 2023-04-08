@@ -6209,7 +6209,7 @@
     "python-serpent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-serpent.git",
       "branch": "master",
-      "revision": "ff3052c031b920505da3135305b208c6e61440a4"
+      "revision": "3cc7510d5da900018cadb6bb37b44e75d0e2e804"
     },
     "python-service-identity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-service-identity.git",
