@@ -2509,7 +2509,7 @@
     "python-dictpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dictpath.git",
       "branch": "master",
-      "revision": "88f131119919345ca59cfc6efb7f64a48942d221"
+      "revision": "41f94f635e5959096e382a217188fc9864a99016"
     },
     "python-dill": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dill.git",
