@@ -4609,7 +4609,7 @@
     "python-parse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parse.git",
       "branch": "master",
-      "revision": "a7dc512757ea84cf4a688a290d590d71e92392b3"
+      "revision": "a8e2bd005ac5487d99210211f8158ad47f7d68c6"
     },
     "python-parse-type": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parse-type.git",
