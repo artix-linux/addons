@@ -6134,7 +6134,7 @@
     "python-sarif-om": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sarif-om.git",
       "branch": "master",
-      "revision": "8303f7963b1fb23ade7e40c85bf106e41ed29d7c"
+      "revision": "4e380cc3367c67053974969a1cbf427e18633992"
     },
     "python-schema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-schema.git",
