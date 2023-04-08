@@ -1554,7 +1554,7 @@
     "python-aiosignal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosignal.git",
       "branch": "master",
-      "revision": "513fe836c588e5c1bb7873d8192e0bbe2da1cbc8"
+      "revision": "fd9bf0944d4ba1642ae1227bec82bb6ed090b68a"
     },
     "python-aiosmtpd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosmtpd.git",
