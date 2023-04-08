@@ -3524,7 +3524,7 @@
     "python-iniconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iniconfig.git",
       "branch": "master",
-      "revision": "78ece6164d6ce3405b8e150c44f10ad8d3055f4d"
+      "revision": "ad2cdf926abbe9f352b899d681303cd88445928c"
     },
     "python-install": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-install.git",
