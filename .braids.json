@@ -6614,7 +6614,7 @@
     "python-straight.plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-straight.plugin.git",
       "branch": "master",
-      "revision": "d79379f5f4cd00478d72607ae6731ea4304c2aad"
+      "revision": "ff8401204372ba857301802b1a3a01065149d9b8"
     },
     "python-strict-rfc3339": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-strict-rfc3339.git",
