@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Tobias Roettger <toroettg@gmail.com>
 
 pkgname=python-ordered-set
 pkgver=4.1.0
-pkgrel=2
+pkgrel=4
 pkgdesc='A MutableSet that remembers its order, so that every entry has an index'
 arch=('any')
 url="https://github.com/rspeer/ordered-set"
