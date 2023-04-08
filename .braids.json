@@ -3829,7 +3829,7 @@
     "python-k5test": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-k5test.git",
       "branch": "master",
-      "revision": "bb6577751f81a4a66e80599deb84294535056627"
+      "revision": "55c937cfea8438cbda22aef9ef06c1e0454ffcc0"
     },
     "python-kaitaistruct": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kaitaistruct.git",
