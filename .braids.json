@@ -5034,7 +5034,7 @@
     "python-pyaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyaml.git",
       "branch": "master",
-      "revision": "ab8bcb97aa87bec985b2f24dd83a313823168bd2"
+      "revision": "d11999f3c9c5a5f9fc719fa2e26763e25d02fb69"
     },
     "python-pyarrow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyarrow.git",
