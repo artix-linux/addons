@@ -7184,7 +7184,7 @@
     "python-whoosh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-whoosh.git",
       "branch": "master",
-      "revision": "f2a1a767660b42a6b478b020f7246bff7664f9b2"
+      "revision": "f2dcfa3a125c19cb84afd43b4786d7376373037b"
     },
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
