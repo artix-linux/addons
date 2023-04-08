@@ -1654,7 +1654,7 @@
     "python-aresponses": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aresponses.git",
       "branch": "master",
-      "revision": "2d6850eac2f57b8ef8d5711f9885f5176227d523"
+      "revision": "990dc94683f87cc010fe997e21a44b5cc42c512e"
     },
     "python-argcomplete": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argcomplete.git",
