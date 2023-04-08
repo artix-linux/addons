@@ -5674,7 +5674,7 @@
     "python-pytest-subtests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-subtests.git",
       "branch": "master",
-      "revision": "d8a19658350ee4016c9f8c747a2f5fa3e4561514"
+      "revision": "e365e8c8d36907504174ccf3488ee45f8f330181"
     },
     "python-pytest-sugar": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-sugar.git",
