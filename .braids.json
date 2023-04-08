@@ -4364,7 +4364,7 @@
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
       "branch": "master",
-      "revision": "ba2601730715097999166d51ca3a593aff759b0b"
+      "revision": "1f1fe73296b740668203ba37e0e4bb765e2fb96d"
     },
     "python-nose-random": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose-random.git",
