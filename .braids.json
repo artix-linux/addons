@@ -4634,7 +4634,7 @@
     "python-parver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parver.git",
       "branch": "master",
-      "revision": "9081216794d73370e0adcc042d49833461e9cb35"
+      "revision": "ffcc1317dea333d4e0093edf01b6d4e0e13d8bd9"
     },
     "python-passlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-passlib.git",
