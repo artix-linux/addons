@@ -3594,7 +3594,7 @@
     "python-isort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-isort.git",
       "branch": "master",
-      "revision": "cea67650fd296597f221e97f2d744924a6ea8106"
+      "revision": "07ea70fe86ed7e92f99425d8410c2bad959377fe"
     },
     "python-itsdangerous": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-itsdangerous.git",
