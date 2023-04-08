@@ -4784,7 +4784,7 @@
     "python-pickleshare": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pickleshare.git",
       "branch": "master",
-      "revision": "e63f4d6960a8a3b41342dfccd58f16a2ff5eccf6"
+      "revision": "b745b804dd4953853edb41eaceef8a7ceb23cbb9"
     },
     "python-pikepdf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pikepdf.git",
