@@ -4769,7 +4769,7 @@
     "python-pg8000": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pg8000.git",
       "branch": "master",
-      "revision": "fbf0346bb4269f68f32f9fc22796aafff609e795"
+      "revision": "436013d3bebaef8918b62f067971ca57ef604a2c"
     },
     "python-phonenumbers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-phonenumbers.git",
