@@ -6799,7 +6799,7 @@
     "python-tomlkit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomlkit.git",
       "branch": "master",
-      "revision": "15328c406c397e1e8849db08cca47ecbd0f1a542"
+      "revision": "8d8a8a43db1ec8d7a86782d8692a12ab5636c12d"
     },
     "python-toolz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-toolz.git",
