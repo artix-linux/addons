@@ -1549,7 +1549,7 @@
     "python-aiorpcx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiorpcx.git",
       "branch": "master",
-      "revision": "0ee696404195c872ed2ced451a0c7e4f55eb098b"
+      "revision": "4ded113755a8c9e40c4044c314793f47923515a3"
     },
     "python-aiosignal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosignal.git",
