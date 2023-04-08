@@ -2504,7 +2504,7 @@
     "python-deprecation": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deprecation.git",
       "branch": "master",
-      "revision": "3a3530bbfe5a3612c3380732a057233f6c44471f"
+      "revision": "3fcd7dec04538e5570fbbece9e0cd8f56f9f6a5e"
     },
     "python-dictpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dictpath.git",
