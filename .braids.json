@@ -5524,7 +5524,7 @@
     "python-pytest-enabler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-enabler.git",
       "branch": "master",
-      "revision": "3833280f3a0464bf176d6d4dc29580869cb6213f"
+      "revision": "c4b190ce36a2dc47d02dddb446b1bc800c01af30"
     },
     "python-pytest-env": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-env.git",
