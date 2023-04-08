@@ -1504,7 +1504,7 @@
     "python-aiohttp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp.git",
       "branch": "master",
-      "revision": "60df56b34c437e898297c7acc66c7b8d1bc7f9d7"
+      "revision": "8f32e051ceb5911057c1360a336e54b2b545768e"
     },
     "python-aiohttp-cors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-cors.git",
