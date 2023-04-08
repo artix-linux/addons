@@ -7129,7 +7129,7 @@
     "python-wcwidth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wcwidth.git",
       "branch": "master",
-      "revision": "db25809ba84fa58fdf471c6629c0a1cfdd5a032c"
+      "revision": "81d4e91af06028f9b72be2e1b850723cfbcf876f"
     },
     "python-webcolors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webcolors.git",
