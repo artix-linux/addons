@@ -5114,7 +5114,7 @@
     "python-pydot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydot.git",
       "branch": "master",
-      "revision": "006676897191a3f2a70bc7ba291480894ce40e3a"
+      "revision": "ddaa690f0f19bf246001a29dea5ab16af644fd48"
     },
     "python-pydrive": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydrive.git",
