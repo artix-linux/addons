@@ -1754,7 +1754,7 @@
     "python-asynctest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asynctest.git",
       "branch": "master",
-      "revision": "c08b3682b61b0f55f173e223773a59af3c339c69"
+      "revision": "64d7a0e7b4da64e9475a09218e24f1749273e2fc"
     },
     "python-atomicwrites": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-atomicwrites.git",
