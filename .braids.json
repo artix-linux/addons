@@ -4644,7 +4644,7 @@
     "python-paste": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-paste.git",
       "branch": "master",
-      "revision": "c5a1e93bc83641132748bc6041f097a6b9cb92f5"
+      "revision": "fb70a7a51acad85fbbb543f33328caf35b03cd6f"
     },
     "python-pastedeploy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pastedeploy.git",
