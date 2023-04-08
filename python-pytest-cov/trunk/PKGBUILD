@@ -1,4 +1,4 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Sebastien LEDUC <sebastien@sleduc.fr>
 # Contributor: Andrey Mikhaylenko <neithere at gmail dot com>
 
@@ -25,7 +25,8 @@ check() {
 
   cd pytest-cov-$pkgver
   python setup.py install --root="$PWD/tmp_install" --optimize=1
-  PYTHONPATH="$PWD/tmp_install/usr/lib/python3.10/site-packages:$PYTHONPATH:$PWD/tests" pytest || echo "Tests failed"
+  local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
+  PYTHONPATH="$PWD/tmp_install/$site_packages:$PYTHONPATH:$PWD/tests" pytest || echo "Tests failed"
 }
 
 package() {
