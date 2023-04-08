@@ -2689,7 +2689,7 @@
     "python-dogpile.cache": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dogpile.cache.git",
       "branch": "master",
-      "revision": "daaa1afd33fbea2eeceb5b05d87473bde3d3917f"
+      "revision": "2af595e079f4c170e0c18b9ecfd7b774207a7330"
     },
     "python-dotenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dotenv.git",
