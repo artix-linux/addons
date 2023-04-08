@@ -6524,7 +6524,7 @@
     "python-sphinxcontrib-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-trio.git",
       "branch": "master",
-      "revision": "b8725124082399f474d5ad8de54b7988a16a6f31"
+      "revision": "d63354024e58f239461368fcae4a6568d2223c63"
     },
     "python-sphinxext-opengraph": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxext-opengraph.git",
