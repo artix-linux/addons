@@ -5754,7 +5754,7 @@
     "python-pytoml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytoml.git",
       "branch": "master",
-      "revision": "7eecbe55942c4a032d8ec5331934bdf2e0a4649b"
+      "revision": "ad1a904447fb05e3e0b02837babf2654d555cd16"
     },
     "python-pytoolconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytoolconfig.git",
