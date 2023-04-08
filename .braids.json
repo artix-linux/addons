@@ -5869,7 +5869,7 @@
     "python-random2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-random2.git",
       "branch": "master",
-      "revision": "d57335c6de1235c118d0ec367a6b05fa2b11c3e7"
+      "revision": "ead5a397cb450fc686c24423b4ba9c3d2db52053"
     },
     "python-rapidfuzz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rapidfuzz.git",
