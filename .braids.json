@@ -5284,7 +5284,7 @@
     "python-pynacl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynacl.git",
       "branch": "master",
-      "revision": "f95cd7366a3a44cd256f6b7ef88cdef8deb3ace5"
+      "revision": "25c21862b962f41acf5436216bc28f7404d7d8cc"
     },
     "python-pynamodb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynamodb.git",
