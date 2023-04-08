@@ -1674,7 +1674,7 @@
     "python-argon2_cffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argon2_cffi.git",
       "branch": "master",
-      "revision": "4479525a5c0114b14aa41824be5a7865e2bf15fc"
+      "revision": "7359f7e45e7ce423373fd8012f5c6c9fd9b80079"
     },
     "python-argparse-addons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argparse-addons.git",
