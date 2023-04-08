@@ -4764,7 +4764,7 @@
     "python-pexpect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pexpect.git",
       "branch": "master",
-      "revision": "32ff7c5e7873e6183020909a368a30fac01f035e"
+      "revision": "ec2232077bb5ac0f8c77838a36ab3e76430b05f1"
     },
     "python-pg8000": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pg8000.git",
