@@ -6389,7 +6389,7 @@
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
       "branch": "master",
-      "revision": "4979499be418ed55465453524a92b5ff31aa0f58"
+      "revision": "a4b826054c144550094aa0a95f80bbe3a9f7a3c5"
     },
     "python-sphinx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx.git",
