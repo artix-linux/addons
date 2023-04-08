@@ -4559,7 +4559,7 @@
     "python-outcome": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-outcome.git",
       "branch": "master",
-      "revision": "763e42becd07492ff9df7f3fcc332cd0169feebe"
+      "revision": "35f0e8e5724cb8370efca8b23fc9b191e2daa4ac"
     },
     "python-ovirt-engine-sdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ovirt-engine-sdk.git",
