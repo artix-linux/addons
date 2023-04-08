@@ -2944,7 +2944,7 @@
     "python-first": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-first.git",
       "branch": "master",
-      "revision": "b1eff2f47a9df1907445568292cffc6b75a818ba"
+      "revision": "f846dcb2f5627780d23e7c237dfafdc6077a4d2a"
     },
     "python-fissix": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fissix.git",
