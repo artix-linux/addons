@@ -1574,7 +1574,7 @@
     "python-alembic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-alembic.git",
       "branch": "master",
-      "revision": "54e9654853f39a4eae0e7e607c0984f74864635e"
+      "revision": "6cb0d7628ca7bdfadddcb3c2cbd90d12272a85b0"
     },
     "python-amqp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-amqp.git",
