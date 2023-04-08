@@ -6454,7 +6454,7 @@
     "python-sphinx-lv2-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-lv2-theme.git",
       "branch": "master",
-      "revision": "afc71c819a9a631653f18bad8b4b9d63a4542c2e"
+      "revision": "b12865fdab0db1ea52d1dc227ba38984cab1b593"
     },
     "python-sphinx-pytest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-pytest.git",
