@@ -2164,7 +2164,7 @@
     "python-cheetah3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cheetah3.git",
       "branch": "master",
-      "revision": "a6b431b5b65d0179f0e49b413e6bf5abf90d06c3"
+      "revision": "49c3828459a617f95eaf223b09b2f8143d4db9db"
     },
     "python-cheroot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cheroot.git",
