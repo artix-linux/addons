@@ -5834,7 +5834,7 @@
     "python-pyxbe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyxbe.git",
       "branch": "master",
-      "revision": "9bf410fef65764cffd213993b7a336517404bc08"
+      "revision": "ca4c0ea92bff5b7ab57c4e559e2c49a02a5dadf6"
     },
     "python-pyzmq": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyzmq.git",
