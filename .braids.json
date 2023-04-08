@@ -4924,7 +4924,7 @@
     "python-priority": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-priority.git",
       "branch": "master",
-      "revision": "d9d982ac00b873a7b77f2868559aebe6f35131fb"
+      "revision": "f3198b29395fd75611e89c28304031fd31f62a2e"
     },
     "python-process-tests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-process-tests.git",
