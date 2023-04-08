@@ -7334,7 +7334,7 @@
     "python-zict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zict.git",
       "branch": "master",
-      "revision": "49ab1e6d621daf9884a39ab5aead7690ee3f8f10"
+      "revision": "3839172ec2bc78a9c34593c81a7bd0390e7ebc10"
     },
     "python-zipp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zipp.git",
