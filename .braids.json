@@ -4719,7 +4719,7 @@
     "python-pdm-pep517": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pdm-pep517.git",
       "branch": "master",
-      "revision": "e317b32f8e11754a7c3565b51486e953990019d4"
+      "revision": "fd292684936462a349118e03d1f26ff03889e1f5"
     },
     "python-pecan": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pecan.git",
