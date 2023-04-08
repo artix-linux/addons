@@ -4884,7 +4884,7 @@
     "python-portend": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-portend.git",
       "branch": "master",
-      "revision": "b96ed777063dcaf0fe4386fab05a88129e9f1093"
+      "revision": "8f4ee10546d050fbe6a68907a41838a47122af37"
     },
     "python-pprofile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pprofile.git",
