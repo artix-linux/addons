@@ -219,7 +219,7 @@
     "perl-data-munge": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-munge.git",
       "branch": "master",
-      "revision": "689bf783642792096bd842f1f42209bcbdb06608"
+      "revision": "fe5f4703d4d905ca1dd173569d5899d87b82253c"
     },
     "perl-data-optlist": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-optlist.git",
