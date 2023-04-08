@@ -3584,7 +3584,7 @@
     "python-iso8601": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iso8601.git",
       "branch": "master",
-      "revision": "fe5461381c52fa52877f751a7f4fd1500c86d458"
+      "revision": "2d5c60163b5121b191056219bc902cbb5c291e54"
     },
     "python-isoduration": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-isoduration.git",
