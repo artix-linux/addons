@@ -6414,7 +6414,7 @@
     "python-sphinx-autobuild": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-autobuild.git",
       "branch": "master",
-      "revision": "2984a0dcf8151ebe69e42a43de6d6389740ee5b9"
+      "revision": "7222df78764fc5f4e427ea8d0d5ca08288c718e7"
     },
     "python-sphinx-autodoc-typehints": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-autodoc-typehints.git",
