@@ -6104,7 +6104,7 @@
     "python-rsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rsa.git",
       "branch": "master",
-      "revision": "365c06da791b7f60f12a757b2f2023f7fbc664b6"
+      "revision": "44096207ffbcfdd807e78631760952ae2abd6f89"
     },
     "python-rtree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rtree.git",
