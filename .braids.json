@@ -5044,7 +5044,7 @@
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
       "branch": "master",
-      "revision": "2d960b14883effc3e6aa2c602c77cfb5c248e054"
+      "revision": "5d8e5a0bd08ea732ef844e284a87f82517d348eb"
     },
     "python-pyasn1-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1-modules.git",
