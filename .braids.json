@@ -7424,7 +7424,7 @@
     "python-zopfli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zopfli.git",
       "branch": "master",
-      "revision": "79206185ca6790bf266320338fcc901056e5c991"
+      "revision": "1c832a63d66a52e56f2ce6f553a536571f6c8d79"
     },
     "python-zstandard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zstandard.git",
