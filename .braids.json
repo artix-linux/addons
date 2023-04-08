@@ -4929,7 +4929,7 @@
     "python-process-tests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-process-tests.git",
       "branch": "master",
-      "revision": "6d5db995564757ceb129795ef27165bf94c5aa53"
+      "revision": "dda73096a305d8dc44d259b2e6436dda2d1f6a1a"
     },
     "python-profilestats": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-profilestats.git",
