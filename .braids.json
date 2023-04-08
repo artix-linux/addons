@@ -6769,7 +6769,7 @@
     "python-tinycss2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss2.git",
       "branch": "master",
-      "revision": "68753f7881b18d281efa34f324e9a38e22c502ea"
+      "revision": "4ad9512010c2fcbe33c5333aafd8c8a9a84cfb78"
     },
     "python-tlv8": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tlv8.git",
