@@ -6784,7 +6784,7 @@
     "python-toml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-toml.git",
       "branch": "master",
-      "revision": "d920c98292b7b1a3ec677429001e89e54f3458d4"
+      "revision": "869eeb89d04f0a5e06549dcbed16af51604a02f7"
     },
     "python-tomli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomli.git",
