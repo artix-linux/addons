@@ -4409,7 +4409,7 @@
     "python-nspektr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nspektr.git",
       "branch": "master",
-      "revision": "937d7d7cf069855a7dcb650dd4689720fdaa9d2e"
+      "revision": "89f17f34d7097e103ad5efa024184a97c4f735e4"
     },
     "python-ntlm-auth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ntlm-auth.git",
