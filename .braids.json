@@ -2119,7 +2119,7 @@
     "python-cerberus": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cerberus.git",
       "branch": "master",
-      "revision": "d82dc8fd5241884d699a8b4cb52fd1346e259cbe"
+      "revision": "6d491fa47e9bd36bd37c6a5ca625daf5ae78e722"
     },
     "python-certifi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-certifi.git",
