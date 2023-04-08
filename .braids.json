@@ -5294,7 +5294,7 @@
     "python-pynetbox": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynetbox.git",
       "branch": "master",
-      "revision": "48352ae93211cf0b3894c7d33967e9f4b364bae4"
+      "revision": "c10c27d2866ff7403839b258970f51185465bde4"
     },
     "python-pynitrokey": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynitrokey.git",
