@@ -6059,7 +6059,7 @@
     "python-rfc3986": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3986.git",
       "branch": "master",
-      "revision": "40538136c3da5ca7f15ddb41104da35ea5c8f61c"
+      "revision": "b548262b55d3f8f97679a7245731129ac70a5c84"
     },
     "python-rfc3987": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3987.git",
