@@ -2379,7 +2379,7 @@
     "python-css-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-css-parser.git",
       "branch": "master",
-      "revision": "a05f26a14f0d0bbba6375bb4761c8b8f86bcf5d1"
+      "revision": "023b3850d4dc2df429bdef38f0896cbb15ce0f60"
     },
     "python-csscompressor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-csscompressor.git",
