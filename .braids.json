@@ -2824,7 +2824,7 @@
     "python-execnet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-execnet.git",
       "branch": "master",
-      "revision": "36122468e5ad499aaf0cf16faead245a37b4853e"
+      "revision": "c44423e3b79361d4cefebbbb6d6a14f3c9616063"
     },
     "python-executing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-executing.git",
