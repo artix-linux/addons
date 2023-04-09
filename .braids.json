@@ -2014,7 +2014,7 @@
     "python-btchip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-btchip.git",
       "branch": "master",
-      "revision": "72b00383488c3a249d4fff1cde4ed59e9036acc2"
+      "revision": "5390ad061e5e0e482541dd01d07e1e06a9cf454f"
     },
     "python-btrees": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-btrees.git",
