@@ -2224,7 +2224,7 @@
     "python-click-repl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-repl.git",
       "branch": "master",
-      "revision": "33aba8014da1250732d8f2fd03f30f042a727d38"
+      "revision": "ce077207c537e0a987893748d993155349f23b95"
     },
     "python-cliff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cliff.git",
