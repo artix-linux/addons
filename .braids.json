@@ -2299,7 +2299,7 @@
     "python-commonmark": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-commonmark.git",
       "branch": "master",
-      "revision": "f660e4cf0a6133a8350bb7eb2625494b3f41af32"
+      "revision": "5ff39a8f14f262dde249ed408bb6e65cc48972a0"
     },
     "python-configobj": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-configobj.git",
