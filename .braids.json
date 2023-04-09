@@ -2049,7 +2049,7 @@
     "python-cachy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachy.git",
       "branch": "master",
-      "revision": "405103709f3cb6cec07afb0b79c38c0f6af9570f"
+      "revision": "0ee17cd91a18c7c30c62462f6bbcaddf8604e565"
     },
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
