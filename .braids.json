@@ -2724,7 +2724,7 @@
     "python-easyprocess": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-easyprocess.git",
       "branch": "master",
-      "revision": "f944d3c3dcd50a931fbfc870c60012ec6b979e40"
+      "revision": "d906862aea3e0fe17812e37b70784ee5af869064"
     },
     "python-ecdsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ecdsa.git",
