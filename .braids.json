@@ -1849,7 +1849,7 @@
     "python-backcall": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-backcall.git",
       "branch": "master",
-      "revision": "531e32c64f85bdef8b34454fefaf94a7b008b0c1"
+      "revision": "32c317efb18b68e64c0041e0bca76d1406102f51"
     },
     "python-baron": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-baron.git",
