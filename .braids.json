@@ -2484,7 +2484,7 @@
     "python-deepmerge": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deepmerge.git",
       "branch": "master",
-      "revision": "51a91a74db85948243d5f000d95910d711319d21"
+      "revision": "dcb949505d8cf338b79c5e3365979ae4d8f06209"
     },
     "python-defusedxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-defusedxml.git",
