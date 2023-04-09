@@ -2244,7 +2244,7 @@
     "python-clint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clint.git",
       "branch": "master",
-      "revision": "e9746d9d2e8f7f3c35224550959b225e42a5b759"
+      "revision": "e7595144f566910f01f6bb52be9a5280b3b9f024"
     },
     "python-cloudpickle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cloudpickle.git",
