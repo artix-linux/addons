@@ -2214,7 +2214,7 @@
     "python-click-option-group": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-option-group.git",
       "branch": "master",
-      "revision": "e0101fac1813536aac78bccfb7bebdc764785e95"
+      "revision": "49d7ee76c6051e21cbd684ec9dda6197bdf59f4f"
     },
     "python-click-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-plugins.git",
