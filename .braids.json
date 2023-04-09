@@ -2934,7 +2934,7 @@
     "python-fiona": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fiona.git",
       "branch": "master",
-      "revision": "38a82df1e5955e128d4b5f94be9040f969f845cd"
+      "revision": "63431366a290d214c640708ff2d817196beaff44"
     },
     "python-fire": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fire.git",
