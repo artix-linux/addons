@@ -2314,7 +2314,7 @@
     "python-confuse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-confuse.git",
       "branch": "master",
-      "revision": "e7f776ec680784f52a6533eb254f4563a2766a8b"
+      "revision": "01265ab4aabd93c7ec281a736293e6235e3f78ba"
     },
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
