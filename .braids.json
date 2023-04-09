@@ -3009,7 +3009,7 @@
     "python-flask-login": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-login.git",
       "branch": "master",
-      "revision": "c13114e65a544ee78f1052ab768667a4ef92553a"
+      "revision": "24ce38e9954119a70512b6068bb5ed81c3f70827"
     },
     "python-flask-restful": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-restful.git",
