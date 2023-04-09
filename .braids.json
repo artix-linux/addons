@@ -2679,7 +2679,7 @@
     "python-docutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docutils.git",
       "branch": "master",
-      "revision": "b78ec99fc8e0c6284a3e68f004b330f406283c7b"
+      "revision": "448d1ff747698f560efbe663a99a7d3c703286fe"
     },
     "python-docutils-stubs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docutils-stubs.git",
