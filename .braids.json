@@ -2949,7 +2949,7 @@
     "python-fissix": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fissix.git",
       "branch": "master",
-      "revision": "eff8e92887b2aa10aee16601672e0a06c705c7eb"
+      "revision": "8ee60c18938b62d57b2fc62e6d172b3a148bbbfe"
     },
     "python-fixtures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fixtures.git",
