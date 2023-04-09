@@ -3064,7 +3064,7 @@
     "python-flufl.i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.i18n.git",
       "branch": "master",
-      "revision": "dacee8cbd8b2f4bc598d715426dc9a270965414a"
+      "revision": "265a56a8bbf80991a69a6ce259306c6d172e5e9a"
     },
     "python-flufl.testing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.testing.git",
