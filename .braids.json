@@ -2184,7 +2184,7 @@
     "python-cleo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cleo.git",
       "branch": "master",
-      "revision": "154c99e10cf3a441ca073ef3b4ff08ec068a2d79"
+      "revision": "701949f74ac9338284e5a89414715c931e66dfac"
     },
     "python-click": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click.git",
