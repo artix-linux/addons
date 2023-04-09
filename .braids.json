@@ -2594,7 +2594,7 @@
     "python-django-filter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-filter.git",
       "branch": "master",
-      "revision": "dd44ba2be2726dcc27ea9baaf979cddff9ae497c"
+      "revision": "9b89c440add6d19503099cb8c70a7696c00e780d"
     },
     "python-django-gravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-gravatar.git",
