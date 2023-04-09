@@ -2264,7 +2264,7 @@
     "python-cmsis-pack-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cmsis-pack-manager.git",
       "branch": "master",
-      "revision": "97735f19bf9b5ae8558c2076c29a4e3638bf847a"
+      "revision": "080a978a9a4131d9c902f367aebe0070e56c04d1"
     },
     "python-cogapp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cogapp.git",
