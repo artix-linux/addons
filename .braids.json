@@ -3074,7 +3074,7 @@
     "python-fluidity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fluidity.git",
       "branch": "master",
-      "revision": "ea3eb25e747afaa97881441d06c4df2717a88cd7"
+      "revision": "0b67dc0ed755d636c5258f84bdb2b7d098b898d8"
     },
     "python-flup": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flup.git",
