@@ -11,7 +11,7 @@ url="https://docs.openstack.org/cliff/latest/"
 license=('Apache')
 depends=('python-six' 'python-cmd2' 'python-prettytable' 'python-importlib-metadata'
          'python-stevedore' 'python-yaml' 'python-autopage')
-makedepends=('git')
+makedepends=('git' 'python-setuptools')
 checkdepends=('python-stestr' 'python-sphinx' 'python-testscenarios')
 options=('!emptydirs')
 source=("git+https://github.com/openstack/cliff.git#commit=$_commit")
