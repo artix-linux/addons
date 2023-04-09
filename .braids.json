@@ -2034,7 +2034,7 @@
     "python-cached-property": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cached-property.git",
       "branch": "master",
-      "revision": "c1e719d36b3ccdf27d11450712477b78426d9b1f"
+      "revision": "5f14a95ef930f420864f1194db5fa146fbba4b62"
     },
     "python-cachelib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachelib.git",
