@@ -2394,7 +2394,7 @@
     "python-cssselect2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cssselect2.git",
       "branch": "master",
-      "revision": "28e7a63f612e661e3b2c5041864e4adc7c4a7d89"
+      "revision": "8258865ac5358f660369c59d14cfbefd4ab1368a"
     },
     "python-csv23": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-csv23.git",
