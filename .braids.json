@@ -6604,7 +6604,7 @@
     "python-stevedore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stevedore.git",
       "branch": "master",
-      "revision": "94ec4531aeb31e3e902122e2908777f022d4a54f"
+      "revision": "40ec2ec45fbb082967c62ff886a486b3bac93979"
     },
     "python-stone": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stone.git",
