@@ -3089,7 +3089,7 @@
     "python-fqdn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fqdn.git",
       "branch": "master",
-      "revision": "29a5c6c621312947e2d7ce404c394aab6fa2957b"
+      "revision": "2801afc6ddf11b11fdec2be2782a5c684754b961"
     },
     "python-freezegun": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-freezegun.git",
