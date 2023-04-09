@@ -1914,7 +1914,7 @@
     "python-biopython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-biopython.git",
       "branch": "master",
-      "revision": "a55eb2f91b01f6e556d1c7f4e540f9ea4632ab22"
+      "revision": "b283e4a2832fc8f4ae4419e5926c85f85607a093"
     },
     "python-biscuits": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-biscuits.git",
