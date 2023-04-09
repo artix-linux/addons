@@ -1859,7 +1859,7 @@
     "python-bcrypt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bcrypt.git",
       "branch": "master",
-      "revision": "04c4c583414522dfaf7a5d1a70b67051789c4946"
+      "revision": "2e2bf8bff751679406dbcd6e45f65786e8f505a9"
     },
     "python-beaker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beaker.git",
