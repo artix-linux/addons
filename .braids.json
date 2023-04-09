@@ -2584,7 +2584,7 @@
     "python-django-extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-extensions.git",
       "branch": "master",
-      "revision": "59a55fc604d909d429acbe3e0bb7d832959f3d12"
+      "revision": "281ffd6389ed272357d49ba712a47081600286e4"
     },
     "python-django-fake-model": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-fake-model.git",
