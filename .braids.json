@@ -2629,7 +2629,7 @@
     "python-django-rest-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-rest-framework.git",
       "branch": "master",
-      "revision": "154146b74035a2f15d043f4f085607a9ae90be70"
+      "revision": "d9760b175d8534ed77960c08cbc5d221f868fbd0"
     },
     "python-django-sekizai": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-sekizai.git",
