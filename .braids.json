@@ -3014,7 +3014,7 @@
     "python-flask-restful": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-restful.git",
       "branch": "master",
-      "revision": "f3047a0f20dca199a7c23762becef88073ab1c3f"
+      "revision": "70b88662689b79e58c2309cef43e21056a810dda"
     },
     "python-flask-socketio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-socketio.git",
