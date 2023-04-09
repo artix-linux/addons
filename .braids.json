@@ -2659,7 +2659,7 @@
     "python-dockerpty": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dockerpty.git",
       "branch": "master",
-      "revision": "b8f93f2e0067c30bdd21873714f42b93724fefb7"
+      "revision": "87290f5eb999c3a22b188630691cb6cc6ef35892"
     },
     "python-docopt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docopt.git",
