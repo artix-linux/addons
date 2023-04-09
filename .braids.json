@@ -2799,7 +2799,7 @@
     "python-et-xmlfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-et-xmlfile.git",
       "branch": "master",
-      "revision": "e1d42c8733a1e8c58efebcc5b0a9321051579d52"
+      "revision": "1a99f086e9a9033475c6637544c204d18e586b2b"
     },
     "python-evdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
