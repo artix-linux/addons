@@ -1949,7 +1949,7 @@
     "python-blosc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-blosc.git",
       "branch": "master",
-      "revision": "eaa408085521cfaf21c3c268df68868b534057f7"
+      "revision": "4091d5246abf38aee2059dee4abc0ccf49958a4a"
     },
     "python-boolean.py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-boolean.py.git",
