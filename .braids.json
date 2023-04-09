@@ -2324,7 +2324,7 @@
     "python-contextlib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-contextlib2.git",
       "branch": "master",
-      "revision": "9e8fa3a23e24af4e2b2ee11eae2b0fca151a20a0"
+      "revision": "b156e2fb6a179f086353b36db6e7672220ec06a1"
     },
     "python-contourpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-contourpy.git",
