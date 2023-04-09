@@ -2149,7 +2149,7 @@
     "python-characteristic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-characteristic.git",
       "branch": "master",
-      "revision": "2d52e352b3edaf48476fa46e2968ea3ece0530f6"
+      "revision": "ef4fdd8b22fb634bac5b0038bc07d93fe6c1e2e3"
     },
     "python-chardet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-chardet.git",
