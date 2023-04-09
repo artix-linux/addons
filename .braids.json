@@ -2709,7 +2709,7 @@
     "python-dpcontracts": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dpcontracts.git",
       "branch": "master",
-      "revision": "8641e75dcee8f10d1eba3cbdb53ce2062a3b0550"
+      "revision": "2890cf4ff4b1bcad4f9de322dd18cbfaa333e74a"
     },
     "python-dropbox": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dropbox.git",
