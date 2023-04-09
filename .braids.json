@@ -2104,7 +2104,7 @@
     "python-cbor2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cbor2.git",
       "branch": "master",
-      "revision": "2f2b2c859d74488e794dc228955276feaf777a4d"
+      "revision": "d11862a41b45f6f30fe2d36edbc05aba4fcff636"
     },
     "python-cchardet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cchardet.git",
