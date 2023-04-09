@@ -3034,7 +3034,7 @@
     "python-flexmock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flexmock.git",
       "branch": "master",
-      "revision": "e32cda8293d7ac69a7b7a861bf579cab56839b76"
+      "revision": "aa754e8f47a99b49d4aacc4e8fdff306020588bc"
     },
     "python-flit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit.git",
