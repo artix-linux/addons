@@ -2704,7 +2704,7 @@
     "python-doublex-expects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doublex-expects.git",
       "branch": "master",
-      "revision": "28930a9bd518ec0296314e2b00433297494e8453"
+      "revision": "c0b12eb27fee4cc16b2cf31f26f72f23345fc8d4"
     },
     "python-dpcontracts": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dpcontracts.git",
