@@ -2839,7 +2839,7 @@
     "python-extras": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-extras.git",
       "branch": "master",
-      "revision": "aeb2de370a98b5e24c764722c6f1bd16d06c9fa4"
+      "revision": "0e1b4822098b0832b9a47e30739c5e62bc4d787f"
     },
     "python-factory-boy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-factory-boy.git",
