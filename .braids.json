@@ -2559,7 +2559,7 @@
     "python-django-classy-tags": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-classy-tags.git",
       "branch": "master",
-      "revision": "c7358968209db95bc9c50ea367c9aaef2b8804b8"
+      "revision": "bab532757e07192ef731ea68e6ad38bff2f4ad13"
     },
     "python-django-compressor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-compressor.git",
