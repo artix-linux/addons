@@ -2599,7 +2599,7 @@
     "python-django-gravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-gravatar.git",
       "branch": "master",
-      "revision": "760d8f6aee5d0d378dcff34d024a64b85bf7ad5d"
+      "revision": "13c68241379ccf0123a613537a7232f8fa1b41de"
     },
     "python-django-guardian": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-guardian.git",
