@@ -2859,7 +2859,7 @@
     "python-falcon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-falcon.git",
       "branch": "master",
-      "revision": "9e4ccb6b0a755a697575a50a8883df43bfc4c725"
+      "revision": "a204da48da94d389117d674080f4f78d035f54d4"
     },
     "python-fastbencode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastbencode.git",
