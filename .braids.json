@@ -2384,7 +2384,7 @@
     "python-csscompressor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-csscompressor.git",
       "branch": "master",
-      "revision": "75334c9bb0a3d49bbd811789f71eafc7dd75b0ce"
+      "revision": "788b72fc7127ad1ebea57012fe7bbb1aa2751b15"
     },
     "python-cssselect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cssselect.git",
