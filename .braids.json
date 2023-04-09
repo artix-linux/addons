@@ -2904,7 +2904,7 @@
     "python-feedparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedparser.git",
       "branch": "master",
-      "revision": "b34779aad3b969e0eb81c2f7e60a876f3fd8717d"
+      "revision": "c9d75f59c0419e7062fa185d095ab7a6fe61fa6d"
     },
     "python-fido2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fido2.git",
