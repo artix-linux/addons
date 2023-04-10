@@ -5559,7 +5559,7 @@
     "python-pytest-httpbin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-httpbin.git",
       "branch": "master",
-      "revision": "af52347c580909c86fa92c617a7dd66e787a0ebe"
+      "revision": "8af7135cc08f4aef0a390bc0be5486187483ffa1"
     },
     "python-pytest-httpserver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-httpserver.git",
