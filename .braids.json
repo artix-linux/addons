@@ -5339,7 +5339,7 @@
     "python-pyperclip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyperclip.git",
       "branch": "master",
-      "revision": "31f2e14b4ae99a7f5420c85aa7978f341a2a1ace"
+      "revision": "8ecfdb809413441c39ab7fa31f8aca2ebc3bc5e4"
     },
     "python-pypng": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pypng.git",
