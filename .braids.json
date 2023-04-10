@@ -5689,7 +5689,7 @@
     "python-pytest-timeout": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-timeout.git",
       "branch": "master",
-      "revision": "e7a83eaaf0288c4a3e9118746cb0a2adf7353890"
+      "revision": "5e2480450d2d0a9233d0983d3057a7d95d1f979a"
     },
     "python-pytest-tornado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-tornado.git",
