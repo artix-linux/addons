@@ -4094,7 +4094,7 @@
     "python-markupsafe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-markupsafe.git",
       "branch": "master",
-      "revision": "0d60d7d66c23db5e4a0073cbc406e5bcc5a1d16b"
+      "revision": "79e0fa31cfe898323066cfa53cecc47a6f790fe5"
     },
     "python-marshmallow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-marshmallow.git",
