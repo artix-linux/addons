@@ -6464,7 +6464,7 @@
     "python-sphinx-reredirects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-reredirects.git",
       "branch": "master",
-      "revision": "a2adf0af4868f3071e4f1c5c0754272aa3d5c0cc"
+      "revision": "1e959dacc5265a7cae1dc84503f25ee81b12b6a2"
     },
     "python-sphinx-theme-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-theme-builder.git",
