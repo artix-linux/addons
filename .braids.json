@@ -1784,7 +1784,7 @@
     "python-authlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authlib.git",
       "branch": "master",
-      "revision": "72c6d5dc57fca3aeb17823a15de7d5cb549fd500"
+      "revision": "32ff069fd29cd0d1eea600bfe501d8c18777ce68"
     },
     "python-authres": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authres.git",
