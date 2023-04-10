@@ -5724,7 +5724,7 @@
     "python-pytest-xprocess": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-xprocess.git",
       "branch": "master",
-      "revision": "2de8fa7e8cc0eb33adb07208977c2e38d59c3ef7"
+      "revision": "4400b02c4b2f1a5210ad7f40fd6c3d502ea92874"
     },
     "python-pytest-xvfb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-xvfb.git",
