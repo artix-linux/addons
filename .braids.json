@@ -7289,7 +7289,7 @@
     "python-yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yaml.git",
       "branch": "master",
-      "revision": "d0628c5501ee6b52d0c46ca046cd703ac64820c4"
+      "revision": "7c392ce8835cb544463076f7712fa3c511e5f436"
     },
     "python-yarg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yarg.git",
