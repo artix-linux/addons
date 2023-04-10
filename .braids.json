@@ -6564,7 +6564,7 @@
     "python-sqlparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlparse.git",
       "branch": "master",
-      "revision": "7e1959b0b3dda41836b3ca390e1b123c3a306c88"
+      "revision": "d87be585b065b3a0ab3aa250e314e81356a161ec"
     },
     "python-sshpubkeys": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sshpubkeys.git",
