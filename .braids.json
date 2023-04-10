@@ -3389,7 +3389,7 @@
     "python-html5lib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-html5lib.git",
       "branch": "master",
-      "revision": "d1f34143bed3207a5686d114e801044590a4d763"
+      "revision": "4b2bbcf29c796d9af7823885563109b6a689d5ff"
     },
     "python-http-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-http-parser.git",
