@@ -3309,7 +3309,7 @@
     "python-hacking": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hacking.git",
       "branch": "master",
-      "revision": "4e750957f51a50a1d0aef66829aa021dbb10bca9"
+      "revision": "870fb2b7327a11efe3a34113e8c5d9e9afe55338"
     },
     "python-hatch-fancy-pypi-readme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-fancy-pypi-readme.git",
