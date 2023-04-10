@@ -6924,7 +6924,7 @@
     "python-typogrify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typogrify.git",
       "branch": "master",
-      "revision": "9a446def31d1f3fea9de96e9d0eaf4cffc4db326"
+      "revision": "013dc30a666d191fa9dfe21fee6706338315bcc5"
     },
     "python-tzdata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tzdata.git",
