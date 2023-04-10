@@ -6839,7 +6839,7 @@
     "python-trailrunner": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trailrunner.git",
       "branch": "master",
-      "revision": "164663bf08128a3be0fa90ef9d8a9f7f278305bd"
+      "revision": "147428137d75d5e56b9333b5cf376955254b7549"
     },
     "python-traitlets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-traitlets.git",
