@@ -7004,7 +7004,7 @@
     "python-unpaddedbase64": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unpaddedbase64.git",
       "branch": "master",
-      "revision": "4a82f911d5c454638e477cb65b3d27368e4e00a2"
+      "revision": "0e096754c6bc736002e79df63c97897847a24078"
     },
     "python-uri-template": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uri-template.git",
