@@ -6634,7 +6634,7 @@
     "python-subunit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-subunit.git",
       "branch": "master",
-      "revision": "961238ff9c4e99928026deff6c256ac5d3911d2c"
+      "revision": "18c28301c4ecd3030989c3b5dbc3b4d1872e1855"
     },
     "python-sure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sure.git",
