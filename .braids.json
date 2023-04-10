@@ -3489,7 +3489,7 @@
     "python-ijson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ijson.git",
       "branch": "master",
-      "revision": "00a0218ce221af2916c10115883de37480b8bbf5"
+      "revision": "913452a06a620e5c2d0c35d9cb8af4484ed672fb"
     },
     "python-imagesize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-imagesize.git",
