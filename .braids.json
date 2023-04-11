@@ -5394,7 +5394,7 @@
     "python-pyrfc3339": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyrfc3339.git",
       "branch": "master",
-      "revision": "3d4f5ce5897d5c7f54cb9053aa27ec9cae0e76d0"
+      "revision": "d19420f95bedca9d737ed6575c27e8ec71918ffa"
     },
     "python-pyro": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyro.git",
