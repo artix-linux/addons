@@ -3539,7 +3539,7 @@
     "python-intelhex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-intelhex.git",
       "branch": "master",
-      "revision": "36a33c4e10d64099e996cef6430d76f756bbf02e"
+      "revision": "d71546fed0b1433f01bb42fca26af18f5a964ea9"
     },
     "python-intervaltree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-intervaltree.git",
