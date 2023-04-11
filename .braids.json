@@ -3869,7 +3869,7 @@
     "python-keyrings-alt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyrings-alt.git",
       "branch": "master",
-      "revision": "ded475f511cf1f5eeef670d2cf85cc05a4f9a61b"
+      "revision": "5a1917480b12bb28a8b96523f82bf75bbaf811bc"
     },
     "python-keystoneauth1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keystoneauth1.git",
