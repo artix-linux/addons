@@ -7154,7 +7154,7 @@
     "python-websocket-client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-websocket-client.git",
       "branch": "master",
-      "revision": "1d4c1ed06f13d3fc6c7dbda1d8ef61dd29f5e2c3"
+      "revision": "06b1301a1945d168f48c4a0b5307f9b30f59012a"
     },
     "python-websockets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-websockets.git",
