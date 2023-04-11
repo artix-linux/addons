@@ -5864,7 +5864,7 @@
     "python-quart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-quart.git",
       "branch": "master",
-      "revision": "a5e6ffdcde830630648f60cd8e37ed8133a8418f"
+      "revision": "6a26d34c136b4c9d284764f009906045ad85c07b"
     },
     "python-railroad-diagrams": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-railroad-diagrams.git",
