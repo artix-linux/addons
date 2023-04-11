@@ -7319,7 +7319,7 @@
     "python-yg.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yg.lockfile.git",
       "branch": "master",
-      "revision": "d03107a529095dfd4b1f46ab3676f28690a5eca6"
+      "revision": "8f3fe8bfeb57694359d63cc9008360e02e4a767b"
     },
     "python-ypy-websocket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ypy-websocket.git",
