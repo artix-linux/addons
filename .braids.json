@@ -6309,7 +6309,7 @@
     "python-slugify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-slugify.git",
       "branch": "master",
-      "revision": "d073f817fe36d4f37878e52e234aa69515545f33"
+      "revision": "4bce260917d8ecd0ddf141ca4166ba1ea51e1dcb"
     },
     "python-sly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sly.git",
