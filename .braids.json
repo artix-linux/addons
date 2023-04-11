@@ -4199,7 +4199,7 @@
     "python-mongoengine": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mongoengine.git",
       "branch": "master",
-      "revision": "15cb32e814a7bca773da1ca2966e83adae429999"
+      "revision": "9a6087c857ec070f8633f1ade44d6385a79af48e"
     },
     "python-mongomock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mongomock.git",
