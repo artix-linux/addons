@@ -5869,7 +5869,7 @@
     "python-railroad-diagrams": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-railroad-diagrams.git",
       "branch": "master",
-      "revision": "b062f853b14aa2bd34773cccd03b0e48a418cefb"
+      "revision": "c376436ee93bc421e8f8db6081556ecf56306f6a"
     },
     "python-random2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-random2.git",
