@@ -4634,7 +4634,7 @@
     "python-partd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-partd.git",
       "branch": "master",
-      "revision": "d96f410a11cbfc48b92f88bac41d7a3fdf81e65f"
+      "revision": "91b0519a9865d6864e684b6288bf5380179a0c7e"
     },
     "python-parver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parver.git",
