@@ -6979,7 +6979,7 @@
     "python-uncertainties": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uncertainties.git",
       "branch": "master",
-      "revision": "fe65a6a4c1707c029c68a0dbe22ce4f88b86ac33"
+      "revision": "7d1a34fff95177513b301f0e0f48a4aa95b1954c"
     },
     "python-unearth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unearth.git",
