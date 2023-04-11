@@ -1774,7 +1774,7 @@
     "python-attrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrs.git",
       "branch": "master",
-      "revision": "8a212ccb875dd6d6546be7cd63be9ddc0f750249"
+      "revision": "016970d488ccc77a037ec054f17fef1fb22179fb"
     },
     "python-authheaders": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authheaders.git",
