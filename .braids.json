@@ -5514,7 +5514,7 @@
     "python-pytest-cov": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-cov.git",
       "branch": "master",
-      "revision": "25c58e6d268bfdd0993dd2985abbaed9f91d713a"
+      "revision": "fef1daacf43cf4ba56518681565e69835d4ff2b4"
     },
     "python-pytest-datadir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-datadir.git",
