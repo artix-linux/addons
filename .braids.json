@@ -6004,7 +6004,7 @@
     "python-requests-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-mock.git",
       "branch": "master",
-      "revision": "c7517cd300612183279d334867b12ef766500cc6"
+      "revision": "3411758c8f43c7ae70b39028e09b9f53f8308138"
     },
     "python-requests-ntlm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-ntlm.git",
