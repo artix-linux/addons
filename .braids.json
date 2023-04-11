@@ -3949,7 +3949,7 @@
     "python-libevdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libevdev.git",
       "branch": "master",
-      "revision": "c39f52ee9a6808fb9ef84ae1b469828067a07d7a"
+      "revision": "17804b50cb5090eb62e8c7412d88b9edb105954d"
     },
     "python-librabbitmq": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-librabbitmq.git",
