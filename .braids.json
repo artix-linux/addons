@@ -5044,7 +5044,7 @@
     "python-pyarrow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyarrow.git",
       "branch": "master",
-      "revision": "c8b792e517bbab63ec9722b58a0de1c3bb1978ec"
+      "revision": "c0860a0e2e50cfc526f41d77a55bfdb18722f1cc"
     },
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
