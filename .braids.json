@@ -7434,7 +7434,7 @@
     "python-zope-testrunner": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-testrunner.git",
       "branch": "master",
-      "revision": "263ac62f3fa9f4965dee1c99e82c5bee8c1b4764"
+      "revision": "4b4f727e7a0e099593198db7ca128a5d87f2ec09"
     },
     "python-zopfli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zopfli.git",
