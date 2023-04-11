@@ -4354,7 +4354,7 @@
     "python-nine": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nine.git",
       "branch": "master",
-      "revision": "5d8efaaad3ffa6b7997c36ded30919f8aa9b6d95"
+      "revision": "c7a64787dd70a15047694c04acb9ed3f7f5fae1d"
     },
     "python-nkdfu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nkdfu.git",
