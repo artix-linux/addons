@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-elasticsearch
 pkgver=7.9.0
-pkgrel=2
+pkgrel=3
 arch=('any')
 pkgdesc='Python client for Elasticsearch'
 url='https://github.com/elastic/elasticsearch-py'
