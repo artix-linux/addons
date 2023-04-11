@@ -2914,7 +2914,7 @@
     "python-fields": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fields.git",
       "branch": "master",
-      "revision": "0ca56d0b46af284f035ab1cd82d91fb63b453166"
+      "revision": "539f835cd598afabe21e48370227342e0aec882c"
     },
     "python-filebytes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-filebytes.git",
