@@ -4194,7 +4194,7 @@
     "python-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mock.git",
       "branch": "master",
-      "revision": "1244787ffa097909d2ce34eefb656f1da3dd095c"
+      "revision": "e50636c819b9926abdff0af9578b242b4e6a3c10"
     },
     "python-mongoengine": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mongoengine.git",
