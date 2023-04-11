@@ -6034,7 +6034,7 @@
     "python-requestsexceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requestsexceptions.git",
       "branch": "master",
-      "revision": "2df66742e2af91b48dfd8373bbddf627ade225c5"
+      "revision": "84e97b6dc5b988d3140c12c8a9595aa4f5c3e036"
     },
     "python-requirementslib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requirementslib.git",
