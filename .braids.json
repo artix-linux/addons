@@ -3769,7 +3769,7 @@
     "python-jsonschema-spec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonschema-spec.git",
       "branch": "master",
-      "revision": "704c51dcc6c91358ab7c891f031942b481cfcbff"
+      "revision": "d96fa025b6804d0cbb99ff0bc2b5b81d7ab20755"
     },
     "python-junit-xml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-junit-xml.git",
