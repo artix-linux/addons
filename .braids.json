@@ -6549,7 +6549,7 @@
     "python-spur": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spur.git",
       "branch": "master",
-      "revision": "32a398127cecc638623624ebd2234fa4ab3afa7e"
+      "revision": "66c52d69b59b6a52cb13dac61b5512c9896a1d8f"
     },
     "python-sqlalchemy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlalchemy.git",
