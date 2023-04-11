@@ -5719,7 +5719,7 @@
     "python-pytest-vcr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-vcr.git",
       "branch": "master",
-      "revision": "fc9bb9b15d0f747b689249305ee0cff51415cf9b"
+      "revision": "4ef828b83d1669586fda86936db64ab00de96187"
     },
     "python-pytest-xdist": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-xdist.git",
