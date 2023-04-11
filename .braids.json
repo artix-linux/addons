@@ -4539,7 +4539,7 @@
     "python-oslo-i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-i18n.git",
       "branch": "master",
-      "revision": "bed9b5b1911f996c4f9fe620047e311a97f949d3"
+      "revision": "23484b12f0e8d2701632cf4c98973f3011ac3b1e"
     },
     "python-oslo-log": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-log.git",
