@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-wsgiproxy2
 pkgver=0.5.1
-pkgrel=4
+pkgrel=5
 pkgdesc="A WSGI Proxy with various http client backends"
 arch=('any')
 license=('MIT')
