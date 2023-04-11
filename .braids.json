@@ -4999,7 +4999,7 @@
     "python-pure-eval": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pure-eval.git",
       "branch": "master",
-      "revision": "e3756d7dcbfeab83c83482ad01f88751c7298852"
+      "revision": "a98b116e428aa8d433e25d14c8a27cc99f221f88"
     },
     "python-purl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-purl.git",
