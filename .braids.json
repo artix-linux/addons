@@ -3214,7 +3214,7 @@
     "python-glanceclient": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-glanceclient.git",
       "branch": "master",
-      "revision": "c8464d074af6cb4d22dd422c1d3a2f18764020d9"
+      "revision": "61457f23342921d60212ce46c6916510e0273597"
     },
     "python-glob2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-glob2.git",
