@@ -6784,7 +6784,7 @@
     "python-tokenize-rt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tokenize-rt.git",
       "branch": "master",
-      "revision": "d38b2ec17af6eb3dccaf37c5fbfda1d2146aba28"
+      "revision": "69c9a04f431c61cdd68f0874e956c69a5597fa31"
     },
     "python-toml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-toml.git",
