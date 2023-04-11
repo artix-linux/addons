@@ -4799,7 +4799,7 @@
     "python-pillow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pillow.git",
       "branch": "master",
-      "revision": "ad83210b9ef2ac48d00b33f2d6d00e0cbe066608"
+      "revision": "fd6feb83efb272d2aea74154797d749f4978027d"
     },
     "python-pint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pint.git",
