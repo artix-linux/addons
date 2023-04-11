@@ -4619,7 +4619,7 @@
     "python-parse-type": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parse-type.git",
       "branch": "master",
-      "revision": "24f4f9b6ce7183f6cdf7b7ad79b7d24110fc5fbb"
+      "revision": "99b9147c99edf46ca243b2a4aa415f4ecec9ccf4"
     },
     "python-parsedatetime": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parsedatetime.git",
