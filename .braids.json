@@ -5494,7 +5494,7 @@
     "python-pytest-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-black.git",
       "branch": "master",
-      "revision": "259556b6413b58a31dea7e4473c1c41ad27235ec"
+      "revision": "238c7b806b7e864828fdaec39fe72397748b8605"
     },
     "python-pytest-celery": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-celery.git",
