@@ -3369,7 +3369,7 @@
     "python-hpack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hpack.git",
       "branch": "master",
-      "revision": "b8e713589b52790d1159b6847556824b9e3e07b9"
+      "revision": "00eaac8d711f3d39abd8cfccf9fd96fe2b445dd9"
     },
     "python-hstspreload": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hstspreload.git",
