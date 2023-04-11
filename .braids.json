@@ -7179,7 +7179,7 @@
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
       "branch": "master",
-      "revision": "cc0350dfa356426fb05e6ef0ee850b2edf39f476"
+      "revision": "fb77fc0f83d8d76d80254245261fd42c4a582402"
     },
     "python-wheezy-template": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheezy-template.git",
