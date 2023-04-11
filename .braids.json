@@ -6759,7 +6759,7 @@
     "python-text-unidecode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-text-unidecode.git",
       "branch": "master",
-      "revision": "f3be7c65e71c1b03912797a929f97bad77cbb2f2"
+      "revision": "c8e7f1951c8103dc1a3a65467ff9bc705496cd07"
     },
     "python-threadpoolctl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-threadpoolctl.git",
