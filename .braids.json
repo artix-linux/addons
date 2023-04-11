@@ -6114,7 +6114,7 @@
     "python-rtree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rtree.git",
       "branch": "master",
-      "revision": "3237eaf237237dcacbff2f26bc7d78f3031be74c"
+      "revision": "9d72de91b01a208b5dbf68fa32d8d62a2c72854b"
     },
     "python-ruamel-yaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ruamel-yaml.git",
