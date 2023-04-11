@@ -4609,7 +4609,7 @@
     "python-paramiko": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-paramiko.git",
       "branch": "master",
-      "revision": "6954d5bc899474a39a3420da840a5d4491cc3013"
+      "revision": "b47bca966fdf32577e5a88177cb4271a5ca46284"
     },
     "python-parse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parse.git",
