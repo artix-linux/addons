@@ -6164,7 +6164,7 @@
     "python-scramp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scramp.git",
       "branch": "master",
-      "revision": "034e30de2c8bbe7cc8b3d1df5537088cfef9b795"
+      "revision": "f596f38119bf7c3a216161264d709bee46d10387"
     },
     "python-scripttest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scripttest.git",
