@@ -6819,7 +6819,7 @@
     "python-tornado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tornado.git",
       "branch": "master",
-      "revision": "ba944c028efa277d185b86686b9b80cefd78fa7c"
+      "revision": "a75128640e24a9de2b714ac09b8024823f639e03"
     },
     "python-tox": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tox.git",
