@@ -4284,7 +4284,7 @@
     "python-musicbrainzngs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-musicbrainzngs.git",
       "branch": "master",
-      "revision": "333aca038468aef1eb3b8335e041f3a6e15f1ccc"
+      "revision": "36c4c2de6dd1c00c4e81a1116ecbd45e1ed91646"
     },
     "python-mutagen": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mutagen.git",
