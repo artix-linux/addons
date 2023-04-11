@@ -3429,7 +3429,7 @@
     "python-humanize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-humanize.git",
       "branch": "master",
-      "revision": "d6509f0d929a37d6cd4694e05ee366a204eb3b99"
+      "revision": "2204d33ae1388adadf4bcef4b57d92e29b3a12e1"
     },
     "python-hyperframe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperframe.git",
