@@ -4964,7 +4964,7 @@
     "python-proxmoxer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-proxmoxer.git",
       "branch": "master",
-      "revision": "60f4e2a22256613ec6ba7451dc87f1fccb175279"
+      "revision": "29cb259edbacb35bc6e360fe7246a6c8a890d716"
     },
     "python-proxy.py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-proxy.py.git",
