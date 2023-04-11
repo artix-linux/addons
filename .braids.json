@@ -4049,7 +4049,7 @@
     "python-m2crypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-m2crypto.git",
       "branch": "master",
-      "revision": "0ed5ab400d71c2805e4b9a5da3b15513177b151c"
+      "revision": "ebf6c6e17e6d48ee0ecc8633511ad3db344b0577"
     },
     "python-magic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic.git",
