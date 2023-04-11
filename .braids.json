@@ -6144,7 +6144,7 @@
     "python-schema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-schema.git",
       "branch": "master",
-      "revision": "587e7c035d3e3babfd38b389c21b817f635df539"
+      "revision": "e5685420c1fa10350f24e7a9bdd8b28abf13b2c5"
     },
     "python-scikit-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scikit-build.git",
