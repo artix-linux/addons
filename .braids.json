@@ -5969,7 +5969,7 @@
     "python-repoze.lru": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-repoze.lru.git",
       "branch": "master",
-      "revision": "a04b002913a68812888e171fa11edc7c5bfae991"
+      "revision": "e1ac6ef65cf09b0fecf12c24d497a88808573727"
     },
     "python-requests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests.git",
