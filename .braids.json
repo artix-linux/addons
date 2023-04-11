@@ -7159,7 +7159,7 @@
     "python-websockets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-websockets.git",
       "branch": "master",
-      "revision": "64880aa60dc9edf4142fa1004811ef3c4d52c080"
+      "revision": "c740996e8e2796f4eacd6184455aeebf92f03004"
     },
     "python-webtest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webtest.git",
