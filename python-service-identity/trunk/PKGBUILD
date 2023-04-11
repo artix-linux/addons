@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-service-identity
 pkgver=21.1.0
-pkgrel=5
+pkgrel=6
 pkgdesc="Service identity verification for pyOpenSSL"
 arch=('any')
 license=('MIT')
