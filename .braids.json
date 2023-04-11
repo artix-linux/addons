@@ -5004,7 +5004,7 @@
     "python-purl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-purl.git",
       "branch": "master",
-      "revision": "762f6248746bd40d7487fae7d3ca58b3bd5e2edd"
+      "revision": "5c13fe7f31279555c98a9efff73ba42ace93d9ad"
     },
     "python-pwntools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pwntools.git",
