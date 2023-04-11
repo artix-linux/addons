@@ -3729,7 +3729,7 @@
     "python-jsondiff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsondiff.git",
       "branch": "master",
-      "revision": "6b198d8cf93ef9543d410b4238edd965b8def8ab"
+      "revision": "38523d54342236eeed4e0b16e484db6c6e5acdfa"
     },
     "python-jsonmerge": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonmerge.git",
