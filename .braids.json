@@ -6484,7 +6484,7 @@
     "python-sphinxcontrib-applehelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-applehelp.git",
       "branch": "master",
-      "revision": "8b1809c03ec16db7a1f50e8a5bbd4876b83af2b3"
+      "revision": "f7cdbfccf858c1e97620a9109406f94bc3c3c526"
     },
     "python-sphinxcontrib-devhelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-devhelp.git",
