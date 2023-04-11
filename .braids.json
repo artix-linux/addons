@@ -2019,7 +2019,7 @@
     "python-btrees": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-btrees.git",
       "branch": "master",
-      "revision": "75096e1789c47c6c2d7891b1c946c12cc7bc8e80"
+      "revision": "aaa4dc329869c3359dc542f8de9fae15f55e11ff"
     },
     "python-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-build.git",
