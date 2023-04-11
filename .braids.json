@@ -3899,7 +3899,7 @@
     "python-lark-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lark-parser.git",
       "branch": "master",
-      "revision": "e6017dae16fef1e97d6481d20026d4a41b80a579"
+      "revision": "4be64eab0fbacbd9a7eeef7bb715bcc0d813087f"
     },
     "python-lazr.config": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazr.config.git",
