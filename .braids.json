@@ -4239,7 +4239,7 @@
     "python-mpi4py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpi4py.git",
       "branch": "master",
-      "revision": "97efe03dd28f7d2b4e9db33063afc349f8b4e252"
+      "revision": "839fdb2a9f7bed8d30cf4d517d7d1846fc247dfc"
     },
     "python-mpmath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpmath.git",
