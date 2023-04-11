@@ -3909,7 +3909,7 @@
     "python-lazr.delegates": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazr.delegates.git",
       "branch": "master",
-      "revision": "bab041d19d5b6cd02823506bdb0ed79a32804682"
+      "revision": "09c992b8298a8f904020e3ac9c280e98db1e4c23"
     },
     "python-lazy-object-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lazy-object-proxy.git",
