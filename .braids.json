@@ -1929,7 +1929,7 @@
     "python-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-black.git",
       "branch": "master",
-      "revision": "0e3d84b75ab58dd4dd718a44b41dd6968169d871"
+      "revision": "55c33342409046e687990f20fe03be1534b85a44"
     },
     "python-bleach": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bleach.git",
