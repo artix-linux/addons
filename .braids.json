@@ -2199,7 +2199,7 @@
     "python-click-default-group": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-default-group.git",
       "branch": "master",
-      "revision": "c40265b13378aca14f65d01b537a59d6a4a4ec51"
+      "revision": "698d5817b01f1b3d96feaac11d52a408e9fae145"
     },
     "python-click-didyoumean": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-didyoumean.git",
