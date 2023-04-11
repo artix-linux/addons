@@ -5949,7 +5949,7 @@
     "python-reflink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-reflink.git",
       "branch": "master",
-      "revision": "75dc71038c6ad19ae39a0e744c2474ac2fa50b20"
+      "revision": "f462cb04971bf465e0bad9c7f6a2c42d6a6c41b6"
     },
     "python-regex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-regex.git",
