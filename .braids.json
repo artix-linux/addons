@@ -4339,7 +4339,7 @@
     "python-netcdf4": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-netcdf4.git",
       "branch": "master",
-      "revision": "5bd38c379810810ac6723ae7debfd7c97c2eed84"
+      "revision": "a7edd540bf397ebbb81a72aa2bc6ee1014fd8887"
     },
     "python-netifaces": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-netifaces.git",
