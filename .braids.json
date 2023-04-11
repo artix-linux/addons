@@ -6404,7 +6404,7 @@
     "python-sphinx-alabaster-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-alabaster-theme.git",
       "branch": "master",
-      "revision": "089f3640e779028ceccff1e108c45a9c89a9ae20"
+      "revision": "147f8d17819c025de5bc2cf0094165eb7aac7a4c"
     },
     "python-sphinx-argparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-argparse.git",
