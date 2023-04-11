@@ -5699,7 +5699,7 @@
     "python-pytest-tornado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-tornado.git",
       "branch": "master",
-      "revision": "4b314e3a9dc701894e414d5526248f5d728a89d6"
+      "revision": "5a6697417cbc35e480d6fcd80daebf476faf0c81"
     },
     "python-pytest-tornasync": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-tornasync.git",
