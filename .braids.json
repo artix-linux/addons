@@ -3979,7 +3979,7 @@
     "python-livereload": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-livereload.git",
       "branch": "master",
-      "revision": "e301f8afceef9d2578a2a8858ab67cdbe5c3f660"
+      "revision": "776baa24e122c4eaf297966119e011d677e331a2"
     },
     "python-llvmlite": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-llvmlite.git",
