@@ -2319,7 +2319,7 @@
     "python-constantly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-constantly.git",
       "branch": "master",
-      "revision": "ac44102439e5b411783e8aecacbfd62008b272dd"
+      "revision": "ca2fcd5c43502da23d0d0c096b574080ecedfa64"
     },
     "python-contextlib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-contextlib2.git",
