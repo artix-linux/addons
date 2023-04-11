@@ -6889,7 +6889,7 @@
     "python-txaio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txaio.git",
       "branch": "master",
-      "revision": "c4c178a06eef210c3f4117d53bedec97ca198802"
+      "revision": "50d4335edf32625b6cb88474169686bfc455c518"
     },
     "python-txredisapi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txredisapi.git",
