@@ -5229,7 +5229,7 @@
     "python-pykerberos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pykerberos.git",
       "branch": "master",
-      "revision": "b8ba004282ff71d47f8c424707d31bef8f02a67b"
+      "revision": "9ee84b6f72d31655ad84586dfa051fe7ea445c1a"
     },
     "python-pykka": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pykka.git",
