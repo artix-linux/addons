@@ -3839,7 +3839,7 @@
     "python-kaitaistruct": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kaitaistruct.git",
       "branch": "master",
-      "revision": "84e8f3f3cdc3cb7ef173ff56c17a4779e75544c3"
+      "revision": "054676a64931289b1fcfb5ed54ef2f7c7784a33b"
     },
     "python-kajiki": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kajiki.git",
