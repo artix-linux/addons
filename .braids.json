@@ -6654,7 +6654,7 @@
     "python-sybil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sybil.git",
       "branch": "master",
-      "revision": "c571689d0eb2c9825a694f57d6c112545e6e097a"
+      "revision": "8edd617e7cb399099a0474fa3e5ec9955cb86551"
     },
     "python-sympy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sympy.git",
