@@ -5359,7 +5359,7 @@
     "python-pyproj": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyproj.git",
       "branch": "master",
-      "revision": "4b8e3d3ef53a33571189d9bf6b637bb262b004c8"
+      "revision": "97fea54aebde85ba8ce53f24d88d3c0e64366cb6"
     },
     "python-pyproject-hooks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyproject-hooks.git",
