@@ -4834,7 +4834,7 @@
     "python-pkgconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pkgconfig.git",
       "branch": "master",
-      "revision": "580b20518ee2eb5d456e44b6b707a3f8d1f35b7c"
+      "revision": "59d9523a42802c8c8f8e944aa4b4fdbf2cb6dd0c"
     },
     "python-pkginfo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pkginfo.git",
