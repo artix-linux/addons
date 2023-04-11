@@ -6674,7 +6674,7 @@
     "python-tblib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tblib.git",
       "branch": "master",
-      "revision": "52bad668449e900ca776bc8e2f3d9cd944ff47ad"
+      "revision": "7bfc101dfdff1466b5080c31a3364f061a94a106"
     },
     "python-teamcity-messages": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-teamcity-messages.git",
