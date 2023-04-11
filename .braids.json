@@ -6334,7 +6334,7 @@
     "python-snappy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-snappy.git",
       "branch": "master",
-      "revision": "9ee15549e7a817c7e5a36d55dbd97717cd9699d5"
+      "revision": "fd8107315353d3c22a68db14c57ecf7e8ae60708"
     },
     "python-sniffio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sniffio.git",
