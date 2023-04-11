@@ -6314,7 +6314,7 @@
     "python-sly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sly.git",
       "branch": "master",
-      "revision": "1c42ec87740c68fcd8cdca612cffe3ceb17c26e8"
+      "revision": "128fa1fd877e43a4be5d890b31b61325bace9284"
     },
     "python-smartypants": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-smartypants.git",
