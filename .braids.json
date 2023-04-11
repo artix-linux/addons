@@ -2649,7 +2649,7 @@
     "python-docker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docker.git",
       "branch": "master",
-      "revision": "2f314b7a2e1def103de3c122df5fbc6baf1bbe8c"
+      "revision": "79fc50bfd5175e7a3ce88212461e4c8ba9a68e55"
     },
     "python-docker-pycreds": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docker-pycreds.git",
