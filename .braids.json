@@ -5854,7 +5854,7 @@
     "python-qrcode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-qrcode.git",
       "branch": "master",
-      "revision": "c4a55ae9c04b4715fdf4c8abd55e301ceb89722b"
+      "revision": "ac91aae4a33e550fd2bd8c92ce1756ce9e1598a8"
     },
     "python-qtpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-qtpy.git",
