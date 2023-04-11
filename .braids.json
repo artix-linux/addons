@@ -4404,7 +4404,7 @@
     "python-nptyping": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nptyping.git",
       "branch": "master",
-      "revision": "74a869e8a7d7d140c46928a7151c1c73733fc498"
+      "revision": "acb3baa61d57f0bd080006f65e84d5cbcd270942"
     },
     "python-nrfutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nrfutil.git",
