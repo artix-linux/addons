@@ -4134,7 +4134,7 @@
     "python-mdurl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mdurl.git",
       "branch": "master",
-      "revision": "62528408bcaf2611e077a0c53bc4b273e512b05c"
+      "revision": "d639013fd6771a6977f6e3e17371e158bb12251d"
     },
     "python-mechanize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mechanize.git",
