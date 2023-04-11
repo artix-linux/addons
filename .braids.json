@@ -6959,7 +6959,7 @@
     "python-ufolib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ufolib2.git",
       "branch": "master",
-      "revision": "6bf99762b1f03395c9453586622e9aac72818faa"
+      "revision": "a7202b501cfefd41b902ed7e4468da4573c03646"
     },
     "python-ujson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ujson.git",
