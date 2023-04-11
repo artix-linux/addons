@@ -4264,7 +4264,7 @@
     "python-multidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-multidict.git",
       "branch": "master",
-      "revision": "57817b268103010c22dd5d49d8f2a3cfacac9727"
+      "revision": "1b155a890ca0c477ca783fd7a82dcd3b25093697"
     },
     "python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-multipart.git",
