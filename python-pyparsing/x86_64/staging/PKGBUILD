@@ -1,4 +1,4 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Alexander F Rødseth <xyproto@archlinux.org>
 # Contributor: Chris Brannon <cmbrannon79@gmail.com>
 # Contributor: Geoffroy Carrier <geoffroy.carrier@aur.archlinux.org>
@@ -7,7 +7,7 @@
 
 pkgname=python-pyparsing
 pkgver=3.0.9
-pkgrel=2
+pkgrel=3
 pkgdesc='General parsing module for Python'
 arch=('any')
 url='https://github.com/pyparsing/pyparsing/'
