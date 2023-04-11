@@ -4169,7 +4169,7 @@
     "python-mimeparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mimeparse.git",
       "branch": "master",
-      "revision": "16513c77f3019874f507e793dd0e1d903c049594"
+      "revision": "e2bfd838ba1272cfcc017e5891938f824257d52d"
     },
     "python-minidump": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-minidump.git",
