@@ -1519,7 +1519,7 @@
     "python-aiohttp-socks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-socks.git",
       "branch": "master",
-      "revision": "d41e242da89acacbeae2fe9275a88cf9d1d74f05"
+      "revision": "953b89cfaa86d31438c01ba54129bdfe9b829831"
     },
     "python-aioitertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aioitertools.git",
