@@ -3319,7 +3319,7 @@
     "python-hatch-jupyter-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-jupyter-builder.git",
       "branch": "master",
-      "revision": "a77922d3c8500c702b7d9a3dcc07002599bc0332"
+      "revision": "82c1522d996974ddcd107cef4b1d0eeb514f9f30"
     },
     "python-hatch-nodejs-version": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-nodejs-version.git",
