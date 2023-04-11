@@ -4254,7 +4254,7 @@
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
       "branch": "master",
-      "revision": "5624dc61036a8766eb1ac3986cc5716ddeab9c22"
+      "revision": "674e157749180b854cca1743bde8d55c3c004eeb"
     },
     "python-mujson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mujson.git",
