@@ -3144,7 +3144,7 @@
     "python-gast03": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gast03.git",
       "branch": "master",
-      "revision": "9fc20d7add7b6dfb70bd583bbe499b9c03530a58"
+      "revision": "2ed8b05f4d51abd3bb3f3d354b0283ac62b988f6"
     },
     "python-gcp-devrel-py-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gcp-devrel-py-tools.git",
