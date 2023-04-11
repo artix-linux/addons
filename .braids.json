@@ -6184,7 +6184,7 @@
     "python-secretstorage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-secretstorage.git",
       "branch": "master",
-      "revision": "2227e6b1897b96634e1c5c2e349e8a9b33d21f25"
+      "revision": "3d2820a32a3d4d0b6d84ae890200a73389a682c0"
     },
     "python-seedir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-seedir.git",
