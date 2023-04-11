@@ -5984,7 +5984,7 @@
     "python-requests-file": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-file.git",
       "branch": "master",
-      "revision": "a0831f933dac666af24aacb66ca95702f5aab75d"
+      "revision": "9081afe93e53830b8616aa1f382f18bcd493766b"
     },
     "python-requests-ftp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-ftp.git",
