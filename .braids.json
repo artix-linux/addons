@@ -4499,7 +4499,7 @@
     "python-orjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-orjson.git",
       "branch": "master",
-      "revision": "76c651c09f303294bc66ed42f5ceb43fbd3872a9"
+      "revision": "e95315ec9c7e4a414321a3e02e8b0b0cc44ab282"
     },
     "python-os-client-config": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-os-client-config.git",
