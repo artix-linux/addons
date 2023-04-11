@@ -6479,7 +6479,7 @@
     "python-sphinx_rtd_theme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx_rtd_theme.git",
       "branch": "master",
-      "revision": "3d90b4e3c9f0c3e36cc0704b41fcecda87bea714"
+      "revision": "e5569ab2f731f8942b31d977cc5ed648d79ab67f"
     },
     "python-sphinxcontrib-applehelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-applehelp.git",
