@@ -6614,7 +6614,7 @@
     "python-stone": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stone.git",
       "branch": "master",
-      "revision": "df7a78e9a0c109a72c657bd2ead7cd5e3df1e8b1"
+      "revision": "80968072dde4bb7d1ef64bc7d61592996a06c21b"
     },
     "python-straight.plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-straight.plugin.git",
