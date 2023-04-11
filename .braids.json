@@ -6729,7 +6729,7 @@
     "python-testing.postgresql": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testing.postgresql.git",
       "branch": "master",
-      "revision": "7cef8f927a9bd0aa6203f77ae6c60764d3a69602"
+      "revision": "b48cb191820f1d06baae3ccfb5eb738054161835"
     },
     "python-testpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testpath.git",
