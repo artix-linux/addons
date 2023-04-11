@@ -3734,7 +3734,7 @@
     "python-jsonmerge": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonmerge.git",
       "branch": "master",
-      "revision": "d55dfb31f255c9434aaf553167d38e8886c0ac6f"
+      "revision": "ddda942aad00581caa38602680a1d4edef8875a6"
     },
     "python-jsonpatch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonpatch.git",
