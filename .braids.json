@@ -3664,7 +3664,7 @@
     "python-jedi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jedi.git",
       "branch": "master",
-      "revision": "21fed14e925ad5ae17b57a78a70e2c4b063f8bb9"
+      "revision": "97243d8f0e67ff34ca78303c008e1cdb1080cb91"
     },
     "python-jeepney": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jeepney.git",
