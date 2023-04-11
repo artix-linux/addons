@@ -5634,7 +5634,7 @@
     "python-pytest-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-qt.git",
       "branch": "master",
-      "revision": "60d0fd62df40f4c8991fe37bbb667c3ae9c37b16"
+      "revision": "9878642365050a3191590478035d9fd1a2710095"
     },
     "python-pytest-randomly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-randomly.git",
