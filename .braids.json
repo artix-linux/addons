@@ -2414,7 +2414,7 @@
     "python-cycler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cycler.git",
       "branch": "master",
-      "revision": "78e24a546b3d87730382cde7939d973491500bb4"
+      "revision": "ec4340a3a1f970e1460946d0618e372af28907ec"
     },
     "python-cython-test-exception-raiser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cython-test-exception-raiser.git",
