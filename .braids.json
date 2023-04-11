@@ -5264,7 +5264,7 @@
     "python-pylons-sphinx-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylons-sphinx-themes.git",
       "branch": "master",
-      "revision": "d5b403cb6e6e53140319d59f3c0040e2e311580b"
+      "revision": "4214df212b44a30acaf0e4445ed897ad78d5f3f1"
     },
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
