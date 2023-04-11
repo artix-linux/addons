@@ -4644,7 +4644,7 @@
     "python-passlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-passlib.git",
       "branch": "master",
-      "revision": "f41b50d70ef4c909b95e084baa6a2fea55dcccac"
+      "revision": "a2282a780dc10648a67913a5b9bd16e95a731407"
     },
     "python-paste": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-paste.git",
