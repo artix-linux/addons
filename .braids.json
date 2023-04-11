@@ -2059,7 +2059,7 @@
     "python-cairocffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairocffi.git",
       "branch": "master",
-      "revision": "e93bdd63db11336f026f3a4caec5b338b5ac9bda"
+      "revision": "3bbbd603cc190ed515ee5bd2c7b265a12a6a946b"
     },
     "python-calmjs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calmjs.git",
