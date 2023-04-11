@@ -3334,7 +3334,7 @@
     "python-hatchling": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatchling.git",
       "branch": "master",
-      "revision": "7735100aef40dc080620006dae1ddc0bf2460963"
+      "revision": "343682b657d38a85f8e25593bacd5cc53ad3d490"
     },
     "python-heapdict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-heapdict.git",
