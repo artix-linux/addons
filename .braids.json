@@ -7334,7 +7334,7 @@
     "python-zc.lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zc.lockfile.git",
       "branch": "master",
-      "revision": "701f1ead14727c18cca6d38e171de203432b5b35"
+      "revision": "55019fa45e835a64440f247115c62956ea8b8285"
     },
     "python-zconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zconfig.git",
