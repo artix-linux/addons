@@ -5644,7 +5644,7 @@
     "python-pytest-regressions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-regressions.git",
       "branch": "master",
-      "revision": "df8d87911a8cbcb0c3cddf751b3bfca26ef53f3c"
+      "revision": "5c357bbc2e468d75e980d45da01756c4177d0750"
     },
     "python-pytest-relaxed": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-relaxed.git",
