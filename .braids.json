@@ -4514,7 +4514,7 @@
     "python-oscrypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oscrypto.git",
       "branch": "master",
-      "revision": "5e37d75ae4e702835905212341343e4ea76024f6"
+      "revision": "2e2ff9bf9498b551d903bfccfb5989880fbca648"
     },
     "python-oslo-concurrency": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-concurrency.git",
