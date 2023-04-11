@@ -2784,7 +2784,7 @@
     "python-entrypoint2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-entrypoint2.git",
       "branch": "master",
-      "revision": "1535d119e44c8d7b212fa5ec4cd01151ca7a75fc"
+      "revision": "698d5ca140774acf2901ee73a29758b52a0331d4"
     },
     "python-entrypoints": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-entrypoints.git",
