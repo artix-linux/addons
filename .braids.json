@@ -4629,7 +4629,7 @@
     "python-parso": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parso.git",
       "branch": "master",
-      "revision": "28881b26e8750953f883c194e8f08d09bbc4bed5"
+      "revision": "000cf0d69f204c1a4e2fae1ab78e2b402f178557"
     },
     "python-partd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-partd.git",
