@@ -3484,7 +3484,7 @@
     "python-ifaddr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ifaddr.git",
       "branch": "master",
-      "revision": "770d14a9dc964cda8173576a682a5607a72899d6"
+      "revision": "5a1873eb24aaa0406861c621e970edc92e22376f"
     },
     "python-ijson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ijson.git",
