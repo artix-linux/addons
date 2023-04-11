@@ -4074,7 +4074,7 @@
     "python-mako": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mako.git",
       "branch": "master",
-      "revision": "5034525ce1cf4264600da015eb7b00f267057fff"
+      "revision": "34617bfbfaf017107cda5fbe57435a8f43ae8591"
     },
     "python-mamba": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mamba.git",
