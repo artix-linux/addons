@@ -3544,7 +3544,7 @@
     "python-intervaltree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-intervaltree.git",
       "branch": "master",
-      "revision": "ad71d561eae5bdc50174a544f3c3646d91890269"
+      "revision": "131b7f442740bd72b57d592af6eac45e75d2aa45"
     },
     "python-invoke": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-invoke.git",
