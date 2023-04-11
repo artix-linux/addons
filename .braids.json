@@ -2844,7 +2844,7 @@
     "python-factory-boy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-factory-boy.git",
       "branch": "master",
-      "revision": "fbf87726dc544f359f779cbf4e9b1381afbd397a"
+      "revision": "033ff5e176110955c5eb542409ccda987944f534"
     },
     "python-faker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-faker.git",
