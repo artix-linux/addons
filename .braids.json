@@ -4014,7 +4014,7 @@
     "python-lsp-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-black.git",
       "branch": "master",
-      "revision": "c4536a5aa765e47670b704c0f1eece6991ebbe10"
+      "revision": "ccd2f8697b3c26db945c5978b707507b7836be0f"
     },
     "python-lsp-jsonrpc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-jsonrpc.git",
