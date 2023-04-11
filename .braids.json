@@ -6264,7 +6264,7 @@
     "python-sh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sh.git",
       "branch": "master",
-      "revision": "feac575a5398619d2aa1765d2287b75de0c2244a"
+      "revision": "dff285bebfb340cd3c2caf892e59155ffa8538fc"
     },
     "python-shapely": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-shapely.git",
