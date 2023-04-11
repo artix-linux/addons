@@ -7239,7 +7239,7 @@
     "python-xarray": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xarray.git",
       "branch": "master",
-      "revision": "d6049c574d42e7e0414967d8326427c1a64c3b0a"
+      "revision": "a6bd84a2633bd1744f455ef1a5e1291c122e23c1"
     },
     "python-xattr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xattr.git",
