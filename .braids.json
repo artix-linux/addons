@@ -3759,7 +3759,7 @@
     "python-jsonrpclib-pelix": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonrpclib-pelix.git",
       "branch": "master",
-      "revision": "e3dc6a449e9a1415a11ee6ee8a1455360346fafe"
+      "revision": "2e0d6f3a9a72ab0e7f0ac07614d6790003a9e5c5"
     },
     "python-jsonschema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonschema.git",
