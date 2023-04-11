@@ -7084,7 +7084,7 @@
     "python-vobject": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vobject.git",
       "branch": "master",
-      "revision": "eb2930de968cfe00e77694dae88f22a26b0b1e79"
+      "revision": "95505c5346dda8bcd7e5b12df789a1fbff4de93d"
     },
     "python-volatile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-volatile.git",
