@@ -3574,7 +3574,7 @@
     "python-ipython-genutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipython-genutils.git",
       "branch": "master",
-      "revision": "ef19aaa50f3e5e5218139f1302d947ad62507bd9"
+      "revision": "e80be203c01e1db210fc84f3731f957a3d3649ae"
     },
     "python-ipywidgets": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipywidgets.git",
