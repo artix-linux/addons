@@ -6014,7 +6014,7 @@
     "python-requests-oauthlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-oauthlib.git",
       "branch": "master",
-      "revision": "0c057432425e20cf49ce519f3f4b54d8a770382f"
+      "revision": "7e7721454dd3edadf0c40a955b2183ccdc46d99f"
     },
     "python-requests-toolbelt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-toolbelt.git",
