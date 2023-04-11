@@ -3149,7 +3149,7 @@
     "python-gcp-devrel-py-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gcp-devrel-py-tools.git",
       "branch": "master",
-      "revision": "c72f162d45b84808c98babe75f3b94f95ec8d1cc"
+      "revision": "a136c6b9afba41026a4a480df5be1ccff646862e"
     },
     "python-genshi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-genshi.git",
