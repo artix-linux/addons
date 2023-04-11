@@ -5674,7 +5674,7 @@
     "python-pytest-subtesthack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-subtesthack.git",
       "branch": "master",
-      "revision": "640fbd81baf219bde9316a9046fa9539637d5b91"
+      "revision": "fbd398cb08427090c115200c15fdc5a1b360bd77"
     },
     "python-pytest-subtests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-subtests.git",
