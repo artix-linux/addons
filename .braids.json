@@ -6359,7 +6359,7 @@
     "python-socksio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-socksio.git",
       "branch": "master",
-      "revision": "462656a4905a58f90330e9db19a55cb881dc9560"
+      "revision": "14d4e0150cb0f05bad0fb018b6c0404be4467fc9"
     },
     "python-sortedcollections": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sortedcollections.git",
