@@ -3084,7 +3084,7 @@
     "python-fonttools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fonttools.git",
       "branch": "master",
-      "revision": "035f5e596b5293dcf6f6b9886b79d96e2eb4569e"
+      "revision": "da4049b180de5541ac394c38d5ceddc2ecb9fd5e"
     },
     "python-fqdn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fqdn.git",
