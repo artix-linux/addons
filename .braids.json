@@ -1709,7 +1709,7 @@
     "python-aspectlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aspectlib.git",
       "branch": "master",
-      "revision": "1b2366eb072b70d563d5347745cc7925c2667e4d"
+      "revision": "6a0aa3ad5eedbad548cb4583481e180efdf59fe2"
     },
     "python-asteval": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asteval.git",
