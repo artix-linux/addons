@@ -4294,7 +4294,7 @@
     "python-mypy_extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mypy_extensions.git",
       "branch": "master",
-      "revision": "e84e4f94688b1e98bc72ea25e1a9fd01565b02df"
+      "revision": "e67dd8ea102db2b13b14fe500cd3baa3d169e882"
     },
     "python-mysql-connector": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mysql-connector.git",
