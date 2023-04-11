@@ -5569,7 +5569,7 @@
     "python-pytest-httpserver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-httpserver.git",
       "branch": "master",
-      "revision": "8be37289213e2753888ec02749b28968c4c66cdb"
+      "revision": "92259eaca5a4ff96613d4f8e2b318c7bf8d7c521"
     },
     "python-pytest-isort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-isort.git",
