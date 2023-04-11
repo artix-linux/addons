@@ -4209,7 +4209,7 @@
     "python-monotonic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-monotonic.git",
       "branch": "master",
-      "revision": "62753d101d8528d139796ad0412ec567da936396"
+      "revision": "b6e8ed1c7b8797555cbf211e3f113273ecfb176a"
     },
     "python-more-itertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-more-itertools.git",
