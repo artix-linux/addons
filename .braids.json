@@ -5419,7 +5419,7 @@
     "python-pysendfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysendfile.git",
       "branch": "master",
-      "revision": "c3d04f5421c57e08aefedafba0118a7ff89cf75b"
+      "revision": "3f4d50a5048174985b4d07804b519f3ee38b9fd2"
     },
     "python-pyserial": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyserial.git",
