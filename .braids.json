@@ -4314,7 +4314,7 @@
     "python-natsort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-natsort.git",
       "branch": "master",
-      "revision": "aa0acd63c91667a04d764957775230049cf4cde8"
+      "revision": "76578c52d6e8d489c66a6476e2f53bfd40502625"
     },
     "python-nbxmpp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nbxmpp.git",
