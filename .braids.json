@@ -5789,7 +5789,7 @@
     "python-pytzdata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytzdata.git",
       "branch": "master",
-      "revision": "241414ebc16896b03a4cffe91e047d309920fc8f"
+      "revision": "65284112eadba837a571769447d6a13db1088b06"
     },
     "python-pyu2f": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyu2f.git",
