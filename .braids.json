@@ -6539,7 +6539,7 @@
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
       "branch": "master",
-      "revision": "fda656151ef89e21b07956f2582ab4bf4599ba16"
+      "revision": "020817c9577611eb6a71728bc611ab2bd5cf1b5a"
     },
     "python-spsdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spsdk.git",
