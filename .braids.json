@@ -5354,7 +5354,7 @@
     "python-pyppeteer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyppeteer.git",
       "branch": "master",
-      "revision": "f8a5d250211b2148a260d72b9516891560f8a262"
+      "revision": "e77499d27e5f9dd9d181c245d799994d4597fc08"
     },
     "python-pyproj": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyproj.git",
