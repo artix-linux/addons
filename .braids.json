@@ -2549,7 +2549,7 @@
     "python-django-allauth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-allauth.git",
       "branch": "master",
-      "revision": "a304d0f3d5f34be4697fbe668d64b4117b8021f2"
+      "revision": "16786ca22b123666d9d85b420f7c5fc9b4056a55"
     },
     "python-django-appconf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-appconf.git",
