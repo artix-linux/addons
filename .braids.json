@@ -4654,7 +4654,7 @@
     "python-pastedeploy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pastedeploy.git",
       "branch": "master",
-      "revision": "00347b93d9792df8320757ffc40570320e99141e"
+      "revision": "1b0d287639a99d12a19dabfb8994869b887cab23"
     },
     "python-pastel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pastel.git",
