@@ -5594,7 +5594,7 @@
     "python-pytest-metadata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-metadata.git",
       "branch": "master",
-      "revision": "b932ba27fa0921dc96847554399752a03b80fc2b"
+      "revision": "6773f93096cf296726861f715f44d012bc86d799"
     },
     "python-pytest-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-mock.git",
