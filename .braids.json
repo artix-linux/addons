@@ -7004,7 +7004,7 @@
     "python-unittest-mixins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unittest-mixins.git",
       "branch": "master",
-      "revision": "234c095f73ca0a3912568751ecc5e1af9bc661d2"
+      "revision": "c6fc247e29df10c5a5db1fe02a96db2e466ee294"
     },
     "python-unpaddedbase64": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unpaddedbase64.git",
