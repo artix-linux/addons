@@ -4529,7 +4529,7 @@
     "python-oslo-context": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-context.git",
       "branch": "master",
-      "revision": "3d6b2d113c7c6bf5cf12594d74efa83527bea247"
+      "revision": "ab19366c06b9194cf4a7ae6ab52d242e47f8c610"
     },
     "python-oslo-db": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-db.git",
