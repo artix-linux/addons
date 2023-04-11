@@ -6729,7 +6729,7 @@
     "python-testpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testpath.git",
       "branch": "master",
-      "revision": "55b96307baf6b0958bfa89d8631e7693c0e530e1"
+      "revision": "8ba4ba1a0a638f1d493e43e38bd049250434d2ac"
     },
     "python-testrepository": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testrepository.git",
