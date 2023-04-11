@@ -7414,7 +7414,7 @@
     "python-zope-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-proxy.git",
       "branch": "master",
-      "revision": "46c7b345b3e178e4bf27c9f0467a991bbc5736e9"
+      "revision": "d684d743b3e27fe4943b47423a6b5231222cae2d"
     },
     "python-zope-schema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-schema.git",
