@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-oslotest
 pkgver=4.5.0
-pkgrel=4
+pkgrel=5
 pkgdesc="Oslo test framework"
 arch=('any')
 url="https://github.com/openstack/oslotest"
