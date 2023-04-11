@@ -6949,7 +6949,7 @@
     "python-ubjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ubjson.git",
       "branch": "master",
-      "revision": "9ab8e6752249ca110d4a25966d88a5d42c59aadf"
+      "revision": "e57296ab7682750453b6c957fb73837dec9d9a3b"
     },
     "python-uc-micro-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uc-micro-py.git",
