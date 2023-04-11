@@ -3259,7 +3259,7 @@
     "python-googleapis-common-protos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-googleapis-common-protos.git",
       "branch": "master",
-      "revision": "a46e1ce225adecf20dd505c76c185cd247ff86dd"
+      "revision": "660c0c19227889b473bced201d2b847f3cd24a58"
     },
     "python-graphene": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphene.git",
