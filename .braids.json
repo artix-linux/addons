@@ -6209,7 +6209,7 @@
     "python-sentinels": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sentinels.git",
       "branch": "master",
-      "revision": "e255e564ab577437861f9436b061f6538f2d8d91"
+      "revision": "a5337603b11460c0859168a41e7a9f6920ef9346"
     },
     "python-serpent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-serpent.git",
