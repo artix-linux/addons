@@ -6779,7 +6779,7 @@
     "python-tlv8": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tlv8.git",
       "branch": "master",
-      "revision": "3b32feb9ddfe68879a86c1ef6812fb08358908fc"
+      "revision": "93288c0854cfb1f3249f10cfb9f51a67ca4c32ee"
     },
     "python-tokenize-rt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tokenize-rt.git",
