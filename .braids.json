@@ -3349,7 +3349,7 @@
     "python-hexdump": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hexdump.git",
       "branch": "master",
-      "revision": "7473654d2a7fa03f43ab72b9ef1fc40e98034f49"
+      "revision": "2247866bb5a6b6b03d2d67c22bf483c6fdd6f7f4"
     },
     "python-hidapi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hidapi.git",
