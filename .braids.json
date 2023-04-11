@@ -5174,7 +5174,7 @@
     "python-pygame-sdl2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygame-sdl2.git",
       "branch": "master",
-      "revision": "e615418d90cbc04067729afa99b698313f7f6faf"
+      "revision": "93fee9551bee95aa819e5e2710449e03e17873d2"
     },
     "python-pygeos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygeos.git",
