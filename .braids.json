@@ -7139,7 +7139,7 @@
     "python-webcolors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webcolors.git",
       "branch": "master",
-      "revision": "460f6a739bbed0fe6b430c814fb5dc16c6794e06"
+      "revision": "8a9fd6b0d50a5c09541581f013641e9befc5467d"
     },
     "python-webencodings": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webencodings.git",
