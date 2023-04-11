@@ -3879,7 +3879,7 @@
     "python-keyutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyutils.git",
       "branch": "master",
-      "revision": "453b77c25d0b7e8e62e2383b5448a42aa98bfb22"
+      "revision": "902d4bdcd13a99e7d4d88d67fcf7463672f9a0d8"
     },
     "python-kiwisolver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kiwisolver.git",
