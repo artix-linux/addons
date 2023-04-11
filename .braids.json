@@ -3749,7 +3749,7 @@
     "python-jsonpointer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonpointer.git",
       "branch": "master",
-      "revision": "06bb7f7d8f1f47c5124a5b5bbad610c21aeaeafc"
+      "revision": "bbd3281fea180747e486181419fda23f2f83bf73"
     },
     "python-jsonrpc-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonrpc-server.git",
