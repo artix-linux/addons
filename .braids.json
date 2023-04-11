@@ -3414,7 +3414,7 @@
     "python-httptools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httptools.git",
       "branch": "master",
-      "revision": "9859ecbcc3f3b3039540089a908f1abdf625e4e0"
+      "revision": "9e6b43bdeccd39a39d2ddeced9590e600c48923a"
     },
     "python-httpx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httpx.git",
