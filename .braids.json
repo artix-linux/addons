@@ -1539,7 +1539,7 @@
     "python-aioredis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aioredis.git",
       "branch": "master",
-      "revision": "2cd8bf4d6c0c79c9a30875e67eda7de6b722b831"
+      "revision": "1bd263034714135fe39987eca3d4f764d90f0028"
     },
     "python-aioresponses": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aioresponses.git",
