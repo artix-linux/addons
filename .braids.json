@@ -6199,7 +6199,7 @@
     "python-semver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-semver.git",
       "branch": "master",
-      "revision": "7e23f518c3887b6378ebf151237f674b9eba56ef"
+      "revision": "b2e2d27e81d9ec333f3ec5b898fa8dcf83111f27"
     },
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
