@@ -6059,7 +6059,7 @@
     "python-rfc3339-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3339-validator.git",
       "branch": "master",
-      "revision": "94d643a9f6252ef521f2401edc280cd1cac30688"
+      "revision": "a49e42cce65fe9b2198f81119ed50df9d7adebb9"
     },
     "python-rfc3986": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3986.git",
