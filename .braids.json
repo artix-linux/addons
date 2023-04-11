@@ -3479,7 +3479,7 @@
     "python-idna": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-idna.git",
       "branch": "master",
-      "revision": "f1d668cea02eee8690f427270de917d92032bbbb"
+      "revision": "e3c38fac0635ef58ec5eacf29ea8c569dee8977a"
     },
     "python-ifaddr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ifaddr.git",
