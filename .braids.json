@@ -5829,7 +5829,7 @@
     "python-pywinrm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywinrm.git",
       "branch": "master",
-      "revision": "5a2047878098518b3acdb1455dd4ef148b0e5871"
+      "revision": "de3809e112799db024568dd4c2038dfd7d455d87"
     },
     "python-pywlroots": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywlroots.git",
