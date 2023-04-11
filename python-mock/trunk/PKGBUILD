@@ -1,9 +1,9 @@
-# Maintainer: jelle van der Waa <jelle@vdwaa.nl>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Felix Kaiser <felix.kaiser@fxkr.net>
 
 pkgname=python-mock
 pkgver=3.0.5
-pkgrel=10
+pkgrel=11
 pkgdesc='Mocking and Patching Library for Testing'
 url='http://www.voidspace.org.uk/python/mock/'
 depends=('python' 'python-six' 'python-pbr')
