@@ -6879,7 +6879,7 @@
     "python-trustme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trustme.git",
       "branch": "master",
-      "revision": "1f9f31b1aa979500f078db8267bcd2c8c56fe9ed"
+      "revision": "637220b541e99fb97a8bc1f15afde738ac5d2bb3"
     },
     "python-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-twisted.git",
