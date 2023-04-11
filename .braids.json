@@ -1824,7 +1824,7 @@
     "python-aws-xray-sdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aws-xray-sdk.git",
       "branch": "master",
-      "revision": "8879d136a7f86e9e01623d7687495e163e471a9b"
+      "revision": "b8561b3c58217b7eeb8ed5ef653517adaa1e11bb"
     },
     "python-awscrt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-awscrt.git",
