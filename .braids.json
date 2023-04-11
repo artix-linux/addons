@@ -2124,7 +2124,7 @@
     "python-certifi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-certifi.git",
       "branch": "master",
-      "revision": "994aa969bd8c1d43549124f7ce3d5313d5ad8807"
+      "revision": "c4329e22e9b76ef80a5eb129f6b86ae93b111650"
     },
     "python-cffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cffi.git",
