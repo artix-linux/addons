@@ -1564,7 +1564,7 @@
     "python-aiosqlite": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiosqlite.git",
       "branch": "master",
-      "revision": "e9cc608a815e746c8f3348a9e5b526185d4f2e95"
+      "revision": "ba51b4656bce761c2e317e990bcce6434c89070e"
     },
     "python-aiounittest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiounittest.git",
