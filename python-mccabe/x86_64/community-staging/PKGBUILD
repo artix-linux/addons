@@ -1,11 +1,11 @@
-# Maintainer: Caleb Maclennan <caleb@alerque.com>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Karol "Kenji Takahashi" Woźniak <kenji.sx>
 
 _pyname=mccabe
 pkgname=python-$_pyname
 pkgver=0.7.0
-pkgrel=2
+pkgrel=3
 pkgdesc='McCabe complexity checker for Python'
 arch=(any)
 url="https://github.com/PyCQA/$_pyname"
