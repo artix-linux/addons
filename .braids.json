@@ -7244,7 +7244,7 @@
     "python-xattr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xattr.git",
       "branch": "master",
-      "revision": "1df80e98e3674fe09625e5de633117278446597d"
+      "revision": "cffaac8e499e83be438d74b8a0452230598c8384"
     },
     "python-xkbcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xkbcommon.git",
