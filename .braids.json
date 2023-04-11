@@ -6494,7 +6494,7 @@
     "python-sphinxcontrib-htmlhelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-htmlhelp.git",
       "branch": "master",
-      "revision": "75a0626edf50670d0b906602737fe8064f6f1ab3"
+      "revision": "195945238d2b529aee33fcc7d1e9f26d6bdc08bf"
     },
     "python-sphinxcontrib-jquery": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-jquery.git",
