@@ -5884,7 +5884,7 @@
     "python-rapidfuzz-capi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rapidfuzz-capi.git",
       "branch": "master",
-      "revision": "9ff6af36aba4c70a7c1c4888e997b52e80b08cde"
+      "revision": "b9eee47802b9150028ee0a635703c1cca80a7fc5"
     },
     "python-rapidjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rapidjson.git",
