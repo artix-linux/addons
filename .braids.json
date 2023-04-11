@@ -5314,7 +5314,7 @@
     "python-pyocd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyocd.git",
       "branch": "master",
-      "revision": "73ac64357a81bbfd7ae04e5b450786b78bfd80d8"
+      "revision": "4a6703313527f1932304b3dba32a9a3cd87d17ac"
     },
     "python-pyogrio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyogrio.git",
