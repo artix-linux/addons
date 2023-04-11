@@ -5214,7 +5214,7 @@
     "python-pyinotify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyinotify.git",
       "branch": "master",
-      "revision": "d0e6ec47357714e51b4b3b325e7e31b350d32e26"
+      "revision": "f49e5af1c414d0b9fa4dbea8e63828568f930d89"
     },
     "python-pyjsparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyjsparser.git",
