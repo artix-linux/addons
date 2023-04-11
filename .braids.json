@@ -6414,7 +6414,7 @@
     "python-sphinx-argparse-cli": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-argparse-cli.git",
       "branch": "master",
-      "revision": "5f1e30335cdca28ecb02892dfc0f4f85000c28e5"
+      "revision": "7ee04c5e4a9410d8dcfb09a446f96ce25c4fe3eb"
     },
     "python-sphinx-autobuild": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-autobuild.git",
