@@ -6664,7 +6664,7 @@
     "python-tabulate": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tabulate.git",
       "branch": "master",
-      "revision": "93d1367d67ae2c90d963bc9e1a2a0292093966bc"
+      "revision": "c2635687df62bc7cc1e089d8b1441ef6773f2d2f"
     },
     "python-tappy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tappy.git",
