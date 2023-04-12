@@ -6429,7 +6429,7 @@
     "python-sphinx-autodoc-typehints": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-autodoc-typehints.git",
       "branch": "master",
-      "revision": "7ae0e378dd7d7a341412cd99eda36b7485666eed"
+      "revision": "e49bd59df4e5ce813eb702bddb840169073c65d9"
     },
     "python-sphinx-basic-ng": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-basic-ng.git",
