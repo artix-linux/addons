@@ -1604,7 +1604,7 @@
     "python-ansiwrap": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansiwrap.git",
       "branch": "master",
-      "revision": "724493080ec05dd60743ff25531439cfe28bf565"
+      "revision": "af5ddbaaf1c3988f879db174ec1c457dfa4e27f1"
     },
     "python-anyio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anyio.git",
