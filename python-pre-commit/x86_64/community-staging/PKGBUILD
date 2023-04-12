@@ -10,7 +10,7 @@ arch=('any')
 depends=('python-cfgv' 'python-identify' 'python-nodeenv' 'python-yaml' 'python-toml'
          'python-virtualenv')
 makedepends=('python-setuptools')
-checkdepends=('python-pytest' 'python-pytest-env' 'python-re-assert' 'dotnet-sdk' 'git'
+checkdepends=('python-pytest' 'python-pytest-env' 'python-re-assert' 'git'
               'go' 'nodejs' 'npm' 'rubygems' 'rust' 'r' 'dart' 'luarocks')
 source=("https://github.com/pre-commit/pre-commit/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
 sha512sums=('b1da558a0e5d8f2f655427089f1d0b11b01ad7513ece7a0b3b67c33529cf3584edba558c78704e6da6ca18876b1d6c0fa8698e01fd7c2439b8d4dc0a93961e52')
