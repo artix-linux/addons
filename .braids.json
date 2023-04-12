@@ -4004,7 +4004,7 @@
     "python-logbook": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-logbook.git",
       "branch": "master",
-      "revision": "c5e0c5fe1f461f9f3cd71907df86178c8aae5453"
+      "revision": "90d4093863ba010ba92110db70cfae87edd215af"
     },
     "python-logutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-logutils.git",
