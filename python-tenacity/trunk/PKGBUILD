@@ -22,7 +22,8 @@ build() {
 
 check() {
   cd tenacity
-  pytest
+  # https://github.com/jd/tenacity/issues/395
+  pytest -k "not test_retry_type_annotations"
 }
 
 package() {
