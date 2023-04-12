@@ -2,7 +2,7 @@
 
 pkgname=python-zope-exceptions
 pkgver=4.6
-pkgrel=3
+pkgrel=3.1
 pkgdesc="Generic exceptions and implementations for Zope"
 arch=('any')
 url="https://github.com/zopefoundation/zope.exceptions"
@@ -18,10 +18,10 @@ build() {
   python setup.py build
 }
 
-# check() {
-  # cd zope.exceptions-$pkgver
-  # PYTHONPATH="$PWD/build/lib" zope-testrunner --test-path=src
-# }
+check() {
+  cd zope.exceptions-$pkgver
+  PYTHONPATH="$PWD/build/lib" zope-testrunner --test-path=src
+}
 
 package() {
   cd zope.exceptions-$pkgver
