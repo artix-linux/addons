@@ -17,10 +17,11 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd "$srcdir"/rply-$pkgver
-  py.test
-}
+# Skip test; first pass
+#check() {
+#  cd "$srcdir"/rply-$pkgver
+#  py.test
+#}
 
 package() {
   depends=('python-appdirs')
