@@ -22,14 +22,15 @@ build() {
   python setup.py build
 }
 
-check() {
+# Skip tests; first pass
+#check() {
   # Hack entry points by installing it
-
-  cd "$srcdir"/pytest-flake8-$pkgver
-  python setup.py install --root="$PWD/tmp_install" --optimize=1
-  local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
-  PYTHONPATH="$PWD/tmp_install/$site_packages:$PYTHONPATH" py.test
-}
+#
+#  cd "$srcdir"/pytest-flake8-$pkgver
+#  python setup.py install --root="$PWD/tmp_install" --optimize=1
+#  local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
+#  PYTHONPATH="$PWD/tmp_install/$site_packages:$PYTHONPATH" py.test
+#}
 
 package() {
   cd pytest-flake8-$pkgver
