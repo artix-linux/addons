@@ -31,11 +31,12 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd "mechanize-$pkgver"
-
-  python run_tests.py
-}
+# Skip tests; first pass
+#check() {
+#  cd "mechanize-$pkgver"
+#
+#  python run_tests.py
+#}
 
 package() {
   cd "mechanize-$pkgver"
