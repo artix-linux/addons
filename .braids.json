@@ -4509,7 +4509,7 @@
     "python-os-service-types": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-os-service-types.git",
       "branch": "master",
-      "revision": "3f50ed622e7215d4a904bdba305375d31360d3dc"
+      "revision": "0c0605db4ed79e0c92f904608e6d51bb62fbada9"
     },
     "python-oscrypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oscrypto.git",
