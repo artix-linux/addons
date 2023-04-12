@@ -22,10 +22,11 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd oslo.utils-$pkgver
-  stestr run
-}
+# Skip tests; first pass
+#check() {
+#  cd oslo.utils-$pkgver
+#  stestr run
+#}
 
 package() {
   cd oslo.utils-$pkgver
