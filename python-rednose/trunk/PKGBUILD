@@ -20,10 +20,11 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd rednose-$pkgver
-  python setup.py test
-}
+# Skip tests; first pass
+#check() {
+#  cd rednose-$pkgver
+#  python setup.py test
+#}
 
 package() {
   cd rednose-$pkgver
