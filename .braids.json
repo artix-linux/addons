@@ -4764,7 +4764,7 @@
     "python-persistent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-persistent.git",
       "branch": "master",
-      "revision": "6da7759de667791ba844a4a72711c589ecd9ba73"
+      "revision": "803adcaf476998944b756e5b3db486141bf03520"
     },
     "python-pexpect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pexpect.git",
