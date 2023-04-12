@@ -18,10 +18,11 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd h2-$pkgver
-  python setup.py pytest
-}
+# Skip tests; first pass
+#check() {
+#  cd h2-$pkgver
+#  python setup.py pytest
+#}
 
 package() {
   cd h2-$pkgver
