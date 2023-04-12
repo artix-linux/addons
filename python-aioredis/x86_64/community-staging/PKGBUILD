@@ -18,10 +18,11 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd aioredis-py-$pkgver
-  pifpaf run redis pytest
-}
+# Build without checks; first pass
+#check() {
+#  cd aioredis-py-$pkgver
+#  pifpaf run redis pytest
+#}
 
 package() {
   cd aioredis-py-$pkgver
