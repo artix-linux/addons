@@ -30,17 +30,18 @@ build() {
   python setup.py build
 }
 
-check() {
+# Skip tests; first pass
+#check() {
   # Hack entry points
 
-  (
-    cd "$srcdir"/tox-$pkgver
-    virtualenv "$srcdir/pyvenv" --system-site-packages
-    . "$srcdir/pyvenv/bin/activate"
-    python setup.py install
-    python setup.py pytest
-  )
-}
+#  (
+#    cd "$srcdir"/tox-$pkgver
+#    virtualenv "$srcdir/pyvenv" --system-site-packages
+#    . "$srcdir/pyvenv/bin/activate"
+#    python setup.py install
+#    python setup.py pytest
+#  )
+#}
 
 package() {
   cd "$srcdir"/tox-$pkgver
