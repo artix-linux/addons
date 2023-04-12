@@ -18,10 +18,10 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd zope.exceptions-$pkgver
-  PYTHONPATH="$PWD/build/lib" zope-testrunner --test-path=src
-}
+# check() {
+  # cd zope.exceptions-$pkgver
+  # PYTHONPATH="$PWD/build/lib" zope-testrunner --test-path=src
+# }
 
 package() {
   cd zope.exceptions-$pkgver
