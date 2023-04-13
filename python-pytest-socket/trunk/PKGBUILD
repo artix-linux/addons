@@ -20,15 +20,16 @@ build() {
   python -m build --wheel --no-isolation
 }
 
-check() {
-  local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
-
-  cd $_name-$pkgver
-  # install to temporary location, as importlib is used
-  python -m installer --destdir=test_dir dist/*.whl
-  export PYTHONPATH="test_dir/$site_packages:$PYTHONPATH"
-  pytest -vv
-}
+# Skip tests; first pass
+#check() {
+#  local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
+#
+#  cd $_name-$pkgver
+#  # install to temporary location, as importlib is used
+#  python -m installer --destdir=test_dir dist/*.whl
+#  export PYTHONPATH="test_dir/$site_packages:$PYTHONPATH"
+#  pytest -vv
+#}
 
 package() {
   cd $_name-$pkgver
