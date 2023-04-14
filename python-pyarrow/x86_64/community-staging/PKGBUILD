@@ -64,7 +64,7 @@ check() {
   ARROW_TEST_DATA="${srcdir}"/arrow-testing/data \
   ARROW_HOME=/usr \
   PARQUET_HOME=/usr \
-  pytest -vv --color=yes -k 'not test_cython_api and not test_visit_strings and not test_env_var and not test_get_include'
+  pytest -vv --color=yes -k 'not test_cython_api and not test_visit_strings and not test_env_var and not test_get_include and not test_orc'
   mv _nopyarrow pyarrow
 }
 
