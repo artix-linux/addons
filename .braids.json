@@ -4229,7 +4229,7 @@
     "python-moto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moto.git",
       "branch": "master",
-      "revision": "c0fcadc269d34420b93d932fc33b795a3ecca1f3"
+      "revision": "9734956d1ee7c8fb736df22d2e3eb6ef7e25e24f"
     },
     "python-mox3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mox3.git",
