@@ -3504,7 +3504,7 @@
     "python-immutabledict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-immutabledict.git",
       "branch": "master",
-      "revision": "911a511499a7055262e299aa3091e6cdcbdcd24e"
+      "revision": "0fc9d9eaa44038c0998c481103258247e6c0c0cf"
     },
     "python-importlib-metadata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-importlib-metadata.git",
