@@ -104,7 +104,7 @@
     "perl-cgi": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cgi.git",
       "branch": "master",
-      "revision": "4658b77dce87235d976c8b7fe8dc85f8fd1b591b"
+      "revision": "74a37ca002df6a16459ea99b4b58df215de86f57"
     },
     "perl-class-data-inheritable": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-class-data-inheritable.git",
