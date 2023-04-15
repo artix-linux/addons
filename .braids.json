@@ -514,7 +514,7 @@
     "perl-image-exiftool": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-image-exiftool.git",
       "branch": "master",
-      "revision": "cd8336fa2a09b9eac548654d859ddfe4fb8fcd53"
+      "revision": "945a701f1112dcf6aa67f7bd1ba13f04a423667a"
     },
     "perl-image-info": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-image-info.git",
