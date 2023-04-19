@@ -3,9 +3,9 @@
 # Contributor: dnuux <dnuuxx@gmail.com>
 
 pkgname=python-faker
-pkgver=17.4.0
-_commit=fb32d0bc3fef116e7c578ad22e754730feb78b2f
-pkgrel=2
+pkgver=17.6.0
+_commit=5de6bf3fb811272b7e13b6da6623ee1fdfa3efe3
+pkgrel=1
 pkgdesc='Faker generates fake data for you.'
 arch=('any')
 url='https://faker.readthedocs.io/en/master/'
