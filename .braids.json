@@ -5469,7 +5469,7 @@
     "python-pyspnego": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyspnego.git",
       "branch": "master",
-      "revision": "74af78ad7e98abc80ed5f0ef7398a87ec0ffd0a9"
+      "revision": "87f259d7d44a22154f37dedd53be13b027ae6ded"
     },
     "python-pystache": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pystache.git",
