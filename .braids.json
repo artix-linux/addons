@@ -5754,7 +5754,7 @@
     "python-python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-multipart.git",
       "branch": "master",
-      "revision": "09791fab623d349f82bf18bc4f70807ee7dc3fd5"
+      "revision": "e41f2139bf7285cae91a5f1a2c42c04772edc20b"
     },
     "python-python-pkcs11": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-pkcs11.git",
