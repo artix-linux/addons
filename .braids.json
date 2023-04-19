@@ -4459,7 +4459,7 @@
     "python-objgraph": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-objgraph.git",
       "branch": "master",
-      "revision": "dd66505d8908b13e582ff52825237b160e7aa28e"
+      "revision": "c7a2c7e55f7d70e90a2def70e71dd846e61fbd9b"
     },
     "python-odfpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-odfpy.git",
