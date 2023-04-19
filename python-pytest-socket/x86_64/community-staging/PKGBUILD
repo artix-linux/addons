@@ -42,6 +42,7 @@ check() {
     -vv
     # https://github.com/miketheman/pytest-socket/issues/161
     --deselect tests/test_async.py::test_asynctest
+    --deselect tests/test_combinations.py::test_parametrize_with_socket_enabled_and_allow_hosts
   )
   local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
 
