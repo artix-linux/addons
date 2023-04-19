@@ -7216,6 +7216,11 @@
       "branch": "master",
       "revision": "f2dcfa3a125c19cb84afd43b4786d7376373037b"
     },
+    "python-wilderness": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-wilderness.git",
+      "branch": "master",
+      "revision": "890cb837a44bb4e1e926114b704a034e472f3ba6"
+    },
     "python-wrapt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wrapt.git",
       "branch": "master",
