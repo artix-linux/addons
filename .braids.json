@@ -4589,7 +4589,7 @@
     "python-oslo-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-utils.git",
       "branch": "master",
-      "revision": "c9334665a998629dcd6a2d78e39080519f4004c2"
+      "revision": "ea1d3f35ece287c87836536b4e3cedbce56dde6b"
     },
     "python-oslotest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslotest.git",
