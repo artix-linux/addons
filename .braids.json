@@ -2134,7 +2134,7 @@
     "python-cffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cffi.git",
       "branch": "master",
-      "revision": "4853d385eabba2a67d3ed85cfd7d01b4f6035929"
+      "revision": "a34d440d92347ae0707b6bb3361c0658fde77f6e"
     },
     "python-cfgv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cfgv.git",
