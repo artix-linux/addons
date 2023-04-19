@@ -3964,7 +3964,7 @@
     "python-librabbitmq": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-librabbitmq.git",
       "branch": "master",
-      "revision": "9aa92b4503173ec0e8e09beb83b0f9a946cbb634"
+      "revision": "1a0c9f2684ad42f92a342c8fb9dea55f26bfac95"
     },
     "python-libusb1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libusb1.git",
