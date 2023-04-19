@@ -2839,7 +2839,7 @@
     "python-eventlet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-eventlet.git",
       "branch": "master",
-      "revision": "e1641589fb73875645290e3220e06df098c144ae"
+      "revision": "d28ba3c1638c51e1067ed7e1b6319f7e9fd6759b"
     },
     "python-exam": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-exam.git",
