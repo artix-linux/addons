@@ -6689,7 +6689,7 @@
     "python-tabview": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tabview.git",
       "branch": "master",
-      "revision": "21e2f6d09dd5fe355c20b2d8b5629bfb95b421cc"
+      "revision": "49f2a8b70b0eeb0d3c050c17c7e3f721862c3d65"
     },
     "python-tappy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tappy.git",
