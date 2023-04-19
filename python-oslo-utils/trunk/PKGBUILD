@@ -3,7 +3,7 @@
 
 pkgname=python-oslo-utils
 pkgver=6.1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Oslo Utility library"
 arch=('any')
 url="https://pypi.python.org/pypi/oslo.utils/$pkgver"
@@ -22,11 +22,10 @@ build() {
   python setup.py build
 }
 
-# Skip tests; first pass
-#check() {
-#  cd oslo.utils-$pkgver
-#  stestr run
-#}
+check() {
+  cd oslo.utils-$pkgver
+  stestr run
+}
 
 package() {
   cd oslo.utils-$pkgver
