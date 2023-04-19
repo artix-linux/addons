@@ -3664,7 +3664,7 @@
     "python-jarowinkler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jarowinkler.git",
       "branch": "master",
-      "revision": "0f2edc9323391d9b87f24813d76ae1463bbcd6da"
+      "revision": "4b3407e15209f13ec591eaac58435f3b1a9c8b9d"
     },
     "python-jdcal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jdcal.git",
