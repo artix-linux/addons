@@ -2644,7 +2644,7 @@
     "python-dkim": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dkim.git",
       "branch": "master",
-      "revision": "ad9a0cb8be71e5c7ddcfc69fc1d2e2715ddfc4da"
+      "revision": "19737c906c47250a8fc6fabced054e24f65b8ae6"
     },
     "python-dnspython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dnspython.git",
