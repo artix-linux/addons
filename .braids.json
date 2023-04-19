@@ -3464,7 +3464,7 @@
     "python-hypothesmith": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesmith.git",
       "branch": "master",
-      "revision": "6d40c38e699e1bd45afef8bc61eac27bf05897f7"
+      "revision": "f94144ee7c7f5051ad5ce6b4b151d7a60bdead4d"
     },
     "python-ibm-db-sa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ibm-db-sa.git",
