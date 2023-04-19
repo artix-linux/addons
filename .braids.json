@@ -2376,6 +2376,11 @@
       "branch": "master",
       "revision": "b8cee7412eb2ccbaac576cece703d1d1e9bf81fa"
     },
+    "python-crispy-bootstrap4": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-crispy-bootstrap4.git",
+      "branch": "master",
+      "revision": "70540b0bc4ca6c3d8bc0be1306ef822e871b2e99"
+    },
     "python-cryptography": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cryptography.git",
       "branch": "master",
