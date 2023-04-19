@@ -20,7 +20,7 @@ build() {
 
 check() {
   cd tabview-$pkgver
-  unbuffer python -m unittest discover
+  TERM=xterm unbuffer python -m unittest discover
 }
 
 package() {
