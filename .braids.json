@@ -7329,7 +7329,7 @@
     "python-yarl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yarl.git",
       "branch": "master",
-      "revision": "64e8635cf172ad605153e3ebb447f3a41362e2e5"
+      "revision": "d43395938bfd46fb31274a36af847c85cbc81637"
     },
     "python-yaspin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-yaspin.git",
