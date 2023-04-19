@@ -3424,7 +3424,7 @@
     "python-httpx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httpx.git",
       "branch": "master",
-      "revision": "331b245f4cbc73996901d51947196934ddae6de8"
+      "revision": "eaf5d7656bce75ae7b05b79227b8ed289c5c7d3e"
     },
     "python-humanfriendly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-humanfriendly.git",
