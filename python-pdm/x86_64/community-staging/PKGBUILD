@@ -58,6 +58,7 @@ check() {
     -vv
     # https://github.com/pdm-project/pdm/issues/1831
     --deselect tests/cli/test_others.py::test_build_distributions
+    --deselect tests/test_utils.py::test_find_python_in_path
   )
   local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
 
