@@ -5809,7 +5809,7 @@
     "python-pyu2f": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyu2f.git",
       "branch": "master",
-      "revision": "f0723f7c583653e1604c0f716bc2a51533b111e7"
+      "revision": "c624f92f94bd91d72dce9cb9362cddc861ba76da"
     },
     "python-pyudev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyudev.git",
