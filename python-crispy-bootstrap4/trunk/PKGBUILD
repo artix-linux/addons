@@ -3,7 +3,7 @@
 _name=crispy-bootstrap4
 pkgname=python-crispy-bootstrap4
 pkgver=2022.1
-pkgrel=2
+pkgrel=2.1
 pkgdesc="Bootstrap4 template pack for django-crispy-forms"
 arch=(any)
 url="https://github.com/django-crispy-forms/crispy-bootstrap4"
@@ -35,14 +35,14 @@ build() {
   python -m build --wheel --no-isolation
 }
 
-# check() {
-  # local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
-#
-  # cd $_name-$pkgver
-  # python -m installer --destdir=test_dir dist/*.whl
-  # export PYTHONPATH="test_dir/$site_packages:$PWD:$PYTHONPATH"
-  # pytest -vv tests
-# }
+check() {
+  local site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
+
+  cd $_name-$pkgver
+  python -m installer --destdir=test_dir dist/*.whl
+  export PYTHONPATH="test_dir/$site_packages:$PWD:$PYTHONPATH"
+  pytest -vv tests
+}
 
 package() {
   cd $_name-$pkgver
