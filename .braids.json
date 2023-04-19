@@ -2491,6 +2491,11 @@
       "branch": "master",
       "revision": "0ccab6082e7d0cdab375dd81f59fb4658c7050c9"
     },
+    "python-deepdiff": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-deepdiff.git",
+      "branch": "master",
+      "revision": "938eaed4f0761423c1d6c07f6136e47c7ddb0d38"
+    },
     "python-deepmerge": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deepmerge.git",
       "branch": "master",
