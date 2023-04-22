@@ -754,7 +754,7 @@
     "perl-module-build-tiny": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-build-tiny.git",
       "branch": "master",
-      "revision": "72221305233d421aad0456413fec02ee6fd6630b"
+      "revision": "a25f804a4d533f8991a0338df67cf7c10f919095"
     },
     "perl-module-build-xsutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-module-build-xsutil.git",
