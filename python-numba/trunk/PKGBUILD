@@ -2,7 +2,7 @@
 
 pkgname=python-numba
 pkgver=0.56.4
-pkgrel=2
+pkgrel=2.1
 pkgdesc="JIT compiler that translates a subset of Python and NumPy code into fast machine code"
 url="https://numba.pydata.org/"
 arch=(x86_64)
