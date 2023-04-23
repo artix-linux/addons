@@ -6644,7 +6644,7 @@
     "python-stdlibs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stdlibs.git",
       "branch": "master",
-      "revision": "237eebbae7c54ab1a3c2d9c4c1fcaba85b8455a2"
+      "revision": "3b473e7e905b5288f73228bee3c8efe846d870a1"
     },
     "python-stem": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stem.git",
