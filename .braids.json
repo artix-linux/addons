@@ -4254,7 +4254,7 @@
     "python-moreorless": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moreorless.git",
       "branch": "master",
-      "revision": "986ce9f4a2697c3aca018a87a6c5348692a88e1c"
+      "revision": "fb4fd76aa5a34de7d5c0feea82ed519c0986c798"
     },
     "python-moto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moto.git",
