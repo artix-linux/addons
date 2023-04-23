@@ -5284,7 +5284,7 @@
     "python-pylev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylev.git",
       "branch": "master",
-      "revision": "4059d022770dca82d1002e4c6cb0bbdd8bd72ef3"
+      "revision": "d3a340f89c6c1e5d0c6b38dd1c0bc24c3530e11d"
     },
     "python-pylibmc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylibmc.git",
