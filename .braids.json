@@ -6824,7 +6824,7 @@
     "python-tinycss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss.git",
       "branch": "master",
-      "revision": "13b88c0053b351f402f7370197bfe6f867415f63"
+      "revision": "faaae7c2635cd5d70971ace038bc719556255704"
     },
     "python-tinycss2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss2.git",
