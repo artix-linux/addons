@@ -2,8 +2,8 @@
 
 _name=pynitrokey
 pkgname=python-pynitrokey
-_commit=4dfdf583293344330c82612759975da19768b098  # v0.4.34.nitrokey
-pkgver=0.4.34
+_commit=0bab4e9f6711a450775089b8d148495c0a36d9b0  # v0.4.36
+pkgver=0.4.36
 pkgrel=1
 pkgdesc="A command line interface for the Nitrokey FIDO2 and Nitrokey Start"
 arch=(any)
@@ -12,6 +12,7 @@ license=(Apache)
 # NOTE: libnitrokey is required for udev rules
 depends=(
   libnitrokey
+  python
   python-certifi
   python-cffi
   python-click
@@ -22,7 +23,8 @@ depends=(
   python-frozendict
   python-intelhex
   python-nkdfu
-  python-nrfutil
+  python-protobuf
+  python-pyserial
   python-pyusb
   python-requests
   python-spsdk
@@ -31,12 +33,25 @@ depends=(
   python-typing-extensions
   python-urllib3
 )
-makedepends=(git python-build python-flit-core python-installer python-wheel)
+makedepends=(
+  git
+  python-build
+  python-flit-core
+  python-installer
+  python-wheel
+)
 checkdepends=(python-pytest)
+optdepends=(
+  'python-libusb1: for pro and storage subcommands'
+  'python-pyscard: for pcsclite integration'
+)
 source=(git+$url#tag=$_commit?signed)
 sha512sums=('SKIP')
 b2sums=('SKIP')
-validpgpkeys=(868184069239FF65DE0BCD7DD9BAE35991DE5B22)  # Szczepan Zalega (Nitrokey) <szczepan@nitrokey.com>
+validpgpkeys=(
+  868184069239FF65DE0BCD7DD9BAE35991DE5B22  # Szczepan Zalega (Nitrokey) <szczepan@nitrokey.com>
+  719EA31C3F1814DA787C8FD434F47D2F044B8F17  # Robin Krahl <robin@nitrokey.com>
+)
 
 build() {
   cd $_name
