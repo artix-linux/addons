@@ -3054,7 +3054,7 @@
     "python-flask-sqlalchemy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-sqlalchemy.git",
       "branch": "master",
-      "revision": "816f16d5f9291eb3f1a01a879034d176f188963b"
+      "revision": "87cc00d4980aa3910832321908c608c89be6b715"
     },
     "python-flex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flex.git",
