@@ -4001,6 +4001,11 @@
       "branch": "master",
       "revision": "4cdc6210963d444e5b7b9d97bdd00fb888fff82a"
     },
+    "python-linetable": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-linetable.git",
+      "branch": "master",
+      "revision": "567e28ae5d44b9935bf2a2365efe5dd6621b034a"
+    },
     "python-linkify-it-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-linkify-it-py.git",
       "branch": "master",
