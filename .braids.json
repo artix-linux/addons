@@ -4469,7 +4469,7 @@
     "python-numpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numpy.git",
       "branch": "master",
-      "revision": "1660cbd94611e78d64ba4fcdfaf986b7991f2f89"
+      "revision": "01a58a4a52c508f401692a9dfe70f8d54f24f74c"
     },
     "python-oauth2client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oauth2client.git",
