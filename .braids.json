@@ -4019,7 +4019,7 @@
     "python-llvmlite": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-llvmlite.git",
       "branch": "master",
-      "revision": "8ac122107fdb4324c0c338783c2e3bc1108ca535"
+      "revision": "aa7a89ee6ae504d5d5d1aac5bab36cd0e2ec7229"
     },
     "python-lmdb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lmdb.git",
