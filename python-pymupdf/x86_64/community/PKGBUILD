@@ -2,29 +2,51 @@
 
 _name=PyMuPDF
 pkgname=python-pymupdf
-pkgver=1.21.1
+pkgver=1.22.2
 pkgrel=1
 pkgdesc="Python bindings for MuPDF's rendering library"
 arch=(x86_64)
 url="https://github.com/pymupdf/PyMuPDF"
 license=(AGPL3)
-depends=(glibc gumbo-parser jbig2dec libmupdf openjpeg2 python)
-makedepends=(freetype2 libjpeg-turbo python-distro python-build python-installer python-setuptools python-wheel swig)
-checkdepends=(python-fonttools python-pillow python-pytest)
+depends=(
+  glibc
+  gumbo-parser
+  jbig2dec
+  libmupdf
+  openjpeg2
+  python
+)
+makedepends=(
+  freetype2
+  git
+  libjpeg-turbo
+  python-build
+  python-distro
+  python-installer
+  python-setuptools
+  python-wheel
+  swig
+)
+checkdepends=(
+  python-fonttools
+  python-pillow
+  python-pytest
+)
 optdepends=(
   'python-fonttools: for building font subsets using fontTools'
   'python-pillow: for image file saving using pillow'
 )
-options=(debug)
 source=(
   https://files.pythonhosted.org/packages/source/${_name::1}/$_name/$_name-$pkgver.tar.gz
 )
-sha512sums=('863afe65c7f84c941bc040053a09cb14f90d0d7a040c7f2efee94c40c522e959efb91460af8404f0562eb377fae056cd28b9de2b0881a91b9199d09baa6e7e77')
-b2sums=('056dc2cab19b120ff5f2dad7c1a71164372565796ce3c419e762b80f93aa130ede06dba7ed6500a28beb4b3de1a161986d091aabf88b44bce27d7e20c3a38308')
+sha512sums=('6b302fb6e23bb6f91698dd9e87dce2bc7c6c6b3e7d76a35111939f9a14034865908b26f5d3e30c31d10520c9906ff596a0fff0548ede8c0a0fd61968e153b706')
+b2sums=('6b79128929d1a4604efc720deb3efa53dd4005228e72dd207ebb8e2d501c6748cca8ab1dffde0fe41216ccbcad2a5c2763516c430e6fc626ce5c37093565807f')
 
 prepare() {
   # remove bundled mupdf sources
-  rm -frv $_name-$pkgver/*.tgz
+  rm -frv $pkgname/*.tgz
+  # we package swig and don't need python-swig
+  sed -e 's/, "swig"//' -i $_name-$pkgver/pyproject.toml
 }
 
 build() {
@@ -35,18 +57,17 @@ build() {
 }
 
 check() {
+  local pytest_options=(
+    -vv
+    # disable broken test, that upstream is not interested in fixing or disabling: https://github.com/pymupdf/PyMuPDF/issues/2127
+    --deselect tests/test_pixmap.py::test_color_count
+  )
   local _site_packages=$(python -c "import site; print(site.getsitepackages()[0])")
-  local _test_dir="test_dir"
 
   cd $_name-$pkgver
-  mkdir -vp $_test_dir
-  # install to test dir for testing
-  python -m installer --destdir="$_test_dir" dist/*.whl
-
-  export PYTHONPATH="$_test_dir/$_site_packages:$PYTHONPATH"
-  # disable broken test: https://github.com/pymupdf/PyMuPDF/issues/2040
-  # disable broken test: https://github.com/pymupdf/PyMuPDF/issues/2127
-  pytest -vv -c /dev/null tests/ -k 'not test_textbox3 and not test_color_count'
+  python -m installer --destdir=test_dir dist/*.whl
+  export PYTHONPATH="$PWD/test_dir/$_site_packages:$PYTHONPATH"
+  pytest "${pytest_options[@]}" tests/
 }
 
 package() {
