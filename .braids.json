@@ -1584,7 +1584,7 @@
     "python-aniso8601": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aniso8601.git",
       "branch": "master",
-      "revision": "418262d415bf18f9a95fc18a3923c64a36629749"
+      "revision": "05d0d82b0753cb34dd8d5311862a0339f2a38bd4"
     },
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
