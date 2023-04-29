@@ -1944,7 +1944,7 @@
     "python-blinker": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-blinker.git",
       "branch": "master",
-      "revision": "4547076786d75dfcd5d66612c1c2db55cdf062de"
+      "revision": "dabcb91c28cf189cdd8e06e6c8892f46beb5ecff"
     },
     "python-blosc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-blosc.git",
