@@ -5074,7 +5074,7 @@
     "python-pyacoustid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyacoustid.git",
       "branch": "master",
-      "revision": "01cb9403df736f63b2afc2838cf6ed27cd392cc4"
+      "revision": "1c0d956932bd4dca4066417913fd168f783443af"
     },
     "python-pyaes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyaes.git",
