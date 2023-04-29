@@ -1639,7 +1639,7 @@
     "python-appdirs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-appdirs.git",
       "branch": "master",
-      "revision": "8cba75026b9640d30d1abe41cb52b4bfcd5eed9e"
+      "revision": "779a81131463c68fbc67075c0e610276c0427160"
     },
     "python-apscheduler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-apscheduler.git",
