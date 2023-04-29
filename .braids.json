@@ -2174,7 +2174,7 @@
     "python-cheroot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cheroot.git",
       "branch": "master",
-      "revision": "c63ddc32d5feb9458aaf7472acad0a3c52201e82"
+      "revision": "c5495b5a076971a5b078f44b1b2433393cdb1fcd"
     },
     "python-cherrypy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cherrypy.git",
