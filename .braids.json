@@ -4564,7 +4564,7 @@
     "python-oslo-config": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-config.git",
       "branch": "master",
-      "revision": "64e46d14763cad8f287fef2178418a7ac3ac36a2"
+      "revision": "4607fd856270c36ebf7057b4633f366a5f1c81ad"
     },
     "python-oslo-context": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-context.git",
