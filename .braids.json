@@ -4194,7 +4194,7 @@
     "python-memory-profiler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-memory-profiler.git",
       "branch": "master",
-      "revision": "304d2f03fe5fa45e26726551e693fe60f0514480"
+      "revision": "219485f8462c07b9f9cea5d8a051437d3c956faf"
     },
     "python-merge3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-merge3.git",
