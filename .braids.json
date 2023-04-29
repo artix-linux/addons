@@ -4424,7 +4424,7 @@
     "python-nose-show-skipped": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose-show-skipped.git",
       "branch": "master",
-      "revision": "d07038dc1b2546d4409de4f0056fdb8df37b2f1f"
+      "revision": "54e02f0c45e1cd66179dac98729d0e0365213366"
     },
     "python-nose2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose2.git",
