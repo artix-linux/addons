@@ -3369,7 +3369,7 @@
     "python-heapdict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-heapdict.git",
       "branch": "master",
-      "revision": "43d1d3071ccf8d4e26a095a43d172f04c6689a02"
+      "revision": "1f8c374371a3b90d0f74bf989510cdf6d6cc545f"
     },
     "python-helpdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-helpdev.git",
