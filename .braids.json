@@ -4099,7 +4099,7 @@
     "python-magic-wormhole-mailbox-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic-wormhole-mailbox-server.git",
       "branch": "master",
-      "revision": "746726660a8f830816d1d557906c5e10af7003da"
+      "revision": "f10561f783db9ba0b935defce5f9d46973189608"
     },
     "python-magic-wormhole-transit-relay": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic-wormhole-transit-relay.git",
