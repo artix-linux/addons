@@ -5649,7 +5649,7 @@
     "python-pytest-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-mock.git",
       "branch": "master",
-      "revision": "e70c61b86613b869c5ea9cba8773a560ffe7e309"
+      "revision": "7a061df4d105440064289d8acba1c9882659213e"
     },
     "python-pytest-mpi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-mpi.git",
