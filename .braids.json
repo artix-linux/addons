@@ -5754,7 +5754,7 @@
     "python-pytest-tornasync": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-tornasync.git",
       "branch": "master",
-      "revision": "409aac9ff85cdf19d8850f27ea16666e3ac1c792"
+      "revision": "da9a9b2b9ea8fe1e50ead010ca0444433fed1ba3"
     },
     "python-pytest-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-trio.git",
