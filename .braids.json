@@ -3724,7 +3724,7 @@
     "python-jmespath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jmespath.git",
       "branch": "master",
-      "revision": "b72749140f64d0b62f065d8f83d883b7346a623f"
+      "revision": "269a4bdc4be4a4536c5cb7c1d48e1e401e8f3f94"
     },
     "python-joblib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-joblib.git",
