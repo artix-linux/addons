@@ -1624,7 +1624,7 @@
     "python-apipkg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-apipkg.git",
       "branch": "master",
-      "revision": "04191580ff4f881904457eeed4f216bdf6cec83f"
+      "revision": "66fa65e3ac1ad64513197a34170a0d0d1ab0ab6f"
     },
     "python-apispec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-apispec.git",
