@@ -4309,7 +4309,7 @@
     "python-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-multipart.git",
       "branch": "master",
-      "revision": "44eb2a43f25e4225fcc4e26489f5a941b72fcd33"
+      "revision": "c8d729ad2d0e0ca3d75699c9e06b964c57e8c9eb"
     },
     "python-munch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-munch.git",
