@@ -4159,7 +4159,7 @@
     "python-matrix-common": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-matrix-common.git",
       "branch": "master",
-      "revision": "4d69d8894d05728549a3e04a890571a6c613b134"
+      "revision": "fbc6624e50c7339449d724939f5eaaa4cc8b490e"
     },
     "python-mccabe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mccabe.git",
