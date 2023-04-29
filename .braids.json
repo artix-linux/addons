@@ -3309,7 +3309,7 @@
     "python-graphviz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphviz.git",
       "branch": "master",
-      "revision": "ca1f4aa2c33f1cdd839b2cd97210fe4f79720410"
+      "revision": "79df1a946b75a15c08f8b28312ddfb176f1ef2fd"
     },
     "python-greenlet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-greenlet.git",
