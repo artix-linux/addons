@@ -4739,7 +4739,7 @@
     "python-pbkdf2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pbkdf2.git",
       "branch": "master",
-      "revision": "a5bd8ae29fd3e34bdf07a0ef9da1e2450e721ea4"
+      "revision": "c8e631247b2465b975e1cb30db8cd57491aa80ff"
     },
     "python-pbr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pbr.git",
