@@ -2369,7 +2369,7 @@
     "python-crcmod": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crcmod.git",
       "branch": "master",
-      "revision": "1194b7a56f5aaa91f67005e31330c129f25487eb"
+      "revision": "10d08d371cd24c3e4e975d090c8fe63a1999f279"
     },
     "python-crispy-bootstrap3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crispy-bootstrap3.git",
