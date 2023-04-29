@@ -1879,7 +1879,7 @@
     "python-beniget": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beniget.git",
       "branch": "master",
-      "revision": "04f45d72b08672262ca53dcb619ea19858fe50f9"
+      "revision": "69c3f1727ac74a104508bc46b8ae48fb75a0227d"
     },
     "python-betamax": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-betamax.git",
