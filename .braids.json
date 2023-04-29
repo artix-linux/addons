@@ -4984,7 +4984,7 @@
     "python-profilestats": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-profilestats.git",
       "branch": "master",
-      "revision": "32cd03b2a5ed261549f5344d8e88e4e96f0d9e8a"
+      "revision": "859d70d0f2f7d4080eb5348fe4908c40502f2e33"
     },
     "python-progress": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-progress.git",
