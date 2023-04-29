@@ -5634,7 +5634,7 @@
     "python-pytest-lazy-fixture": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-lazy-fixture.git",
       "branch": "master",
-      "revision": "e63b55e88e9da9b541653e79afe553c45dc50de8"
+      "revision": "24fe94ab72ed935206ae33d4f5871100a5659f98"
     },
     "python-pytest-localserver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-localserver.git",
