@@ -3154,7 +3154,7 @@
     "python-funcparserlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-funcparserlib.git",
       "branch": "master",
-      "revision": "1bfd726e0fb66e6196c0860118251e9c8e80ab86"
+      "revision": "d1ab3bf965773e65c76665f79ca397f1dea6025c"
     },
     "python-future": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-future.git",
