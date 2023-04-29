@@ -5224,7 +5224,7 @@
     "python-pygeos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygeos.git",
       "branch": "master",
-      "revision": "3f935010c52d9a55062a022ffc4a9addef000f16"
+      "revision": "bd8ca91044abf0462ec58de0931343e1d6a1356b"
     },
     "python-pygit2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygit2.git",
