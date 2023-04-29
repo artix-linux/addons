@@ -4189,7 +4189,7 @@
     "python-memcached": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-memcached.git",
       "branch": "master",
-      "revision": "9b334f0d38e3c18d2653b8578575e21f7e2ae09b"
+      "revision": "361504ad766e2b55646c3c3d848cd61dfd3b1ab9"
     },
     "python-memory-profiler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-memory-profiler.git",
