@@ -3144,7 +3144,7 @@
     "python-fsspec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fsspec.git",
       "branch": "master",
-      "revision": "cf567b732fddd61a66b9c9ffc3ce27f9dad07c10"
+      "revision": "6274c46be19d372189394ba658e75db9c937f436"
     },
     "python-func-timeout": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-func-timeout.git",
