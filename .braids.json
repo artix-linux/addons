@@ -3839,7 +3839,7 @@
     "python-jupyter-ydoc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter-ydoc.git",
       "branch": "master",
-      "revision": "60f19261f65f6599953449f48fa1c6634bbfcdc0"
+      "revision": "c0e6d28e10f40b2c3c0c9040b3a83f077f5543f0"
     },
     "python-jupyter_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_client.git",
