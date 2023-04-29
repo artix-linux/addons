@@ -3414,7 +3414,7 @@
     "python-html5-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-html5-parser.git",
       "branch": "master",
-      "revision": "edefdd26516fa2033f82b184b9aa37d7d8b4022d"
+      "revision": "55a27841195f8f1496a7c31e803da6e73e479d6a"
     },
     "python-html5lib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-html5lib.git",
