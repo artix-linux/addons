@@ -3624,7 +3624,7 @@
     "python-isoduration": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-isoduration.git",
       "branch": "master",
-      "revision": "2b6810d2bab8ffb33fe1798e48f1190c81749bd9"
+      "revision": "b9771d6a55e248dede4266e3b4479f7cd20de124"
     },
     "python-isort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-isort.git",
