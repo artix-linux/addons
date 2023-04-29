@@ -4079,7 +4079,7 @@
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
       "branch": "master",
-      "revision": "c12d9e1fa1125b21961dec55b0247988e1130fc7"
+      "revision": "38ca6ca50fc76f97015f7c31bf3d8238d4ff3584"
     },
     "python-lz4": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lz4.git",
