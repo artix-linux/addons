@@ -5824,7 +5824,7 @@
     "python-pytrie": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytrie.git",
       "branch": "master",
-      "revision": "44979e87756b1d472e44257aec6bf2e3e15c8cbb"
+      "revision": "26f18b74a01bfbdb7a0835c2ea913c144ba43746"
     },
     "python-pytz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytz.git",
