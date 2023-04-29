@@ -5209,7 +5209,7 @@
     "python-pygaljs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygaljs.git",
       "branch": "master",
-      "revision": "fd208064cd3a75fb0ddbb063df502977fe7db089"
+      "revision": "5345f52ec5f8415be19fb7d0af50a21387102de2"
     },
     "python-pygame": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygame.git",
