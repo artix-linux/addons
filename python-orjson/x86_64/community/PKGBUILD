@@ -2,12 +2,15 @@
 
 _name=orjson
 pkgname=python-orjson
-pkgver=3.8.9
+pkgver=3.8.11
 pkgrel=1
 pkgdesc="Fast, correct Python JSON library supporting dataclasses and datetimes"
 arch=(x86_64)
 url="https://github.com/ijl/orjson"
-license=(Apache MIT)
+license=(
+  Apache
+  MIT
+)
 depends=(
   gcc-libs
   glibc
@@ -27,8 +30,9 @@ checkdepends=(
   python-xxhash
 )
 source=($url/archive/$pkgver/$_name-$pkgver.tar.gz)
-sha512sums=('bf8af0efd60b64f5185b6758a8294ff75b9150c47f82525109a6f4d4b540f859a1ae3852c42e14331f9f277e7e1d076e8f10e0805245d66f9496bbef383ed591')
-b2sums=('2a95f90671a4bdeff7ba573882f1db54fed1070aba0234786209f0f9b59044837756c9d412f399ed673bd27c0f454fd1b7094cc51437a1d259d648ed604c52e0')
+sha512sums=('b59cf2675c8d1e4cfd3b9cf3525b360a97c2191a8817e6df368ffed02095bc012c350df8ed57c992eec63b3233e67b528d50f8ebc45c78bc72b467c1d732f784')
+b2sums=('acdaed477e21396b34f3be8e4c8f91604284a0b3a1320c08acaf51a01fa06d108a3d88f91edfaf895a596086e13e79b6faeb13c6f25ff9f2e28aa780adddf27c')
+
 
 build() {
   cd $_name-$pkgver
