@@ -5174,7 +5174,7 @@
     "python-pyee": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyee.git",
       "branch": "master",
-      "revision": "f1c7311732f4ff419765f38c80b5f29e84be0b90"
+      "revision": "05884224788c17e9af2b213751341bdd0bbcddbc"
     },
     "python-pyelftools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyelftools.git",
