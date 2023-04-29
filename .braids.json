@@ -1809,7 +1809,7 @@
     "python-autopage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autopage.git",
       "branch": "master",
-      "revision": "d9605651b7337600c2da0d1ebeb564ecfcd9b3b5"
+      "revision": "80088c39e886e6330940a21fd6ef47760b3b5a92"
     },
     "python-awesomeversion": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-awesomeversion.git",
