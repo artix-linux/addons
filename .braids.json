@@ -3259,7 +3259,7 @@
     "python-gnupg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gnupg.git",
       "branch": "master",
-      "revision": "f0d58e6e926a940cc5093ac28223ba8c9a50e37c"
+      "revision": "4afc698097c6cb6439e791a2b01961559dbd9dbd"
     },
     "python-gnupginterface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gnupginterface.git",
