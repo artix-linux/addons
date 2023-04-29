@@ -3029,7 +3029,7 @@
     "python-flask-httpauth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-httpauth.git",
       "branch": "master",
-      "revision": "1a9a848f33d88d97b9538d588cd0ebeaa51b6082"
+      "revision": "fa164bc0505aadfa94df57b9dda953d2d83b7136"
     },
     "python-flask-jwt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-jwt.git",
