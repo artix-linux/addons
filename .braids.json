@@ -1579,7 +1579,7 @@
     "python-amqp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-amqp.git",
       "branch": "master",
-      "revision": "af6d078fb4dde6823cb8f0047faa45a8bee74589"
+      "revision": "a5ebb08c168da2201947621d8658dfea86ed6ff4"
     },
     "python-aniso8601": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aniso8601.git",
