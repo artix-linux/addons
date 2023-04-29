@@ -1719,7 +1719,7 @@
     "python-astor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-astor.git",
       "branch": "master",
-      "revision": "5a7a014dc29361ff612831aee77060702c91af33"
+      "revision": "0df3857eab7b3e320b0426fb6a2f452aa7717544"
     },
     "python-astroid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-astroid.git",
