@@ -2429,7 +2429,7 @@
     "python-curio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-curio.git",
       "branch": "master",
-      "revision": "eae12b4f5e4fc59fea00cfbb303066a92f0e5a4a"
+      "revision": "08954e067a4029b578106f0004f8a7befb413528"
     },
     "python-cycler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cycler.git",
