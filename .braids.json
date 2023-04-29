@@ -6349,7 +6349,7 @@
     "python-simplejson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-simplejson.git",
       "branch": "master",
-      "revision": "14f344851d019609d8f54c50bdceb182d650377d"
+      "revision": "0cd8060aafe26d00b717804033191da8c4b1ecaa"
     },
     "python-six": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-six.git",
