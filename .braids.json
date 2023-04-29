@@ -4434,7 +4434,7 @@
     "python-nosexcover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nosexcover.git",
       "branch": "master",
-      "revision": "ce17d1212477256aa96019f1087ca4f977ced808"
+      "revision": "c5786dffb6d602f9aa4fa97415425d50255cd81f"
     },
     "python-notify2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-notify2.git",
