@@ -5184,7 +5184,7 @@
     "python-pyenchant": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyenchant.git",
       "branch": "master",
-      "revision": "c9a3c87c42343aba796312cb2bede3fffdd9625a"
+      "revision": "98c7a287679dad83ba19362e5b584756e24c3a11"
     },
     "python-pyfakefs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyfakefs.git",
