@@ -1469,7 +1469,7 @@
     "python-aafigure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aafigure.git",
       "branch": "master",
-      "revision": "5ba7833bd7f5391d68e9c1d2cc18695632780848"
+      "revision": "a88c745b6b4154c55f596bf8b093cd0123ecbb91"
     },
     "python-acme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-acme.git",
