@@ -3019,7 +3019,7 @@
     "python-flask": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask.git",
       "branch": "master",
-      "revision": "64363664a684f5edafadd93d02cad0c24744a1a0"
+      "revision": "cb82c7bd8a0b80d31a97e36f91f5be154ef97399"
     },
     "python-flask-cors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-cors.git",
