@@ -3959,7 +3959,7 @@
     "python-ldap3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ldap3.git",
       "branch": "master",
-      "revision": "4bdac26c4d94cbdabba477d9354ad0d8674463b5"
+      "revision": "58e73fd59a2edb689016c9a045739d4619fbbd23"
     },
     "python-levenshtein": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-levenshtein.git",
