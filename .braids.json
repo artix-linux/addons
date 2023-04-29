@@ -5764,7 +5764,7 @@
     "python-pytest-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-twisted.git",
       "branch": "master",
-      "revision": "866bbdbf1fd3a732264aa0957f5befd85f8f68d8"
+      "revision": "25be1418b91a9e46895196b941a8ac51954e6b90"
     },
     "python-pytest-vcr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-vcr.git",
