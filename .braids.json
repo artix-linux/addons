@@ -3329,7 +3329,7 @@
     "python-h2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-h2.git",
       "branch": "master",
-      "revision": "974d6dd85a23b321b00244b8e0fd98a3d7d415d4"
+      "revision": "f11475f8c0e12922c17121f78cd9d2b1837291a5"
     },
     "python-h5py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-h5py.git",
