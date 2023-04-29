@@ -4074,7 +4074,7 @@
     "python-lupa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lupa.git",
       "branch": "master",
-      "revision": "287f97a3770c41bda0d6027868b3f3f5337dea43"
+      "revision": "333c6bd5341e232be8f3d01e028b3c1623f78949"
     },
     "python-lxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lxml.git",
