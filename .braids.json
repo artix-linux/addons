@@ -4059,7 +4059,7 @@
     "python-lsp-jsonrpc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-jsonrpc.git",
       "branch": "master",
-      "revision": "94557710d7c4eafa6583f3f0a84697d669919e28"
+      "revision": "5c951d389a88ce873b1ddc52bc088a7d6b04778d"
     },
     "python-lsp-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsp-server.git",
