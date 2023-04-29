@@ -3209,7 +3209,7 @@
     "python-geopy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geopy.git",
       "branch": "master",
-      "revision": "1bf4b9bfff276abcf52a30422292e81bee7bac9d"
+      "revision": "b8a5ef08cd6ba9ed7acece52169ac227b5492f6d"
     },
     "python-gevent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gevent.git",
