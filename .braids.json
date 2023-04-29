@@ -4009,7 +4009,7 @@
     "python-linkify-it-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-linkify-it-py.git",
       "branch": "master",
-      "revision": "648f6bceaf81fc17cd1526846a754b7b7fb0ccd1"
+      "revision": "0fd3c7ca82fb1b979cb8c83aa73430f010ff0c56"
     },
     "python-littleutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-littleutils.git",
