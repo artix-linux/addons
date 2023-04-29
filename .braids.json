@@ -4544,7 +4544,7 @@
     "python-os-client-config": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-os-client-config.git",
       "branch": "master",
-      "revision": "d28f93cb8ff36cb0cf88e78329aa00094d7bf8ac"
+      "revision": "08926049412a3913f1d270b09da29fb41e4902b6"
     },
     "python-os-service-types": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-os-service-types.git",
