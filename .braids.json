@@ -3884,7 +3884,7 @@
     "python-kazoo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kazoo.git",
       "branch": "master",
-      "revision": "22de2ddd34d9c063b2e5a41e3fa4d4abe1f2e9a6"
+      "revision": "24e7fecfd81cac35098d138c8fd42165d75b182a"
     },
     "python-keras-applications": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keras-applications.git",
