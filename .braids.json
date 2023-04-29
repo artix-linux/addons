@@ -3304,7 +3304,7 @@
     "python-graphql-relay": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphql-relay.git",
       "branch": "master",
-      "revision": "1bcaf2de822e7e2ababe2ce4713600531849ccfb"
+      "revision": "fe52b1f64fefb0b32c6f4fae2f6507690ad5b9c3"
     },
     "python-graphviz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphviz.git",
