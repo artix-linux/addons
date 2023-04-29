@@ -3589,7 +3589,7 @@
     "python-iocapture": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-iocapture.git",
       "branch": "master",
-      "revision": "4d12132e054db1154b0d1cc8d3eb2f25404754a7"
+      "revision": "f38a7221eb43c4d8046dd438751df0a906f171be"
     },
     "python-ipdb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipdb.git",
