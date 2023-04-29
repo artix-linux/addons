@@ -10,7 +10,7 @@ url='https://github.com/nandoflorestan/kajiki'
 license=('LGPL')
 depends=('python')
 makedepends=('python-build' 'python-installer' 'python-setuptools' 'python-sphinx' 'python-wheel')
-checkdepends=('python-babel' 'python-pytest')
+checkdepends=('python-babel' 'python-linetable' 'python-pytest')
 source=("${_pkgbase}-${pkgver}.tar.gz::https://github.com/nandoflorestan/kajiki/archive/v${pkgver}.tar.gz")
 sha512sums=('60c9e82c0a8768772c36fd8a54283023d74fc73133f963f4eb6b39419ed89f1244f06f7b6ca107d819d1204efaffbb8ef20e2da02fa8a9648c8e90a6b76a90cf')
 
