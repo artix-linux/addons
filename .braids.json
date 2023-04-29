@@ -1679,7 +1679,7 @@
     "python-argparse-addons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argparse-addons.git",
       "branch": "master",
-      "revision": "65d1c03b9b50e649fb085fbe2625b4741f6210e9"
+      "revision": "4436d6ebb33ce6fa57974a8fb9dbc668c34c60c7"
     },
     "python-arpeggio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-arpeggio.git",
