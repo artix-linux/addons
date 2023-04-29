@@ -5464,7 +5464,7 @@
     "python-pyscreenshot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyscreenshot.git",
       "branch": "master",
-      "revision": "055a1b4914142b548efbab9ddb96d0d03fc4e153"
+      "revision": "72ce6d86f4e951d153e0a63724119890d551a87f"
     },
     "python-pysendfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysendfile.git",
