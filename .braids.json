@@ -5964,7 +5964,7 @@
     "python-re-assert": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-re-assert.git",
       "branch": "master",
-      "revision": "a4a4f8d8c87c9dd66a7ebe5790fbf38ae2100759"
+      "revision": "941da81c84543ec78b26a5a1a82ae0db3a8fb0b6"
     },
     "python-reactivex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-reactivex.git",
