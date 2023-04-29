@@ -4639,7 +4639,7 @@
     "python-pandocfilters": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pandocfilters.git",
       "branch": "master",
-      "revision": "ec1fab9271ed64dab037cb3eb95977e62b1aeee5"
+      "revision": "2225eedb80b6b88d2e705b61be173be00fb8be50"
     },
     "python-parameterized": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parameterized.git",
