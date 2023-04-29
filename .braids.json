@@ -5069,7 +5069,7 @@
     "python-py3c": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py3c.git",
       "branch": "master",
-      "revision": "c6ebe6a7892d44afdbb83a2eeb9c9816c169000a"
+      "revision": "044d18bc8afcc76a8376fdba354dd2cf9db86350"
     },
     "python-pyacoustid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyacoustid.git",
