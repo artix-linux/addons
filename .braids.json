@@ -4499,7 +4499,7 @@
     "python-openapi-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-core.git",
       "branch": "master",
-      "revision": "3ab2061bb2e71d4da1930eec4f6a1ff192006f45"
+      "revision": "4a1f1bc515f162ebc77c5ad1affd97626617b0bc"
     },
     "python-openapi-schema-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openapi-schema-validator.git",
