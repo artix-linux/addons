@@ -3099,7 +3099,7 @@
     "python-flufl.testing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.testing.git",
       "branch": "master",
-      "revision": "175e041599cd165dffcb58422f64db9d20c1a67d"
+      "revision": "b5c63dd65103e42c9e5e7b928384bbfb9c69aeed"
     },
     "python-fluidity": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fluidity.git",
