@@ -5864,7 +5864,7 @@
     "python-pyvirtualdisplay": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyvirtualdisplay.git",
       "branch": "master",
-      "revision": "46cfe4082b6d63533fe37487f04606676e76504f"
+      "revision": "ab24efb65efa95bbc5d2e693029dcba0fbac673e"
     },
     "python-pywal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywal.git",
