@@ -4534,7 +4534,7 @@
     "python-orderedmultidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-orderedmultidict.git",
       "branch": "master",
-      "revision": "dcb44385e8baf9518268d86f3f71981d10c88efd"
+      "revision": "0a699181684ea9560234eaf21362ed898367ee02"
     },
     "python-orjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-orjson.git",
