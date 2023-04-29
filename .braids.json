@@ -2694,7 +2694,7 @@
     "python-docopt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docopt.git",
       "branch": "master",
-      "revision": "f7951ef08c2307366291b0ef690ecb12d1a0524f"
+      "revision": "d5b8096b6c450bd18872a208a2061066ac023c29"
     },
     "python-docstring-to-markdown": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docstring-to-markdown.git",
