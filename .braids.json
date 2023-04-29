@@ -2144,7 +2144,7 @@
     "python-cfn-lint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cfn-lint.git",
       "branch": "master",
-      "revision": "b4a3d18ec08cc90df07d2b3b27d3dffaec848c23"
+      "revision": "3f7f28f2daef1933d04ca6a9927ee2afb4dedf38"
     },
     "python-cftime": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cftime.git",
