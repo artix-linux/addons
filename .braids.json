@@ -3474,7 +3474,7 @@
     "python-hypothesis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesis.git",
       "branch": "master",
-      "revision": "e41526a5e61fee809026969746550d3f679b425d"
+      "revision": "84f4c9dd2b764679da0bd6dec907ec2ed4a3e5a7"
     },
     "python-hypothesis-auto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesis-auto.git",
