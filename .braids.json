@@ -2469,7 +2469,7 @@
     "python-dateutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dateutil.git",
       "branch": "master",
-      "revision": "069a19b38daa7d4f2ebda503c0c1e533526de6b1"
+      "revision": "123391756c4b4da6e1dd21813fea2d040b4e60ee"
     },
     "python-dbus-deviation": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbus-deviation.git",
