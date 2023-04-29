@@ -4124,7 +4124,7 @@
     "python-manuel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-manuel.git",
       "branch": "master",
-      "revision": "4972bd40a1db2d124f2e5e0cc8e3fba0a7e90c64"
+      "revision": "b7a25eaad82bd1ca846867b506ffc3e97e537673"
     },
     "python-markdown": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-markdown.git",
