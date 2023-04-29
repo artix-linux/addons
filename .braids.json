@@ -5059,7 +5059,7 @@
     "python-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py.git",
       "branch": "master",
-      "revision": "bd7720b9fc72cb21a77673e631a16c38c6582b34"
+      "revision": "a0496d68d0544e5e1d49f99439d7ac82c6b0d219"
     },
     "python-py-cpuinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py-cpuinfo.git",
