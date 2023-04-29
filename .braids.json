@@ -4964,7 +4964,7 @@
     "python-pretend": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pretend.git",
       "branch": "master",
-      "revision": "93c6a5cb844d1ecb8f5d4c63df344b44762dde08"
+      "revision": "f72ad9f4bdfcea378af738bca7b121dc3d5fbd3c"
     },
     "python-prettytable": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prettytable.git",
