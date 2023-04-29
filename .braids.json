@@ -6864,7 +6864,7 @@
     "python-tomlkit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tomlkit.git",
       "branch": "master",
-      "revision": "71e5f738edc5c60e3117ef5c08b41cc69f2c24bc"
+      "revision": "51b3b539394c800ee6e38e81ddcf52497b2c5f44"
     },
     "python-toolz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-toolz.git",
