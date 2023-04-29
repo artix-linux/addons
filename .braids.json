@@ -5979,7 +5979,7 @@
     "python-recommonmark": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-recommonmark.git",
       "branch": "master",
-      "revision": "53b4e6304a8466c65e1358342309deac7c3dfe1b"
+      "revision": "a60e78c73995b5c03e838fbae2d76a35dc7e7e30"
     },
     "python-redbaron": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-redbaron.git",
