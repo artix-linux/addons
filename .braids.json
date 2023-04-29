@@ -2559,7 +2559,7 @@
     "python-distlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distlib.git",
       "branch": "master",
-      "revision": "d21ab10876288a86fe68a75b8690bc9b9c6eebd0"
+      "revision": "04b9fcdae9ad77b61eaeae58f5156c4f02b05f02"
     },
     "python-distributed": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distributed.git",
