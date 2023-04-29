@@ -4179,7 +4179,7 @@
     "python-mechanize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mechanize.git",
       "branch": "master",
-      "revision": "859c13114a22d76ec7f3da55d8409305136383a8"
+      "revision": "cb2d2dff108d6521ff090a667f73a52cb09cab4c"
     },
     "python-mediafile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mediafile.git",
