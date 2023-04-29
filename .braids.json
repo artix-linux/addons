@@ -1979,7 +1979,7 @@
     "python-bottle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bottle.git",
       "branch": "master",
-      "revision": "fc4777fc7f12ca7a13d03f34fc3dddf0fc2467dc"
+      "revision": "5fe7ea5ac534bf23a1872a4a709b2810e9ecc5de"
     },
     "python-bottleneck": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bottleneck.git",
