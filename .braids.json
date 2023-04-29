@@ -4284,7 +4284,7 @@
     "python-mpmath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpmath.git",
       "branch": "master",
-      "revision": "5dfc83465bdf33dd59b935ba3de3c24465a1144c"
+      "revision": "e95d76a14548a2204f6a868ff8bf6ff46acf7f47"
     },
     "python-msgpack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-msgpack.git",
