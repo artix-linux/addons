@@ -5459,7 +5459,7 @@
     "python-pysaml2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysaml2.git",
       "branch": "master",
-      "revision": "72aff9a240e8daf5e88bfea203ff00e9b916443c"
+      "revision": "1ddd8c8d78579d1ee18ef51d1daa1ccc2410e43d"
     },
     "python-pyscreenshot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyscreenshot.git",
