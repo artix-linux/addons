@@ -4709,7 +4709,7 @@
     "python-pathable": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pathable.git",
       "branch": "master",
-      "revision": "4caccfe1afa7226f1de4ab1eeede05ff1f2b7e50"
+      "revision": "9d2f6328916af960632c3d3d1294043ce896e2ea"
     },
     "python-pathspec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pathspec.git",
