@@ -3524,7 +3524,7 @@
     "python-imagesize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-imagesize.git",
       "branch": "master",
-      "revision": "2035ef9382bb871dd711b9e3ffa1c038783039a0"
+      "revision": "1f3df2f008fb87e9a89e2e7396db95a2015892e3"
     },
     "python-immutabledict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-immutabledict.git",
