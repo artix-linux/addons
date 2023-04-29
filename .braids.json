@@ -3469,7 +3469,7 @@
     "python-hyperlink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git",
       "branch": "master",
-      "revision": "6c75fff386d8f6ced909bbe63facf8fe48cc6212"
+      "revision": "fe155fccd6246469e06f0de26672acf07c151952"
     },
     "python-hypothesis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesis.git",
