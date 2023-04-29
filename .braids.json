@@ -3924,7 +3924,7 @@
     "python-kombu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kombu.git",
       "branch": "master",
-      "revision": "c68d4b262c78be5d15d9dfb2f5ad4ec674b4034b"
+      "revision": "33f587778df40b4e0e3d2f0ca79c7c995166d085"
     },
     "python-krb5": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-krb5.git",
