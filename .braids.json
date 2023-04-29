@@ -1479,7 +1479,7 @@
     "python-adblock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-adblock.git",
       "branch": "master",
-      "revision": "df63bce4b34c5f2b0b7a711d982954250085ccd7"
+      "revision": "9756e62363ed422c43e05cec044d452b72722e5e"
     },
     "python-aiobotocore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiobotocore.git",
