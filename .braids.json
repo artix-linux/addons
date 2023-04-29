@@ -4999,7 +4999,7 @@
     "python-promise": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-promise.git",
       "branch": "master",
-      "revision": "ac719b630c19a2e6cf6914d1eb8d5160a52540c9"
+      "revision": "b9363d6a1ad3c4e0283bb20fc4c0a97f25f58aa0"
     },
     "python-prompt_toolkit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prompt_toolkit.git",
