@@ -2449,7 +2449,7 @@
     "python-daemonize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-daemonize.git",
       "branch": "master",
-      "revision": "c8e86954b21846ad9252195e0ffa638bd23d9704"
+      "revision": "e6eae748dc34c71682f03b7914c05888039f9474"
     },
     "python-daiquiri": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-daiquiri.git",
