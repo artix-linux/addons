@@ -1984,7 +1984,7 @@
     "python-bottleneck": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bottleneck.git",
       "branch": "master",
-      "revision": "97ab31222d077defd501d6637c4e3b6731b565d7"
+      "revision": "7425638b19498e204bc10310f1ca5c91a27b7eee"
     },
     "python-bowler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bowler.git",
