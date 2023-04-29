@@ -4619,7 +4619,7 @@
     "python-pallets-sphinx-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pallets-sphinx-themes.git",
       "branch": "master",
-      "revision": "b8117497a78f0f4fec57799a1d984cbdc2c1a549"
+      "revision": "d87cec0660a6a7a111b8f8a72321b3527dba7076"
     },
     "python-pam": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pam.git",
