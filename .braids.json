@@ -5179,7 +5179,7 @@
     "python-pyelftools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyelftools.git",
       "branch": "master",
-      "revision": "c9a7ff2cfa926fc0983950ebc27d1c10efe9cb5c"
+      "revision": "3c3964eac2b188e9899b03bfbe603fdad47cef90"
     },
     "python-pyenchant": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyenchant.git",
