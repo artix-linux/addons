@@ -5854,7 +5854,7 @@
     "python-pyusb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyusb.git",
       "branch": "master",
-      "revision": "a5e1e77cbb642afed6acdbf6cfc136149faa521c"
+      "revision": "a831c82cefed77f3173f99e4cc240f87aede1b90"
     },
     "python-pyvex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyvex.git",
