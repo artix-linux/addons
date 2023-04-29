@@ -3374,7 +3374,7 @@
     "python-helpdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-helpdev.git",
       "branch": "master",
-      "revision": "8a59fa14b950f541a8883ade1f2e0e37ec7d350f"
+      "revision": "b7ce5919cb37c201f5b878b0407c9eafb8148879"
     },
     "python-hexdump": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hexdump.git",
