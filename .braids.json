@@ -5109,7 +5109,7 @@
     "python-pycares": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycares.git",
       "branch": "master",
-      "revision": "43f753f12e1c6af0d2b968b6cbddc7059afd8791"
+      "revision": "bbb8b1e04034528197315a25de50a8adf3c28521"
     },
     "python-pycodestyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycodestyle.git",
