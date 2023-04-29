@@ -1529,7 +1529,7 @@
     "python-aiomysql": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiomysql.git",
       "branch": "master",
-      "revision": "f9cb68358ed6d7445f2040acf2f8025b9182de04"
+      "revision": "28d3b73c4ced4bdb4a31ee42f088b9a17d0a6fb0"
     },
     "python-aiopg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiopg.git",
