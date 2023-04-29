@@ -3929,7 +3929,7 @@
     "python-krb5": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-krb5.git",
       "branch": "master",
-      "revision": "b05110130beb16f3fa5a3c164153ad91d381de25"
+      "revision": "9a7d7947aca34d87cfed53c994eb6904217a836d"
     },
     "python-lark-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lark-parser.git",
