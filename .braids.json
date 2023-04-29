@@ -2314,7 +2314,7 @@
     "python-configobj": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-configobj.git",
       "branch": "master",
-      "revision": "74d0595c82d9ae829ec96f484a87350cfe9934e8"
+      "revision": "e5873f2f7dc00e233f7486e54feeced947551c95"
     },
     "python-configupdater": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-configupdater.git",
