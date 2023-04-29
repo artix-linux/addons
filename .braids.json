@@ -2099,7 +2099,7 @@
     "python-cattrs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cattrs.git",
       "branch": "master",
-      "revision": "2f5189466d1b6250ec5de0377d63a62feef17125"
+      "revision": "a910a859bd35d5c178ac00f62f45184b8d144082"
     },
     "python-cbor": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cbor.git",
