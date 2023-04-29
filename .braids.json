@@ -4364,7 +4364,7 @@
     "python-ndg-httpsclient": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ndg-httpsclient.git",
       "branch": "master",
-      "revision": "b117e5de09a8906c5dabb568efd3e6967662709c"
+      "revision": "aa6396f7cb06c412878f74b2a2054d6b52bd4e83"
     },
     "python-nest-asyncio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nest-asyncio.git",
