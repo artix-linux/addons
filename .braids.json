@@ -3454,7 +3454,7 @@
     "python-humanfriendly": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-humanfriendly.git",
       "branch": "master",
-      "revision": "63f32177ff7d5aec546af2d41e786f614e479ff4"
+      "revision": "e8208ed831e004f80f782024d43e005b798bd1e4"
     },
     "python-humanize": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-humanize.git",
