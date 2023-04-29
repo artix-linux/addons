@@ -3399,7 +3399,7 @@
     "python-hpack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hpack.git",
       "branch": "master",
-      "revision": "00eaac8d711f3d39abd8cfccf9fd96fe2b445dd9"
+      "revision": "6793abf4c964c75a43e843f8a4221dcda2ee34f9"
     },
     "python-hstspreload": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hstspreload.git",
