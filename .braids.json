@@ -2114,7 +2114,7 @@
     "python-cchardet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cchardet.git",
       "branch": "master",
-      "revision": "83265eae4af2d1257289fdb78983df54b6feaf7d"
+      "revision": "3c7db2be3456323eb8b937a8ce79886cb3dd21d1"
     },
     "python-celery": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-celery.git",
