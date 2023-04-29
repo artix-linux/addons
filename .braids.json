@@ -2119,7 +2119,7 @@
     "python-celery": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-celery.git",
       "branch": "master",
-      "revision": "0d238754526f78e24a2c3f37237b9ec3f47f297b"
+      "revision": "f89107abbfc028436ce43035f3cf213f1db63f31"
     },
     "python-cerberus": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cerberus.git",
