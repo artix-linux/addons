@@ -5969,7 +5969,7 @@
     "python-reactivex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-reactivex.git",
       "branch": "master",
-      "revision": "18e6cfad179f3eccaefa6f30796df7a054169cc5"
+      "revision": "4c738d00d34896ef604d547681e9fd118d665949"
     },
     "python-readme-renderer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-readme-renderer.git",
