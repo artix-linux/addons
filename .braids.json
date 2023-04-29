@@ -1899,7 +1899,7 @@
     "python-billiard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-billiard.git",
       "branch": "master",
-      "revision": "dc6ca4ad8acbdc45e3266928dbf023eb8b54d02d"
+      "revision": "0b762de8d9ba9da34de477e32f6d8c8f2ace439c"
     },
     "python-binaryornot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-binaryornot.git",
