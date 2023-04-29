@@ -3654,7 +3654,7 @@
     "python-jaraco.context": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.context.git",
       "branch": "master",
-      "revision": "d634686458d6b6dacb0109ace08fca1ddf3e62c1"
+      "revision": "09d040b494ca939b18c45660e7b630c5120a72d6"
     },
     "python-jaraco.envs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.envs.git",
