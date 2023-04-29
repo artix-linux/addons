@@ -2929,7 +2929,7 @@
     "python-feedgenerator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedgenerator.git",
       "branch": "master",
-      "revision": "42f173a9f3135c7dc5159ee256aa4b02ed82ebc8"
+      "revision": "67a50bc450a0ad5a55ead055525533af46e97a59"
     },
     "python-feedparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-feedparser.git",
