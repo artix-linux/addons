@@ -4949,7 +4949,7 @@
     "python-prance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prance.git",
       "branch": "master",
-      "revision": "4aa23462e3d57ee9ed35ae85478989034804cea7"
+      "revision": "f38a13c7813fd46835566d48f21e385f5339685b"
     },
     "python-pre-commit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pre-commit.git",
