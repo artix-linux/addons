@@ -3424,7 +3424,7 @@
     "python-http-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-http-parser.git",
       "branch": "master",
-      "revision": "60687e45b353633c2f4ed4c3b406b725884f0fea"
+      "revision": "b42a74deef0231f287abb2e74c867973ccf24fb4"
     },
     "python-httpcore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httpcore.git",
