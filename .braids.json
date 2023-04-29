@@ -3199,7 +3199,7 @@
     "python-geoip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geoip.git",
       "branch": "master",
-      "revision": "21538436d05d97ad47a8ae2826dd90728a913d72"
+      "revision": "e719248d2444ed7047cb7c6483eaa5e024a71d3d"
     },
     "python-geopandas": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geopandas.git",
