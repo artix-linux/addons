@@ -2289,7 +2289,7 @@
     "python-colored-traceback": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-colored-traceback.git",
       "branch": "master",
-      "revision": "1b08b5450b5ea772d543d7762dbcf0cd2debc3ce"
+      "revision": "13e53587aa67508eb4bff49f1a14c88017dbb8d8"
     },
     "python-colorlog": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-colorlog.git",
