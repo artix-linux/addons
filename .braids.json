@@ -1739,7 +1739,7 @@
     "python-async-timeout": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-async-timeout.git",
       "branch": "master",
-      "revision": "bb753f65470d6836b5114e7dac28ccaffd0e9871"
+      "revision": "0aa1cda499d140903989d2566d752fd7292585d2"
     },
     "python-async_generator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-async_generator.git",
