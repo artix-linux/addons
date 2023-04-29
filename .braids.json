@@ -1884,7 +1884,7 @@
     "python-betamax": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-betamax.git",
       "branch": "master",
-      "revision": "f849cbdb0541c7ab9e690bae18d0206dde75fb16"
+      "revision": "04c95b6b8b6d37b6cb3e84ab130b41beb452f8eb"
     },
     "python-bidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bidict.git",
