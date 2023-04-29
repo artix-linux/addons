@@ -6634,7 +6634,7 @@
     "python-stack-data": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stack-data.git",
       "branch": "master",
-      "revision": "8e885d96e33596a58ef61b50ee43aec0b643a0cc"
+      "revision": "955f3ffb27f14d1e1b46a22a2951ce4a3b17447a"
     },
     "python-starlette": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-starlette.git",
