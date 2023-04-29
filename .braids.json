@@ -4164,7 +4164,7 @@
     "python-mccabe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mccabe.git",
       "branch": "master",
-      "revision": "2085f4b1942234d15c0dc3edfac725fbb41aa30b"
+      "revision": "9ef946c2b82b7e93249d6e16484e65ddf848b863"
     },
     "python-mdit_py_plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mdit_py_plugins.git",
