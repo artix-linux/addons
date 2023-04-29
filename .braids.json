@@ -1634,7 +1634,7 @@
     "python-apispec-webframeworks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-apispec-webframeworks.git",
       "branch": "master",
-      "revision": "a30e5d62d7620de74861e82ceedf7a5db9db0e4f"
+      "revision": "303518f9c966dad67a7a208f314067702430f495"
     },
     "python-appdirs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-appdirs.git",
