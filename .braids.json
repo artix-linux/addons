@@ -4744,7 +4744,7 @@
     "python-pbr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pbr.git",
       "branch": "master",
-      "revision": "f1d201f41795f80afa76703f130047ce5789efea"
+      "revision": "fff5d9bad1f97f970f8adf414fc6d1b64e5eae6e"
     },
     "python-pc-ble-driver-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pc-ble-driver-py.git",
