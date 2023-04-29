@@ -5169,7 +5169,7 @@
     "python-pydrive": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydrive.git",
       "branch": "master",
-      "revision": "42e55fdb5d144e98d57aef5860a2132e9101459b"
+      "revision": "d665f4df42bf19df7b855ea23376d61c6a8c1d0c"
     },
     "python-pyee": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyee.git",
