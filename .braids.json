@@ -3864,7 +3864,7 @@
     "python-jwcrypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jwcrypto.git",
       "branch": "master",
-      "revision": "541610431b4f59fd57e0bf44eda6a954caa27809"
+      "revision": "0bed595e5f5e995823b9eb7a8d8b9315d12ddb41"
     },
     "python-k5test": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-k5test.git",
