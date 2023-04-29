@@ -5899,7 +5899,7 @@
     "python-qdarkstyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-qdarkstyle.git",
       "branch": "master",
-      "revision": "8d68f72dc8993b4f6e120fc5e3715ed6588c23a8"
+      "revision": "13423199b8f8cf38d97d22c48046965d1b779829"
     },
     "python-qrcode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-qrcode.git",
