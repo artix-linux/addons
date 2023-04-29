@@ -1619,7 +1619,7 @@
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
       "branch": "master",
-      "revision": "c176e9b2bb5d43b6a9022188177a63bb6e53e727"
+      "revision": "628d3d61eaa06f7223a31f3a69c9df3dff01200b"
     },
     "python-apipkg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-apipkg.git",
