@@ -1684,7 +1684,7 @@
     "python-arpeggio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-arpeggio.git",
       "branch": "master",
-      "revision": "fa4a39de8e8d252f9d53e9c9724086c19b520fc0"
+      "revision": "50fb42ef45c4dee3ddcb5630680a47d03c5d646a"
     },
     "python-arpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-arpy.git",
