@@ -2714,7 +2714,7 @@
     "python-docutils-stubs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docutils-stubs.git",
       "branch": "master",
-      "revision": "d8dc392b69550886a185a0f6113a184125dfee40"
+      "revision": "94f6ce6c1c826c217bc4c5af023167d88bb742ca"
     },
     "python-dogpile.cache": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dogpile.cache.git",
