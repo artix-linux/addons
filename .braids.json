@@ -1509,7 +1509,7 @@
     "python-aiohttp-cors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-cors.git",
       "branch": "master",
-      "revision": "2b8c2ce1963b774705d71c5b784d13ba77aed972"
+      "revision": "27551523307e9b3ded67282ed72cb4fd81a685ce"
     },
     "python-aiohttp-openmetrics": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp-openmetrics.git",
