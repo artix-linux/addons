@@ -4084,7 +4084,7 @@
     "python-lz4": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lz4.git",
       "branch": "master",
-      "revision": "4795b1aa68dee36a84932df8c8bab5dd7aa6c624"
+      "revision": "f789fe290d5955fd0b53bd48f7cc726a0cbe5fe7"
     },
     "python-m2crypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-m2crypto.git",
