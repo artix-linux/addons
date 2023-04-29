@@ -5314,7 +5314,7 @@
     "python-pymacaroons": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymacaroons.git",
       "branch": "master",
-      "revision": "d13a6e428bc6c6c31cb2bf69df636fdab2cdb111"
+      "revision": "d126f8b6b54977037012c20cf6457f95216dcd95"
     },
     "python-pymongo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymongo.git",
