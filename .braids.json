@@ -2259,7 +2259,7 @@
     "python-cloudpickle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cloudpickle.git",
       "branch": "master",
-      "revision": "379e607f0a83a1d57bc35ca5262f9548b8770f3a"
+      "revision": "8739d64a17c824695e2d8b1ad9809b3b3e4fcbb0"
     },
     "python-cmarkgfm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cmarkgfm.git",
