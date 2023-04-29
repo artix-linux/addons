@@ -3149,7 +3149,7 @@
     "python-func-timeout": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-func-timeout.git",
       "branch": "master",
-      "revision": "c3e649fd00261c66cbab562e9aa43655192deb40"
+      "revision": "5edaea7f1b97aa9ab032c385675be8a36d4f22f0"
     },
     "python-funcparserlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-funcparserlib.git",
