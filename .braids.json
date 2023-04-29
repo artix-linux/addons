@@ -2949,7 +2949,7 @@
     "python-filebytes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-filebytes.git",
       "branch": "master",
-      "revision": "0187285ac227d5eca7571584bd43e570ddca1c31"
+      "revision": "997666f1ee0b647c30be6a4f64f795a3afc8548a"
     },
     "python-filelock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-filelock.git",
