@@ -1954,7 +1954,7 @@
     "python-boolean.py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-boolean.py.git",
       "branch": "master",
-      "revision": "0f3dc894437701285e70b10c2c49e2d43001125f"
+      "revision": "fd9f0c44975d66f593361dc7ccc786f427bbd47c"
     },
     "python-bootstrap-evil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bootstrap-evil.git",
