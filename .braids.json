@@ -5954,7 +5954,7 @@
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
       "branch": "master",
-      "revision": "c002cb9b5624835620b2622296aedadb94e95be2"
+      "revision": "3dce341b097d2c8f9710c760f5117765d6229b97"
     },
     "python-rdflib-jsonld": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib-jsonld.git",
