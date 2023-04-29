@@ -4479,7 +4479,7 @@
     "python-oauth2client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oauth2client.git",
       "branch": "master",
-      "revision": "9fa35c36fbc0723e1a99fc55d4731fc72dc81c01"
+      "revision": "a1f9bedcd04a76d19c37230d9fb66c549b292540"
     },
     "python-oauthlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oauthlib.git",
