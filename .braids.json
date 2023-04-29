@@ -3704,7 +3704,7 @@
     "python-jeepney": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jeepney.git",
       "branch": "master",
-      "revision": "a3eb4ad01a2ad9e28da0017d895e74a9b59577ea"
+      "revision": "856717dff60345ee11fb42de59fe8898b179eeb9"
     },
     "python-jellyfish": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jellyfish.git",
