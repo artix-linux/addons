@@ -3484,7 +3484,7 @@
     "python-hypothesis-fspaths": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesis-fspaths.git",
       "branch": "master",
-      "revision": "989698fc06abe33d68b5b5969ad93c540dc6d6f2"
+      "revision": "e55ab7088caf5b5fc6988753fd3497ef1cbaddf3"
     },
     "python-hypothesmith": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hypothesmith.git",
