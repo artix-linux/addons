@@ -4319,7 +4319,7 @@
     "python-munkres": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-munkres.git",
       "branch": "master",
-      "revision": "a978730adab44b9a47398de8f8900a051fbddfd2"
+      "revision": "f8c87f3a35d4c76676c92c27aa33328fd31f1bd0"
     },
     "python-musicbrainzngs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-musicbrainzngs.git",
