@@ -2079,7 +2079,7 @@
     "python-calmjs.types": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calmjs.types.git",
       "branch": "master",
-      "revision": "8d9b1d081ca37aa0a381757dd7deaef2eb7ebbed"
+      "revision": "d827ccfa5bacceb073cd5d6bf3d486b500dd6a53"
     },
     "python-calver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calver.git",
