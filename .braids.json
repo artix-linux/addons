@@ -4459,7 +4459,7 @@
     "python-ntlm-auth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ntlm-auth.git",
       "branch": "master",
-      "revision": "82a4d0e7794a221e7dc4d28cf84a84ec91418ad7"
+      "revision": "e89ed4b64e76c104b3f6e5915c6c7cfea6e50b72"
     },
     "python-numba": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numba.git",
