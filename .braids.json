@@ -4839,7 +4839,7 @@
     "python-pikepdf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pikepdf.git",
       "branch": "master",
-      "revision": "e6bad81139ed08216bd34f6a1d38c964e90453ee"
+      "revision": "a6a91f787ca86ac22319719e899fd323f2edc9be"
     },
     "python-pillow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pillow.git",
