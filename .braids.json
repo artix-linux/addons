@@ -1474,7 +1474,7 @@
     "python-acme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-acme.git",
       "branch": "master",
-      "revision": "7cd55b1f6c313af06be9671033e27ffce8a42147"
+      "revision": "f16ce81488e20e0619ff3250346a861bb7863da6"
     },
     "python-adblock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-adblock.git",
