@@ -5474,7 +5474,7 @@
     "python-pyserial": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyserial.git",
       "branch": "master",
-      "revision": "b4374bbf64dd0a5e1ef4b1e3ec36e2630e6121d6"
+      "revision": "857c2ef772f8c38c3e545ee59f1822c9f4aeea64"
     },
     "python-pysmt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysmt.git",
