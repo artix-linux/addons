@@ -1789,7 +1789,7 @@
     "python-authres": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-authres.git",
       "branch": "master",
-      "revision": "6bfca63015749cb49a90537345c9df40d6f577f2"
+      "revision": "8675d5067abde863437d474a294a2e7336014a96"
     },
     "python-autobahn": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autobahn.git",
