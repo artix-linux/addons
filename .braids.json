@@ -2649,7 +2649,7 @@
     "python-django-picklefield": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-picklefield.git",
       "branch": "master",
-      "revision": "bc603c8511469ce544341ce177798d58a74c328e"
+      "revision": "8f69fb7450b16dbdf521eee15e8556298979263b"
     },
     "python-django-q": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-q.git",
