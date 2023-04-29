@@ -4909,7 +4909,7 @@
     "python-ply": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ply.git",
       "branch": "master",
-      "revision": "37b0bbe0cd0c702c0c260a575b14aea39f49021e"
+      "revision": "6dfe8976adf356c6ac02502d21e3dfeeae274246"
     },
     "python-poetry": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry.git",
