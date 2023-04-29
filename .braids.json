@@ -5929,7 +5929,7 @@
     "python-rapidfuzz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rapidfuzz.git",
       "branch": "master",
-      "revision": "20a733b35aa0f6376c6a92661f79c884baaf298c"
+      "revision": "23ed9ef57152bb4a07f0231e602e1cca01826f8c"
     },
     "python-rapidfuzz-capi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rapidfuzz-capi.git",
