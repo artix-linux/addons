@@ -4374,7 +4374,7 @@
     "python-netaddr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-netaddr.git",
       "branch": "master",
-      "revision": "a2bc246c236dc4db515a5795e0fd2cf8fa3a8a4d"
+      "revision": "6a9a54d5204ff2bd662f1b052c80f61224f611d2"
     },
     "python-netcdf4": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-netcdf4.git",
