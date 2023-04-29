@@ -5759,7 +5759,7 @@
     "python-pytest-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-trio.git",
       "branch": "master",
-      "revision": "320a74f63d1a4bd5aedd75534ff4ad1720a8ba54"
+      "revision": "a0361e09c9a56b1f3b6fa30fb93e074a2a31dc9d"
     },
     "python-pytest-twisted": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-twisted.git",
