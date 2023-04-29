@@ -4404,7 +4404,7 @@
     "python-nodeenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nodeenv.git",
       "branch": "master",
-      "revision": "786ea38144aaf9c38a9078161a14f4f4bf32937b"
+      "revision": "2e71d120581b942d014dc0b30ba2000f968e1a99"
     },
     "python-nose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose.git",
