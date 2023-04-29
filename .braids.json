@@ -2459,7 +2459,7 @@
     "python-dask": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dask.git",
       "branch": "master",
-      "revision": "7e09fce841dba2a80cafd18ee15192b96c7b8b41"
+      "revision": "a75bc2752bd29a929055418fbcf111170baf591c"
     },
     "python-databases": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-databases.git",
