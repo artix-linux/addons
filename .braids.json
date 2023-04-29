@@ -5419,7 +5419,7 @@
     "python-pyproject-metadata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyproject-metadata.git",
       "branch": "master",
-      "revision": "511c8d3056ee8190fb1cca016b1d9241c4837633"
+      "revision": "907a5ecb482b404496efcb42025a3a2edf4d73ce"
     },
     "python-pyproject2setuppy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyproject2setuppy.git",
