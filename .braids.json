@@ -2304,7 +2304,7 @@
     "python-commentjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-commentjson.git",
       "branch": "master",
-      "revision": "cc63b03d2ad1412aea2c0a9c1d9d0c665083cda0"
+      "revision": "b275cd80b5a8f72450decee698f7ed640f931a00"
     },
     "python-commonmark": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-commonmark.git",
