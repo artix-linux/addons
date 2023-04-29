@@ -5664,7 +5664,7 @@
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
-      "revision": "6b342f9fc73a7223ba599c146d4ac1f2b14fe896"
+      "revision": "72ac44bf65802dd70e3aae9bbe1914bc18ca7e48"
     },
     "python-pytest-param-files": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-param-files.git",
