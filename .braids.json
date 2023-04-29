@@ -1924,7 +1924,7 @@
     "python-bitstring": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bitstring.git",
       "branch": "master",
-      "revision": "b001f9a0d65a60bf5440f46481902fa65aaa4630"
+      "revision": "4af64fa6607e143db2427fa3e81e2cdf39fa3089"
     },
     "python-black": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-black.git",
