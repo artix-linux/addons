@@ -4214,7 +4214,7 @@
     "python-minidump": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-minidump.git",
       "branch": "master",
-      "revision": "b4d27c37469fbc5fe54837f9fa10c50e0ddefde9"
+      "revision": "5a9753e1d3e21f2bd17f9a499394c65a11b4c268"
     },
     "python-mistune": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mistune.git",
