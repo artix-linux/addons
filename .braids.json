@@ -5159,7 +5159,7 @@
     "python-pydocstyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydocstyle.git",
       "branch": "master",
-      "revision": "0f95191a4bcddc8dd92428dc4ebb4e1887a51dd8"
+      "revision": "c1368e2e0abd3fd347fde6a45ded1e3f54c0c00f"
     },
     "python-pydot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pydot.git",
