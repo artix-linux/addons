@@ -5034,7 +5034,7 @@
     "python-ptyprocess": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ptyprocess.git",
       "branch": "master",
-      "revision": "b29ad960ce096054011eb1f30c3364eea7b676b4"
+      "revision": "383c50ce26cb974275e3d2aac13c8474f7a3f44e"
     },
     "python-publicsuffix2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-publicsuffix2.git",
