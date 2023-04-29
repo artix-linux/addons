@@ -4889,7 +4889,7 @@
     "python-platformdirs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-platformdirs.git",
       "branch": "master",
-      "revision": "7e8afe7dd5a860de4a9794d90ce8e979fcf08624"
+      "revision": "1863197db18b3e61bd42783e86d0431481f31542"
     },
     "python-plette": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-plette.git",
