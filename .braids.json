@@ -5269,7 +5269,7 @@
     "python-pyjwt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyjwt.git",
       "branch": "master",
-      "revision": "819d8f3a09c4a0acaa5f3b56a04e6f779cff40ef"
+      "revision": "89348a9e03fcaf5c303f6bb0f2b530346c351a42"
     },
     "python-pykerberos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pykerberos.git",
