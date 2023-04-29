@@ -2319,7 +2319,7 @@
     "python-configupdater": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-configupdater.git",
       "branch": "master",
-      "revision": "ce7564ca39fa3750c12e83199768791025793b25"
+      "revision": "bb451cb0f7c72a835c7ee2d1fe0a06b766df4770"
     },
     "python-confuse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-confuse.git",
