@@ -1614,7 +1614,7 @@
     "python-anyjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anyjson.git",
       "branch": "master",
-      "revision": "cbdf8a43a91d663ae4dda11e73f8bde107f9d157"
+      "revision": "8c19f0cfa5c6168fb2e0e378a490c86424a69c55"
     },
     "python-anytree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anytree.git",
