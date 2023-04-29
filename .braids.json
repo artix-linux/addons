@@ -3139,7 +3139,7 @@
     "python-fs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fs.git",
       "branch": "master",
-      "revision": "a6b89d358f3dc63f4ffcf5e06daed4496a27a8c3"
+      "revision": "48afc70410a4f468b49e98d671982b63fde162e1"
     },
     "python-fsspec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fsspec.git",
