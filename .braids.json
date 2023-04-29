@@ -5484,7 +5484,7 @@
     "python-pysocks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysocks.git",
       "branch": "master",
-      "revision": "0d20292d2b28e67476492c74e806537fb897beff"
+      "revision": "1b1c98dce03770e570c34f8e80a1ce79a831e14e"
     },
     "python-pysol_cards": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysol_cards.git",
