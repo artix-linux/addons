@@ -3809,7 +3809,7 @@
     "python-junit-xml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-junit-xml.git",
       "branch": "master",
-      "revision": "a5abc9f1a409d43ec836626c432d199da2344841"
+      "revision": "cdcd4b4b1cf866fabb5020eac74384bd6606e8dd"
     },
     "python-jupyter-client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter-client.git",
