@@ -2264,7 +2264,7 @@
     "python-cmarkgfm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cmarkgfm.git",
       "branch": "master",
-      "revision": "87eab47fabf1389e225c7d56c343397783eca04c"
+      "revision": "38585b3717107595c679e494d0b161c64bf4e227"
     },
     "python-cmd2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cmd2.git",
