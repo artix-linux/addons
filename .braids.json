@@ -5489,7 +5489,7 @@
     "python-pysol_cards": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysol_cards.git",
       "branch": "master",
-      "revision": "9b3c3be7e2fbd6c38e1c8e92abafc9957a521948"
+      "revision": "0986ef6d046e81428c89f53a146ebd9d2d041005"
     },
     "python-pysolr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysolr.git",
