@@ -2759,7 +2759,7 @@
     "python-ecdsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ecdsa.git",
       "branch": "master",
-      "revision": "05911ea70c8639055f9f540addfd581be6624d9b"
+      "revision": "4fb73cce49557d43c9e9edbf94d2c029cf09ce72"
     },
     "python-editables": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editables.git",
