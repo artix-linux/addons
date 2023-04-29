@@ -2619,7 +2619,7 @@
     "python-django-fake-model": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-fake-model.git",
       "branch": "master",
-      "revision": "bc8d7277dee6ec489dd51a462a5eda80a5b9d869"
+      "revision": "6f46db496b293cf767ddebd2fab2ed24cd8b7d68"
     },
     "python-django-filter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-filter.git",
