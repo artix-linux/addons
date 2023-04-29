@@ -3954,7 +3954,7 @@
     "python-ldap": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ldap.git",
       "branch": "master",
-      "revision": "3ea34cf205fb0cfe3d5368a8c862e94ed9ed5217"
+      "revision": "9473f56c35b3647975e0ff5366035021acd87ed9"
     },
     "python-ldap3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ldap3.git",
