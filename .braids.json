@@ -1834,7 +1834,7 @@
     "python-axolotl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-axolotl.git",
       "branch": "master",
-      "revision": "1d86e77f9101943ffd868f5db8f64f977f70aa51"
+      "revision": "fe78b7c6fadb7c1c891d53cc4c169c87cab99956"
     },
     "python-axolotl-curve25519": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-axolotl-curve25519.git",
