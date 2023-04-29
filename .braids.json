@@ -4314,7 +4314,7 @@
     "python-munch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-munch.git",
       "branch": "master",
-      "revision": "dd1e3a84fa08c34696acf00d04b645b2d7e38784"
+      "revision": "2422c0db4166fe324023372d7a5a5e0ab5006e18"
     },
     "python-munkres": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-munkres.git",
