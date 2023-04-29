@@ -3129,7 +3129,7 @@
     "python-frozendict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozendict.git",
       "branch": "master",
-      "revision": "4117c442cb3b739bb1605cd4d3df296b9bb97858"
+      "revision": "7b4364dba947c84962c21f443e46dc26c944a3b8"
     },
     "python-frozenlist": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozenlist.git",
