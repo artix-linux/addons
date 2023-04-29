@@ -4154,7 +4154,7 @@
     "python-matplotlib-inline": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-matplotlib-inline.git",
       "branch": "master",
-      "revision": "4561b84fe5fcab5cd891755d06a1e9cfb7573be2"
+      "revision": "30e962269ab41a79dbfb41e785d9d6f994d67aa2"
     },
     "python-matrix-common": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-matrix-common.git",
