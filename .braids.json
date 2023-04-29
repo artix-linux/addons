@@ -3774,7 +3774,7 @@
     "python-jsonpatch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonpatch.git",
       "branch": "master",
-      "revision": "a87b974283ac4b34ecb34d5f55c60b10a8c7ca4c"
+      "revision": "247cf62f1a7d2947579bffe2e751d3b9d12c9439"
     },
     "python-jsonpickle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonpickle.git",
