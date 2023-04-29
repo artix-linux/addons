@@ -2219,7 +2219,7 @@
     "python-click-help-colors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-help-colors.git",
       "branch": "master",
-      "revision": "60bfa5f274f46b38367412561ea4029b081629c6"
+      "revision": "2b50db03409816141f01d2e09ff96c9b754a96ab"
     },
     "python-click-option-group": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-option-group.git",
