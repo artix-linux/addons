@@ -2424,7 +2424,7 @@
     "python-cucumber-tag-expressions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cucumber-tag-expressions.git",
       "branch": "master",
-      "revision": "bae6118ad3a7139b0232459fee45e4a00c5562d0"
+      "revision": "28d03415593d92cd540d06a566c3b6ef3cc9880d"
     },
     "python-curio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-curio.git",
