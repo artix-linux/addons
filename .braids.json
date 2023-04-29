@@ -3134,7 +3134,7 @@
     "python-frozenlist": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozenlist.git",
       "branch": "master",
-      "revision": "ed37637176e84fcaf0db6037e497c166469b984d"
+      "revision": "1d4c7f9e9ff86cce57daaeaa4208d738d901703c"
     },
     "python-fs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fs.git",
