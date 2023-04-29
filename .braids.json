@@ -2829,7 +2829,7 @@
     "python-et-xmlfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-et-xmlfile.git",
       "branch": "master",
-      "revision": "1a99f086e9a9033475c6637544c204d18e586b2b"
+      "revision": "90fed3158675277dc34946e43d39a3d7a90e946e"
     },
     "python-evdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
