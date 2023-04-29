@@ -3169,7 +3169,7 @@
     "python-gast": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gast.git",
       "branch": "master",
-      "revision": "67d8da8b384a70d809898dad5def1ab1c7650b60"
+      "revision": "48776c52ae152c6ecaf86754338864676ae9bc38"
     },
     "python-gast03": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gast03.git",
