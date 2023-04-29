@@ -2194,7 +2194,7 @@
     "python-clevercsv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clevercsv.git",
       "branch": "master",
-      "revision": "20330867c26dbb715f18ca3b6b5b8e49acc5e032"
+      "revision": "86310a45d30431446c2858497b21e8aa967c3feb"
     },
     "python-click": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click.git",
