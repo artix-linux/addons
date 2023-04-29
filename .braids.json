@@ -4184,7 +4184,7 @@
     "python-mediafile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mediafile.git",
       "branch": "master",
-      "revision": "5c708295138f3a6b858370b3b8ba8f6a14828caf"
+      "revision": "a4340e6bbbdf9240782c2ad36afcdfc91b3f897e"
     },
     "python-memcached": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-memcached.git",
