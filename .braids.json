@@ -4274,7 +4274,7 @@
     "python-mpd2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpd2.git",
       "branch": "master",
-      "revision": "9938c06b270d0823aa287f0014d1a4cd697f67ac"
+      "revision": "16b087e56952c8fe0b50f98f4cd066ca4e893ef9"
     },
     "python-mpi4py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpi4py.git",
