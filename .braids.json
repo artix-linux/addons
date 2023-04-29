@@ -3389,7 +3389,7 @@
     "python-hiredis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hiredis.git",
       "branch": "master",
-      "revision": "27998d1cc585a1a5d7f922a25926a166aeccb80f"
+      "revision": "cbaf838d9e795da10a0e84b2808f5281a9fb2de3"
     },
     "python-hkdf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hkdf.git",
