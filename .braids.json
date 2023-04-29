@@ -5204,7 +5204,7 @@
     "python-pygal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygal.git",
       "branch": "master",
-      "revision": "a9fa042ed55cd602d90dcb20244940fa736bcb28"
+      "revision": "0ee91c0f7dabfe23b1be3763157a811199d8d006"
     },
     "python-pygaljs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pygaljs.git",
