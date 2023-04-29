@@ -1919,7 +1919,7 @@
     "python-biscuits": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-biscuits.git",
       "branch": "master",
-      "revision": "30a55dee35c3ed997e8fcd1cff6b158efe7f03a8"
+      "revision": "cdedc43ed5e2ae7ce3f7c786626464565b711ee1"
     },
     "python-bitstring": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bitstring.git",
