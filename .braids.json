@@ -4959,7 +4959,7 @@
     "python-precis_i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-precis_i18n.git",
       "branch": "master",
-      "revision": "baf7ffbaadd58f49203d783fed00429179f01319"
+      "revision": "17b817aabbc8ecfd3fc82f1747043554853740ef"
     },
     "python-pretend": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pretend.git",
