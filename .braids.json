@@ -3889,7 +3889,7 @@
     "python-keras-applications": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keras-applications.git",
       "branch": "master",
-      "revision": "a98da5ca51ffb75aeb226060331279ff4e4ed4c9"
+      "revision": "476e240dce46bad2a4f350d2171c4a030d3ed1b7"
     },
     "python-keras-preprocessing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keras-preprocessing.git",
