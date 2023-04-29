@@ -4994,7 +4994,7 @@
     "python-prometheus_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
       "branch": "master",
-      "revision": "e717317e7d347848d673aaa3e53e221ac2f9fffc"
+      "revision": "405b790a565961f950e55c25b310095d0c9760f2"
     },
     "python-promise": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-promise.git",
