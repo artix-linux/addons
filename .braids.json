@@ -4069,7 +4069,7 @@
     "python-lsprotocol": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lsprotocol.git",
       "branch": "master",
-      "revision": "c9fb70f83b6961e0efc15a23b649eef3e3fa1c46"
+      "revision": "bb23a73d676d85dd331302d91454e080a0301b2f"
     },
     "python-lupa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lupa.git",
