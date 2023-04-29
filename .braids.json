@@ -5574,7 +5574,7 @@
     "python-pytest-django": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-django.git",
       "branch": "master",
-      "revision": "7292abbc57d1d1fb82195ec7c64f461f3d8b7d7c"
+      "revision": "391d57788d4e7f6882710da9504bc8caebd49ce1"
     },
     "python-pytest-enabler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-enabler.git",
