@@ -3324,7 +3324,7 @@
     "python-h11": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-h11.git",
       "branch": "master",
-      "revision": "e8a99d22e7ee56897fb67aafb5a7a9fc1d06f5b7"
+      "revision": "dd4028b17e9efb4942c21b2bd308d4d7a16f80d4"
     },
     "python-h2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-h2.git",
