@@ -3314,7 +3314,7 @@
     "python-greenlet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-greenlet.git",
       "branch": "master",
-      "revision": "d34880cc8a887e71472326b3c784ed72dd5930cb"
+      "revision": "3e666df7df5347e82333bdfe9e6a65a09729110c"
     },
     "python-gssapi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gssapi.git",
