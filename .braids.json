@@ -6544,7 +6544,7 @@
     "python-sphinxcontrib-devhelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-devhelp.git",
       "branch": "master",
-      "revision": "187941b99733ff95ebfcb62c72289dbaa3f3aea2"
+      "revision": "08469e3952a431e191079f8ef2370f83751352aa"
     },
     "python-sphinxcontrib-htmlhelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-htmlhelp.git",
