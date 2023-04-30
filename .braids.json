@@ -7434,7 +7434,7 @@
     "python-zope-configuration": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-configuration.git",
       "branch": "master",
-      "revision": "4e5b81d80231c2984ca88d769a3d0d8de696edae"
+      "revision": "d35511591d7fdac19456c58fb31cb50fe21025ba"
     },
     "python-zope-copy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-copy.git",
