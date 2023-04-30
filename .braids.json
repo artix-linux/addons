@@ -6679,7 +6679,7 @@
     "python-strict-rfc3339": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-strict-rfc3339.git",
       "branch": "master",
-      "revision": "577ac9cd963ae4e3a3de64b8e162e83228759ed6"
+      "revision": "6d8dfc26f5c3d4a10ac586ce5c91194671ee2559"
     },
     "python-structlog": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-structlog.git",
