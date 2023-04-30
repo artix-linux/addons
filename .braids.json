@@ -6289,7 +6289,7 @@
     "python-setuptools-gettext": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools-gettext.git",
       "branch": "master",
-      "revision": "39510bc503c86a713ee98ce3a1ed397970060de9"
+      "revision": "0488248365ae09a0f89be9903c5bf328982dae49"
     },
     "python-setuptools-git": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools-git.git",
