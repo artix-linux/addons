@@ -6179,7 +6179,7 @@
     "python-ruamel.yaml.clib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ruamel.yaml.clib.git",
       "branch": "master",
-      "revision": "ef674667e76f437a6412c02bdc0841cf674719cb"
+      "revision": "e4be52c543aa14f26f01124b58ec6a0b921fb0f3"
     },
     "python-rx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rx.git",
