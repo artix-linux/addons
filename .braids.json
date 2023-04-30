@@ -7324,7 +7324,7 @@
     "python-xlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlib.git",
       "branch": "master",
-      "revision": "ae8e80fc97d5b5e971c56234aca54103dbc91c06"
+      "revision": "110c8c25f124ff55d2a4fb44d5e38869baf0ec0b"
     },
     "python-xlrd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlrd.git",
