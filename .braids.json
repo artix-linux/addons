@@ -6334,7 +6334,7 @@
     "python-should-dsl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-should-dsl.git",
       "branch": "master",
-      "revision": "8fe7ada7e1f9c9972149434bd9c1e02a41ec048c"
+      "revision": "5f57c8a1c5e41b794617643dc288692070ed89e8"
     },
     "python-shtab": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-shtab.git",
