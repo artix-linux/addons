@@ -7004,7 +7004,7 @@
     "python-u-msgpack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-u-msgpack.git",
       "branch": "master",
-      "revision": "90c7f36b5e17ef3dfdffead77fc5b4896492c5fa"
+      "revision": "ef02c4d9d5eb96860a5d225a828e5dd534fc527f"
     },
     "python-ubjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ubjson.git",
