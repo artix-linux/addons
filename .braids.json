@@ -5994,7 +5994,7 @@
     "python-rednose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rednose.git",
       "branch": "master",
-      "revision": "c49b3273ea829ab9a80ed5c400d5108fa435fe5a"
+      "revision": "2b42d9b249338d9ee739d04eacc7fa7d0f2d885c"
     },
     "python-reflink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-reflink.git",
