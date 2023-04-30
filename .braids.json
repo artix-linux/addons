@@ -7454,7 +7454,7 @@
     "python-zope-event": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-event.git",
       "branch": "master",
-      "revision": "c3085fdbccaff1b9e8196490866f525b4043c406"
+      "revision": "b002dbfef97434e69a12618f2396c832c91b7358"
     },
     "python-zope-exceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-exceptions.git",
