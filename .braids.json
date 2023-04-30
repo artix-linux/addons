@@ -7424,7 +7424,7 @@
     "python-zipp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zipp.git",
       "branch": "master",
-      "revision": "ab550283cebe3bcd09ec31bac4ff1b5ede681cc7"
+      "revision": "4a3e4eb0617bbbc33bab5cd8d1107d87967bf4af"
     },
     "python-zope-component": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-component.git",
