@@ -7139,7 +7139,7 @@
     "python-vistir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vistir.git",
       "branch": "master",
-      "revision": "e5ca6c3a7f8ec3ecaa54d6590e4bc7af03c8e032"
+      "revision": "4058cd7af22e1e349b41793eb029f709c8f56a10"
     },
     "python-vmprof": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vmprof.git",
