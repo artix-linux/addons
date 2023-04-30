@@ -6529,7 +6529,7 @@
     "python-sphinx-theme-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-theme-builder.git",
       "branch": "master",
-      "revision": "02ba5d2a5a92ecebe8ab9030a1a32878ae8e64c7"
+      "revision": "f82b5fe58afe8d18867e7b0aaf738e586b90f218"
     },
     "python-sphinx_rtd_theme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx_rtd_theme.git",
