@@ -6039,7 +6039,7 @@
     "python-requests-ftp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-ftp.git",
       "branch": "master",
-      "revision": "ada6375853e951e1d84e2c532812a2332427a2b6"
+      "revision": "90fad3b61e002387891c088002565dc1ee482981"
     },
     "python-requests-futures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-futures.git",
