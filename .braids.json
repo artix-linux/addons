@@ -6069,7 +6069,7 @@
     "python-requests-toolbelt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-toolbelt.git",
       "branch": "master",
-      "revision": "d55e1155f981cb830dfa07c9f48ee463a52af1eb"
+      "revision": "efd85f4cc8ce056ff8e28adcbe624e63acbbc5ef"
     },
     "python-requests-unixsocket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-unixsocket.git",
