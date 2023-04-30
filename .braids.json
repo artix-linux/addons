@@ -6804,7 +6804,7 @@
     "python-testresources": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testresources.git",
       "branch": "master",
-      "revision": "2a69c711607dc0748d14f0b3abc750d1911ba8f0"
+      "revision": "043d1bcf0b98a0c812e0f953730cecd4fdd235ad"
     },
     "python-testscenarios": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testscenarios.git",
