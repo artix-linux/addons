@@ -6434,7 +6434,7 @@
     "python-spake2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spake2.git",
       "branch": "master",
-      "revision": "7e7b64ac1254a9aa87152afc8ac5cb3bee3e8fd2"
+      "revision": "263b7eb1c1e33fae88ee88c369b60a7f60d8f5bf"
     },
     "python-sparqlwrapper": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sparqlwrapper.git",
