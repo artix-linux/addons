@@ -7229,7 +7229,7 @@
     "python-webtest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webtest.git",
       "branch": "master",
-      "revision": "d1dddcbca08b0bf3830ebd383e372b9100c9db23"
+      "revision": "a9d75a7a3d8ad0b72a915b92366601b81ca7fced"
     },
     "python-werkzeug": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-werkzeug.git",
