@@ -3009,7 +3009,7 @@
     "python-flaky": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flaky.git",
       "branch": "master",
-      "revision": "2cba91834dc3258b092f4f0be25bf9b247bd79cb"
+      "revision": "e9ab3debf14ce8ef7bf79e696b0391839e10af58"
     },
     "python-flasgger": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flasgger.git",
