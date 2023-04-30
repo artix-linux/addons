@@ -969,7 +969,7 @@
     "perl-pod-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-pod-parser.git",
       "branch": "master",
-      "revision": "39e06aaacec626c59ae291951e18cf0747a27868"
+      "revision": "29e50a001d168ed7b18a77487d868d2058d6e8db"
     },
     "perl-pod-spell": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-pod-spell.git",
