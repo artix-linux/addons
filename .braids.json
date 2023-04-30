@@ -6259,7 +6259,7 @@
     "python-send2trash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-send2trash.git",
       "branch": "master",
-      "revision": "7c13af114573bd72d603de1a3c3b5c9d73eba376"
+      "revision": "2297b3305226c22a44ef1bf359e0939a3de94127"
     },
     "python-sentinels": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sentinels.git",
