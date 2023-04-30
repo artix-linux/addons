@@ -7114,7 +7114,7 @@
     "python-vcrpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vcrpy.git",
       "branch": "master",
-      "revision": "6361691c1f0a0da786df21b34c5b7906cedacbed"
+      "revision": "96b7a8cdf6bcf0776f1a94932ed1c3208f17dc3b"
     },
     "python-versioneer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-versioneer.git",
