@@ -7349,7 +7349,7 @@
     "python-xmlsec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmlsec.git",
       "branch": "master",
-      "revision": "91a4f83028c2d0b62f9786277ece78dde3c4b2e6"
+      "revision": "a1fdccf02896a1b94e6efbed8fced0f65b7088e6"
     },
     "python-xmltodict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmltodict.git",
