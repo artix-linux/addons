@@ -6044,7 +6044,7 @@
     "python-requests-futures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-futures.git",
       "branch": "master",
-      "revision": "e05954816496ac2dcc2c08e296b4a1c5d07592c6"
+      "revision": "3fbfb3b82beb453c151331ad81ad57f3bb69c05b"
     },
     "python-requests-kerberos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-kerberos.git",
