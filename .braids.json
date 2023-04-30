@@ -6249,7 +6249,7 @@
     "python-semantic-version": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-semantic-version.git",
       "branch": "master",
-      "revision": "9a99037e1ea96e29ed07fd04677c08f062f2a3f6"
+      "revision": "9e5af30aa113dc7884c52d7257009b9cee8efb0e"
     },
     "python-semver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-semver.git",
