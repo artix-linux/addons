@@ -6629,7 +6629,7 @@
     "python-sshpubkeys": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sshpubkeys.git",
       "branch": "master",
-      "revision": "5d4f363ba429531133f3b06ce11c098f1e2e9283"
+      "revision": "fedb828ce1e331501ab6a584756ca6cf52be5f22"
     },
     "python-stack-data": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stack-data.git",
