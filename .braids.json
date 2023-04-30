@@ -6009,7 +6009,7 @@
     "python-rencode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rencode.git",
       "branch": "master",
-      "revision": "5284117017d6891c9200c3cd744ba84fe715c293"
+      "revision": "1650b15369e1b7aadd9f890567af31439b7fd28d"
     },
     "python-reportlab": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-reportlab.git",
