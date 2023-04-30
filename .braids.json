@@ -7474,7 +7474,7 @@
     "python-zope-interface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-interface.git",
       "branch": "master",
-      "revision": "3a5e090c42566a08579c3f34edd9cbbda8630086"
+      "revision": "521cba8de6d7148dae7f0d2da9cbb9113885444b"
     },
     "python-zope-location": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-location.git",
