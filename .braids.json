@@ -6504,7 +6504,7 @@
     "python-sphinx-issues": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-issues.git",
       "branch": "master",
-      "revision": "ba96da8e319401cca7cc28ca64b7955b51d3e4f4"
+      "revision": "b53b4febfbf463bfb4d7a8f966a9a1f93152c39a"
     },
     "python-sphinx-jinja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-jinja.git",
