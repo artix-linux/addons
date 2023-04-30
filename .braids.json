@@ -6149,7 +6149,7 @@
     "python-routes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-routes.git",
       "branch": "master",
-      "revision": "a08be28f81f9c7f22e8c323e12660331e4b29a8e"
+      "revision": "0f71532de8900ffc542cdd6b087855cfb3340eca"
     },
     "python-rply": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rply.git",
