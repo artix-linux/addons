@@ -7164,7 +7164,7 @@
     "python-waitress": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-waitress.git",
       "branch": "master",
-      "revision": "697514b6d9cd7a232c47c305621b739992a14862"
+      "revision": "ed3017e7efdcaad42804c16016f8c78b609146d2"
     },
     "python-wand": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wand.git",
