@@ -6404,7 +6404,7 @@
     "python-socketio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-socketio.git",
       "branch": "master",
-      "revision": "94aeefccc4d2af0301e3ebd248670b20d00206e0"
+      "revision": "cc8e4d8cb1a5a6433ed8ed27233da1511710e625"
     },
     "python-socketpool": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-socketpool.git",
