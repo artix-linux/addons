@@ -6489,7 +6489,7 @@
     "python-sphinx-copybutton": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-copybutton.git",
       "branch": "master",
-      "revision": "768a6048906d3d6239918782550527d1158d3daf"
+      "revision": "8eeb1e2b0126fe8f8fed36d835833e8ede203394"
     },
     "python-sphinx-furo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-furo.git",
