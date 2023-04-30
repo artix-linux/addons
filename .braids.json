@@ -7439,7 +7439,7 @@
     "python-zope-copy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-copy.git",
       "branch": "master",
-      "revision": "ed73a5954b9efbc9e8384c53a35d5d6229f12ea0"
+      "revision": "d2135cc899be4c92cbf4c69c19f5c25eba6220f7"
     },
     "python-zope-deferredimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-deferredimport.git",
