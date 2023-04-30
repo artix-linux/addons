@@ -7294,7 +7294,7 @@
     "python-xapian": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xapian.git",
       "branch": "master",
-      "revision": "6d79260ebc5ca1df9b628e78713a51e1b7c6897f"
+      "revision": "3337a04a6c71943f1edaa238475c76fd73da04bd"
     },
     "python-xapian-haystack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xapian-haystack.git",
