@@ -6419,7 +6419,7 @@
     "python-sortedcollections": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sortedcollections.git",
       "branch": "master",
-      "revision": "e6107898ca987b4c547169b4dfb039d9b9e36569"
+      "revision": "98f1cc408391c3917ec2ca0a7258640dfaf25057"
     },
     "python-sortedcontainers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sortedcontainers.git",
