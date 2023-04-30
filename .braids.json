@@ -6159,7 +6159,7 @@
     "python-rpyc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rpyc.git",
       "branch": "master",
-      "revision": "ab5075dc563415ad5c1d409b119b7e0ef7e1e2c7"
+      "revision": "8e8a152eef06fb8efb9c50798627277ce663f51e"
     },
     "python-rsa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rsa.git",
