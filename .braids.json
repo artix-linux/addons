@@ -6569,7 +6569,7 @@
     "python-sphinxcontrib-serializinghtml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-serializinghtml.git",
       "branch": "master",
-      "revision": "dc455f2237f16e33b685adb5c6f99f538a4611f5"
+      "revision": "4e2eb50e1b0ac8e9a30536ac8449d3029d76f85c"
     },
     "python-sphinxcontrib-spelling": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-spelling.git",
