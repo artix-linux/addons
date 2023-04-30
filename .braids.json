@@ -7109,7 +7109,7 @@
     "python-validators": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-validators.git",
       "branch": "master",
-      "revision": "f51ffcea6ad0590b9eaa6a5c7f0b9dee0043df6c"
+      "revision": "0e600b8f39fd633d129d198038bf132f4454a610"
     },
     "python-vcrpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vcrpy.git",
