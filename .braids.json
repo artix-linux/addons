@@ -6954,7 +6954,7 @@
     "python-txredisapi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txredisapi.git",
       "branch": "master",
-      "revision": "79753a374f03806974676a1072cd1de0e052773c"
+      "revision": "6fd29802891bc46481cb87d9f1032a5692916cbe"
     },
     "python-txrequests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txrequests.git",
