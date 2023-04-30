@@ -6969,7 +6969,7 @@
     "python-typed-ast": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typed-ast.git",
       "branch": "master",
-      "revision": "8fd0b3833590a70ddacca905bb424e6e166b4bd1"
+      "revision": "eea0a659fbe4c9594e290a5fc2bdb785ad19ae2d"
     },
     "python-typeguard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typeguard.git",
