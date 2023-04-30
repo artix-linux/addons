@@ -6244,7 +6244,7 @@
     "python-seedir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-seedir.git",
       "branch": "master",
-      "revision": "3fa08b30571c1600f85afa8d28c4d3d5964fc0b1"
+      "revision": "acde6362fc02f00b0b214b6d154434e49ffe0571"
     },
     "python-semantic-version": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-semantic-version.git",
