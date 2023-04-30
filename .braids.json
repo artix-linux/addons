@@ -6914,7 +6914,7 @@
     "python-transaction": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-transaction.git",
       "branch": "master",
-      "revision": "c29d03f7f8609bdcc1c8b659497fda96c244a01a"
+      "revision": "fe3850fb7ccef0176779735fbadd12ffde1693a0"
     },
     "python-treq": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-treq.git",
