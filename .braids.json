@@ -7059,7 +7059,7 @@
     "python-unidiff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unidiff.git",
       "branch": "master",
-      "revision": "68e5b2de787095a1fffc3bd2d17f0fac13440418"
+      "revision": "511a5174269e370763247901b3e0f5672c08dd52"
     },
     "python-unittest-mixins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unittest-mixins.git",
