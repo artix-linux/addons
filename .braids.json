@@ -6999,7 +6999,7 @@
     "python-tzlocal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tzlocal.git",
       "branch": "master",
-      "revision": "b14f041fea95269c34e9819b012acedb4225d4ae"
+      "revision": "1251735f84d15dedf3650f0e976ae9add9dfe228"
     },
     "python-u-msgpack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-u-msgpack.git",
