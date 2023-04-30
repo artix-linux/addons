@@ -6344,7 +6344,7 @@
     "python-signedjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-signedjson.git",
       "branch": "master",
-      "revision": "ba18a0c4f14dcfb75c8bbd89703c7f2a8882398a"
+      "revision": "5171b5fc62187ba25aef5a21cbb498e7d4f47627"
     },
     "python-simplejson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-simplejson.git",
