@@ -7494,7 +7494,7 @@
     "python-zope-security": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-security.git",
       "branch": "master",
-      "revision": "ded10e940a2ecaaaae932415f7e6728cd5022e54"
+      "revision": "e1946a3f21b76ae9ce458f66dd9f7c4279f6eb08"
     },
     "python-zope-testing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-testing.git",
