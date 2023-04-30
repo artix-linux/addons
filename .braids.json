@@ -6379,7 +6379,7 @@
     "python-smbprotocol": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-smbprotocol.git",
       "branch": "master",
-      "revision": "40f61a7e9660f244f50d05011a4a9b145a5d006f"
+      "revision": "61ff88a231be391a494e489bed18141e7033c2f2"
     },
     "python-smmap": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-smmap.git",
