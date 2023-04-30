@@ -6059,7 +6059,7 @@
     "python-requests-ntlm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-ntlm.git",
       "branch": "master",
-      "revision": "e43d50838ddf220368c628fe9790b3acd2151a5d"
+      "revision": "e1627a4f40e13763ef57b7104728ecdc6600ab92"
     },
     "python-requests-oauthlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-oauthlib.git",
