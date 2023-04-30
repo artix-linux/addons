@@ -7274,7 +7274,7 @@
     "python-wsgiproxy2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsgiproxy2.git",
       "branch": "master",
-      "revision": "9483aef2b46c714b2233bdf43a866c9310e36b80"
+      "revision": "2e01de9bc9f6b8817329272ab99c252e1d5f82bc"
     },
     "python-wsproto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsproto.git",
