@@ -6769,7 +6769,7 @@
     "python-terminado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-terminado.git",
       "branch": "master",
-      "revision": "e57eb1e9813cd84c11934887984a4b1424b6b4b3"
+      "revision": "b70c2bc886c1f17e0a96be67960e2ddeb6d09cd3"
     },
     "python-termstyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-termstyle.git",
