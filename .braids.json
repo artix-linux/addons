@@ -6094,7 +6094,7 @@
     "python-resolvelib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-resolvelib.git",
       "branch": "master",
-      "revision": "56a170e42c23cadfca06423c4cb1d854932ead74"
+      "revision": "b74e624eaa22958ba3f5582f221190f4651c2c15"
     },
     "python-responses": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-responses.git",
