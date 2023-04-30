@@ -6384,7 +6384,7 @@
     "python-smmap": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-smmap.git",
       "branch": "master",
-      "revision": "138855882e4101aafdd1fcce8bfabed1c352eb01"
+      "revision": "bcd32f38eed40b70462d16ea5c303bcd60a41dac"
     },
     "python-snappy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-snappy.git",
