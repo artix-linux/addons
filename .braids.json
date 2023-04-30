@@ -6074,7 +6074,7 @@
     "python-requests-unixsocket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-unixsocket.git",
       "branch": "master",
-      "revision": "986cf7c0597897be0cf71f017601166c45f97304"
+      "revision": "ab37305aa2d0c71de3775813557abaeef6231c19"
     },
     "python-requests-wsgi-adapter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-wsgi-adapter.git",
