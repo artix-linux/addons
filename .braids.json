@@ -2864,7 +2864,7 @@
     "python-expects": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-expects.git",
       "branch": "master",
-      "revision": "11bc5269ab5e45b9d1ff14039677a3a112738c36"
+      "revision": "fae8321849fe6a9d4c65d66cd527a3c191b21280"
     },
     "python-extras": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-extras.git",
