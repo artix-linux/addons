@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _name=ifaddr
 pkgname=python-ifaddr
 pkgver=0.2.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Enumerates all IP addresses on all network adapters of the system"
 arch=('any')
 url="https://github.com/pydron/ifaddr"
