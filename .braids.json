@@ -3594,7 +3594,7 @@
     "python-ipdb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipdb.git",
       "branch": "master",
-      "revision": "ccbb206ee4f517160c09cd8ec6058b270d22b2a4"
+      "revision": "667ac3464438696d237873fad839b84ec7d4293d"
     },
     "python-ipykernel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ipykernel.git",
