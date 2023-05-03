@@ -1759,7 +1759,7 @@
     "python-atomicwrites": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-atomicwrites.git",
       "branch": "master",
-      "revision": "b2931c5435aa9284a9ac90ff370b13f59ed1619c"
+      "revision": "7c1408f22b04a9a5bf8a7b06a50b87171cc23042"
     },
     "python-atpublic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-atpublic.git",
