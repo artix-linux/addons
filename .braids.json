@@ -1569,7 +1569,7 @@
     "python-aiounittest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiounittest.git",
       "branch": "master",
-      "revision": "0df77ce8b27283972ff21848ae2dc585b7074389"
+      "revision": "61d37db05676a81dfa0133cf657005a35079a618"
     },
     "python-alembic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-alembic.git",
