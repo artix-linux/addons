@@ -5294,7 +5294,7 @@
     "python-pylibmc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylibmc.git",
       "branch": "master",
-      "revision": "ed4d776779b29989088a0b4e62f7b7023fa0dbce"
+      "revision": "1c95ff600e1b47bb43a18d649ea5f1735199e385"
     },
     "python-pylink-square": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylink-square.git",
