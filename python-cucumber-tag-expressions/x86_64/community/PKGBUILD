@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-cucumber-tag-expressions
 pkgver=4.1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Provides tag-expression parser for cucumber/behave"
-url="https://github.com/cucumber/tag-expressions-python"
+url="https://github.com/cucumber/tag-expressions"
 license=('MIT')
 arch=('any')
 depends=('python')
