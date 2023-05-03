@@ -3079,7 +3079,7 @@
     "python-flit-scm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit-scm.git",
       "branch": "master",
-      "revision": "277035fa9ae9c815e4fb45289146e48ecb343b5e"
+      "revision": "6f8b9b983d590c443f19de3e39e2d4042b09ed14"
     },
     "python-flufl-lock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl-lock.git",
