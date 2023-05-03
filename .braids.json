@@ -1799,7 +1799,7 @@
     "python-autocommand": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-autocommand.git",
       "branch": "master",
-      "revision": "d3cdd2f093e202866727e2e3e8827c3207fd29fb"
+      "revision": "232944fce69fd5e9bd547da00edecc6b2e91db72"
     },
     "python-automat": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-automat.git",
