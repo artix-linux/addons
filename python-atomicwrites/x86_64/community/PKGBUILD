@@ -1,11 +1,11 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Maintainer: Daniel M. Capella <polyze@archlinux.org>
 # Contributor: eolianoe <eolianoe At GoogleMAIL DoT com>
 
 _name=atomicwrites
 pkgname=python-atomicwrites
 pkgver=1.4.1
-pkgrel=2
+pkgrel=3
 pkgdesc="Atomic file writes on POSIX"
 arch=('any')
 url="https://github.com/untitaker/python-atomicwrites"
