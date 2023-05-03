@@ -4369,7 +4369,7 @@
     "python-nest-asyncio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nest-asyncio.git",
       "branch": "master",
-      "revision": "adfcc80d4c4e4afa7f3e101273856b4d88110b7b"
+      "revision": "7986bab87e23d51c4174542cfde3570fdad38c49"
     },
     "python-netaddr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-netaddr.git",
