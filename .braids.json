@@ -2214,7 +2214,7 @@
     "python-click-didyoumean": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-didyoumean.git",
       "branch": "master",
-      "revision": "b312eb2cf332a1a118ee91a15be403b6dd863b5d"
+      "revision": "79be8b892244c89d625077cfa5673f0ee247e27d"
     },
     "python-click-help-colors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-help-colors.git",
