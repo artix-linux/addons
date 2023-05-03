@@ -2574,7 +2574,7 @@
     "python-distutils-extra": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-distutils-extra.git",
       "branch": "master",
-      "revision": "82112bc9c07b9952270b8673cfde78437fc01a1b"
+      "revision": "25ba65e19ff6ea945534e7158f41d9524fa23441"
     },
     "python-django-allauth": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-allauth.git",
