@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Konstantin Shalygin <k0ste@k0ste.ru>
 
 pkgname=python-ovirt-engine-sdk
 pkgver=4.5.1
-pkgrel=1
+pkgrel=2
 pkgdesc='Python access to the oVirt Engine API'
 arch=('x86_64')
 url='http://ovirt.org/develop/release-management/features/infra/python-sdk'
