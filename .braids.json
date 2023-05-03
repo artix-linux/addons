@@ -3734,7 +3734,7 @@
     "python-jose": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jose.git",
       "branch": "master",
-      "revision": "6fdddb4466cebd44fb2af8007b9b3f868521dbbd"
+      "revision": "c32e1b4fa136a0558d004847cb7324d4b8a23871"
     },
     "python-josepy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-josepy.git",
