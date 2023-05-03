@@ -3089,7 +3089,7 @@
     "python-flufl.bounce": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.bounce.git",
       "branch": "master",
-      "revision": "de0d1fabea613e4ac3e29cdc8fb2323482a7f67f"
+      "revision": "d95c3140e9a65301752ec19e81fe0c6ef372aa89"
     },
     "python-flufl.i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flufl.i18n.git",
