@@ -3879,7 +3879,7 @@
     "python-kajiki": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kajiki.git",
       "branch": "master",
-      "revision": "c6e40cc5bd63abe73519e8fa4f0a417223fca58e"
+      "revision": "c4215fc98fef5cda4b1f6fd29ab0ed17c3f65848"
     },
     "python-kazoo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-kazoo.git",
