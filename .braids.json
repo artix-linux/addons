@@ -4589,7 +4589,7 @@
     "python-oslo-serialization": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-serialization.git",
       "branch": "master",
-      "revision": "f5a96c48e8a14a04bdc033daab3276b375a8805c"
+      "revision": "ad9391fbf142e7c5d48d195585ec15f1e3e13839"
     },
     "python-oslo-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-utils.git",
