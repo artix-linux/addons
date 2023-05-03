@@ -1,8 +1,8 @@
-# Maintainer: Alexander Epaneshnikov <alex19ep@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-magic-wormhole-transit-relay
 pkgver=0.2.1
-pkgrel=5
+pkgrel=6
 pkgdesc="transit Relay server for Magic-Wormhole"
 arch=('any')
 url="https://github.com/magic-wormhole/magic-wormhole-transit-relay"
