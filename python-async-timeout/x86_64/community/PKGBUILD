@@ -1,4 +1,4 @@
-# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Stunts <f.pinamartins[at]gmail.com>
 # Contributor: Phil Schaf <flying-sheep[at]web.de>
 # Contributor: Carl George < arch at cgtx dot us >
@@ -6,7 +6,7 @@
 _pkgname=async-timeout
 pkgname=python-async-timeout
 pkgver=4.0.2
-pkgrel=1
+pkgrel=3
 pkgdesc='Asyncio-compatible timeout class'
 url='https://github.com/aio-libs/async-timeout'
 arch=('any')
