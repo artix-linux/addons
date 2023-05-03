@@ -1499,7 +1499,7 @@
     "python-aiogram": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiogram.git",
       "branch": "master",
-      "revision": "afc345669c1977f65b7d24ab8491d0472d12a875"
+      "revision": "90fd44294b80d551281d2990a60e8684d984a480"
     },
     "python-aiohttp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiohttp.git",
