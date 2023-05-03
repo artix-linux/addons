@@ -1,10 +1,10 @@
-# Maintainer: kpcyrd <kpcyrd[at]archlinux[dot]org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Dobroslaw Kijowski [dobo] <dobo90_at_gmail.com>
 
 pkgname=python-intervaltree
 _pyname=intervaltree
 pkgver=3.1.0
-pkgrel=5
+pkgrel=6
 pkgdesc='Library providing a mutable, self-balancing interval tree for Python'
 url="https://github.com/chaimleib/intervaltree"
 arch=('any')
