@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname='python-doublex-expects'
 pkgver=0.7.1
-pkgrel=7
+pkgrel=8
 pkgdesc="Expects matchers for Doublex test doubles assertions"
 arch=('any')
 license=('Apache')
