@@ -5189,7 +5189,7 @@
     "python-pyfakefs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyfakefs.git",
       "branch": "master",
-      "revision": "89ea85035827ea3f45219816b67b18bcadf9bdea"
+      "revision": "c6aa00b0b4ac98bc7de8cc541dbf32bfbcfecd75"
     },
     "python-pyflakes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyflakes.git",
