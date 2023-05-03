@@ -3249,7 +3249,7 @@
     "python-glob2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-glob2.git",
       "branch": "master",
-      "revision": "876d665f1feea7c8cc322351df15a432fc94738e"
+      "revision": "35876f4a61e6dad51e17a90d63d5a7c9ec2f5330"
     },
     "python-gmpy2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gmpy2.git",
