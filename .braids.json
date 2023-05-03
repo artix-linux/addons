@@ -2439,7 +2439,7 @@
     "python-cython-test-exception-raiser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cython-test-exception-raiser.git",
       "branch": "master",
-      "revision": "65d1252b245154b3766691b8151d6f98e7013b4b"
+      "revision": "f8abb3fbdcf6e463ea6ee24ef7379950a80a6238"
     },
     "python-cytoolz": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cytoolz.git",
