@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-apispec-webframeworks
 pkgver=0.5.2
-pkgrel=5
+pkgrel=6
 pkgdesc="Web framework plugins for apispec"
 url="https://github.com/marshmallow-code/apispec-webframeworks"
 license=('MIT')
