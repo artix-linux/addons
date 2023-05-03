@@ -4644,7 +4644,7 @@
     "python-parameterized": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-parameterized.git",
       "branch": "master",
-      "revision": "7e65dc2d82077ca0666566b041057cfee2620a8b"
+      "revision": "e5d8255b06cfcb9bba36bf6e2d5cbfea0d7645b5"
     },
     "python-paramiko": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-paramiko.git",
