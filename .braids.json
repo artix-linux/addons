@@ -4519,7 +4519,7 @@
     "python-openpyxl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openpyxl.git",
       "branch": "master",
-      "revision": "c4e5a826c3f75c3f0c6c81a4fe1a7014edfa0679"
+      "revision": "3b925821947fb731107a17744a0cdc61c6fdff0c"
     },
     "python-openstacksdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openstacksdk.git",
