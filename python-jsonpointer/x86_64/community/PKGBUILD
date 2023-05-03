@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Limao Luo <luolimao+AUR@gmail.com>
 
 pkgname=python-jsonpointer
 pkgver=2.3
-pkgrel=1
+pkgrel=2
 pkgdesc="Identify specific nodes in a JSON document (RFC 6901)"
 arch=('any')
 url="https://github.com/stefankoegl/python-json-pointer"
