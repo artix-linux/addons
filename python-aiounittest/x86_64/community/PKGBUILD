@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-aiounittest
 pkgver=1.4.2
-pkgrel=1
+pkgrel=2
 pkgdesc="Test asyncio code more easily"
 url="https://github.com/kwarunek/aiounittest"
 license=('MIT')
