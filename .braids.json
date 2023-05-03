@@ -5039,7 +5039,7 @@
     "python-publicsuffix2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-publicsuffix2.git",
       "branch": "master",
-      "revision": "4374944781b0a892be68d82d65f47d29655470fb"
+      "revision": "06cf219814469a9980f8a9613b991bba025f3923"
     },
     "python-pure-eval": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pure-eval.git",
