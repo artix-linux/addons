@@ -5264,7 +5264,7 @@
     "python-pyjsparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyjsparser.git",
       "branch": "master",
-      "revision": "686f9cd385eea3c1b95a655098b9484cbeb1693f"
+      "revision": "6e680c194099d5266abdacd2616de1bb0446585f"
     },
     "python-pyjwt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyjwt.git",
