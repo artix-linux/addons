@@ -5659,7 +5659,7 @@
     "python-pytest-mypy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-mypy.git",
       "branch": "master",
-      "revision": "a9d2568d98f5caa7a1a66e6572c86b1188af971e"
+      "revision": "90ccf0ebee4cc73bd014172fb819b1f6e62f72d0"
     },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
