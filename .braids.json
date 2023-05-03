@@ -4014,7 +4014,7 @@
     "python-littleutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-littleutils.git",
       "branch": "master",
-      "revision": "e052ac9b4b31552e824964f20a634923e0f9faf5"
+      "revision": "cae9406687af00aef6871bf54e01a4a771f4af68"
     },
     "python-livereload": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-livereload.git",
