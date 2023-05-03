@@ -2054,7 +2054,7 @@
     "python-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairo.git",
       "branch": "master",
-      "revision": "6b140d3c23a8834fe53e6240f9eae707670da130"
+      "revision": "7a2e0d6190583673ceb84cab665742cd310f76d1"
     },
     "python-cairocffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairocffi.git",
