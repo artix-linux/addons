@@ -5099,7 +5099,7 @@
     "python-pyasn1-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1-modules.git",
       "branch": "master",
-      "revision": "b5c92a9eb94c0468c0403bfbb5bc71d51e657a86"
+      "revision": "753109516dba55b561e529ce4f597d1891a75d96"
     },
     "python-pyaxmlparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyaxmlparser.git",
