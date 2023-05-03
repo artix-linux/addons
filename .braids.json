@@ -3999,7 +3999,7 @@
     "python-license-expression": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-license-expression.git",
       "branch": "master",
-      "revision": "efe737444d815cea8a044955f5c9acc2d9ef3533"
+      "revision": "a150cb9cf03968fc04ed1f2645e37114ad501047"
     },
     "python-linetable": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-linetable.git",
