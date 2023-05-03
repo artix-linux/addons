@@ -2699,7 +2699,7 @@
     "python-docstring-to-markdown": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docstring-to-markdown.git",
       "branch": "master",
-      "revision": "21399686001de2e52495c5f67e8e4c6dbe3d9997"
+      "revision": "4da87a14af93d375a5dcde02d6779629c38e9e0f"
     },
     "python-doctest-ignore-unicode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doctest-ignore-unicode.git",
