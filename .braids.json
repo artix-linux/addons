@@ -1119,7 +1119,7 @@
     "perl-sub-name": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-name.git",
       "branch": "master",
-      "revision": "f21f1d0c9deaba451220e7780365e82510ee78a1"
+      "revision": "19ba1fd76d3a81d5b60ff81e701d6dd0b1c2ba05"
     },
     "perl-sub-override": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-sub-override.git",
