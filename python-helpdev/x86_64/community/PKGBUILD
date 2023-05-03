@@ -1,9 +1,9 @@
-# Maintainer: Bruno Pagani <archange@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _pkg=helpdev
 pkgname=python-${_pkg}
 pkgver=0.7.1
-pkgrel=5
+pkgrel=6
 pkgdesc="Helping users and developers to get information about the environment to report bugs"
 arch=(any)
 url="https://gitlab.com/dpizetta/helpdev"
