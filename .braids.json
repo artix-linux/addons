@@ -3769,7 +3769,7 @@
     "python-jsonmerge": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonmerge.git",
       "branch": "master",
-      "revision": "9ae95fdbc6d8e104a85f47b02ba90429f8d50d62"
+      "revision": "02b4c0a017c6d14b7ee697c4f0362a1e5d832289"
     },
     "python-jsonpatch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonpatch.git",
