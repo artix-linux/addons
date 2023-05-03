@@ -2064,7 +2064,7 @@
     "python-cairosvg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairosvg.git",
       "branch": "master",
-      "revision": "10305b22dffdf45d35e03cda195ce6ca31453731"
+      "revision": "692de9be1546c91209a78eeaef97b55692de47bb"
     },
     "python-calmjs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calmjs.git",
