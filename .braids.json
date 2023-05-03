@@ -2364,7 +2364,7 @@
     "python-crashtest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crashtest.git",
       "branch": "master",
-      "revision": "977c8883082c53b9df038d14a00c0e70adeb7f56"
+      "revision": "5545fd807ccbd2a572fe0db8583e0a9f83662f45"
     },
     "python-crcmod": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crcmod.git",
