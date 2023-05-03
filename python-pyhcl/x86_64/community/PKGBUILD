@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: brent s. <bts[at]square-r00t[dot]net>
 
 _pkgname=pyhcl
 pkgname=python-pyhcl
 pkgver=0.4.4
-pkgrel=3
+pkgrel=4
 pkgdesc='HCL configuration parser for python'
 arch=(any)
 url='https://pypi.org/project/pyhcl/'
