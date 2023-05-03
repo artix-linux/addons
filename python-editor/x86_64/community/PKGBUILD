@@ -1,10 +1,10 @@
-# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Michael Straube <straubem@gmx.de>
 # Contributor: Kevin Brubeck Unhammer <unhammer@fsfe.org>
 
 pkgname=python-editor
 pkgver=1.0.4
-pkgrel=8
+pkgrel=9
 pkgdesc='Programmatically open an editor, capture the result'
 url='https://github.com/fmoo/python-editor'
 arch=('any')
