@@ -2499,7 +2499,7 @@
     "python-decorator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-decorator.git",
       "branch": "master",
-      "revision": "1eff370ff53f61f06c5183801889783f63604983"
+      "revision": "83416b03a7cf60905ef49168daa03ee0aaa6360c"
     },
     "python-deepdiff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deepdiff.git",
