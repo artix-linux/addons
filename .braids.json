@@ -3969,7 +3969,7 @@
     "python-lexicon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lexicon.git",
       "branch": "master",
-      "revision": "a0e163b858bc2d463ac78a8a4cac2a860d5e177c"
+      "revision": "bd5bc7dfed862aa2b0811f3978417053d426b965"
     },
     "python-libarchive-c": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libarchive-c.git",
