@@ -3504,7 +3504,7 @@
     "python-identify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-identify.git",
       "branch": "master",
-      "revision": "ce87e11a06f0beaa8295ccd745ca840fe09ccdf9"
+      "revision": "f715965ab61989958a89ec8dfe600862aa9f3adf"
     },
     "python-idna": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-idna.git",
