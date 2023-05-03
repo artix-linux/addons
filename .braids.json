@@ -1524,7 +1524,7 @@
     "python-aioitertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aioitertools.git",
       "branch": "master",
-      "revision": "a2b5948cf0535d2e6fe6d06dcf22d5f805a1fcf9"
+      "revision": "c4a78a2d69c6c11da79c7e053e93d3af98b335dc"
     },
     "python-aiomysql": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aiomysql.git",
