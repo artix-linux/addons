@@ -3124,7 +3124,7 @@
     "python-freezegun": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-freezegun.git",
       "branch": "master",
-      "revision": "27b03d9f5da6de1cc20ff638bd917a48d0f0bfa6"
+      "revision": "dcd2de2888aa327892c53f078d5d6427a477b718"
     },
     "python-frozendict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-frozendict.git",
