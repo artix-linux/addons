@@ -4259,7 +4259,7 @@
     "python-moreorless": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moreorless.git",
       "branch": "master",
-      "revision": "e4c0db67be0e4f73daaee582f1988cdda0151b10"
+      "revision": "83a7cbc5fe5e08f104c186ac6a61a0f2ecb78d46"
     },
     "python-moto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-moto.git",
