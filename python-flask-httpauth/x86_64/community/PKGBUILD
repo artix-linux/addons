@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-flask-httpauth
 _pkgname=Flask-HTTPAuth
 pkgver=4.7.0
-pkgrel=1
+pkgrel=2
 pkgdesc='Basic, Digest and Token HTTP authentication for Flask routes'
 url='https://github.com/miguelgrinberg/Flask-HTTPAuth'
 arch=('any')
