@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Jose Riha <jose1711 gmail com>
 
 _name=littleutils
 pkgname=python-littleutils
 pkgver=0.2.2
-pkgrel=4
+pkgrel=5
 pkgdesc='Small personal collection of python utility functions'
 arch=('any')
 url=https://github.com/alexmojaki/littleutils
