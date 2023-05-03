@@ -3219,7 +3219,7 @@
     "python-gevent-websocket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gevent-websocket.git",
       "branch": "master",
-      "revision": "baec8c7b64b854d26ed62831d54c079b51d2f098"
+      "revision": "ee0d06a4e2bec8f986b96b8955a70cedee2b8846"
     },
     "python-gitdb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gitdb.git",
