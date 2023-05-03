@@ -3059,7 +3059,7 @@
     "python-flex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flex.git",
       "branch": "master",
-      "revision": "09ac92a136a0add55d7078f2391f66bbe76f5576"
+      "revision": "3fba04873230aa1e89b5fee14dd9131f8a35668b"
     },
     "python-flexmock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flexmock.git",
