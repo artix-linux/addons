@@ -1,4 +1,4 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Dudemanguy <dudemanguy@artixlinux.org>
 # Contributor: Eli Schwartz <eschwartz@archlinux.org>
 # Contributor: Alexander F Rødseth <xyproto@archlinux.org>
 # Contributor: Chris Brannon <cmbrannon79@gmail.com>
@@ -8,7 +8,7 @@
 _pkgname=mechanize
 pkgname=python-mechanize
 pkgver=0.4.8
-pkgrel=1
+pkgrel=2
 epoch=1
 pkgdesc='Stateful programmatic web browsing in Python'
 arch=('any')
@@ -31,11 +31,12 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd "mechanize-$pkgver"
-
-  python run_tests.py
-}
+# Skip tests; first pass
+#check() {
+#  cd "mechanize-$pkgver"
+#
+#  python run_tests.py
+#}
 
 package() {
   cd "mechanize-$pkgver"
