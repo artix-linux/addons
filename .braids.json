@@ -2539,7 +2539,7 @@
     "python-diff-cover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-diff-cover.git",
       "branch": "master",
-      "revision": "f606f350ee314c28c52dca16cdb6d4d1af3621a4"
+      "revision": "ae7adc4f5822d3fa75b595919854852b9b9b31d2"
     },
     "python-dill": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dill.git",
