@@ -1,4 +1,4 @@
-# Maintainer: Giancarlo Razzolini <grazzolini@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Nissar Chababy <funilrys at outlook dot com>
 # Contributor: Thrasibule <guillaume dot horel at gmail dot com>
 # Contributor: David Manouchehri <manouchehri@riseup.net>
@@ -9,7 +9,7 @@
 pkgname=python-lz4
 _pkgname=lz4
 pkgver=3.1.10
-pkgrel=7
+pkgrel=8
 pkgdesc="LZ4 bindings for Python"
 arch=('x86_64')
 license=('BSD')
