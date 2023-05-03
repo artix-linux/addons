@@ -2294,7 +2294,7 @@
     "python-colorlog": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-colorlog.git",
       "branch": "master",
-      "revision": "cca74497cc1807154485571bae635a322624b81c"
+      "revision": "cb734fcb53ec71e7c95e4584a6f5f96c2513518f"
     },
     "python-comm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-comm.git",
