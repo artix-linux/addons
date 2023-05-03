@@ -3319,7 +3319,7 @@
     "python-gssapi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gssapi.git",
       "branch": "master",
-      "revision": "86d864add6e90dbad70f1a3b7a26159d18e82566"
+      "revision": "a2f280ac81696062949fd0b159eb31d25a9cfc9f"
     },
     "python-h11": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-h11.git",
