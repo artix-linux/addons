@@ -1,9 +1,9 @@
-# Maintainer: artoo <artoo@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Achmad Fathoni<fathoni.id(at)gmail.com>
 
 pkgname=python-nspektr
 pkgver=0.4.0
-pkgrel=2
+pkgrel=3
 pkgdesc="A distribution package dependency inspector"
 arch=('any')
 url="https://github.com/jaraco/nspektr"
