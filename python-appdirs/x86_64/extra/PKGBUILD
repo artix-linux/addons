@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Tobias Roettger <toroettg@gmail.com>
 
 pkgname=python-appdirs
 pkgver=1.4.4
-pkgrel=7
+pkgrel=8
 pkgdesc='A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".'
 arch=('any')
 url="https://github.com/ActiveState/appdirs"
