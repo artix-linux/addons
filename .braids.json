@@ -5604,7 +5604,7 @@
     "python-pytest-freezegun": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-freezegun.git",
       "branch": "master",
-      "revision": "5f61fdbe305357b56ff37ef461033b41e0420f6a"
+      "revision": "3e879a67b522cf8eb07270624641235b96bf64c5"
     },
     "python-pytest-html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-html.git",
