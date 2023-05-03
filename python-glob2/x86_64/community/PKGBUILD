@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-glob2
 pkgver=0.7
-pkgrel=3.1
+pkgrel=4
 pkgdesc="Version of the glob module that can capture patterns and supports recursive wildcards"
 url="https://github.com/miracle2k/glob2"
 license=('BSD')
