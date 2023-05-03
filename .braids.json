@@ -5624,7 +5624,7 @@
     "python-pytest-isort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-isort.git",
       "branch": "master",
-      "revision": "ec04cb7a07f493fa77eba824805c90df8f448691"
+      "revision": "bb9948df589fb726747974ca040e3b127d83facb"
     },
     "python-pytest-jupyter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-jupyter.git",
