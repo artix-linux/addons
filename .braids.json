@@ -4039,7 +4039,7 @@
     "python-lockfile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-lockfile.git",
       "branch": "master",
-      "revision": "02de7426face8b360aeb5a868242135a6843f153"
+      "revision": "3d23d50a515646d4674d74005c27d1883e136d76"
     },
     "python-logbook": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-logbook.git",
