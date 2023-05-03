@@ -1704,7 +1704,7 @@
     "python-asn1crypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asn1crypto.git",
       "branch": "master",
-      "revision": "78f9dae620e032948ebb797763871f1f4f25d0ce"
+      "revision": "b6c6121439327dc69bc649b4b47856a21e513b52"
     },
     "python-aspectlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-aspectlib.git",
