@@ -4449,7 +4449,7 @@
     "python-nrfutil": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nrfutil.git",
       "branch": "master",
-      "revision": "971fba14e6d0797575ba6c971f8c8f97ba11021b"
+      "revision": "9d989e758b13c217c9009e6e71f1f52475a8af1c"
     },
     "python-nspektr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nspektr.git",
