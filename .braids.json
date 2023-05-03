@@ -2209,7 +2209,7 @@
     "python-click-default-group": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-default-group.git",
       "branch": "master",
-      "revision": "681cf0bf696c240d83e97e9d70a96de3fffeee0e"
+      "revision": "c4560905072bdafd6faf90266d7ea2b2100cb3f3"
     },
     "python-click-didyoumean": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-didyoumean.git",
