@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-click-didyoumean
 pkgver=0.3.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Enable git-like did-you-mean feature in click"
 url="https://github.com/click-contrib/click-didyoumean"
 license=('MIT')
