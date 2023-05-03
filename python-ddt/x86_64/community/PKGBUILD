@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-ddt
 pkgver=1.6.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Data-Driven/Decorated Tests"
 arch=('any')
 license=('MIT')
