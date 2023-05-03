@@ -2544,7 +2544,7 @@
     "python-dill": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dill.git",
       "branch": "master",
-      "revision": "8050616b3dd8475a56252e5ae31cc1dd91ffa5c0"
+      "revision": "c00ea5b30141ef65c2cfd8d7bf47a9a348b4a48e"
     },
     "python-discid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-discid.git",
