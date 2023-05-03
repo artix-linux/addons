@@ -4939,7 +4939,7 @@
     "python-pprofile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pprofile.git",
       "branch": "master",
-      "revision": "912df3479c85fad0bcc48dbbac0368e738e2db20"
+      "revision": "8b1aeab1e6b4b8b9fc3b078d569e964173769a14"
     },
     "python-pproxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pproxy.git",
