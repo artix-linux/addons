@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Simon Sapin <simon dot sapin at exyr dot org>
 # Contributor: Kyle Keen <keenerd@gmail.com>
 
 pkgname=python-flasgger
 pkgver=0.9.5
-pkgrel=7
+pkgrel=8
 pkgdesc="Extract swagger specs from your flask project"
 url="https://github.com/flasgger/flasgger"
 license=('MIT')
