@@ -4244,7 +4244,7 @@
     "python-mongomock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mongomock.git",
       "branch": "master",
-      "revision": "d34e800ef73e63d3b639391d8285c5bf350c2e94"
+      "revision": "85bc20f3c2f6db7fea10c3e864c302d715d0401c"
     },
     "python-monotonic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-monotonic.git",
