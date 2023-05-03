@@ -3494,7 +3494,7 @@
     "python-ibm-db-sa": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ibm-db-sa.git",
       "branch": "master",
-      "revision": "abab229dc98240a33c56719fa7848c1be3ad65ca"
+      "revision": "9ac1a8c967a026db3d467bfd06d9af3cd554c1cd"
     },
     "python-icecream": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-icecream.git",
