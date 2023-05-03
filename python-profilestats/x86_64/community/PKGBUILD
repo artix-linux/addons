@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-profilestats
 pkgver=2.0
-pkgrel=11
+pkgrel=12
 pkgdesc="Decorator for profiling individual functions and converting profiling data to the kcachegrind/qcachegrind format."
 arch=('any')
 license=('BSD')
