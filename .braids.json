@@ -2524,7 +2524,7 @@
     "python-deprecated": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deprecated.git",
       "branch": "master",
-      "revision": "e3375c8a00a8b16aedb6375ecf09e1ca6825bbf9"
+      "revision": "ef1cda8e004f1c0c6f99a7f2b58738a405be5f97"
     },
     "python-deprecation": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deprecation.git",
