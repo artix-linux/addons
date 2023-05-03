@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-cogapp
 pkgver=3.3.0
-pkgrel=1
+pkgrel=2
 pkgdesc="A code generator for executing Python snippets in source files"
 url="https://nedbatchelder.com/code/cog"
 license=('MIT')
