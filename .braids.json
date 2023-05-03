@@ -5639,7 +5639,7 @@
     "python-pytest-localserver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-localserver.git",
       "branch": "master",
-      "revision": "edf6bc244839d0ce1358f073585ba0ad351e7121"
+      "revision": "941c24d0beb0ed6ce2d0abda394d205f92dca7cb"
     },
     "python-pytest-metadata": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-metadata.git",
