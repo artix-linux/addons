@@ -5584,7 +5584,7 @@
     "python-pytest-env": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-env.git",
       "branch": "master",
-      "revision": "9d988bf9f678ff4747e423a3214c7dfbc7c26ad5"
+      "revision": "85f8542e763442ecc4cdf713c3accf07c15d0068"
     },
     "python-pytest-expect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-expect.git",
