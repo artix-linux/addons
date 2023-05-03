@@ -7284,7 +7284,7 @@
     "python-wstools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wstools.git",
       "branch": "master",
-      "revision": "49f474d3db19cb0e05ff2f93a21b5edb00363421"
+      "revision": "aff38584793faea929ff367d700b6de17ae7d2f4"
     },
     "python-wxpython": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wxpython.git",
