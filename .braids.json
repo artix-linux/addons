@@ -2339,7 +2339,7 @@
     "python-contourpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-contourpy.git",
       "branch": "master",
-      "revision": "d25acba8a98d40e5a2d4573e08ab48f3065c1300"
+      "revision": "14aadf09158bed0d06c0de9390281061765bab16"
     },
     "python-cookiecutter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cookiecutter.git",
