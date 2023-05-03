@@ -6104,7 +6104,7 @@
     "python-retrying": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-retrying.git",
       "branch": "master",
-      "revision": "4289b54e2b78d3a0263553c970874e8e6ff96363"
+      "revision": "31163df9a36a61dc348dbf6e08ed6eb079237450"
     },
     "python-rfc3339-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3339-validator.git",
