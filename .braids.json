@@ -1699,7 +1699,7 @@
     "python-asgiref": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asgiref.git",
       "branch": "master",
-      "revision": "006745e436894ce2aec147695de54d3263d4e9df"
+      "revision": "a540c4e13059d0d0e18ce38e0b783e90ec2e5175"
     },
     "python-asn1crypto": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asn1crypto.git",
