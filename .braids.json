@@ -2374,7 +2374,7 @@
     "python-crispy-bootstrap3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crispy-bootstrap3.git",
       "branch": "master",
-      "revision": "f338a98ff356dc32741022626b2008ea8d07359f"
+      "revision": "865aab3725a95acad847cb4e637418db399973c3"
     },
     "python-crispy-bootstrap4": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-crispy-bootstrap4.git",
