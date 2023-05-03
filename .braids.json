@@ -4699,7 +4699,7 @@
     "python-pastel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pastel.git",
       "branch": "master",
-      "revision": "f4b9dbccf63c07d88bd7c2462adfe7c9feaad342"
+      "revision": "3d0c44dc0fd5788a24cddf2789fa75d969dbfcca"
     },
     "python-path": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-path.git",
