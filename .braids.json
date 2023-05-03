@@ -2229,7 +2229,7 @@
     "python-click-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-plugins.git",
       "branch": "master",
-      "revision": "99ebd706b7bd6b91b59ef63ff3c7b4cdd4a69b93"
+      "revision": "07c94adc07f9d5bfd4eeb9ab3648fbebc4720bfe"
     },
     "python-click-repl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-click-repl.git",
