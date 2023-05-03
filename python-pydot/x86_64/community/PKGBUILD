@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contrinutor: shining <shiningxc@gmail.com>
 # Contributor: phillid <dbphillipsnz _at_thingy_that_swirly_a_symbol gmaildott comm>
 
 pkgname=python-pydot
 pkgver=1.4.2
-pkgrel=3
+pkgrel=4
 pkgdesc="Python interface to Graphviz's Dot"
 arch=('any')
 url="https://github.com/erocarrera/pydot"
