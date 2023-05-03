@@ -5514,7 +5514,7 @@
     "python-pytables": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytables.git",
       "branch": "master",
-      "revision": "7f91757af10d4e6c55e029b16bc1d80fe43880a0"
+      "revision": "1a629985a258c622ecd4c7ff71e25e93968140eb"
     },
     "python-pytest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest.git",
