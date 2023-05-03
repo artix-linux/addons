@@ -5249,7 +5249,7 @@
     "python-pyhcl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyhcl.git",
       "branch": "master",
-      "revision": "22d529a452a53d8ee4287c447dfdf6b607b95b31"
+      "revision": "ddf299175fd42a3c7666fce7923864743f4c71ac"
     },
     "python-pyicu": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyicu.git",
