@@ -3664,7 +3664,7 @@
     "python-jaraco.functools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.functools.git",
       "branch": "master",
-      "revision": "49819d8702f04bc25041f8d696b49d22e479e64f"
+      "revision": "f4172ca174fe3d7ac4be68e181cc2038eee28341"
     },
     "python-jaraco.itertools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jaraco.itertools.git",
