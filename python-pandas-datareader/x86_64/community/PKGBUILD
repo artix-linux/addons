@@ -1,10 +1,10 @@
-# Maintainer: Andrzej Giniewicz <gginiu@gmail.com>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 # TODO: move optional python-requests-cache
 
 pkgname=python-pandas-datareader
 pkgver=0.10.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Data readers extracted from the pandas codebase"
 arch=('any')
 url="https://github.com/pydata/pandas-datareader"
