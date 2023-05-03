@@ -5029,7 +5029,7 @@
     "python-ptrace": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ptrace.git",
       "branch": "master",
-      "revision": "509bd02e978819f44207f65ed6b90dce67313cde"
+      "revision": "55ca45858274015dcfaf853ddec39de83037a5fa"
     },
     "python-ptyprocess": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ptyprocess.git",
