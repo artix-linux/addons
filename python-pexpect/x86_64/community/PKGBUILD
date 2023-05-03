@@ -1,9 +1,9 @@
-# Maintainer: Alexander F. Rødseth <xyproto@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Aaron Schaefer <aaron@elasticdog.com>
 
 pkgname=python-pexpect
 pkgver=4.8.0
-pkgrel=6
+pkgrel=7
 pkgdesc='For controlling and automating applications'
 arch=(any)
 url='https://pexpect.readthedocs.org/en/stable/'
