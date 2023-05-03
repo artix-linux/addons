@@ -5339,7 +5339,7 @@
     "python-pynamodb": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynamodb.git",
       "branch": "master",
-      "revision": "363b9d7f4810b35a866dff4f8b9c2eb718781424"
+      "revision": "e40d3a2f9fd3037a14898a1d91f3e2cdc76c58d7"
     },
     "python-pynetbox": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynetbox.git",
