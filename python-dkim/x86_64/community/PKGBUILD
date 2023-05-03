@@ -1,20 +1,24 @@
 # Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-dkim
-pkgver=1.1.1
+pkgver=1.1.3
 pkgrel=1
 pkgdesc='Python library that implements DKIM and ARC email signing and verification'
 arch=('any')
 url=https://launchpad.net/dkimpy
 license=('ZLIB')
 depends=('python-dnspython')
-makedepends=('python-build' 'python-installer' 'python-setuptools'
-             'python-wheel')
+makedepends=(
+  'python-build'
+  'python-installer'
+  'python-setuptools'
+  'python-wheel'
+)
 checkdepends=('python-authres' 'python-pynacl')
 optdepends=('python-aiodns' 'python-authres' 'python-pynacl')
 source=("https://files.pythonhosted.org/packages/source/d/dkimpy/dkimpy-$pkgver.tar.gz")
-sha256sums=('7559744b5a9019691908f0a0c653e206b6cbf636c8c6d66e1a0827cfc8ec7f91')
-b2sums=('6b9107129a0857a384d90b9c7d3970177aa32edaaeb41d62dd4edc6fdf7e8c16e3160162aaed074f865d476dc3f7f20ad299f7034858c0fc59ef88c651552ae4')
+sha256sums=('f33221951f633811176fd0f5a861f44bc23bdb5fdc2a7fa359753195401b1308')
+b2sums=('179bd811725f17a89c6ef62b9295d5e0c97df9fc6257e62025262466eae79562ccb3e8088e2388ec481558c88647a646ebeb9b36afbf5d59919e14ac6f1ce0af')
 
 build() {
   cd dkimpy-$pkgver
