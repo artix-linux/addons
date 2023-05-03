@@ -7089,7 +7089,7 @@
     "python-urwid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urwid.git",
       "branch": "master",
-      "revision": "15a8c1653e5e242b05ea4c62906877fe6dcd1997"
+      "revision": "bc5a0caf89a7dbcd8d97c1e29c82a4a78e9e14bd"
     },
     "python-uvloop": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uvloop.git",
