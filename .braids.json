@@ -2059,7 +2059,7 @@
     "python-cairocffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairocffi.git",
       "branch": "master",
-      "revision": "904d14dbeddeb7e1e58c95205c5da3a10de00c00"
+      "revision": "ce575e14bff6cbf067dfa7dcae8917a2560233e9"
     },
     "python-cairosvg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cairosvg.git",
