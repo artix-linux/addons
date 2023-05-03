@@ -2999,7 +2999,7 @@
     "python-flake8-docstrings": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-docstrings.git",
       "branch": "master",
-      "revision": "dc7bc5c1d0d7e137c99f289a22fcb6c652203a50"
+      "revision": "08fcf4bba4f83ad75c0d1d25c02298d54d6c8486"
     },
     "python-flake8-typing-imports": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-typing-imports.git",
