@@ -5279,7 +5279,7 @@
     "python-pykka": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pykka.git",
       "branch": "master",
-      "revision": "f0228adca240b19b1a2d46dd480ce948874c259c"
+      "revision": "0c1be4b24fc72ea9fb33944528c983f6670a351c"
     },
     "python-pylast": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylast.git",
