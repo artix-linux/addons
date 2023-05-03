@@ -1,8 +1,8 @@
-# Maintainer: Filipe Laíns (FFY00) <lains@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-livereload
 pkgver=2.6.3
-pkgrel=2
+pkgrel=4
 pkgdesc='livereload server in python'
 arch=('any')
 url='https://github.com/lepture/python-livereload'
