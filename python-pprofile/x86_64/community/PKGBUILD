@@ -1,9 +1,9 @@
-# Maintainer: Q <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _name=pprofile
 pkgname=python-pprofile
 pkgver=2.1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Line-granularity, thread-aware deterministic and statistic pure-python profiler"
 arch=('any')
 url="https://github.com/vpelletier/pprofile"
