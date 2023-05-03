@@ -4874,7 +4874,7 @@
     "python-pipreqs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pipreqs.git",
       "branch": "master",
-      "revision": "b86c7a0a512f75f0672d7463359b637f814bdabb"
+      "revision": "32c188ea0da86e27d9f8462e89c39729d11a8846"
     },
     "python-pkgconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pkgconfig.git",
