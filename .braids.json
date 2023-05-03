@@ -5654,7 +5654,7 @@
     "python-pytest-mpi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-mpi.git",
       "branch": "master",
-      "revision": "f28ca908638d7389736fe60f90f61e5770056b51"
+      "revision": "8b0ea0d6f5b855885fe48cf9b2c55a989cfa0ba7"
     },
     "python-pytest-mypy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-mypy.git",
