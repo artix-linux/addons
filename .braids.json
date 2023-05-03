@@ -3299,7 +3299,7 @@
     "python-graphql-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphql-core.git",
       "branch": "master",
-      "revision": "e0225d61707b43a20788c96b9260de0815218f89"
+      "revision": "53d89ea80c3cd81163f89992c48c4dcb272d941c"
     },
     "python-graphql-relay": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-graphql-relay.git",
