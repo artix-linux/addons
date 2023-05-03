@@ -2009,7 +2009,7 @@
     "python-brotlicffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-brotlicffi.git",
       "branch": "master",
-      "revision": "796b1b085f447ca06d9bfb7a33c95d5745048acd"
+      "revision": "fcc21ce42556d3b9f0e2757b951fc82701ea1703"
     },
     "python-btchip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-btchip.git",
