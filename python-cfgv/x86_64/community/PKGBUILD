@@ -1,9 +1,9 @@
-# Maintainer: David Runge <dvzrv@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _name=cfgv
 pkgname=python-cfgv
 pkgver=3.3.1
-pkgrel=3
+pkgrel=4
 pkgdesc="Validate configuration and produce human readable error messages"
 arch=('any')
 url="https://github.com/asottile/cfgv"
