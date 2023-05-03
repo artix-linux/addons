@@ -2904,7 +2904,7 @@
     "python-fastimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastimport.git",
       "branch": "master",
-      "revision": "09821836ff2e41ca3d567e2d6c7be49d3c66e0a2"
+      "revision": "d81796109ac5d8df35bb5cf2fbe1f9bc9479a92d"
     },
     "python-fastjsonschema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fastjsonschema.git",
