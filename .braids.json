@@ -4609,7 +4609,7 @@
     "python-ovirt-engine-sdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ovirt-engine-sdk.git",
       "branch": "master",
-      "revision": "1cb94ceef477919e4d41ac8b958b667786f71fe0"
+      "revision": "2c1e206a49ff8686fdc41f0d275be60f3497c45e"
     },
     "python-packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-packaging.git",
