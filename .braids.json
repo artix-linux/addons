@@ -2764,7 +2764,7 @@
     "python-editables": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editables.git",
       "branch": "master",
-      "revision": "46b5d33a581812cba4d05dcc98ecd59ea4725000"
+      "revision": "864c2fa8042228f09f9c3fb9ac7d1e79f42757e7"
     },
     "python-editdistance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-editdistance.git",
