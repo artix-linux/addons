@@ -4144,7 +4144,7 @@
     "python-marshmallow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-marshmallow.git",
       "branch": "master",
-      "revision": "0b5bd28ac7b5ae19866bbf656f9ec36bd6f2e672"
+      "revision": "67932085f745695293224e0ec9c8a57cfd7a0535"
     },
     "python-matplotlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-matplotlib.git",
