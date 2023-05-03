@@ -4624,7 +4624,7 @@
     "python-pam": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pam.git",
       "branch": "master",
-      "revision": "c825a2a6f51462f995e20ac1c12f960369ec0693"
+      "revision": "e549051544a939615d938832d8887a5602e40b37"
     },
     "python-pandas": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pandas.git",
