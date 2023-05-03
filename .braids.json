@@ -2834,7 +2834,7 @@
     "python-evdev": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-evdev.git",
       "branch": "master",
-      "revision": "581a6bdf82570b6956b41d3f5604bbbc3259f60f"
+      "revision": "730f9610fe64d53fc920d2f75f26a09b53680492"
     },
     "python-eventlet": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-eventlet.git",
