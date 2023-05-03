@@ -1,9 +1,9 @@
-# Maintainer: Morten Linderud <foxboron@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Andy Weidenbaum <archbaum@gmail.com>
 
 pkgname=python-jsonrpclib-pelix
 pkgver=0.4.3.2
-pkgrel=1
+pkgrel=2
 pkgdesc="A Python JSON-RPC over HTTP that mirrors xmlrpclib syntax"
 arch=(any)
 depends=(python)
