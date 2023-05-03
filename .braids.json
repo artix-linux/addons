@@ -1589,7 +1589,7 @@
     "python-ansi2html": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansi2html.git",
       "branch": "master",
-      "revision": "f7c48dbe9fdb847a11b44c35fada833f22b9fd73"
+      "revision": "5b6c6b8766fd4bee094dd483fa5f6748d77a1740"
     },
     "python-ansible-compat": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansible-compat.git",
