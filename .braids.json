@@ -5699,7 +5699,7 @@
     "python-pytest-relaxed": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-relaxed.git",
       "branch": "master",
-      "revision": "3c206697ea2e33ae5f814ecfa5ceeb1aae1dcbb9"
+      "revision": "a5a790b932a56378b89c057d249532dacfbb250e"
     },
     "python-pytest-rerunfailures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-rerunfailures.git",
