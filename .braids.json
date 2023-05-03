@@ -4439,7 +4439,7 @@
     "python-notify2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-notify2.git",
       "branch": "master",
-      "revision": "7eaa2eb1588ad34309403c0c72eb42a832bb91a3"
+      "revision": "aa5210693957f7dc7d8dd8c7131d008d1f4a6269"
     },
     "python-nptyping": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nptyping.git",
