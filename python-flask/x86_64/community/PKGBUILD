@@ -1,11 +1,11 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Alexander Rødseth <rodseth@gmail.com>
 # Contributor: Thomas Dziedzic < gostrc at gmail >
 # Contributor: Tarmo Heiskanen <turskii@gmail.com>
 
 pkgname=python-flask
 pkgver=2.2.2
-pkgrel=1
+pkgrel=3
 pkgdesc='Micro webdevelopment framework for Python'
 url='http://flask.pocoo.org/'
 arch=('any')
