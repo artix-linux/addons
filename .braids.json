@@ -5499,7 +5499,7 @@
     "python-pyspinel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyspinel.git",
       "branch": "master",
-      "revision": "653911ed608452d7fb986fbc35d11f03fd4037b7"
+      "revision": "e5188e71ad5acf1aedfd41e2476fbe021d3c5a5d"
     },
     "python-pyspnego": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyspnego.git",
