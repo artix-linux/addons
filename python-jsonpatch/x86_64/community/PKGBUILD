@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
 # Contributor: Limao Luo <luolimao+AUR@gmail.com>
 
 pkgname=python-jsonpatch
 pkgver=1.32
-pkgrel=3
+pkgrel=4
 pkgdesc="An implementation of the JSON Patch format"
 arch=("any")
 url="https://github.com/stefankoegl/python-json-patch"
