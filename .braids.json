@@ -4719,7 +4719,7 @@
     "python-pathtools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pathtools.git",
       "branch": "master",
-      "revision": "d74e84bae50f5b1b39330e16ec182b6f6a162628"
+      "revision": "0bc88a07e0426c76b0085d2595d14d6af33ec4b6"
     },
     "python-patiencediff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patiencediff.git",
