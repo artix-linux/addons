@@ -4104,7 +4104,7 @@
     "python-magic-wormhole-transit-relay": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-magic-wormhole-transit-relay.git",
       "branch": "master",
-      "revision": "e196555a64eb8f8d91f755fab547b09489c3e591"
+      "revision": "3ddbe7e80cd266625e4a0014bd5daeb88c148db3"
     },
     "python-mailmanclient": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mailmanclient.git",
