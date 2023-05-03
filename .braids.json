@@ -2149,7 +2149,7 @@
     "python-cftime": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cftime.git",
       "branch": "master",
-      "revision": "8a991c6a739b7087ca509fdade70d86aeb219dd8"
+      "revision": "110fc50733ba4bb318f404593cced087e1fe9b09"
     },
     "python-characteristic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-characteristic.git",
