@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
 
 pkgname=python-oslo-concurrency
 pkgver=5.0.0
-pkgrel=1
+pkgrel=2
 pkgdesc="OpenStack library for all concurrency-related code"
 arch=('any')
 url="https://pypi.python.org/pypi/oslo.concurrency/$pkgver"
