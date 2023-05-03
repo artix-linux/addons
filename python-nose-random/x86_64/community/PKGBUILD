@@ -1,10 +1,10 @@
-# Maintainer: Chih-Hsuan Yen <yan12125@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Guillaume Horel <guillaume.horel@gmail.com>
 
 pkgname=python-nose-random
 _pkgname=nose-random
 pkgver=1.0.0
-pkgrel=9
+pkgrel=10
 pkgdesc='Nose plugin to facilitate randomized unit testing'
 arch=(any)
 url='https://github.com/xlwings/nose-random'
