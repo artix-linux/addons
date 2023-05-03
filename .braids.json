@@ -4299,7 +4299,7 @@
     "python-mujson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mujson.git",
       "branch": "master",
-      "revision": "b483ba6bc5ccdc4a65bba7f6cfac196e52342499"
+      "revision": "933d4c0f285188d959c9e5844dfcba34f772ced8"
     },
     "python-multidict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-multidict.git",
