@@ -1934,7 +1934,7 @@
     "python-bleach": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bleach.git",
       "branch": "master",
-      "revision": "c3bff15f8402a9f7926c3aec10151bcf536238d0"
+      "revision": "aaa020550a934082dd218be8d0c75ec4f8c1d7bb"
     },
     "python-blessed": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-blessed.git",
