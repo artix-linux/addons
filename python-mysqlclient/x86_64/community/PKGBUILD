@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Massimiliano Torromeo <massimiliano.torromeo@gmail.com>
 
 pkgname=python-mysqlclient
 _libname=${pkgname/python-/}
 pkgver=2.1.1
-pkgrel=1
+pkgrel=2
 pkgdesc="Fork of MySQL-python with support for Python 3"
 arch=('x86_64')
 url="https://github.com/PyMySQL/mysqlclient-python"
