@@ -4429,7 +4429,7 @@
     "python-nose2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nose2.git",
       "branch": "master",
-      "revision": "3ebb7619f50f493abe66fff341ff0b3f02b03194"
+      "revision": "f782b4c27f5b55771e86c0f7ac2078c021decba3"
     },
     "python-nosexcover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-nosexcover.git",
