@@ -3334,7 +3334,7 @@
     "python-h5py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-h5py.git",
       "branch": "master",
-      "revision": "33a523b6ce79addb0d380a08d9e6313fe1c966ee"
+      "revision": "95a117529feb533b85cbdbe3649961baf6d6f1f8"
     },
     "python-hacking": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hacking.git",
