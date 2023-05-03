@@ -5194,7 +5194,7 @@
     "python-pyflakes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyflakes.git",
       "branch": "master",
-      "revision": "07e63d1f04524cca475368e5903ab981825ad7e4"
+      "revision": "58abbf149cb798fc5a94c254b306477cc2ae5843"
     },
     "python-pyftpdlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyftpdlib.git",
