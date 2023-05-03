@@ -2189,7 +2189,7 @@
     "python-cleo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cleo.git",
       "branch": "master",
-      "revision": "9633a07b50d87584458abd161beb44dc7d9cf3d1"
+      "revision": "d7a2d537cc06c5b6995df87e0d61b06b06c7b861"
     },
     "python-clevercsv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-clevercsv.git",
