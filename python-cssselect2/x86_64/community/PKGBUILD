@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Simon Sapin <simon dot sapin at exyr dot org>
 # Contributor: Kyle Keen <keenerd@gmail.com>
 
 pkgname=python-cssselect2
 pkgver=0.7.0
-pkgrel=1
+pkgrel=2
 pkgdesc="CSS selectors for Python ElementTree"
 url="https://pypi.org/project/cssselect2/"
 license=('BSD')
