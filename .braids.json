@@ -1764,7 +1764,7 @@
     "python-atpublic": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-atpublic.git",
       "branch": "master",
-      "revision": "323f97ee3e8b7c862f79de895b0b5e36ad25260f"
+      "revision": "3cf30d84ecb1e615962f6bceb3458dda9e65d36a"
     },
     "python-attrdict": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-attrdict.git",
