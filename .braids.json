@@ -2004,7 +2004,7 @@
     "python-breathe": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-breathe.git",
       "branch": "master",
-      "revision": "d15aa4894f3f2a9f1cff74094fcc851fca47b623"
+      "revision": "f9b18f19beb3724d1b6d6ead8fd788a4be79df9d"
     },
     "python-brotlicffi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-brotlicffi.git",
