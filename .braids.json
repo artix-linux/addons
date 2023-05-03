@@ -2479,42 +2479,42 @@
     "python-dbusmock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dbusmock.git",
       "branch": "master",
-      "revision": "55143368ff0b1f7df4f4932649573369a56c5e32"
+      "revision": "570e42ab4cabbb908c5028a619dfbcfb32ed72eb"
     },
     "python-ddt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ddt.git",
       "branch": "master",
-      "revision": "9e543d1d405acfeaa2dd54a1b14a49b1df7eab83"
+      "revision": "39a8a81c43a6a37d60294bbaea8acca20fc21403"
     },
     "python-debtcollector": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-debtcollector.git",
       "branch": "master",
-      "revision": "9cf4594f79d794877044cb7cebc75f4e690d36fe"
+      "revision": "130068a0448d0cae7e0a7a49c3cd92ee45ac01d3"
     },
     "python-debugpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-debugpy.git",
       "branch": "master",
-      "revision": "eb6cc215322d92beb7c3bbcdc18be37da1da8580"
+      "revision": "d17e942eac26bb3445d7a8f7aa881e142f9c2618"
     },
     "python-decorator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-decorator.git",
       "branch": "master",
-      "revision": "0ccab6082e7d0cdab375dd81f59fb4658c7050c9"
+      "revision": "1eff370ff53f61f06c5183801889783f63604983"
     },
     "python-deepdiff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deepdiff.git",
       "branch": "master",
-      "revision": "ee995ff3e7b42c45ff9d7c508fe0a5863a79c3ab"
+      "revision": "a18c20344b003e422608eeff0f4bce26afcf9efc"
     },
     "python-deepmerge": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deepmerge.git",
       "branch": "master",
-      "revision": "dcb949505d8cf338b79c5e3365979ae4d8f06209"
+      "revision": "9e4990efacf82320621220611b7953808952b414"
     },
     "python-defusedxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-defusedxml.git",
       "branch": "master",
-      "revision": "814ddba688921cc87a7d627eb09a4e5eb562163f"
+      "revision": "a22b5acd1f706215b75089ac63278834084b428f"
     },
     "python-dephell-argparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-argparse.git",
@@ -2524,12 +2524,12 @@
     "python-deprecated": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deprecated.git",
       "branch": "master",
-      "revision": "a17311d11c7e4ee91e30e592efc1e08a37e3f0a9"
+      "revision": "e3375c8a00a8b16aedb6375ecf09e1ca6825bbf9"
     },
     "python-deprecation": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-deprecation.git",
       "branch": "master",
-      "revision": "72f7147123df00e67f8348cee0a83a9c9ba4a81c"
+      "revision": "731117c39ed06b959f9779d26fe4624a4a411024"
     },
     "python-dictpath": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dictpath.git",
@@ -2539,12 +2539,12 @@
     "python-diff-cover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-diff-cover.git",
       "branch": "master",
-      "revision": "d7d204e3f45d16cbc71bd329955bc1bcf1e55595"
+      "revision": "f606f350ee314c28c52dca16cdb6d4d1af3621a4"
     },
     "python-dill": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dill.git",
       "branch": "master",
-      "revision": "8920ea229a4dd9951d782186a55d5af9911fb889"
+      "revision": "8050616b3dd8475a56252e5ae31cc1dd91ffa5c0"
     },
     "python-discid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-discid.git",
@@ -4519,7 +4519,7 @@
     "python-openpyxl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openpyxl.git",
       "branch": "master",
-      "revision": "2ce6bcfb06990072144ed5846793a8736a61085a"
+      "revision": "c4e5a826c3f75c3f0c6c81a4fe1a7014edfa0679"
     },
     "python-openstacksdk": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-openstacksdk.git",
@@ -5089,7 +5089,7 @@
     "python-pyarrow": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyarrow.git",
       "branch": "master",
-      "revision": "994a17ab10e576f60024dc4c1b82279a289c6e61"
+      "revision": "dcf774c9345bc9d203c421be6756d3cfff28980d"
     },
     "python-pyasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git",
@@ -5579,7 +5579,7 @@
     "python-pytest-enabler": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-enabler.git",
       "branch": "master",
-      "revision": "c4b190ce36a2dc47d02dddb446b1bc800c01af30"
+      "revision": "b619aad76ec4ef8b2223fcda0dc6a317b7aefceb"
     },
     "python-pytest-env": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-env.git",
@@ -5669,7 +5669,7 @@
     "python-pytest-param-files": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-param-files.git",
       "branch": "master",
-      "revision": "e8ecdbb5a79ce318d70e8a8808033aefc6aa82ad"
+      "revision": "bdc2a308d6932ea5c1cd55e4306dcf2ccb178674"
     },
     "python-pytest-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-plugins.git",
@@ -6549,7 +6549,7 @@
     "python-sphinxcontrib-htmlhelp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-htmlhelp.git",
       "branch": "master",
-      "revision": "195945238d2b529aee33fcc7d1e9f26d6bdc08bf"
+      "revision": "ce01e17d0e883ff64970a62fea9c0104d5331637"
     },
     "python-sphinxcontrib-jquery": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxcontrib-jquery.git",
@@ -6659,7 +6659,7 @@
     "python-stestr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stestr.git",
       "branch": "master",
-      "revision": "ec30a5577162b21b7771b41e77ccf93aa5941c5c"
+      "revision": "26a7d437f9ea54e2f9e0f169cf8ba181928faead"
     },
     "python-stevedore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stevedore.git",
@@ -7334,12 +7334,12 @@
     "python-xlsxwriter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlsxwriter.git",
       "branch": "master",
-      "revision": "b0f57205de3f21147225fa824a2c07d74d52a222"
+      "revision": "77bd0796fa6c6349832bcaa7927ba65d5ea671aa"
     },
     "python-xlwt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlwt.git",
       "branch": "master",
-      "revision": "c88cc30a5cb3f9d6fd250e8c48513d56d5f10cd0"
+      "revision": "a9b70bc6d145e7bca816ba564a8e55b3d04d7e47"
     },
     "python-xmlschema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmlschema.git",
