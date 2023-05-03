@@ -1664,7 +1664,7 @@
     "python-argh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argh.git",
       "branch": "master",
-      "revision": "468bc89bfc77ee75e09e8918ffe100cb4ff01b60"
+      "revision": "bd1f137090e64ba5957d0d571d291c9157789805"
     },
     "python-argon2-cffi-bindings": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argon2-cffi-bindings.git",
