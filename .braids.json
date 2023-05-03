@@ -4119,7 +4119,7 @@
     "python-mamba": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mamba.git",
       "branch": "master",
-      "revision": "352782a4ccd2e243ae2cdec7bf36e30e3e2ce2ed"
+      "revision": "fcd0cf6c05dcacba737c9b4c2e0f51e7cc0d4ac3"
     },
     "python-manuel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-manuel.git",
