@@ -1269,7 +1269,7 @@
     "perl-test-simple": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-simple.git",
       "branch": "master",
-      "revision": "c2d19ec7b8d4f5951392f69506af7d01a36bc45b"
+      "revision": "a561e27054697ebf57d6d97b8ee30f3850b00356"
     },
     "perl-test-subcalls": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-test-subcalls.git",
