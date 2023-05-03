@@ -5674,7 +5674,7 @@
     "python-pytest-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-plugins.git",
       "branch": "master",
-      "revision": "798edd4a082ff3a2406bc5d5e878e18262feea26"
+      "revision": "1c305b1356080d3a34e647c6b0ccb3c1ad0a8d0f"
     },
     "python-pytest-pylint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pylint.git",
