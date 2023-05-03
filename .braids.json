@@ -3264,7 +3264,7 @@
     "python-gnupginterface": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gnupginterface.git",
       "branch": "master",
-      "revision": "781ff72df25cbc456e50e14e1aedcb6057abf0f3"
+      "revision": "8d06589c00e2ac32059d5a8fab442626b54961b1"
     },
     "python-google-api-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-api-core.git",
