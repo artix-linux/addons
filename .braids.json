@@ -4729,7 +4729,7 @@
     "python-patsy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patsy.git",
       "branch": "master",
-      "revision": "0869cb798ded044409d26dabd598bc995317125f"
+      "revision": "580e36ef241263855d104e5854e206d914121453"
     },
     "python-paver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-paver.git",
