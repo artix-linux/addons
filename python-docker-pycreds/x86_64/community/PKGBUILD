@@ -1,11 +1,11 @@
-# Maintainer: Andrew Crerar <crerar@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Hideaki Takahashi <mymelo+aur@gmail.com>
 # Contributor: Vincent Demeester <vincent@sbr.pm>
 
 pkgname=python-docker-pycreds
 pkgver=0.4.0
-pkgrel=9
+pkgrel=10
 pkgdesc="Python bindings for the docker credentials store API"
 arch=('any')
 license=('Apache')
