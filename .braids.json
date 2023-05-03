@@ -5079,7 +5079,7 @@
     "python-pyaes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyaes.git",
       "branch": "master",
-      "revision": "96cff91fa71916624254d35986c1e6a501dacca7"
+      "revision": "df187093755b45c0f6e54959e280b450ec47f529"
     },
     "python-pyaml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyaml.git",
