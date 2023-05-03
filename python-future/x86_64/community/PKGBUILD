@@ -1,11 +1,11 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Christopher Arndt <aur -at- chrisarndt -dot- de>
 # Contributor: Gaute Hope <eg@gaute.vetsj.com>
 # Contributor: Melissa Padilla <mpadilla2 at hotmail dot com>
 
 pkgname=python-future
 pkgver=0.18.2
-pkgrel=7
+pkgrel=8
 pkgdesc="Clean single-source support for Python 3 and 2"
 url="https://python-future.org/"
 arch=('any')
