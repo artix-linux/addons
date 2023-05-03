@@ -6499,7 +6499,7 @@
     "python-sphinx-inline-tabs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-inline-tabs.git",
       "branch": "master",
-      "revision": "2afd6dd9db5ab8e1cfb5089187f645bb5308772b"
+      "revision": "3081c692f9bb84b00fcadb3678cd6c6a8eea3596"
     },
     "python-sphinx-issues": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinx-issues.git",
