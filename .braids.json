@@ -3439,7 +3439,7 @@
     "python-httpretty": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httpretty.git",
       "branch": "master",
-      "revision": "00fb7ed343450e3a9556cb479e8cde3af738fa41"
+      "revision": "e6ecd357c2a7f38e510f343a097c842ae6773116"
     },
     "python-httptools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-httptools.git",
