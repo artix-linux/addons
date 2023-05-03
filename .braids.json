@@ -5139,7 +5139,7 @@
     "python-pycryptodomex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycryptodomex.git",
       "branch": "master",
-      "revision": "f4063f01bd2613409306890b9ee3040a2c8bf9a7"
+      "revision": "13e55fa97826393123531de55191aeeecef57851"
     },
     "python-pycuda": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycuda.git",
