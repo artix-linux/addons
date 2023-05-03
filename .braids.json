@@ -2704,7 +2704,7 @@
     "python-doctest-ignore-unicode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-doctest-ignore-unicode.git",
       "branch": "master",
-      "revision": "e6c9a35de94c9d74e8f46e839d48a323f1f202bb"
+      "revision": "8e43bd8889191449e6e89fe816329e5bb77ec5b0"
     },
     "python-docutils": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-docutils.git",
