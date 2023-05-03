@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-hyperframe
 pkgver=6.0.1
-pkgrel=3
+pkgrel=4
 pkgdesc="HTTP/2 framing layer for Python"
 arch=('any')
 license=('MIT')
