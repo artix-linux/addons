@@ -5354,7 +5354,7 @@
     "python-pynvim": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pynvim.git",
       "branch": "master",
-      "revision": "a746041df91bc801377085bd8729adb0068be470"
+      "revision": "0fb7f63f1738e7b05c80756f35f01c384b6edddb"
     },
     "python-pyocd": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyocd.git",
