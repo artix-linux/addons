@@ -1,11 +1,11 @@
-# Maintainer: Andrew Crerar <crerar@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Hideaki Takahashi <mymelo+aur@gmail.com>
 # Contributor: Vincent Demeester <vincent@sbr.pm>
 
 pkgname=python-dockerpty
 pkgver=0.4.1
-pkgrel=9
+pkgrel=10
 pkgdesc="Python library to use the pseudo-tty of a docker container"
 arch=('any')
 license=('Apache')
