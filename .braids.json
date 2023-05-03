@@ -2279,7 +2279,7 @@
     "python-cogapp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cogapp.git",
       "branch": "master",
-      "revision": "715480b734e68613c1c1458c6d9e80f318798db0"
+      "revision": "0c96a546fdd7084d2cc33c8b4bd9d20de6d419bf"
     },
     "python-colorama": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-colorama.git",
