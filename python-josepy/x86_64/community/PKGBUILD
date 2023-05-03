@@ -1,10 +1,10 @@
-# Maintainer: George Rawlinson <grawlinson@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Felix Yan <felixonmars@archlinux.org>
 
 pkgname=python-josepy
 _pkgname=josepy
 pkgver=1.13.0
-pkgrel=2
+pkgrel=3
 pkgdesc="JOSE protocol implementation in Python"
 url="https://github.com/certbot/josepy"
 license=('PerlArtistic')
