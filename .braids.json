@@ -2549,7 +2549,7 @@
     "python-discid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-discid.git",
       "branch": "master",
-      "revision": "1e32185f2a79f0e8729622e8383f8f7bb135775a"
+      "revision": "9ff104a4c6c7839deaf2b49b56147200d68f55ee"
     },
     "python-discogs-client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-discogs-client.git",
