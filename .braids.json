@@ -6314,7 +6314,7 @@
     "python-sgmllib3k": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sgmllib3k.git",
       "branch": "master",
-      "revision": "bac31c3c83f1c25ab1f8c85588040f44b7ba6ddf"
+      "revision": "a9d725a9ac32fc9f60648cfe63413d3a52a2933d"
     },
     "python-sh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sh.git",
