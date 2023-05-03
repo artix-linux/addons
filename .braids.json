@@ -5589,7 +5589,7 @@
     "python-pytest-expect": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-expect.git",
       "branch": "master",
-      "revision": "9a10482a83c918a441980739e7429fe351e488a5"
+      "revision": "56e7f9e85b6773eb41ae59f0725beba186801ac9"
     },
     "python-pytest-flake8": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-flake8.git",
