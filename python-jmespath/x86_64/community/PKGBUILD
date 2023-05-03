@@ -1,11 +1,11 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Chris Severance aur.severach AatT spamgourmet.com
 # Contributor: Chris Fordham <chris [at] fordham-nagy [dot] id [dot] au> aka flaccid
 # Package Source: https://github.com/flaccid/archlinux-packages/blob/master/python-jmespath/PKGBUILD
 
 pkgname=python-jmespath
 pkgver=1.0.1
-pkgrel=1
+pkgrel=2
 pkgdesc='A query language for JSON'
 arch=('any')
 url="https://github.com/jmespath/jmespath"
