@@ -1,10 +1,10 @@
-# Maintainer: Jiachen Yang <farseerfc@gmail.com>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # AUR Maintainer: Sam Stuewe <halosghost at archlinux dot info>
 # Contributor: Chaoswizard <chaoswizard@gmail.com>
 _name=feedgenerator
 pkgname="python-${_name}"
 pkgver=1.9.2
-pkgrel=3
+pkgrel=4
 pkgdesc="Standalone version of django.utils.feedgenerator (python3)."
 url="https://pypi.org/project/feedgenerator/"
 arch=('any')
