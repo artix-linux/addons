@@ -4349,7 +4349,7 @@
     "python-myst-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-myst-parser.git",
       "branch": "master",
-      "revision": "15df8ab6581e4566cd06b17dc8680ccef35132d4"
+      "revision": "3a5caa1dc0ab2da61c31e2b616a4f52a8c5faf57"
     },
     "python-natsort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-natsort.git",
