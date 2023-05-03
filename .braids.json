@@ -5669,7 +5669,7 @@
     "python-pytest-param-files": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-param-files.git",
       "branch": "master",
-      "revision": "bdc2a308d6932ea5c1cd55e4306dcf2ccb178674"
+      "revision": "6459c167916de0efbee24bfebb5ffb21fa08e682"
     },
     "python-pytest-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-plugins.git",
