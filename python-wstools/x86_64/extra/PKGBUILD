@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-wstools
 pkgver=0.4.10
-pkgrel=5
+pkgrel=6
 pkgdesc="WSDL parsing services package for Web Services for Python"
 arch=('any')
 url="https://github.com/pycontribs/wstools"
