@@ -5509,7 +5509,7 @@
     "python-pystache": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pystache.git",
       "branch": "master",
-      "revision": "1d7ee28dbc0cba66b191416286435e3396d295dd"
+      "revision": "8f3d508ed1d08af5a959caaa0159b3d818e89c50"
     },
     "python-pytables": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytables.git",
