@@ -4724,7 +4724,7 @@
     "python-patiencediff": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patiencediff.git",
       "branch": "master",
-      "revision": "5c9f13d5f7973020cc271357f366551deb6b23bc"
+      "revision": "2ed011b72f63ca8b2c25a32de6b56edb20a42902"
     },
     "python-patsy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-patsy.git",
