@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-func-timeout
 pkgver=4.3.5
-pkgrel=5
+pkgrel=6
 pkgdesc="Python module which allows you to specify timeouts when calling any existing function. Also provides support for stoppable-threads"
 url="https://github.com/kata198/func_timeout"
 license=('LGPL')
