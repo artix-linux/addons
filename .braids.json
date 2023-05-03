@@ -1994,7 +1994,7 @@
     "python-bracex": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bracex.git",
       "branch": "master",
-      "revision": "ca17d552a40b649aedaf6c0b4bb4fed46f62ab27"
+      "revision": "5c20f153ad4a61ae8f77322b270231c7d6303dc9"
     },
     "python-braintree": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-braintree.git",
