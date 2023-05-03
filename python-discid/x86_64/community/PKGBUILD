@@ -1,11 +1,11 @@
-# Maintainer: David Runge <dvzrv@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Gaetan Bisson <bisson@archlinux.org>
 # Contributor: Johannes Dewender   arch at JonnyJD dot net
 
 _name=discid
 pkgname=python-discid
 pkgver=1.2.0
-pkgrel=7
+pkgrel=8
 pkgdesc="Python binding of MusicBrainz libdiscid"
 url="https://github.com/JonnyJD/python-discid"
 license=('LGPL3')
