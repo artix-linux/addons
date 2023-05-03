@@ -3754,7 +3754,7 @@
     "python-json-logger": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-json-logger.git",
       "branch": "master",
-      "revision": "caad2b679553aab04478ee71c94b4df305b737e5"
+      "revision": "329a496256bbf87c1ffa6de6acdffe3ca3fcbb75"
     },
     "python-json5": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-json5.git",
