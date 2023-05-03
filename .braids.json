@@ -2644,7 +2644,7 @@
     "python-django-mailman3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-mailman3.git",
       "branch": "master",
-      "revision": "a9f7ba982ea968dac82162dbcaed31bd257d7220"
+      "revision": "c7e8221e83db01f3d9050861c8ce4996e65367d9"
     },
     "python-django-picklefield": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-django-picklefield.git",
