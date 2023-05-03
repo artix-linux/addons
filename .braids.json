@@ -2139,7 +2139,7 @@
     "python-cfgv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cfgv.git",
       "branch": "master",
-      "revision": "3cd05194c0fc9f39bd353270c61efe3bb7aabfc0"
+      "revision": "14c613539f92832e90a24dc9fac4df3fb84e9706"
     },
     "python-cfn-lint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cfn-lint.git",
