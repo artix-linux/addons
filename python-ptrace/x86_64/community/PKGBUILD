@@ -1,10 +1,10 @@
-# Maintainer: Muflone http://www.muflone.com/contacts/english/
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
 # Contributor: Sebastien Binet <binet@lblbox>
 
 pkgname=python-ptrace
 pkgver=0.9.8
-pkgrel=3
+pkgrel=4
 pkgdesc='Python binding of ptrace library to trace processes and syscalls'
 url='https://github.com/haypo/python-ptrace'
 arch=('any')
