@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: GI_Jack <GI_Jack@hackermail.com>
 
 _pyname=minidump
 pkgname=python-${_pyname}
 pkgver=0.0.21
-pkgrel=2
+pkgrel=3
 pkgdesc='Python library to parse and read Microsoft minidump file format'
 url='https://github.com/skelsec/minidump'
 arch=('any')
