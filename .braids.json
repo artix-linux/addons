@@ -5319,7 +5319,7 @@
     "python-pymongo": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymongo.git",
       "branch": "master",
-      "revision": "9eb53ad5c524962396e193d2d41d4680a22609e8"
+      "revision": "e9ef2f6efd1e8fa7e1b617f4657d3d762b2a4540"
     },
     "python-pymupdf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymupdf.git",
