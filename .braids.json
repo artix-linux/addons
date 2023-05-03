@@ -5559,7 +5559,7 @@
     "python-pytest-console-scripts": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-console-scripts.git",
       "branch": "master",
-      "revision": "fbad7b35e9b529f71509c26645101d896578a176"
+      "revision": "b8803930eb5987db9aded58338ea9435bd17438c"
     },
     "python-pytest-cov": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-cov.git",
