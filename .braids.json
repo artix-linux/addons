@@ -3049,7 +3049,7 @@
     "python-flask-socketio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-socketio.git",
       "branch": "master",
-      "revision": "8b5b36b2223d60f631530f3b7dab6c5721eeba0f"
+      "revision": "05745c4038099652344fe19d67a7db6631e972b3"
     },
     "python-flask-sqlalchemy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-sqlalchemy.git",
