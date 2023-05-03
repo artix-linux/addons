@@ -1,9 +1,9 @@
-# Maintainer: Lukas Fleischer <lfleischer@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Aaron Schaefer <aaron@elasticdog.com>
 
 pkgname=python-gnupginterface
 pkgver=0.3.2
-pkgrel=10
+pkgrel=11
 pkgdesc='A Python interface to GNU Privacy Guard (GnuPG).'
 arch=('x86_64')
 url='http://py-gnupg.sourceforge.net/'
