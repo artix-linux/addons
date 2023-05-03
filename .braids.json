@@ -3344,7 +3344,7 @@
     "python-hatch-fancy-pypi-readme": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-fancy-pypi-readme.git",
       "branch": "master",
-      "revision": "06324dda24849c48a11c84b7a25026b59fbbca8a"
+      "revision": "8a2318afb0921e375956265503e36d227119b7f5"
     },
     "python-hatch-jupyter-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hatch-jupyter-builder.git",
