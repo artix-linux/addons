@@ -2819,7 +2819,7 @@
     "python-entrypoints": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-entrypoints.git",
       "branch": "master",
-      "revision": "8d6d700e84ef84d08a8b489161dd2d6f91151860"
+      "revision": "324090753721becb6116062d1cf1c3b5c1359e75"
     },
     "python-ephemeral-port-reserve": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ephemeral-port-reserve.git",
