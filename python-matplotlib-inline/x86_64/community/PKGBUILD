@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Maintainer: Bruno Pagani <archange@archlinux.org>
 
 _name=matplotlib-inline
 pkgname=python-matplotlib-inline
 pkgver=0.1.6
-pkgrel=2
+pkgrel=4
 pkgdesc='Inline Matplotlib backend for Jupyter'
 arch=('any')
 url=https://github.com/ipython/matplotlib-inline
