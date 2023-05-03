@@ -2044,7 +2044,7 @@
     "python-cachetools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachetools.git",
       "branch": "master",
-      "revision": "51e4a644ce572ffcb110916d7df2b5c9f736bb8d"
+      "revision": "accade00a2294b051768816fe7259d5acea56a8f"
     },
     "python-cachy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cachy.git",
