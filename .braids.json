@@ -3974,7 +3974,7 @@
     "python-libarchive-c": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libarchive-c.git",
       "branch": "master",
-      "revision": "20f80afc1a41e3ba0ba71b63334022e21a6ae5e8"
+      "revision": "41b0914b2eaecf59f2a03e298399d7e04636869d"
     },
     "python-libcst": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-libcst.git",
