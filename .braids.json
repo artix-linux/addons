@@ -1599,7 +1599,7 @@
     "python-ansicolors": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansicolors.git",
       "branch": "master",
-      "revision": "5628e47c9b2e74c9bf06b7d92bd4b3aadec0637c"
+      "revision": "b6d566d762c4a339219971734cc127a0ce0ecdf5"
     },
     "python-ansiwrap": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ansiwrap.git",
