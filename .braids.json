@@ -3164,7 +3164,7 @@
     "python-fuzzywuzzy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fuzzywuzzy.git",
       "branch": "master",
-      "revision": "b85ad3604a1da24dcbcb1c002f15104ed1d9108c"
+      "revision": "ec9fde303393f3552a666f811c8d45d4cefddb82"
     },
     "python-gast": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-gast.git",
