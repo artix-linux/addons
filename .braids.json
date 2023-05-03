@@ -5454,7 +5454,7 @@
     "python-pyrsistent": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyrsistent.git",
       "branch": "master",
-      "revision": "7745f779b5216eaf5b6e2f6dd634feb32e65354b"
+      "revision": "c380952cdecf2e5305209ab46a24a669075651fe"
     },
     "python-pysaml2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pysaml2.git",
