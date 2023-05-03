@@ -1609,7 +1609,7 @@
     "python-anyio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anyio.git",
       "branch": "master",
-      "revision": "26ffcd42a811d0c4eb2ed793789011979854335f"
+      "revision": "0b6da692d37c09eb8c3603185915d68f7869438d"
     },
     "python-anyjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-anyjson.git",
