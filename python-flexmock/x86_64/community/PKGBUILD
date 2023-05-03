@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-flexmock
 pkgver=0.11.3
-pkgrel=1
+pkgrel=2
 pkgdesc="Mock/Stub/Spy library for Python"
 arch=('any')
 license=('BSD')
