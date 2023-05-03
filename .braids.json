@@ -1874,7 +1874,7 @@
     "python-behave": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-behave.git",
       "branch": "master",
-      "revision": "25fb613b308d6ca86843dd20f65ec969e7426ab4"
+      "revision": "dabdcd2b07a996cb306e6608e2633de0f4331857"
     },
     "python-beniget": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beniget.git",
