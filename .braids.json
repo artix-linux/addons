@@ -5569,7 +5569,7 @@
     "python-pytest-datadir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-datadir.git",
       "branch": "master",
-      "revision": "64270b270fc95530c4792f417f0ab3e209c4002e"
+      "revision": "315beb10f62d537650484d4bc495730668ab8700"
     },
     "python-pytest-django": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-django.git",
