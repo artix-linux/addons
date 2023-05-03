@@ -5144,7 +5144,7 @@
     "python-pycuda": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycuda.git",
       "branch": "master",
-      "revision": "f9588abd23c82d4fe6c8e4e1b4e885d00c4fa038"
+      "revision": "5a414be8a03baa4e080a2c954ef5675eabddc3ca"
     },
     "python-pycurl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycurl.git",
