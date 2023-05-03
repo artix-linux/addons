@@ -1659,7 +1659,7 @@
     "python-argcomplete": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argcomplete.git",
       "branch": "master",
-      "revision": "10edadd9e23a072c34d6fe58964ecbb975bac427"
+      "revision": "194f133331995633196c97a1c4f7722f23ca1157"
     },
     "python-argh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-argh.git",
