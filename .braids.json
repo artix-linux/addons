@@ -4559,7 +4559,7 @@
     "python-oslo-concurrency": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-concurrency.git",
       "branch": "master",
-      "revision": "06130d3e7657485645a2e1a7bf45dd62de95b0aa"
+      "revision": "c748e877f36df541cb8ac21469e51f6f1853cf67"
     },
     "python-oslo-config": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-oslo-config.git",
