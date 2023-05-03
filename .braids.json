@@ -3109,7 +3109,7 @@
     "python-flup": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flup.git",
       "branch": "master",
-      "revision": "d6c25bb351620bb79d72d7acd61c3218dbaf3a8b"
+      "revision": "cad73d46674ac2bc7d47cbd5317b4d9110e10c58"
     },
     "python-fonttools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-fonttools.git",
