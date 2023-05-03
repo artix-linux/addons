@@ -1844,7 +1844,7 @@
     "python-babel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-babel.git",
       "branch": "master",
-      "revision": "aed8074b6299778739fe0ed1c01c21f6a15b48c7"
+      "revision": "fbe621e831912c001099e8a729b1b751d238f876"
     },
     "python-backcall": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-backcall.git",
