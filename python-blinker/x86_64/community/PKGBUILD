@@ -1,10 +1,10 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Philipp Schmidt <philschmidt at gmx dot net>
 # Contributor: Stefan Tatschner <stefan.tatschner at gmail dot com>
 
 pkgname=python-blinker
 pkgver=1.5
-pkgrel=1
+pkgrel=2
 pkgdesc="Fast, simple object-to-object and broadcast signaling"
 arch=('any')
 url="https://blinker.readthedocs.io"
