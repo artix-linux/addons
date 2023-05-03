@@ -5054,7 +5054,7 @@
     "python-pwntools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pwntools.git",
       "branch": "master",
-      "revision": "10df528c3bac00ea4645162d5dd6e3258b5b1ec0"
+      "revision": "45d0c68d42cf6ca90a06b27fc503419716e0abea"
     },
     "python-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py.git",
