@@ -3394,7 +3394,7 @@
     "python-hkdf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hkdf.git",
       "branch": "master",
-      "revision": "e4333b53a86688374c39e2d4630b10f6decc2f62"
+      "revision": "173ae12db89b040dee21da03d605a3918e79e3b8"
     },
     "python-hpack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hpack.git",
