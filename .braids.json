@@ -3269,7 +3269,7 @@
     "python-google-api-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-api-core.git",
       "branch": "master",
-      "revision": "5e04e92872b55095409a98116e30b9c642c6d843"
+      "revision": "a0a4b5deb4b1702792b3eed768065048a33440bd"
     },
     "python-google-api-python-client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-google-api-python-client.git",
