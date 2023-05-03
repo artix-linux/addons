@@ -4169,7 +4169,7 @@
     "python-mdit_py_plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mdit_py_plugins.git",
       "branch": "master",
-      "revision": "4559f0fabf5a914307558bb616e304a5705ef70d"
+      "revision": "f8a71ffbba7c171b92f883940190bc89fba6e231"
     },
     "python-mdurl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mdurl.git",
