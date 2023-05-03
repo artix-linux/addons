@@ -3189,7 +3189,7 @@
     "python-genty": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-genty.git",
       "branch": "master",
-      "revision": "b49220054d56be001014b90f516e63aae1400466"
+      "revision": "267642fd361ee151b4e629766db6b07d23de50ba"
     },
     "python-geographiclib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geographiclib.git",
