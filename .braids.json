@@ -1729,7 +1729,7 @@
     "python-asttokens": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-asttokens.git",
       "branch": "master",
-      "revision": "514036386ec91e3d3f7d456098584a5cd1761cfd"
+      "revision": "fef077c1ec791c6189f83f166b5222ea8f0173e9"
     },
     "python-astunparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-astunparse.git",
