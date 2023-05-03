@@ -3034,7 +3034,7 @@
     "python-flask-jwt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-jwt.git",
       "branch": "master",
-      "revision": "d002cadc94004b3e2082f673ddc68adb14f4f8d4"
+      "revision": "a3a1c6245efe50de7bb48562380fbbc93ba8d7dd"
     },
     "python-flask-login": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flask-login.git",
