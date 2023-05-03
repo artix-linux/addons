@@ -3894,7 +3894,7 @@
     "python-keras-preprocessing": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keras-preprocessing.git",
       "branch": "master",
-      "revision": "70e2e32312ff01ed16e302a9424dd0bec9c2893a"
+      "revision": "220ff22148e83664791519e2efd1c201866d1d5d"
     },
     "python-keyring": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-keyring.git",
