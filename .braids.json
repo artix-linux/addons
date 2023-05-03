@@ -2069,7 +2069,7 @@
     "python-calmjs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calmjs.git",
       "branch": "master",
-      "revision": "f2bddf53ab7543b8502ad498ae8502d97c170936"
+      "revision": "0fd59b3b45cdc3851e04d63dcc20ce50c89d1fc2"
     },
     "python-calmjs.parse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-calmjs.parse.git",
