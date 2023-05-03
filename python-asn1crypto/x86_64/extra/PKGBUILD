@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Ionut Biru <ibiru@archlinux.org>
 # Contributor: Massimiliano Torromeo < massimiliano DOT torromeo AT gmail DOT com >
 
 pkgname=python-asn1crypto
 pkgver=1.5.1
-pkgrel=1
+pkgrel=2
 arch=('any')
 license=('MIT')
 pkgdesc="Python ASN.1 library with a focus on performance and a pythonic API"
