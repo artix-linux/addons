@@ -7014,7 +7014,7 @@
     "python-uc-micro-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uc-micro-py.git",
       "branch": "master",
-      "revision": "daa3de0b784343506da5fca6419a9bc9896539d6"
+      "revision": "10741f95f420f4c72846c7849639e32b187ab024"
     },
     "python-ufolib2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ufolib2.git",
