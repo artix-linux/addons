@@ -7229,7 +7229,7 @@
     "python-werkzeug": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-werkzeug.git",
       "branch": "master",
-      "revision": "6391842a2f57685939c1d6a33a2d5901336b5bd5"
+      "revision": "964772140439bb1695db792e6cba668719f80b56"
     },
     "python-whatthepatch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-whatthepatch.git",
