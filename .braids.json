@@ -3564,7 +3564,7 @@
     "python-install": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-install.git",
       "branch": "master",
-      "revision": "e4dca272b5f44671a8505f1efc81997cbed9ab85"
+      "revision": "4b461b1557ca36ca42fbdfe41b4f6a6efa5f8e0a"
     },
     "python-installer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-installer.git",
