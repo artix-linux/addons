@@ -7034,7 +7034,7 @@
     "python-ukpostcodeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ukpostcodeparser.git",
       "branch": "master",
-      "revision": "1a1cec8c1ab8401ea3d5bcb00358daeb573ba811"
+      "revision": "f3948d67d1674cf5b5c2b20efd7a5ad0e325fee1"
     },
     "python-uncertainties": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uncertainties.git",
