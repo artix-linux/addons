@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-setuptools-git
 pkgver=1.2
-pkgrel=8
+pkgrel=9
 pkgdesc='Setuptools revision control system plugin for Git'
 arch=('any')
 license=('BSD')
