@@ -2514,7 +2514,7 @@
     "python-defusedxml": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-defusedxml.git",
       "branch": "master",
-      "revision": "a22b5acd1f706215b75089ac63278834084b428f"
+      "revision": "aa357d6b6e7a5938d2b25bae04125bdc3c735517"
     },
     "python-dephell-argparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-dephell-argparse.git",
