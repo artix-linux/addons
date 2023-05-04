@@ -7209,7 +7209,7 @@
     "python-webencodings": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webencodings.git",
       "branch": "master",
-      "revision": "6ce357da6c941e3a45a90577129df2cc3f20b837"
+      "revision": "c4f3e2783ecb26e4a050d4696481ae50568938c4"
     },
     "python-webob": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webob.git",
