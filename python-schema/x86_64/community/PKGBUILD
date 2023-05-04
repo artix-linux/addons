@@ -1,9 +1,9 @@
-# Maintainer: Florian Pritz <bluewind@xinu.at>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _name=schema
 pkgname="python-$_name"
 pkgver=0.7.5
-pkgrel=1
+pkgrel=2
 pkgdesc='Python module to validate and convert data structures.'
 arch=(any)
 url="https://github.com/keleshev/$_name"
