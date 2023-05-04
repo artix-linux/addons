@@ -7099,7 +7099,7 @@
     "python-validate-email": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-validate-email.git",
       "branch": "master",
-      "revision": "f5cf373968a07844678b89626975bfbc2c97de70"
+      "revision": "497e9bac6b8da924e108782fcdc7a51c9bf21280"
     },
     "python-validate-pyproject": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-validate-pyproject.git",
