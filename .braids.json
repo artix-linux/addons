@@ -7129,7 +7129,7 @@
     "python-vine": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vine.git",
       "branch": "master",
-      "revision": "f576f030c62c498f7fea51b6d293b3dab9c5e8ca"
+      "revision": "3cf19e17f8e0492544435df24c24503a7cbca928"
     },
     "python-virtualenv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-virtualenv.git",
