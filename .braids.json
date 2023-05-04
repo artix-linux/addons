@@ -4944,7 +4944,7 @@
     "python-pproxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pproxy.git",
       "branch": "master",
-      "revision": "397ba92ace5720b1bc8183918b047208f3baa82b"
+      "revision": "0036313a79bfe107ac355182596edb1ce0159be2"
     },
     "python-prance": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prance.git",
