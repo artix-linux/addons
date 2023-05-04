@@ -7119,7 +7119,7 @@
     "python-versioneer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-versioneer.git",
       "branch": "master",
-      "revision": "fa3d28545120a9eb6358b266ca03eef0b09949be"
+      "revision": "663704f4fa51ba06e034c23a51097d5e688ffaf5"
     },
     "python-versioningit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-versioningit.git",
