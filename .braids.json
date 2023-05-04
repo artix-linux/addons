@@ -6359,7 +6359,7 @@
     "python-slip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-slip.git",
       "branch": "master",
-      "revision": "2e2440dff2ca3b522ccc30800174377bbbdade62"
+      "revision": "2924f2e798c5dd35ec9aea8c44f100a548819a00"
     },
     "python-slugify": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-slugify.git",
