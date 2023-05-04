@@ -1,10 +1,10 @@
-# Maintainer: Chih-Hsuan Yen <yan12125@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Drew DeVault <sir@cmpwn.com>
 
 _pkgname=sshpubkeys
 pkgname=python-sshpubkeys
 pkgver=3.3.1
-pkgrel=3
+pkgrel=4
 pkgdesc='OpenSSH public key parser for Python'
 arch=(any)
 url='https://github.com/ojarva/python-sshpubkeys'
