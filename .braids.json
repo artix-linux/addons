@@ -2994,7 +2994,7 @@
     "python-flake8-debugger": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-debugger.git",
       "branch": "master",
-      "revision": "5c06d2f554a7ed91ca65f4075736328443d773d2"
+      "revision": "86e84d91352a14560fbd3a81875edac69ccb0f8d"
     },
     "python-flake8-docstrings": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-docstrings.git",
