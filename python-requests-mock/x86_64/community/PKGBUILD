@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-requests-mock
 pkgver=1.10.0
-pkgrel=1
+pkgrel=2
 pkgdesc="A mock of useful classes and functions to be used with python-requests."
 arch=('any')
 url="https://github.com/jamielennox/requests-mock"
