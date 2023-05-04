@@ -6749,7 +6749,7 @@
     "python-tempita": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tempita.git",
       "branch": "master",
-      "revision": "c497df23ab5b0719683463d74f3e8753d780caf0"
+      "revision": "b69149bedc7de83d1a075dd66e0a311c09d62036"
     },
     "python-tempora": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tempora.git",
