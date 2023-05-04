@@ -7394,7 +7394,7 @@
     "python-ytmusicapi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ytmusicapi.git",
       "branch": "master",
-      "revision": "2ab6ee9ce6623057639cb8b946c69dd67bf53d23"
+      "revision": "2a6d4395e81e846a2e93fc9e2640e437284c5a21"
     },
     "python-z3-solver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-z3-solver.git",
