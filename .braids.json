@@ -6589,7 +6589,7 @@
     "python-sphinxext-opengraph": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphinxext-opengraph.git",
       "branch": "master",
-      "revision": "048c941eacc813755adad1cbd0d4673d06486cba"
+      "revision": "87f79588ddb11f6c15fd6827b965908cfe05bce6"
     },
     "python-sphobjinv": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sphobjinv.git",
