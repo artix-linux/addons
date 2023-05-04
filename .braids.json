@@ -5974,7 +5974,7 @@
     "python-readme-renderer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-readme-renderer.git",
       "branch": "master",
-      "revision": "984268aec7fcd8d9146a6d0498c2ea9813f93b1f"
+      "revision": "b6fc557bc238477ace0e6df8c62dd8672d50e5f6"
     },
     "python-recommonmark": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-recommonmark.git",
