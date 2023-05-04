@@ -7304,7 +7304,7 @@
     "python-xapp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xapp.git",
       "branch": "master",
-      "revision": "654e348a9d094c5479c8ef69f6e753c370a4a045"
+      "revision": "661cc09f1dc6cdb56d8cc079f4f036bb970fa760"
     },
     "python-xarray": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xarray.git",
