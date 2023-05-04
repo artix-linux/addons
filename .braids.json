@@ -7074,7 +7074,7 @@
     "python-uri-template": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uri-template.git",
       "branch": "master",
-      "revision": "07d5eac1150cedb1a3b168c6ab357e917854b43b"
+      "revision": "2ecdf628d839a6b974a6fc31d2d3529c0fb5506d"
     },
     "python-uritemplate": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uritemplate.git",
