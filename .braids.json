@@ -6744,7 +6744,7 @@
     "python-telegram-bot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-telegram-bot.git",
       "branch": "master",
-      "revision": "8d022f49a829367dab287cbdac96285ac16adc51"
+      "revision": "ec6001bd93124cc8ef61c0f87589fa5836b58db7"
     },
     "python-tempita": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tempita.git",
