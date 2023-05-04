@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-baron
 pkgver=0.10.1
-pkgrel=1
+pkgrel=2
 pkgdesc="Full Syntax Tree for python to make writing refactoring code a realist task"
 url="https://github.com/PyCQA/baron"
 license=('LGPL')
