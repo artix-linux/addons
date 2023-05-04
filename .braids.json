@@ -2349,7 +2349,7 @@
     "python-cookies": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-cookies.git",
       "branch": "master",
-      "revision": "1c42ecf8fbfd52f01a4117f976a413e6f2022240"
+      "revision": "7e1b323e0fd734918065ecc875a122307dbbbc49"
     },
     "python-coverage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-coverage.git",
