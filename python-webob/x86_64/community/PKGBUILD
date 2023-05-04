@@ -1,11 +1,11 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Aaron DeVore <aaron.devore@gmail.com>
 # Contributor: Cilyan Olowen <gaknar@gmail.com>
 
 pkgbase='python-webob'
 pkgname=('python-webob' 'python-webob-docs')
 pkgver=1.8.7
-pkgrel=4
+pkgrel=6
 pkgdesc="WSGI request and response object"
 arch=('any')
 url="http://pythonpaste.org/webob/"
