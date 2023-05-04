@@ -5949,7 +5949,7 @@
     "python-rcssmin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rcssmin.git",
       "branch": "master",
-      "revision": "05ae55be6aa2901da1cc17d4aeeecc2cbee8447f"
+      "revision": "2553ec94f4dc52d754a53dd4ca9d119ac3985d23"
     },
     "python-rdflib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib.git",
