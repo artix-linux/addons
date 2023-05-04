@@ -6889,7 +6889,7 @@
     "python-tox-current-env": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tox-current-env.git",
       "branch": "master",
-      "revision": "10ec6c5f0e085a23765879e8bf38d98705cb0618"
+      "revision": "612c4c26c9cb5d82e03470bcb071013c3914d52e"
     },
     "python-tpm2-pytss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tpm2-pytss.git",
