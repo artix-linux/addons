@@ -6114,7 +6114,7 @@
     "python-rfc3986": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3986.git",
       "branch": "master",
-      "revision": "f31fc8e023a296714aa8bfd16d0e86647c9ecc37"
+      "revision": "7d67032e388e93c06b8943ea122c7277135d9d94"
     },
     "python-rfc3986-validator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3986-validator.git",
