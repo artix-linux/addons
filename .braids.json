@@ -6614,7 +6614,7 @@
     "python-sqlalchemy1.3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlalchemy1.3.git",
       "branch": "master",
-      "revision": "f88d611f26e0495f7d60d7bb8352ed6dfe904ded"
+      "revision": "2d99461ba6b6520bb722fd808a2647ce6ab84d76"
     },
     "python-sqlparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sqlparse.git",
