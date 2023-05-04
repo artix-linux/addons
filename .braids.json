@@ -2489,7 +2489,7 @@
     "python-debtcollector": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-debtcollector.git",
       "branch": "master",
-      "revision": "c2be23b5dd1b0d44525bd0b3f84e1580ee9a0275"
+      "revision": "51f633b2a9140b99bf2e2e6370c7efc3303d1d99"
     },
     "python-debugpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-debugpy.git",
