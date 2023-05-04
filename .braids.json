@@ -7254,7 +7254,7 @@
     "python-whoosh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-whoosh.git",
       "branch": "master",
-      "revision": "63855f63650ec64373855b5ddc4ca7ee604c2992"
+      "revision": "cd58ac8955d3d221c9f74bda6c5cfb3c074b6f38"
     },
     "python-wilderness": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wilderness.git",
