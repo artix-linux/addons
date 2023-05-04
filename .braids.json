@@ -4224,7 +4224,7 @@
     "python-mistune1": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mistune1.git",
       "branch": "master",
-      "revision": "910f822f28687859bd487c29dc15dec92d1bbb39"
+      "revision": "1b38f12ff80dfdd90e9876f9af21bfee15aed57b"
     },
     "python-mitmproxy-wireguard": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mitmproxy-wireguard.git",
