@@ -6659,7 +6659,7 @@
     "python-stestr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stestr.git",
       "branch": "master",
-      "revision": "26a7d437f9ea54e2f9e0f169cf8ba181928faead"
+      "revision": "b6ec3346320c23d31c9b411e3de12c01712ac2d4"
     },
     "python-stevedore": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stevedore.git",
