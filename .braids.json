@@ -6339,7 +6339,7 @@
     "python-shtab": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-shtab.git",
       "branch": "master",
-      "revision": "bb450c92096c9c04f14e738dbe6f6833cba2609b"
+      "revision": "4c057bbdbc886b8a5c3ffb4b015cedd42bf386ab"
     },
     "python-signedjson": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-signedjson.git",
