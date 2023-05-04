@@ -3694,7 +3694,7 @@
     "python-jdcal": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jdcal.git",
       "branch": "master",
-      "revision": "a7898d3dd3da2d623343c119c4784adf13772ba8"
+      "revision": "1e9751697dac6a71145209102a80f19f1a3f9773"
     },
     "python-jedi": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jedi.git",
