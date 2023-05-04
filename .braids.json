@@ -7464,7 +7464,7 @@
     "python-zope-hookable": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-hookable.git",
       "branch": "master",
-      "revision": "6d9eca2ec5705f1891309cb8195be0449c260e17"
+      "revision": "91740ed244fcf491109d563b2d4625a17b8f6b68"
     },
     "python-zope-i18nmessageid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-i18nmessageid.git",
