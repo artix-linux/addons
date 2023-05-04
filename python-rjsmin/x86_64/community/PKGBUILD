@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _name=rjsmin
 pkgname=python-rjsmin
 pkgver=1.2.1
-pkgrel=1
+pkgrel=2
 pkgdesc="Fast javascript minifier for Python"
 arch=(x86_64)
 url="https://github.com/ndparker/rjsmin"
