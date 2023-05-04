@@ -5714,7 +5714,7 @@
     "python-pytest-services": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-services.git",
       "branch": "master",
-      "revision": "6266988e79af031399bf28467d887802721dad6d"
+      "revision": "d1df6d088d4e79a01b79ccde2b51ab39dbb8aedd"
     },
     "python-pytest-socket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-socket.git",
