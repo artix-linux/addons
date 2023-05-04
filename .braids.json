@@ -3789,7 +3789,7 @@
     "python-jsonrpc-server": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonrpc-server.git",
       "branch": "master",
-      "revision": "53d29b40d8d79f80298e825ce37cde7629ed0c94"
+      "revision": "5506536a1e1dbd2d6cbf505e28c42f33f4116615"
     },
     "python-jsonrpclib-pelix": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jsonrpclib-pelix.git",
