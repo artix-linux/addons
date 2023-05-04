@@ -4269,7 +4269,7 @@
     "python-mox3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mox3.git",
       "branch": "master",
-      "revision": "098fea6393be97fe1961b8d012b235317eb43bd5"
+      "revision": "32ca58f1be1e006912ee2213d59ae0dbfb59c915"
     },
     "python-mpd2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mpd2.git",
