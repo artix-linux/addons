@@ -6784,7 +6784,7 @@
     "python-testing.common.database": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testing.common.database.git",
       "branch": "master",
-      "revision": "927bd81af1c1eb22c80f15cc84c87fbf38f7460d"
+      "revision": "3228370cb4a3b4e4d79cf43d0d4b10eb989c4f22"
     },
     "python-testing.postgresql": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testing.postgresql.git",
