@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Samuel Littley <aur@toastwaffle.com>
 # Contributor: rnons <remotenonsense at gmail dot com>
 
 pkgname=python-whoosh
 pkgver=2.7.4
-pkgrel=9
+pkgrel=10
 pkgdesc="Fast, pure-Python full text indexing, search, and spell checking library"
 arch=('any')
 url="https://github.com/mchaput/whoosh"
