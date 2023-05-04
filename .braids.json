@@ -7239,7 +7239,7 @@
     "python-whatthepatch": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-whatthepatch.git",
       "branch": "master",
-      "revision": "e1aa9f1bc422715c9f9bf18b3f8155422d35f039"
+      "revision": "76136548a8a7cdf19b00485d30abdeda417b0888"
     },
     "python-wheel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheel.git",
