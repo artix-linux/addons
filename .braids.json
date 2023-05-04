@@ -6199,7 +6199,7 @@
     "python-schema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-schema.git",
       "branch": "master",
-      "revision": "a8a1688dc8eaa1afbe07797e6f25604944a12614"
+      "revision": "4caaf26e87ac95116cb3d5ab9439aba7d0f609cd"
     },
     "python-scikit-build": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scikit-build.git",
