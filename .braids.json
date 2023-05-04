@@ -6779,7 +6779,7 @@
     "python-testfixtures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testfixtures.git",
       "branch": "master",
-      "revision": "cb94a0236ff54038b6ecb2d1286c6598bf2f2e0d"
+      "revision": "45bc6741ce23393a4476214e98138e59244652ee"
     },
     "python-testing.common.database": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testing.common.database.git",
