@@ -1,9 +1,9 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
 
 pkgname=python-requestsexceptions
 pkgver=1.4.0
-pkgrel=9
+pkgrel=10
 pkgdesc="Import exceptions from potentially bundled packages in requests."
 arch=('any')
 url="https://github.com/openstack-infra/requestsexceptions"
