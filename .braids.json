@@ -5874,7 +5874,7 @@
     "python-pywayland": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywayland.git",
       "branch": "master",
-      "revision": "a12771bbcebcc8807be8d75a134636215b9137ee"
+      "revision": "a09b4dbe2409f9a0b2711b17b1fe857012fc4dd8"
     },
     "python-pywinrm": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pywinrm.git",
