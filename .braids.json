@@ -6644,7 +6644,7 @@
     "python-statsmodels": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-statsmodels.git",
       "branch": "master",
-      "revision": "535760271c6bc1134fe1da7d0d8ed7b53bc8491c"
+      "revision": "0e23f6b6ef1f555aadd2ed9064f00b3567f3cbe8"
     },
     "python-stdlibs": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-stdlibs.git",
