@@ -7049,7 +7049,7 @@
     "python-unicodedata2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unicodedata2.git",
       "branch": "master",
-      "revision": "acc55e04d32ceae4575c177b1d4b13fe093e4b8c"
+      "revision": "1bd50a89d584758fb6bd09634dfa3c57fb9522bc"
     },
     "python-unidecode": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-unidecode.git",
