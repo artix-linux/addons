@@ -6079,7 +6079,7 @@
     "python-requests-wsgi-adapter": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-wsgi-adapter.git",
       "branch": "master",
-      "revision": "f918cad219a615bcaa91df4306f1e0b9076e4b86"
+      "revision": "cbb75a701fd78067f2de9aa3439c513f70c03c19"
     },
     "python-requestsexceptions": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requestsexceptions.git",
