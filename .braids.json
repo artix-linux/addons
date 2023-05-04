@@ -7079,7 +7079,7 @@
     "python-uritemplate": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-uritemplate.git",
       "branch": "master",
-      "revision": "2159417ba8763e0d5f6a31d2e6cf5bdeb2b3b657"
+      "revision": "abd6bba44af9338fef6d72aa56677b8be3f67ccb"
     },
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
