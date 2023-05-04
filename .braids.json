@@ -6124,7 +6124,7 @@
     "python-rfc3987": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rfc3987.git",
       "branch": "master",
-      "revision": "ee244fdf8c3c61542249313ea009e9dcfb23bbbe"
+      "revision": "29d7aa8753fccf2e179b7c7a44cb98a803b8e727"
     },
     "python-rich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rich.git",
