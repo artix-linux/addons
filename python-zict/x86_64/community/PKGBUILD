@@ -1,9 +1,9 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _pkg=zict
 pkgname=python-${_pkg}
 pkgver=2.2.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Useful Mutable Mappings"
 arch=(any)
 url="https://github.com/dask/zict/"
