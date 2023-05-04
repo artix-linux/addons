@@ -7339,7 +7339,7 @@
     "python-xlwt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlwt.git",
       "branch": "master",
-      "revision": "a9b70bc6d145e7bca816ba564a8e55b3d04d7e47"
+      "revision": "d6295d392589918a5dce3b6e5e45de2505853abb"
     },
     "python-xmlschema": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xmlschema.git",
