@@ -6134,7 +6134,7 @@
     "python-rjsmin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rjsmin.git",
       "branch": "master",
-      "revision": "4fd25a9cf76fef9626a40c8f8b248ec21e127ad0"
+      "revision": "9ec4b5350a9bef30f321efb9d3d9f769d8076b58"
     },
     "python-robot-detection": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-robot-detection.git",
