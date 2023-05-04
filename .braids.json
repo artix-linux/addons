@@ -6774,7 +6774,7 @@
     "python-termstyle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-termstyle.git",
       "branch": "master",
-      "revision": "e343caf7a993aa3581fa34e392d71e837ad4f2e8"
+      "revision": "e8ae2a2c91851770c4255e936b3798eb984ec017"
     },
     "python-testfixtures": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-testfixtures.git",
