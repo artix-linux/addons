@@ -5519,7 +5519,7 @@
     "python-pytest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest.git",
       "branch": "master",
-      "revision": "cd0c3895d7af4f0105bbdb8be170bf4eb4c0b47f"
+      "revision": "3663b3d88f3ac4cb02db4c55e27b1476cd55182f"
     },
     "python-pytest-aiohttp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-aiohttp.git",
