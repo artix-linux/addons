@@ -1,10 +1,10 @@
-# Maintainer:
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 _pkgname=socksio
 pkgname=python-$_pkgname
 pkgver=1.0.0
-pkgrel=1
-pkgdesc='A minimal HTTP client'
+pkgrel=2
+pkgdesc='Sans-I/O implementation of SOCKS4, SOCKS4A, and SOCKS5'
 arch=(any)
 url='https://github.com/sethmlarson/socksio'
 license=(BSD)
