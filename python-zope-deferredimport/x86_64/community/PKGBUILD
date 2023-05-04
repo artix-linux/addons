@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-zope-deferredimport
 pkgver=4.4
-pkgrel=1
+pkgrel=2
 pkgdesc="Allows you to perform imports names that will only be resolved when used in the code"
 arch=('any')
 url="https://github.com/zopefoundation/zope.deferredimport"
