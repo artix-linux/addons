@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: DasIch <dasdasich@googlemail.com>
 # Contributor: James Bulmer <nekinie@gmail.com>
 
 pkgname=python-repoze.lru
 pkgver=0.7
-pkgrel=8
+pkgrel=9
 pkgdesc="A tiny LRU cache implementation and decorator"
 arch=('any')
 url="https://pypi.python.org/pypi/repoze.lru"
