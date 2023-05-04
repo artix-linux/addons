@@ -3849,7 +3849,7 @@
     "python-jupyter_core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_core.git",
       "branch": "master",
-      "revision": "07a778c994dcca9fdafc20469b2bb87a5e470e40"
+      "revision": "0b30e4a5259e12f575c95dcb5a0c33c82d2399c2"
     },
     "python-jupyter_packaging": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jupyter_packaging.git",
