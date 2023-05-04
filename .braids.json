@@ -6444,7 +6444,7 @@
     "python-spec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spec.git",
       "branch": "master",
-      "revision": "e83cb2097d28545bca1e6c72c2786b637353624c"
+      "revision": "2f268a0c622e58cd901eae1667276d430c47a68b"
     },
     "python-speg": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-speg.git",
