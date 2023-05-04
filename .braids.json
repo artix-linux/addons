@@ -7429,7 +7429,7 @@
     "python-zope-component": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-component.git",
       "branch": "master",
-      "revision": "69f66e37c73c10c5fbf5636b23ea14a7eb620f2d"
+      "revision": "1c22fd4dcb568423b51fd2371249f8a19fb1623c"
     },
     "python-zope-configuration": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-configuration.git",
