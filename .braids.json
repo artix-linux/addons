@@ -6424,7 +6424,7 @@
     "python-sortedcontainers": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sortedcontainers.git",
       "branch": "master",
-      "revision": "7540a03c38240fdd4149ca034b02ba8031328126"
+      "revision": "46d534c857fcc7e96305ae499e2ea89d0c49e817"
     },
     "python-soupsieve": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-soupsieve.git",
