@@ -7319,7 +7319,7 @@
     "python-xkbcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xkbcommon.git",
       "branch": "master",
-      "revision": "abb6c286d4b6ad105f0a917d0b11a01765d32bce"
+      "revision": "5ae0079dc53b4b44d5f609d051505f99ae17bde9"
     },
     "python-xlib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xlib.git",
