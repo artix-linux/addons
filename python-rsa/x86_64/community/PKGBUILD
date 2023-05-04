@@ -1,8 +1,8 @@
-# Maintainer: qontinuum <qontinuum@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-rsa
 pkgver=4.9
-pkgrel=1
+pkgrel=2
 _libname=rsa
 pkgdesc="Pure-Python RSA implementation"
 arch=(any)
