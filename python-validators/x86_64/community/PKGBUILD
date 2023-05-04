@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-validators
 pkgver=0.20.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Python Data Validation for Humans"
 url="https://github.com/kvesteri/validators"
 license=('MIT')
