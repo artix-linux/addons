@@ -7444,7 +7444,7 @@
     "python-zope-deferredimport": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-deferredimport.git",
       "branch": "master",
-      "revision": "8583d663bd8167e781ce9ef2c095e244001145c8"
+      "revision": "d4448ac250c43ab274e9ec212dcbb9d47ef4100c"
     },
     "python-zope-deprecation": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-deprecation.git",
