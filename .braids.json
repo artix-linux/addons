@@ -6639,7 +6639,7 @@
     "python-starlette": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-starlette.git",
       "branch": "master",
-      "revision": "d681514a7f3180fb31c9dd8ccd0f545528265a4d"
+      "revision": "93525b34a58d58a8765e685e39d532805b789e92"
     },
     "python-statsmodels": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-statsmodels.git",
