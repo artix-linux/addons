@@ -7394,7 +7394,7 @@
     "python-ypy-websocket": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ypy-websocket.git",
       "branch": "master",
-      "revision": "07e769ff41f06a0e3caf55b72bb2e1b16baf26c1"
+      "revision": "9d346f212fd947984bc7a538942dcb84c55f2f8a"
     },
     "python-z3-solver": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-z3-solver.git",
