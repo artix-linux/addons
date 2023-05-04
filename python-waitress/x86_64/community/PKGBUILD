@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-waitress
 pkgver=2.1.2
-pkgrel=1
+pkgrel=2
 pkgdesc="Waitress WSGI server"
 arch=('any')
 license=('ZPL')
