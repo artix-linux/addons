@@ -6029,7 +6029,7 @@
     "python-requests-credssp": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-credssp.git",
       "branch": "master",
-      "revision": "5bff3de4dc3752e390a57a8ffeb07156f87fa918"
+      "revision": "f3a6ff5331cc10a0c99f7adad6bde821a01e09f6"
     },
     "python-requests-file": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-file.git",
