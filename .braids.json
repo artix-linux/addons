@@ -7214,7 +7214,7 @@
     "python-webob": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-webob.git",
       "branch": "master",
-      "revision": "db1bca06240993869513344ccfd2352817e34e82"
+      "revision": "cb8cd088f301f5f9810d9683096de282e960d0a6"
     },
     "python-websocket-client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-websocket-client.git",
