@@ -2484,7 +2484,7 @@
     "python-ddt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ddt.git",
       "branch": "master",
-      "revision": "6381192afe2bc63ff2b4d86a03f4468e7c5d065f"
+      "revision": "1b332241fa51c78afce03dca4f22ffccab20149c"
     },
     "python-debtcollector": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-debtcollector.git",
