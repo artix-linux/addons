@@ -156,11 +156,6 @@
       "branch": "master",
       "revision": "434d941418d7c1591b4f02c1163c7297ced4afc5"
     },
-    "perl-cpan-meta": {
-      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cpan-meta.git",
-      "branch": "master",
-      "revision": "824517183ad38557117af092f8e77592f5fb0ab0"
-    },
     "perl-cpan-meta-check": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-cpan-meta-check.git",
       "branch": "master",
