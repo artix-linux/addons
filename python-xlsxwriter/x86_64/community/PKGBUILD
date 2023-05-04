@@ -2,7 +2,7 @@
 # Contributor: George Rawlinson <grawlinson@archlinux.org>
 
 pkgname=python-xlsxwriter
-pkgver=3.0.8
+pkgver=3.1.0
 pkgrel=1
 pkgdesc='A Python module for creating Excel XLSX files'
 arch=('any')
@@ -16,7 +16,7 @@ makedepends=(
   'python-wheel'
   'python-setuptools'
 )
-_commit='fdc7771173384efa71044885ff59493740498194'
+_commit='f6c4ff2335a6439b800c45750ab840e560585cce'
 source=("$pkgname::git+$url#commit=$_commit")
 b2sums=('SKIP')
 
