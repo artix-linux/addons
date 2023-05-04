@@ -3004,7 +3004,7 @@
     "python-flake8-typing-imports": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flake8-typing-imports.git",
       "branch": "master",
-      "revision": "1609d1ff8742e43996dd8a5051886eb123d84406"
+      "revision": "a5838cf3fb18556333d730b9cc56c275a3ebe7b7"
     },
     "python-flaky": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flaky.git",
