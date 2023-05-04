@@ -7249,7 +7249,7 @@
     "python-wheezy-template": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wheezy-template.git",
       "branch": "master",
-      "revision": "bfe180ca624a480e173117df87552583b10a2077"
+      "revision": "eccc556fed1f90c81e781379c4e1c5d43038223b"
     },
     "python-whoosh": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-whoosh.git",
