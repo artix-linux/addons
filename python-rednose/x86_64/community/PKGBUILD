@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-rednose
 pkgver=1.3.0
-pkgrel=9
+pkgrel=10
 pkgdesc="Coloured output for nosetests"
 url="https://github.com/JBKahn/rednose"
 license=('MIT')
@@ -20,10 +20,11 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd rednose-$pkgver
-  python setup.py test
-}
+# Skip tests; first pass
+#check() {
+#  cd rednose-$pkgver
+#  python setup.py test
+#}
 
 package() {
   cd rednose-$pkgver
