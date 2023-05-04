@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-aioredis
 pkgver=2.0.0
-pkgrel=3
+pkgrel=4
 pkgdesc="asyncio (PEP 3156) Redis client library"
 url="https://github.com/aio-libs/aioredis-py"
 license=('MIT')
@@ -18,10 +18,11 @@ build() {
   python setup.py build
 }
 
-check() {
-  cd aioredis-py-$pkgver
-  pifpaf run redis pytest
-}
+# Build without checks; first pass
+#check() {
+#  cd aioredis-py-$pkgver
+#  pifpaf run redis pytest
+#}
 
 package() {
   cd aioredis-py-$pkgver
