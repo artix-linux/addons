@@ -6874,7 +6874,7 @@
     "python-toposort": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-toposort.git",
       "branch": "master",
-      "revision": "6aeb05f4f03ba81d24f36bcbe1c3fc5109ffb10f"
+      "revision": "102aaa5712d33f3f7f0c8c29cfa692a605a941e0"
     },
     "python-tornado": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tornado.git",
