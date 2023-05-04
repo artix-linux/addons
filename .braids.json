@@ -6224,7 +6224,7 @@
     "python-scripttest": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scripttest.git",
       "branch": "master",
-      "revision": "b1bc6bd56b68d87b62fc71fcf68858898bccfc40"
+      "revision": "66401a2b7dc9d8b42b7c85fd6a64363d341d5e59"
     },
     "python-scrypt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-scrypt.git",
