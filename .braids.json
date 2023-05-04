@@ -6049,7 +6049,7 @@
     "python-requests-kerberos": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-kerberos.git",
       "branch": "master",
-      "revision": "9350f008a2caa2d14f67ac2167f627927d11cc0f"
+      "revision": "73efd5e0daf5d8a160f4ab825f5f60f254d8d865"
     },
     "python-requests-mock": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests-mock.git",
