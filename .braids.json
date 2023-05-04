@@ -6739,7 +6739,7 @@
     "python-teamcity-messages": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-teamcity-messages.git",
       "branch": "master",
-      "revision": "43853bff2335a3c9b4aef69447c1deb94fc884ea"
+      "revision": "e73f71dec133b59d530c00e7907da9e6f35ddb6f"
     },
     "python-telegram-bot": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-telegram-bot.git",
