@@ -6389,7 +6389,7 @@
     "python-snappy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-snappy.git",
       "branch": "master",
-      "revision": "e60585778e9066af9797208785e398a126d0aae7"
+      "revision": "89efd5d127ffd30f76c5396761dc269efbd74f8e"
     },
     "python-sniffio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sniffio.git",
