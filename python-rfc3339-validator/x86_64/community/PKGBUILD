@@ -1,8 +1,8 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgname=python-rfc3339-validator
 pkgver=0.1.4
-pkgrel=3
+pkgrel=4
 pkgdesc="A pure python RFC3339 validator"
 url="https://github.com/naimetti/rfc3339-validator"
 license=('MIT')
