@@ -6719,7 +6719,7 @@
     "python-tabulate": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tabulate.git",
       "branch": "master",
-      "revision": "059e950f5683edd35656d901f0bfbba10294f573"
+      "revision": "3d0bd457b077355f3adcd2241da4f45508faaae4"
     },
     "python-tabview": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tabview.git",
