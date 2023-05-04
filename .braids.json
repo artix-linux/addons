@@ -6279,7 +6279,7 @@
     "python-setproctitle": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setproctitle.git",
       "branch": "master",
-      "revision": "16fe12be4bc62ebad47cdb70e0cb75990a7833ba"
+      "revision": "8d88696e42c73c54b648177295f9df812f938ec1"
     },
     "python-setuptools": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools.git",
