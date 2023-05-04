@@ -7359,7 +7359,7 @@
     "python-xxhash": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-xxhash.git",
       "branch": "master",
-      "revision": "435609131452c3f17dd69c7ee8b03c64f37a318b"
+      "revision": "4dea0093c135013e42f53a281de2cf8f5919e3b9"
     },
     "python-y-py": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-y-py.git",
