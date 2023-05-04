@@ -6019,7 +6019,7 @@
     "python-repoze.lru": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-repoze.lru.git",
       "branch": "master",
-      "revision": "e7e30a123ca077262df31f3a2d67d563f0eac54e"
+      "revision": "3e347d7901e0b62a494b1d42f81fa86031cc4b50"
     },
     "python-requests": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-requests.git",
