@@ -6919,7 +6919,7 @@
     "python-treq": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-treq.git",
       "branch": "master",
-      "revision": "e3ff51a088ed24cc92fb312159f3210f18321fbb"
+      "revision": "3324902e68d75d1abc4b197a74749c2144cfeed4"
     },
     "python-trio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-trio.git",
