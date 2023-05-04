@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: SpepS <dreamspepser@yahoo.it>
 # Contributor: James Bulmer <nekinie@gmail.com>
 
 pkgname=python-routes
 pkgver=2.5.1
-pkgrel=5
+pkgrel=6
 pkgdesc="Routing recognition and generation tools"
 arch=("any")
 url="https://pypi.python.org/pypi/Routes"
