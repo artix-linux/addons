@@ -1,10 +1,10 @@
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Simon Sapin <simon dot sapin at exyr dot org>
 # Contributor: Kyle Keen <keenerd@gmail.com>
 
 pkgname=python-text-unidecode
 pkgver=1.3
-pkgrel=8
+pkgrel=9
 pkgdesc="The most basic Text::Unidecode port"
 url="https://github.com/kmike/text-unidecode"
 license=('PerlArtistic')
