@@ -7029,7 +7029,7 @@
     "python-ukkonen": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ukkonen.git",
       "branch": "master",
-      "revision": "a9d3ed31b046378252c06403afb7b1e0f6ed901d"
+      "revision": "18a0ad9617193ad95d2cbc1feb0f7aa7d25075ad"
     },
     "python-ukpostcodeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-ukpostcodeparser.git",
