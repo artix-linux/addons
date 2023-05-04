@@ -6699,7 +6699,7 @@
     "python-sure": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sure.git",
       "branch": "master",
-      "revision": "ea4ab1774c08dd48fb24ac3be51ae37dcd9afa18"
+      "revision": "36efc876523bf5353ea48a67751911d4219f46f3"
     },
     "python-svglib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-svglib.git",
