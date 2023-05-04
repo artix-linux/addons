@@ -4204,7 +4204,7 @@
     "python-milksnake": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-milksnake.git",
       "branch": "master",
-      "revision": "ff779630d410bbc145e72a21c009c543427242b9"
+      "revision": "e389a455a620926cd47cc2353f8c1f893b4339ea"
     },
     "python-mimeparse": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mimeparse.git",
