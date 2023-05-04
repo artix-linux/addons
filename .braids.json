@@ -5099,7 +5099,7 @@
     "python-pyaxmlparser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyaxmlparser.git",
       "branch": "master",
-      "revision": "be4923214d85bd1ad996b7be9b1d62496112f656"
+      "revision": "df297b92e5af58b45319b9e154f2268314f61fcb"
     },
     "python-pycares": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycares.git",
