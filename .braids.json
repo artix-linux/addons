@@ -6374,7 +6374,7 @@
     "python-smartypants": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-smartypants.git",
       "branch": "master",
-      "revision": "1256b2ca2e4f3cd4ffd8e0f7cad36c4fae1ae34b"
+      "revision": "e9a4d32c814d223b5de6edb5f61f9f32f080e768"
     },
     "python-smbprotocol": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-smbprotocol.git",
