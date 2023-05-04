@@ -6714,7 +6714,7 @@
     "python-sympy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sympy.git",
       "branch": "master",
-      "revision": "7d13d481a71f9e4ad67564f754e91e60fcc02127"
+      "revision": "785c06ee48553355d40192e0ebd334a0b4589906"
     },
     "python-tabulate": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tabulate.git",
