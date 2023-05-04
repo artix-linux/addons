@@ -6184,7 +6184,7 @@
     "python-rx": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rx.git",
       "branch": "master",
-      "revision": "5196a2d92a8a7b3b656a2b034f276cb4661299b4"
+      "revision": "5e205b383fcbf6c40b0c256b0dc671a6a28d4e20"
     },
     "python-s3transfer": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-s3transfer.git",
