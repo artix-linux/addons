@@ -2844,7 +2844,7 @@
     "python-exam": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-exam.git",
       "branch": "master",
-      "revision": "dccd0bd4f7a7e304fe2eb1f8e5ff62bae13207ae"
+      "revision": "68ca0d81faedcf520db7970e8c072469ddbed4c6"
     },
     "python-exceptiongroup": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-exceptiongroup.git",
