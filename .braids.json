@@ -6239,7 +6239,7 @@
     "python-secretstorage": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-secretstorage.git",
       "branch": "master",
-      "revision": "b9401a4ee29c1df7ceb7944788be53d74023ede6"
+      "revision": "300eac9b0f43626c80ff48d38ea79d1ae7c44912"
     },
     "python-seedir": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-seedir.git",
