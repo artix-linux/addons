@@ -3404,7 +3404,7 @@
     "python-hstspreload": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-hstspreload.git",
       "branch": "master",
-      "revision": "7654cf9c89bf0a90214639448d756469654288fa"
+      "revision": "005b7f16e0fffc01b4e8438395a1f5722ddf2b0a"
     },
     "python-html2text": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-html2text.git",
