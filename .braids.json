@@ -4774,7 +4774,7 @@
     "python-pefile": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pefile.git",
       "branch": "master",
-      "revision": "792f40546c0919fd67f6b0db779b9198b3c0d446"
+      "revision": "0a73b26dc00ba1a0f70a5aaf3d1ab70cd6623e39"
     },
     "python-pendulum": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pendulum.git",
