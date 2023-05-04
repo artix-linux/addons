@@ -7449,7 +7449,7 @@
     "python-zope-deprecation": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-deprecation.git",
       "branch": "master",
-      "revision": "bf1fb3aa21c8f7dbd1625827b2cbbef4167443a8"
+      "revision": "2db66c5478dd1bc22d81140683767d217482ae20"
     },
     "python-zope-event": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-zope-event.git",
