@@ -7269,7 +7269,7 @@
     "python-wsaccel": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsaccel.git",
       "branch": "master",
-      "revision": "83e400281d125ab127b195c187fd1db4c3fa6fba"
+      "revision": "532636b68f97e51149f4525e31b4f65e44e5c20d"
     },
     "python-wsgiproxy2": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-wsgiproxy2.git",
