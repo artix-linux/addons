@@ -6104,7 +6104,7 @@
     "python-rply": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rply.git",
       "branch": "master",
-      "revision": "d2beb0af5991aea2633b4b8bde4cd310dfc6630d"
+      "revision": "209ea018e0928777d0ca664a62187cd527f36d80"
     },
     "python-rpyc": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rpyc.git",
