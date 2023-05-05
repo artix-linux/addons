@@ -6046,11 +6046,6 @@
       "branch": "master",
       "revision": "e86e0df497281e5f6dba993a0a71f296b99867eb"
     },
-    "python-requirementslib": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-requirementslib.git",
-      "branch": "master",
-      "revision": "c26144e55bdda254755982c0f18a469b1c1c8fd7"
-    },
     "python-resolvelib": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-resolvelib.git",
       "branch": "master",
