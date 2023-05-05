@@ -4984,7 +4984,7 @@
     "python-progress": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-progress.git",
       "branch": "master",
-      "revision": "dcced48c2e4bc4425e28533ae2dd3b76dcd9a1d0"
+      "revision": "a1375d6c66625bea87dbf268429e6e0dcaaa2c7c"
     },
     "python-prometheus_client": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-prometheus_client.git",
