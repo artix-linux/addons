@@ -5944,7 +5944,7 @@
     "python-rdflib-jsonld": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rdflib-jsonld.git",
       "branch": "master",
-      "revision": "691daca48d0994bd19d6687eabfd8328f0fbf2ef"
+      "revision": "15753a21f4ac75f2135b84dfe74bc68034f71013"
     },
     "python-re-assert": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-re-assert.git",
