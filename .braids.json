@@ -5936,11 +5936,6 @@
       "branch": "master",
       "revision": "2c67aa7c8056a597b1b91ec537982721f9cdc285"
     },
-    "python-redbaron": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-redbaron.git",
-      "branch": "master",
-      "revision": "1e87b8c8068f15fa0371a3337b3ad8fc9a5b5ed3"
-    },
     "python-redis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-redis.git",
       "branch": "master",
