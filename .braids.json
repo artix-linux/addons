@@ -5921,11 +5921,6 @@
       "branch": "master",
       "revision": "e70640f182dd724793ee3c47deea94f3eef3cc7b"
     },
-    "python-raven": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-raven.git",
-      "branch": "master",
-      "revision": "fad44ce4fcf26863a1acfaa10f6caad693b6b897"
-    },
     "python-rcssmin": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-rcssmin.git",
       "branch": "master",
