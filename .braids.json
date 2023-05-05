@@ -7099,7 +7099,7 @@
     "python-vmprof": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vmprof.git",
       "branch": "master",
-      "revision": "610a77718527e04e5f179788418f91430facfe9b"
+      "revision": "c3bac6bceab0fce67767e677a41ed2151089f2bc"
     },
     "python-vobject": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vobject.git",
