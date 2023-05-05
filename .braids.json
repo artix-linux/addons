@@ -1849,7 +1849,7 @@
     "python-baron": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-baron.git",
       "branch": "master",
-      "revision": "10e1f2cc22d083184e5e0d42936c832ea423241a"
+      "revision": "151d09372bd30a1fd51c4c86f1dff12b3341a547"
     },
     "python-bcrypt": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-bcrypt.git",
