@@ -6271,11 +6271,6 @@
       "branch": "master",
       "revision": "7c63df3b6092781716d3a222e9d9158592687e9f"
     },
-    "python-setuptools-scm-git-archive": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-setuptools-scm-git-archive.git",
-      "branch": "master",
-      "revision": "69b8039af865f090759fe2a5cc574bb9c7ab8f62"
-    },
     "python-sgmllib3k": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-sgmllib3k.git",
       "branch": "master",
