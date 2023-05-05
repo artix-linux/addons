@@ -5404,7 +5404,7 @@
     "python-pyproject2setuppy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyproject2setuppy.git",
       "branch": "master",
-      "revision": "aeefa5d8ddbfd15609bb1aae1e54f2cd13185e7c"
+      "revision": "fd5afd4a153e31281d6c9b4ee3856b561ca56b28"
     },
     "python-pyqt5-sip": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyqt5-sip.git",
