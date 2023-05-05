@@ -5541,11 +5541,6 @@
       "branch": "master",
       "revision": "0e1c79f111b32279a79ccddff5afcf8a1322b18a"
     },
-    "python-pytest-checkdocs": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-checkdocs.git",
-      "branch": "master",
-      "revision": "c412124239a981a0d0005f4bbb2ba79b95df62d9"
-    },
     "python-pytest-console-scripts": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-console-scripts.git",
       "branch": "master",
