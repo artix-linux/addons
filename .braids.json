@@ -6411,11 +6411,6 @@
       "branch": "master",
       "revision": "71696c13156f521dc5197490c66456592de5a6ed"
     },
-    "python-sparqlwrapper": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-sparqlwrapper.git",
-      "branch": "master",
-      "revision": "96e3a2c6e5943a85f87835b116dc30648a1a816c"
-    },
     "python-spec": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-spec.git",
       "branch": "master",
