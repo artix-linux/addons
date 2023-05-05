@@ -2526,11 +2526,6 @@
       "branch": "master",
       "revision": "1cc07a36beddf98b5e930c2517dfb2303932c4fe"
     },
-    "python-dictpath": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dictpath.git",
-      "branch": "master",
-      "revision": "d3a7250ab4f18da1b9859b939456dd1d57bcbdf2"
-    },
     "python-diff-cover": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-diff-cover.git",
       "branch": "master",
