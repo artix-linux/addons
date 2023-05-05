@@ -5111,11 +5111,6 @@
       "branch": "master",
       "revision": "bcd048da3e008b0ac324902f46410215f754c630"
     },
-    "python-pycontracts": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycontracts.git",
-      "branch": "master",
-      "revision": "5b79673f0215bcf54a740aca889a77be84262728"
-    },
     "python-pycountry": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pycountry.git",
       "branch": "master",
