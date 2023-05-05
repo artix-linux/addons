@@ -344,7 +344,7 @@
     "perl-exporter-tiny": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-exporter-tiny.git",
       "branch": "master",
-      "revision": "e90fed6688fbb4e5ed12956f186eec6b86781958"
+      "revision": "da230f78900d0a3b65e5afff2a7fee4f02288a14"
     },
     "perl-extutils-config": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-extutils-config.git",
