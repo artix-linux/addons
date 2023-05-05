@@ -7096,11 +7096,6 @@
       "branch": "master",
       "revision": "b5e690146d79f41e363a8ecbb2264ab4a6d0bbdd"
     },
-    "python-vmprof": {
-      "url": "gitea@gitea.artixlinux.org:packagesPython/python-vmprof.git",
-      "branch": "master",
-      "revision": "c3bac6bceab0fce67767e677a41ed2151089f2bc"
-    },
     "python-vobject": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-vobject.git",
       "branch": "master",
