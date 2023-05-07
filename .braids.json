@@ -2784,7 +2784,7 @@
     "python-engineio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-engineio.git",
       "branch": "master",
-      "revision": "4672423b3db8e7d904f964a2bfd691ba9537e667"
+      "revision": "429e61bb0894e8e6acc38571c50b6c0c13826f27"
     },
     "python-enrich": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-enrich.git",
