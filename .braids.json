@@ -5026,6 +5026,11 @@
       "branch": "master",
       "revision": "163b0d454e63056c4c5e63a006df352278c5da4c"
     },
+    "python-py-partiql-parser": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-py-partiql-parser.git",
+      "branch": "master",
+      "revision": "0df39778b8d983fbda4f172f61c478ef9b160f92"
+    },
     "python-py3c": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py3c.git",
       "branch": "master",
