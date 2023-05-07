@@ -5744,7 +5744,7 @@
     "python-python-socks": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-python-socks.git",
       "branch": "master",
-      "revision": "64fca0535d5d8a7e12d2f498f1d0819e5941b0fa"
+      "revision": "25ed08685a5125121595aea8f82d3de099e79535"
     },
     "python-pythran": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pythran.git",
