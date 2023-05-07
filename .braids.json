@@ -5324,7 +5324,7 @@
     "python-pyogrio": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyogrio.git",
       "branch": "master",
-      "revision": "3a3a12b8010fa4d250f2ce7077aa5b091c0748f9"
+      "revision": "bfe4eaaf18f81024dcf32015d38e2dd178dda8d5"
     },
     "python-pyopencl": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pyopencl.git",
