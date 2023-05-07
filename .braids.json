@@ -4429,7 +4429,7 @@
     "python-numba": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numba.git",
       "branch": "master",
-      "revision": "97f132638bb56fea9e2388287d6e313fbb278d26"
+      "revision": "1f15bc35f9280b2d08e812742998a967f1b8c2c0"
     },
     "python-numexpr": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-numexpr.git",
