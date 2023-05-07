@@ -5606,6 +5606,11 @@
       "branch": "master",
       "revision": "90ccf0ebee4cc73bd014172fb819b1f6e62f72d0"
     },
+    "python-pytest-ordering": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-ordering.git",
+      "branch": "master",
+      "revision": "aa98450af92127950d4eba13fed198789a1f229f"
+    },
     "python-pytest-pacman": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-pacman.git",
       "branch": "master",
