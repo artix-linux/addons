@@ -5029,7 +5029,7 @@
     "python-py-partiql-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py-partiql-parser.git",
       "branch": "master",
-      "revision": "0df39778b8d983fbda4f172f61c478ef9b160f92"
+      "revision": "63ab607c3382b99a538a7e273d992e6f49d61782"
     },
     "python-py3c": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-py3c.git",
