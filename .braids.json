@@ -5264,7 +5264,7 @@
     "python-pylint": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylint.git",
       "branch": "master",
-      "revision": "c65237990ed7dfadf1f7fd96f9973c5af3227733"
+      "revision": "538bb5118218d10890548dfe2dbfed2f3407e24c"
     },
     "python-pylons-sphinx-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pylons-sphinx-themes.git",
