@@ -3679,7 +3679,7 @@
     "python-jellyfish": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jellyfish.git",
       "branch": "master",
-      "revision": "0f4a93cee40d675f6ac3d2be92286f7a08ae1210"
+      "revision": "fcfe09621b3d609260323e4e5945c095d0ea576a"
     },
     "python-jinja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-jinja.git",
