@@ -6724,7 +6724,7 @@
     "python-tiny-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tiny-proxy.git",
       "branch": "master",
-      "revision": "e6f4aae5c65dc45e3382d2a48f20bb56bfc8a012"
+      "revision": "4e1b38fa9ab6b5bc371af0da5593d75686115931"
     },
     "python-tinycss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-tinycss.git",
