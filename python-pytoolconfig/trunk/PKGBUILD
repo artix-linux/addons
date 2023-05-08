@@ -1,15 +1,16 @@
-# Maintainer: Qontinuum <qontinuum@artixlinux.org>
+# Maintainer: artoo <artoo@artixlinux.org>
+# Contributor: Morten Linderud <foxboron@archlinux.org>
 # Contributor: bonob <bonob at fastmail dot com>
 
 pkgname=python-pytoolconfig
 _name=${pkgname#python-}
 pkgver=1.2.5
-pkgrel=1
+pkgrel=2
 pkgdesc="Manage configuration for python tools, such as black and rope."
 arch=('any')
 url="https://pypi.org/project/pytoolconfig/"
 license=('LGPL3')
-depends=('python' 'python-tomli' 'python-packaging')
+depends=('python' 'python-packaging')
 makedepends=('python-build' 'python-installer' 'python-wheel' 'python-pdm-pep517')
 checkdepends=('python-docutils' 'python-pytest' 'python-sphinx' 'python-tabulate')
 optdepends=(
