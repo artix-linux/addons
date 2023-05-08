@@ -7014,7 +7014,7 @@
     "python-validate-pyproject": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-validate-pyproject.git",
       "branch": "master",
-      "revision": "121373cf53dcee6a15ee20207f34213666da5775"
+      "revision": "8aa114887b59fea5777b5704783bbbdab9bb0cd7"
     },
     "python-validators": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-validators.git",
