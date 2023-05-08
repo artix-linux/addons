@@ -7840,11 +7840,6 @@
       "branch": "master",
       "revision": "fd9fb4d3caf8d01d544c7050506cde7950b88dce"
     },
-    "ruby-hpricot": {
-      "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-hpricot.git",
-      "branch": "master",
-      "revision": "8fd8d11cf16e68223537e8337a814e8e066b81d0"
-    },
     "ruby-http-cookie": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-http-cookie.git",
       "branch": "master",
