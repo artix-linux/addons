@@ -7933,7 +7933,7 @@
     "ruby-main": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-main.git",
       "branch": "master",
-      "revision": "0f2872db832b550308ee1a8f5b19da07f25ecd1c"
+      "revision": "15405a654f08400056ddaad99b2d5e384d89c240"
     },
     "ruby-manpages": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-manpages.git",
