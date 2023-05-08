@@ -7563,7 +7563,7 @@
     "ruby-braid": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-braid.git",
       "branch": "master",
-      "revision": "1a183fe6cfddd7c6a0518bfdf145d9fc955a5b3a"
+      "revision": "a4da3ae007008563ac857e21a3558eeab15a88fc"
     },
     "ruby-brass": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-brass.git",
