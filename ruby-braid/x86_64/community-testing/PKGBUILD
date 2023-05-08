@@ -23,8 +23,8 @@ sha256sums=('SKIP'
 prepare() {
     cd "${_gemname}"
 
-    patch -Np 1 -i ../no-edit.patch
-    patch -Np 1 -i ../clean-msg.patch
+    patch -Np 1 -i ../braid-no-edit.patch
+    patch -Np 1 -i ../braid-clean-msg.patch
 }
 
 build() {
