@@ -6994,7 +6994,7 @@
     "python-urllib3": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urllib3.git",
       "branch": "master",
-      "revision": "2911cca741ff1b5f360005a0a2b87c9518b65eca"
+      "revision": "9fbdad84e9fbbd6fb174ac6be424bde8d18c8dea"
     },
     "python-urwid": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-urwid.git",
