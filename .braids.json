@@ -4254,7 +4254,7 @@
     "python-msgpack": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-msgpack.git",
       "branch": "master",
-      "revision": "614c31c9c2027d93078a1235238377ddc79fb8e3"
+      "revision": "68fe0d60155f37eb5a93cc1196a05045d1b905cf"
     },
     "python-mss": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-mss.git",
