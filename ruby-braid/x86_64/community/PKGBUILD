@@ -2,43 +2,44 @@
 
 _gemname=braid
 pkgname=ruby-${_gemname}
-pkgver=1.1.6
+pkgver=1.1.9
 pkgrel=1
 pkgdesc='Simple tool to help track vendor branches in a Git repository'
 url='https://github.com/cristibalan/braid'
 arch=('any')
 license=('MIT')
-depends=('ruby-json' 'ruby-main')
-makedepends=('ruby-rdoc' 'git' 'ruby-rake' 'ruby-bundler' 'ruby-mocha' 'ruby-rspec')
+depends=('ruby' 'ruby-json' 'ruby-main')
+makedepends=('git' 'ruby-rdoc')
+
 options=('!emptydirs')
-_commit=af403fce696c0338e37b5f0ec37e51bfaeacecf8
+_commit=d75ee7b28e03e548532e799716da20171d97d506
 source=("git+https://github.com/cristibalan/braid.git#commit=$_commit"
-      no-editor.patch::https://github.com/artix-linux/braid/commit/a0c2515eb02eb32a6cb1cd8a57c6c1882ad2b74b.patch
-      clean-commit-msg.patch::https://github.com/artix-linux/braid/commit/19767073029c75334844d9098def2d205cdd9945.patch)
+        braid-no-edit.patch::https://github.com/artix-linux/braid/commit/0ecf186ee457550fd6f173aa38155777f35781cb.patch
+        braid-clean-msg.patch::https://github.com/artix-linux/braid/commit/a674c0178860bf5481d08a6879a02f2df22a53c1.patch)
 sha256sums=('SKIP'
-            '1119a70a9149e1f339fb1d7cf22384922c7e22959d4b337f35c137152af749ac'
-            'bbe78facf0196fa68272bcacce899d880297de4c1053441b8dffc553177008f3')
+            '1ce1248b558f02d5d7557a72d0fe6a13ba0ce0dbb531487fe82a823e21e471a0'
+            '5e5915f75d766e7beaa6b31b3fb9391bd2b796aead6bfc67a560bf71549d0b6b')
 
 prepare() {
-  cd "${_gemname}"
+    cd "${_gemname}"
 
-  patch -Np 1 -i ../no-editor.patch
-  patch -Np 1 -i ../clean-commit-msg.patch
+    patch -Np 1 -i ../braid-no-edit.patch
+    patch -Np 1 -i ../braid-clean-msg.patch
 }
 
 build() {
-  cd "${_gemname}"
-  rake build
+    cd "${_gemname}"
+    gem build $_gemname.gemspec
 }
 
 package() {
-  cd "${_gemname}"
-  local _gemdir="$(gem env gemdir)"
-  gem install --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" \
-    -n "${pkgdir}/usr/bin" pkg/${_gemname}-${pkgver}.gem
+    cd "${_gemname}"
+    local _gemdir="$(gem env gemdir)"
+    gem install --ignore-dependencies --no-user-install -i "${pkgdir}/${_gemdir}" \
+        -n "${pkgdir}/usr/bin" ${_gemname}-${pkgver}.gem
 
-  install -Dm 644 README.md -t "${pkgdir}/usr/share/doc/${pkgname}"
-  install -Dm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
+    install -Dm 644 README.md -t "${pkgdir}/usr/share/doc/${pkgname}"
+    install -Dm 644 LICENSE -t "${pkgdir}/usr/share/licenses/${pkgname}"
 
-  rm -r "${pkgdir}/${_gemdir}/cache"
+    rm -r "${pkgdir}/${_gemdir}/cache"
 }
