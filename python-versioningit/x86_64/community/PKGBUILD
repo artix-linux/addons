@@ -1,10 +1,11 @@
-# Maintainer: Qontinuum <qontinuum@artixlinux.org>
+# Maintainer: artoo <artoo@artixlinux.org>
+# Contributor: Frederik Schwan <freswa at archlinux dot org>
 # Contributor: Josip Ponjavic <josipponjavic at gmail dot com>
 # Contributor:
 
 pkgname=python-versioningit
 pkgver=2.2.0
-pkgrel=3
+pkgrel=4
 pkgdesc='Versioning It with your Version In Git'
 arch=('any')
 url='https://github.com/jwodder/versioningit'
@@ -22,7 +23,7 @@ build() {
 
 check() {
   cd ${pkgname#*n-}-${pkgver}
-  tox -e py310
+  tox -e py311
 }
 
 package() {
