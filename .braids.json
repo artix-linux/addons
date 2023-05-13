@@ -7638,7 +7638,7 @@
     "ruby-dbus": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-dbus.git",
       "branch": "master",
-      "revision": "8c817204c6ea03113e9d6337cdc1bb607fd6c387"
+      "revision": "5f49b8b06ddcefd28f4030b0fbe561d4190ae334"
     },
     "ruby-deep_merge": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-deep_merge.git",
