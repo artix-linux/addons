@@ -5924,7 +5924,7 @@
     "python-redis": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-redis.git",
       "branch": "master",
-      "revision": "9fc8e09d09fd40893720c21ef1555a42fcc2773a"
+      "revision": "2e724d26739ea98bf8373a06a4bdf4ece13a1046"
     },
     "python-reflink": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-reflink.git",
