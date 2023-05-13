@@ -3184,7 +3184,7 @@
     "python-geopandas": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geopandas.git",
       "branch": "master",
-      "revision": "1b9ef886864caf95f935637457c5b19925d01942"
+      "revision": "e8fd31b7bc8d5987a07f57363c6f8673c62caaf5"
     },
     "python-geopy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-geopy.git",
