@@ -6239,7 +6239,7 @@
     "python-shapely": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-shapely.git",
       "branch": "master",
-      "revision": "764b9bc1d80f6158763c661f02ae5475fa8cd2da"
+      "revision": "ff44fc8512fc9607c7459ed744a30b866c18bd06"
     },
     "python-shellingham": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-shellingham.git",
