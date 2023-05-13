@@ -1854,7 +1854,7 @@
     "python-beautifulsoup4": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-beautifulsoup4.git",
       "branch": "master",
-      "revision": "c511b7538426ae53491a01b0d87c375e48eb935a"
+      "revision": "ae7dd53fb0e05c80afadc396eb3383d3ce4502cd"
     },
     "python-behave": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-behave.git",
