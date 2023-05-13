@@ -6874,7 +6874,7 @@
     "python-txtorcon": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-txtorcon.git",
       "branch": "master",
-      "revision": "3cb6342628eb39e57c2020a19280351e742dd5cf"
+      "revision": "af8e896c4d4985892b1399f7c0fcf728dd005eeb"
     },
     "python-typed-ast": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-typed-ast.git",
