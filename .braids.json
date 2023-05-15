@@ -2731,6 +2731,11 @@
       "branch": "master",
       "revision": "167615ee0ba9bbc234d44f51934b2cd8437085d4"
     },
+    "python-dunamai": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-dunamai.git",
+      "branch": "master",
+      "revision": "21635b0893ca92a2d7c620129f35abcfa065820a"
+    },
     "python-easyprocess": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-easyprocess.git",
       "branch": "master",
