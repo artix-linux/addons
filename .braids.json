@@ -5661,6 +5661,11 @@
       "branch": "master",
       "revision": "1511711f111d78fd80a7a35dfe972483913fca3e"
     },
+    "python-pytest-ruff": {
+      "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-ruff.git",
+      "branch": "master",
+      "revision": "ff1408968c31ce0f61a78164bed1814f75dd6549"
+    },
     "python-pytest-runner": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pytest-runner.git",
       "branch": "master",
