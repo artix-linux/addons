@@ -5284,7 +5284,7 @@
     "python-pymupdf": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymupdf.git",
       "branch": "master",
-      "revision": "2413c7c95613563069f74a535749c6e4bcf55bd9"
+      "revision": "1589fb16dd65a3d83ddca4532702ec1208760986"
     },
     "python-pymysql": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-pymysql.git",
