@@ -1,0 +1,2 @@
+# perl-config-autoconf
+
