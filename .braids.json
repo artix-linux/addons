@@ -1304,7 +1304,7 @@
     "perl-text-bibtex": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-bibtex.git",
       "branch": "master",
-      "revision": "be5e62bf70484b67bdbdc1967bb8623ca4221a48"
+      "revision": "4d804e4ad5b17dc67e31fd0fa67ddda336f4ac75"
     },
     "perl-text-charwidth": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-charwidth.git",
