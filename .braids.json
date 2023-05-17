@@ -7748,7 +7748,7 @@
     "ruby-faraday": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday.git",
       "branch": "master",
-      "revision": "ac67b60b9f31dbf4f5a03b6137c37fac6cde3f9b"
+      "revision": "c3f262ef4d9f2d0812822669fc570f527341b099"
     },
     "ruby-faraday-em_http": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-em_http.git",
