@@ -12,7 +12,7 @@ url='https://aka.ms/debugpy'
 license=(EPL MIT)
 depends=(python)
 makedepends=(python-setuptools)
-source=(https://github.com/microsoft/debugpy/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
+source=($pkgname-$pkgver-$pkgrel.tar.gz::https://github.com/microsoft/debugpy/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
 sha256sums=('8734997dc43dd40fe1725baf1dd816c0ab7611d98d1f01e3f3b42631135e1354')
 
 prepare() {
