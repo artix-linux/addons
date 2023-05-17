@@ -1729,7 +1729,7 @@
     "python-async-lru": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-async-lru.git",
       "branch": "master",
-      "revision": "f561bc91790ddb02310b2efcb76a51b86bcef3af"
+      "revision": "8d341ba271a6215ff07e749c09e9a2a3fc5fccb1"
     },
     "python-async-timeout": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-async-timeout.git",
