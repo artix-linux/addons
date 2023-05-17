@@ -7793,7 +7793,7 @@
     "ruby-faraday-rack": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-rack.git",
       "branch": "master",
-      "revision": "6fc0e4f0fd4d6858b2244ab2e0e4c8b8af08731a"
+      "revision": "a5180270e25ecd5cca1587e8513d84eece8e7104"
     },
     "ruby-faraday-retry": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-retry.git",
