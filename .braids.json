@@ -149,7 +149,7 @@
     "perl-config-autoconf": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-config-autoconf.git",
       "branch": "master",
-      "revision": "2de7dae2e5cadbc20365347d8280bd363df87abc"
+      "revision": "f3b7fd85257e6df7afc3814e9760d407a8018efd"
     },
     "perl-config-tiny": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-config-tiny.git",
