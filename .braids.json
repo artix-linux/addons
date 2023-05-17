@@ -2484,7 +2484,7 @@
     "python-debugpy": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-debugpy.git",
       "branch": "master",
-      "revision": "94e353dde15e4449382ea4ac4668eac42878b68c"
+      "revision": "4c69b0c9008e872c0c73e2bf11875654dbb79d19"
     },
     "python-decorator": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-decorator.git",
