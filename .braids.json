@@ -1301,6 +1301,11 @@
       "branch": "master",
       "revision": "26861868bd5990f7d3c9ce45af9de3eab352c349"
     },
+    "perl-text-bibtex": {
+      "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-bibtex.git",
+      "branch": "master",
+      "revision": "be5e62bf70484b67bdbdc1967bb8623ca4221a48"
+    },
     "perl-text-charwidth": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-text-charwidth.git",
       "branch": "master",
