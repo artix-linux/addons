@@ -4894,7 +4894,7 @@
     "python-poetry-dynamic-versioning": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry-dynamic-versioning.git",
       "branch": "master",
-      "revision": "4d6dfcfae477871d555770e5cfaa7c82b922fb92"
+      "revision": "14b51c13696238be63c9b9c99fb8eb349246092c"
     },
     "python-poetry-plugin-export": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-poetry-plugin-export.git",
