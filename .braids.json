@@ -374,7 +374,7 @@
     "perl-extutils-libbuilder": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-extutils-libbuilder.git",
       "branch": "master",
-      "revision": "e44a4f38f40620a9a999d182fed1cf236007da9f"
+      "revision": "7ab8008a4491eba88bdc35d09906be6610bde24d"
     },
     "perl-extutils-pkgconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-extutils-pkgconfig.git",
