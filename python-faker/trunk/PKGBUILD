@@ -1,11 +1,11 @@
-# Maintainer: artoo <artoo@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Jeremy "Ichimonji10" Audet <ichimonji10 at gmail dot com>
 # Contributor: dnuux <dnuuxx@gmail.com>
 
 pkgname=python-faker
-pkgver=18.2.0
-_commit=9da36a88849cdd5e8ea41b085859bd6ee004f3a3
+pkgver=18.3.0
+_commit=2c39895b8602ed179c975dba6f0a23936e8969e4
 pkgrel=1
 pkgdesc='Faker generates fake data for you.'
 arch=('any')
