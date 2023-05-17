@@ -7773,7 +7773,7 @@
     "ruby-faraday-multipart": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-multipart.git",
       "branch": "master",
-      "revision": "9106bb2247dc502213cb02f2e35f42b2f12f2e5f"
+      "revision": "57304cfce2f768ae57710ca98e272f892acdf5ab"
     },
     "ruby-faraday-net_http": {
       "url": "gitea@gitea.artixlinux.org:packagesRuby/ruby-faraday-net_http.git",
