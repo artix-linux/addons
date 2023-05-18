@@ -224,7 +224,7 @@
     "perl-data-optlist": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-optlist.git",
       "branch": "master",
-      "revision": "eef211e424dde4ddb59a1bca9eb195d5f5bde7eb"
+      "revision": "c770b09e7325f2c3e5a929fcb2aa685de2245247"
     },
     "perl-data-validate-ip": {
       "url": "gitea@gitea.artixlinux.org:packagesPerl/perl-data-validate-ip.git",
