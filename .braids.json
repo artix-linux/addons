@@ -3074,7 +3074,7 @@
     "python-flit": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit.git",
       "branch": "master",
-      "revision": "abb4495ccb3c8ad7bf231f94463ec6c8f3ecd8e4"
+      "revision": "d299950f5f18d4375ded2d6bed47e0924bb56e35"
     },
     "python-flit-core": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-flit-core.git",
